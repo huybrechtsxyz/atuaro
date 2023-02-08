@@ -1,1 +1,1 @@
-![Article Cover](./assets/images/article_cover.jpg "Article Cover")
+![Article Cover](../assets/images/article_cover.jpg "Article Cover")

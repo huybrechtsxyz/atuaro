@@ -43,12 +43,12 @@ Who is on duty? Most likely not everybody will choose to be on duty. Assign the 
 
 | Character | Name | Description | Link |
 | --------- | ---- | ----------- | ---- |
-| The supervisor | Ernst/Ernsta Martell | The older offspring that tries to keep everying in order. | [Link](./npc/npc_ernst_martell.md) |
-| The Mother's Boy | Claude/Claudia Duval | The child that wants to do everything perfect and dislikes disruption. | [Link](./npc/npc_claude_duval.md) |
-| The Beauty | Rufino/Rufina Lo Duca | The child that thinks it is to pretty to work. | [Link](./npc/npc_rufino_lo_duca.md) |
-| The Slacker | Pasha Lebedev | The child that will try to avoid doing actual work. | [Link](./npc/npc_pasha_lebedev.md) |
-| The Weird One | Aeron/Aeria Jones | The child well... you know a little bit weird? | [Link](./npc/npc_aeron_jones.md) |
-| The Bully | Gilad/Giltaa Shams | The kid that will bully the others. | [Link](./npc/npc_gilad_shams.md) |
+| The supervisor | Ernst/Ernsta Martell | The older offspring that tries to keep everying in order. | [Link](./npc/super_ernst_martell.md) |
+| The Mother's Boy | Claude/Claudia Duval | The child that wants to do everything perfect and dislikes disruption. | [Link](./npc/boy_claude_duval.md) |
+| The Beauty | Rufino/Rufina Lo Duca | The child that thinks it is to pretty to work. | [Link](./npc/beauty_rufino_lo_duca.md) |
+| The Slacker | Pasha Lebedev | The child that will try to avoid doing actual work. | [Link](./npc/slacker_pasha_lebedev.md) |
+| The Weird One | Aeron/Aeria Jones | The child well... you know a little bit weird? | [Link](./npc/weird_aeron_jones.md) |
+| The Bully | Gilad/Giltaa Shams | The kid that will bully the others. | [Link](./npc/bully_gilad_shams.md) |
 
 ## Breakfast
 > At 06:30 AM, all the other Offspring in the orphanage are required to rise from their beds and get ready for the day. This involves washing up and getting dressed. It is mandatory for everyone to have breakfast before 07:00 AM as this is the set schedule for starting the day. This strict routine is maintained by Ms Witchling, who runs the house with an iron hand. She believes that starting young and enforcing strict discipline is necessary to help the children grow into well-behaved and responsible individuals. 
