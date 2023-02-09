@@ -9,38 +9,114 @@ Ms Witchling will ask the characters to go in the basement to get refreshments f
 ## It is not a request
 > Ms. Witchling reminds everyone of the guests arriving later that day and warns them to behave appropriately, reminding them of the consequences faced by Kenneth James McCormick. She then instructs someone to fetch two flagons of ale and wine, and to also one of water. *wait 2 seconds* What are you waiting for? Get on with it! An older offspring passes by "You seem flustered? Well  hurry, the area is dark and there are rats" and then quickly leaves them to handle the task alone.
 
-### Goal
+## Goal
 1. Retrieve 3 flagons from the basement: 1 Beer, 1 wine, 1 water.
 
 2. **SECRET** Save the child that is locked in room 4 by the bully Gilad.
 
-### Conditions
-* The house has 5 flagons for this purpose. Every time you break one. That is 1 Bolts for all characters.
-* Save the boy from the locked storage room.
+## Blessings
 
-### Strategy
-* The basement is dark. Without the lantern found in the kitchen, they will not be able to see.
-* There are rats in the basement.
-    * Rats only attack if attacked first, the slightest provocation will do.
-    * There is a big knife and meat cleaver in the kitchen
-    * In the common room near the fireplace is a firepoke
-* The child will be scared of the other children. Find at least one of his 'attributes' to get him to come with you
-    * His teddy can be found in room 2 (behind barrel)
+1. There is a lantern in the hallway
+
+1. There are a big knife and meat cleaver in the kitchen
+
+1. In the common room near the fireplace is a firepoke
+
+## Obstacles
+
+1. The house has 5 flagons for this purpose. Every time you break one. 
+That is 1 Bolts for all characters.
+
+1. The basement is dark. Without the lantern found in the kitchen, they will not be able to see beyond the immediate vicinity of the stairs.
+
+1. There are rats in the basement.
+    * Rats only attack if attacked first, the slightest provocation will do    
+    * Holding full flagon? Athletics check for not tripping on rats.
+
+1. Between room 2 and 3 there are cobwebs from spiders. The spiders are harmless. But if you get walk through them you become frightened and drop everything you are carrying. In room 5 on the right wall they can find an old broom to clear the cobwebs.
+
+1. Save the boy from the locked storage room. The child will be scared of the other children. Find at least two of his 'attributes' to get him to come with you.
+    * You can easily find the items if the players give some hint they are paying attention
+    * His teddy can be found in room 2 (between some barrels)
     * His blanket can be found in room 5 (middle on the floor to room 6)
+    * His small tin soldier toy is in room 3 (just behind the wall on the left)
 
 ## Basement Map
 ![Orphanage Basement](./assets/maps/orphanage_basement.png)
 
+**ROOM 1: STAIRS [DC-10]**
+> A stone sturdy yet worn with time staircase leads you with each footstep deeper into the dark basement. The dim light filtering in from above casts a shadowy aura over the staircase.
+
+* You need to hold the flagon's with 2 hands on the stairs. DEX check or drop the flagon.
+
+**ROOM 2: KEGS [DC-10]**
+> A basement room filled with wooden kegs of various sizes stacked up against the walls. The room is dark with a little dim light from the stairs
+
+* 1d4 rats appear from the moment they enter the room.
+* How are they going to know what is wine and beer?
+
+    Kegs 1 and 2 (3 leaves standing up), contain beer [PIA]  
+    Kegs 3 and 4 (3 circles upside down), contain wine [WAINA]  
+    Keg 5 (Circle with line, on/off symbol), contains apple cider [APORO]  
+
+* You need to make a strength check to use th spigots. 
+* The teddy bear is between barrel 2 and 3.
+
+**ROOM 3: STORAGE [DC-10]**
+> A dark storage area in the basement. The air is musty and damp, carrying with it the scent of old and forgotten things. Wooden crates and boxes are stacked haphazardly against the walls, leaving narrow aisles in between.
+
+Once someone is close to the door for room 4:
+> You hear a soft, pitiful whimper. A sound filled with fear, sadness, and desperation. The whimpering is constant but fluctuates in volume. You can see a shadowy figure sitting hunched on some boxes.
+
+If they succeed on a perception check:
+> You hear disorganized skittering and scrabbling of random and erratic movement of little paws.
+
+This room contains old and worn clothes and cheap items required to run the orphanage.
+
+* Entering the room they pass through cobwebs.  
+
+    The spiders are harmless. But if you get walk through them you become frightened and drop everything you are carrying. In room 5 on the right wall they can find an old broom to clear the cobwebs.
+
+* Save the boy from the locked storage room.
+
+* Timmy's small tin soldier toy is in room 3 (just behind the wall on the left)
+
+**ROOM 4: LOCKED ROOM [DC-11]**  
+The door of the room:
+> The door is sturdy and appears to be made of heavy wood. A wooden box is blocking the door from the outside.
+
+The room itself:
+> The storage room is small and cramped with a musty smell of dampness. The lack of light adds to the claustrophobic feel and increases the sense of being trapped.
+
+This room contains clothes, pottery for longer term storage and the more expensive items.
+
+* 1d6 rats are in the room (minimum 2)
+* Timmy will not really respond but ask for his stuff
+* Once Timmy has his stuff he will accompany the kids upstairs
+
+**ROOM 5: STORAGE**
+> his area of the basement is located near the stairs and is partially illuminated by its light. The dim light makes it difficult to see clearly, but you can make out the shapes of cluttered boxes and sacks, stacked haphazardly against the walls.
+
+This room contains food, produce, grain. More expensive bottles of wine and beer. Candles.
+
+* There is a broom neer the right wall that can be used for the cobwebs
+
+**ROOM 6: WELL [DC-11]**
+> This section contain a well surrounded by a stone wall. It provides fresh water for the orphanage. A sturdy wooden lid covers the top of the well, and a rope and bucket hang down into the depths. The walls of the well are slick and slippery, and the water in the depths is dark and still. The well is deep and narrow, and there is no light at the bottom, making it difficult to see what lies below. 
+
+* They need to put the buck in, pull it up with water, and fill the flagon.
+
 ## Relevant Statblocks
 
-### RAT [HP 1]
+### [RAT](../../compendium/beasts/rat.md) [HP 1, +0 hit, 1 piercing dmg]
    
 | Speed | STR    | DEX     | CON    | INT     | WIS     | CHA     |
 | ----- | ------ | ------- | ------ | ------- | ------- | ------- |
 | 10 ft | 2 [-4] | 11 [+0] | 9 [-1] |  2 [-4] | 10 [+0] |  4 [-3] |
-    
+  
+* Bite: Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.  
+* Proficiency 1d4, Darkvision 30 ft.
 * advantage on smell Wisdom (Perception).
-* Darkvision 30 ft., Passive Perception 10 ft. Proficiency Bonus +2
 
 ### Supporting
 | Character | Name | Description | Link |
@@ -52,75 +128,5 @@ Ms Witchling will ask the characters to go in the basement to get refreshments f
 | The Slacker | Pasha Lebedev | The child that will try to avoid doing actual work. | [Link](./npc/pasha_lebedev_slacker.md) |
 | The Weird One | Aeria Jones | The child well... you know a little bit weird? | [Link](./npc/aeria_jones_weird.md) |
 | The Bully | Gilad Shams | The kid that will bully the others. | [Link](./npc/gilad_shams_bully.md) |
+| Trapped Kid | Timmy Wharo | The kids locked up in the storage room | [-]
 | | | |
-
-
-
-
-
-## The Basement
-
-
-**The goal is retrieve 3 flagons of drinks from the basement.**  
-
-    A flagon contains a galon or 4 liters.  
-    * One flagon of ale  
-    * One flagon of beer  
-    * One flagon of water  
-    
-The house has 5 flagons for this purpose. Every time you break one. That is 2 Bolts for all characters.
-
-**The rules of engagement**
-* There are rats in the basement. Start with one, but add if needed. Rats only attack if attacked first, the slightest provocation will do.
-
-**Loot**
-* You each gain a Star if you complete the request.  
-* Two Stars for perfect execution.
-
-### Creatures
-**Rat** [Link](../../assets/images/compendium/beasts/rat.jpeg)
-
-
-    
-
-<hr />
-
-**1 - Staircase [DC 10]**
-> The wooden staircase leading to the basement is sturdy yet worn with time, the steps creak with each footstep as you descend deeper into the basement. The handrail is smooth to the touch, with a few nicks and scratches along its length, probably from years of use. The walls surrounding the staircase are made of stone and seem to be slightly damp, which gives off a musty scent. The dim light filtering in from above casts a shadowy aura over the staircase.
-
-On going back up. As you need to hold the flagon's with 2 hands, make a dexterity check to see if you can go up the stairs.
-
-**2 - Kegg Room [DC 10]**
-> A basement room filled with wooden kegs of various sizes stacked up against the walls and in the corners. The room is dimly lit, with only a few flickering lanterns hanging from the low ceiling. The air is musty and damp, with a slightly sweet smell of fermenting liquids. Cobwebs can be seen in the corners and the occasional rat scurries across the floor. The kegs are made of sturdy oak and have metal bands around them to keep them together. Each keg is stamped with a mark indicating the type of liquid it holds, and there are several wooden spigots near the floor, ready to be tapped for the contents inside. Overall, the room has a rustic and functional feel, and is clearly used for storage and aging of liquids.
-
-This room contains the kegs they need to fill the flagons.
-There is a bear on the floor between the kegs
-
-* You need to make a strength check to use th spigots. 
-* You can see a rat scuring between the kegs. If you stand still for more then a minute 1d4 rats will come to investigate.
-
-**3 - Storage Area 3 [DC 10]**
-> A dark storage area in the basement. The air is musty and damp, carrying with it the scent of old and forgotten things. Wooden crates and boxes are stacked haphazardly against the walls, leaving narrow aisles in between. Cobwebs hang in thick strings from the low ceiling, and the sound of scurrying rats echoes softly in the background.
-
-**4 - Storage Area 4 [DC 10]**
-> The storage room is small and cramped with a musty smell of dampness. The door is sturdy and appears to be made of heavy wood. A wooden box is blocking the door from the outside. The lack of light adds to the claustrophobic feel and increases the sense of being trapped.
-
-* If the players succeed in an investigation check the can hear whimpering from inside is coming from someone or something that is clearly in distress, adding to the eerie and unsettling atmosphere of the room. 
-
-* You can hear 1d4 rats scuring.
-
-**5 - Storage Area 5 [DC 10]**
-> his area of the basement is located near the stairs and is partially illuminated by its light. The dim light makes it difficult to see clearly, but you can make out the shapes of cluttered boxes and sacks, stacked haphazardly against the walls. The air is musty and still, the only sounds being the occasional scurry of a rodent in the shadows.
-
-* The boxes contain various items, perhaps supplies for the household or personal belongings, while the sacks seem to be filled with produce or grain.
-* You can hear 1d4 rats scuring.
-
-**6 - The water well [DC 10]**
-
-
-<hr />
-They will find a very young child in a blocked room if they pay attention at the door. It takes a perception DC 11 to hear a small child crying and whimpering behind the door. There are more rats behind the door that keep the boy on the high ground.
-
-[block:1164996]
-
-[map:e5bdba74-c2f8-41f0-bce8-f786395ed745]

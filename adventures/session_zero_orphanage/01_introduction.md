@@ -29,10 +29,10 @@ You experience a rush of air and the world speeds towards you. The city of Louko
 
 Kainga is a compact and tidy village, surrounded by lush green forests and rolling hills. The town is built around a central square, where the Common House, the Temple of the Ohm, and the market stalls are located. The streets ofKainga are semi-maintained dirt roads, lined with wooden houses, barns, and workshops. To the north of the central square lies Tobias' Forge, a large, smoky building that doubles as the blacksmith's workshop and store. The river that runs near Kainga provides water for the town's crops and livestock, and also serves as a source of fish for the townspeople. The fertile lands around Willowdale are dotted with small farms, where the town's residents grow crops, raise livestock, and live out their peaceful lives.
 
- You head towards a notorious establishment on the outskirts of the village. Just as you would crash into the roof, you wake up, jolting upright and hitting your head on the ceiling or the upper bunk of your bed. Sweaty and hot, your bed is soaking wet. You are lying in your bunk in one of the bedrooms at the House of Orphaned and Abandoned Offspring.
+You head towards a notorious establishment on the outskirts of the village. Just as you would crash into the roof, you wake up, jolting upright and hitting your head on the ceiling or the upper bunk of your bed. Sweaty and hot, your bed is soaking wet. You are lying in your bunk in one of the bedrooms at the House of Orphaned and Abandoned Offspring.
 
 ## Character Creation
-To play in a role-playing game you will need a character. But as most players already did this plenty we are going to condense the information to what you need to know to play in Atuaro with links to relevant articles if you want to know more. As we are building a random generated character do not feel to fixated on your choices. People change with age. [Read More.](../../articles/handbook/05_character_creation.md)
+To play in a role-playing game you will need a character. But as most players already did this plenty we are going to condense the information to what you need to know to play in Atuaro with links to relevant articles if you want to know more. As we are building a random generated character do not feel to fixated on your choices. People change with age. [Read More.](../../handbook/05_character_creation.md)
 
 Please create 3 characters in order and set their
 * Ability Scores
@@ -42,7 +42,7 @@ Please create 3 characters in order and set their
 * Basic Information
 
 ### Ability Scores
-The first order of business is to create our [Ability Scores](../../articles/handbook/07_character_abilities.md). Please use the Hardcore Mode to create your ability scores. For each ability score:
+The first order of business is to create our [Ability Scores](../../handbook/07_character_abilities.md). Please use the Hardcore Mode to create your ability scores. For each ability score:
 
 > * In order from STRength to CHArisma
 > * Roll 3D6 ONCE in ORDER and note the result
