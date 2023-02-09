@@ -1,17 +1,73 @@
 ![Adventure Header](./assets/images/orphanage_cover.png)
 
 # The House of Orphaned and Abondoned Offspring
-# Part 3: Basement Dwelling
+# Part 3: Basement Dwellings
+
+## Summary
+Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them.
+
+## It is not a request
+> Ms. Witchling reminds everyone of the guests arriving later that day and warns them to behave appropriately, reminding them of the consequences faced by Kenneth James McCormick. She then instructs someone to fetch two flagons of ale and wine, and to also one of water. *wait 2 seconds* What are you waiting for? Get on with it! An older offspring passes by "You seem flustered? Well  hurry, the area is dark and there are rats" and then quickly leaves them to handle the task alone.
+
+### Goal
+1. Retrieve 3 flagons from the basement: 1 Beer, 1 wine, 1 water.
+
+2. **SECRET** Save the child that is locked in room 4 by the bully Gilad.
+
+### Conditions
+* The house has 5 flagons for this purpose. Every time you break one. That is 1 Bolts for all characters.
+* Save the boy from the locked storage room.
+
+### Strategy
+* The basement is dark. Without the lantern found in the kitchen, they will not be able to see.
+* There are rats in the basement.
+    * Rats only attack if attacked first, the slightest provocation will do.
+    * There is a big knife and meat cleaver in the kitchen
+    * In the common room near the fireplace is a firepoke
+* The child will be scared of the other children. Find at least one of his 'attributes' to get him to come with you
+    * His teddy can be found in room 2 (behind barrel)
+    * His blanket can be found in room 5 (middle on the floor to room 6)
+
+## Basement Map
+![Orphanage Basement](./assets/maps/orphanage_basement.png)
+
+## Relevant Statblocks
+
+### RAT [HP 1]
+   
+| Speed | STR    | DEX     | CON    | INT     | WIS     | CHA     |
+| ----- | ------ | ------- | ------ | ------- | ------- | ------- |
+| 10 ft | 2 [-4] | 11 [+0] | 9 [-1] |  2 [-4] | 10 [+0] |  4 [-3] |
+    
+* advantage on smell Wisdom (Perception).
+* Darkvision 30 ft., Passive Perception 10 ft. Proficiency Bonus +2
+
+### Supporting
+| Character | Name | Description | Link |
+| --------- | ---- | ----------- | ---- |
+| Headmistress | Miss Witchling | The headmistress of the orphanage | [Link](./npc/witchling.md) |
+| The supervisor | Ernsta Martell | The older offspring that tries to keep everying in order. | [Link](./npc/ernsta_martell_supervisor.md) |
+| The Mother's Boy | Claude Duval | The child that wants to do everything perfect and dislikes disruption. | [Link](./npc/claude_duval_boy.md) |
+| The Beauty | Rufina Lo Duca | The child that thinks it is to pretty to work. | [Link](./npc/rufina_lo_duca_beauty.md) |
+| The Slacker | Pasha Lebedev | The child that will try to avoid doing actual work. | [Link](./npc/pasha_lebedev_slacker.md) |
+| The Weird One | Aeria Jones | The child well... you know a little bit weird? | [Link](./npc/aeria_jones_weird.md) |
+| The Bully | Gilad Shams | The kid that will bully the others. | [Link](./npc/gilad_shams_bully.md) |
+| | | |
+
+
+
+
 
 ## The Basement
-> Ms. Witchling reminds everyone of the guests arriving later that day and warns them to behave appropriately, reminding them of the consequences faced by Kenneth James McCormick. She then instructs someone to fetch two flagons of ale and wine, and to also one of water. *wait 2 seconds* What are you waiting for? Get on with it! Ernst/Ernsta Martell (The Supervisor) comes over. "You seem flustered? Well  hurry, the area is dark and there are rats" and then quickly leaves them to handle the task alone.
 
-**The goal is retrieve 3 flagons of drinks from the basement.**
-A flagon contains a galon or 4 liters.
-* One flagon of ale
-* One flagon of beer
-* One flagon of water
 
+**The goal is retrieve 3 flagons of drinks from the basement.**  
+
+    A flagon contains a galon or 4 liters.  
+    * One flagon of ale  
+    * One flagon of beer  
+    * One flagon of water  
+    
 The house has 5 flagons for this purpose. Every time you break one. That is 2 Bolts for all characters.
 
 **The rules of engagement**
@@ -24,25 +80,8 @@ The house has 5 flagons for this purpose. Every time you break one. That is 2 Bo
 ### Creatures
 **Rat** [Link](../../assets/images/compendium/beasts/rat.jpeg)
 
->   Tiny tiny beast, unaligned  
->   Challenge Rating: 0 (10 XP)  
->   Armor Class: 10  -> See room DC
->   Hit Points: 1 (1d4-1) 1d4-1  
->   Speed: 20ft 
->   
->   | STR     | DEX     | CON    | INT     | WIS     | CHA     |
->   | ------- | ------- | ------ | ------- | ------- | ------- |
->   |  2 [-4] | 11 [+0] | 9 [-1] |  2 [-4] | 10 [+0] |  4 [-3] |
->   
->   Skills:
->       * Keen Smell. The rat has advantage on Wisdom (Perception) checks that rely on smell.
->   Senses:
->       * Darkvision 30 ft., Passive Perception 10 ft. Proficiency Bonus +2  
-    
-### Basement Map
-<hr />
 
-![Orphanage Basement](./assets/maps/orphanage_basement.png)
+    
 
 <hr />
 
@@ -55,6 +94,7 @@ On going back up. As you need to hold the flagon's with 2 hands, make a dexterit
 > A basement room filled with wooden kegs of various sizes stacked up against the walls and in the corners. The room is dimly lit, with only a few flickering lanterns hanging from the low ceiling. The air is musty and damp, with a slightly sweet smell of fermenting liquids. Cobwebs can be seen in the corners and the occasional rat scurries across the floor. The kegs are made of sturdy oak and have metal bands around them to keep them together. Each keg is stamped with a mark indicating the type of liquid it holds, and there are several wooden spigots near the floor, ready to be tapped for the contents inside. Overall, the room has a rustic and functional feel, and is clearly used for storage and aging of liquids.
 
 This room contains the kegs they need to fill the flagons.
+There is a bear on the floor between the kegs
 
 * You need to make a strength check to use th spigots. 
 * You can see a rat scuring between the kegs. If you stand still for more then a minute 1d4 rats will come to investigate.

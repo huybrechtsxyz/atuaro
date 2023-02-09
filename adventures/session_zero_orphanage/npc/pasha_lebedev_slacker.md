@@ -1,6 +1,6 @@
 ![NPC Header](../assets/npc/pasha_lebedev.png)
 
-# Aeron/Aeria Duval aka The The Weird One  [NPC]
+# Pasha Lebedev aka The Slacker  [NPC]
 
 ## Statistics
 Race: Human

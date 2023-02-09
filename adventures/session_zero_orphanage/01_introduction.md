@@ -6,9 +6,9 @@
 Hi everyone and welcome to the session zero of your Atuaro adventure.
 
 Just a reminder that in the Player Handbook you can find a lot of interesting things like:
-* [Basic Play](../../articles/handbook/02_basic_play.md)
-* [Table Rules](../../articles/handbook/03_table_rules.md)
-* [Game Rules](../../articles/handbook/04_game_rules.md)
+* [Basic Play](../../handbook/02_basic_play.md)
+* [Table Rules](../../handbook/03_table_rules.md)
+* [Game Rules](../../handbook/04_game_rules.md)
 
 As mentioned in the Table Rules, I expect that you have a way of managing your character. The obvious ways is using a form fillable PDF or one of the many D&D character apps that are available. A few examples are the [Standard Character Sheet](https://drive.google.com/file/d/1sjd2aDPNjKsBiKrbSLNv6KX7_U9weaHz/view?usp=sharin) or an [Alternative Character Sheet](https://drive.google.com/file/d/1EIMu3GcUxLUxFd7azWe0p9HaiNTEB6t1/view?usp=sharing). My personal preference is that you no longer use D&D Beyond in light of the O.G.L. controversy. An editable PDF, World Anvil, VTT has a good player character manager my preference would be one of these.
 

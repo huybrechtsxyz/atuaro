@@ -1,6 +1,6 @@
-![NPC Header](../assets/npc/claudia_duval.jpg)
+![NPC Header](../assets/npc/claude_duval.jpg)
 
-# Claude/Claudia Duval aka The Mother's Boy/Girl [NPC]
+# Claude Duval aka The Mother's Boy [NPC]
 
 ## Statistics
 Race: Human

@@ -1,6 +1,6 @@
-![NPC Header](../assets/npc/ernst_martell.jpg)
+![NPC Header](../assets/npc/ernsta_martell.png)
 
-# Ernst/Ernsta Martell aka The Supervisor [NPC]
+# Ernsta Martell aka The Supervisor [NPC]
 ## Statistics
 Race: Human  
 Class: Commoner  

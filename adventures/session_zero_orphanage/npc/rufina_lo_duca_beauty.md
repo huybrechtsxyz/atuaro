@@ -1,7 +1,6 @@
-![NPC Header](../assets/npc/rufino_lo_duca.webp)
-![NPC Header](../assets/npc/rufina_lo_duca.webp)
+![NPC Header](../assets/npc/rufina_lo_duca.jpg)
 
-# Rufino/Rufina Lo Duca aka The Beauty  [NPC]
+# Rufina Lo Duca aka The Beauty  [NPC]
 
 ## Statistics
 Race: Human

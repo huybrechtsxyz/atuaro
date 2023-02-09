@@ -1,4 +1,4 @@
-![NPC Header](../assets/npc/miss_witchling.png)
+![NPC Header](../assets/npc/witchling.png)
 
 # Ms Witchling aka The Head Mistress [NPC]
 
