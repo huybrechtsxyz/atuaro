@@ -18,4 +18,5 @@
 | The Slacker | Pasha Lebedev | The child that will try to avoid doing actual work. | [Link](./pasha_lebedev_slacker.md) |
 | The Weird One | Aeria Jones | The child well... you know a little bit weird? | [Link](./aeria_jones_weird.md) |
 | The Bully | Gilad Shams | The kid that will bully the others. | [Link](./gilad_shams_bully.md) |
+| Trapped Kid | Timmy Wharo | The kids locked up in the storage room | [-]
 | | | |
