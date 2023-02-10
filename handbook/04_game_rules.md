@@ -29,14 +29,18 @@ Players are accustomed to rolling an attack roll first and then a damage roll. I
 ## Round Down
 There's one more general rule you need to know at the outset. Whenever you divide a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Dividing 3 by 2 means the result is 1.5, rounded down to 1.
 
+## Hit Points
+Depending on the style of the game your hit points might deviate from the standard.
+
+### Hardcore Mode
+* Hit Points are thrown using the Hit Die without the CON modifier.
+* You are DEATH at lower then zero hit points. On zero hit points you are unconscious.
+
 ## Temporary Hit Points
 Temporary hit points aren't cumulative. If you have temporary hit points and receive more of them, you don't add them together, unless a game feature says you can. Instead, you decide which temporary hit points to keep.
 
-## Conditions
-
-
 ## Critical Hit and Fumble
-Critical hits and fumbles happen when you roll a natural 20 or 1 on a 20-sided die. This means you rolled a 1 or 20 without any modifiers like your attack mod (but rolling a natural 20 with advantage counts). There is a seperate table for weapons and spells. Please about critical Hit and Fumbles / misses.
+Critical hits and fumbles happen when you roll a natural 20 or 1 on a 20-sided die. This means you rolled a 1 or 20 without any modifiers like your attack mod (but rolling a natural 20 with advantage counts). There is a seperate table for weapons and spells.
 
-## Disarm Action
-A creature can use a weapon attack to knock a weapon or another item from a target's grasp. Please about disarming a weapon or countering a spell.
+## Combat Zones
+In some scenarios the DM might declare a room a ZONE. That means everything in that zone can freely attack without movement. Going from ZONE to ZONE then uses movement and triggers reaction. Anything in that zone is considered melee combat.

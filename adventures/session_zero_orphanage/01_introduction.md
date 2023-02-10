@@ -53,7 +53,7 @@ The first order of business is to create our [Ability Scores](../../handbook/07_
 ### Character Lineage
 Characters in the world belong to a lineage which includes certain biological characteristics and defines some aspects of their physical appearance. Other things, such as a character’s speed and size, are also derived from their lineage.
 
-> Choose one of the playable races from the Atuaro handbook
+> Choose one of the playable races from the Atuaro handbook [Link](../../handbook/lineages/_cover.md)
 
 If you wish to add a race please talk to your GM.
 
@@ -63,7 +63,7 @@ Select one of the class archetypes.
 > * Martial, a character that martial prowess
 > * Diviner, a character that gets its power from the gods
 > * Mage, a character that uses arcane magic 
-> * Expert, a character with special expertise
+> * Expert, a character with special expertise (what expertise?)
 
 ### Hit Points
 At level zero, your character has 1 D4 Hit Die. Later the die type is determined by your class. At each Level, roll your class Hit Die and add that to your MAX HP. No CON modifier applies, no re-rolls, no max outcomes.
