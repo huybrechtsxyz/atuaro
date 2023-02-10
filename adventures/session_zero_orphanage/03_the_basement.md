@@ -7,19 +7,17 @@
 Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them.
 
 ## It is not a request
-> Ms. Witchling reminds everyone of the guests arriving later that day and warns them to behave appropriately, reminding them of the consequences faced by Kenneth James McCormick. She then instructs someone to fetch two flagons of ale and wine, and to also one of water. *wait 2 seconds* What are you waiting for? Get on with it! An older offspring passes by "You seem flustered? Well  hurry, the area is dark and there are rats" and then quickly leaves them to handle the task alone.
+> Ms. Witchling reminds everyone of the guests arriving later that day and warns them to behave appropriately, reminding them of the consequences faced by Kenneth James McCormick. She then instructs someone to fetch two flagons of ale and wine, and to also one of water. *wait 2 seconds* What are you waiting for? Get on with it! An older offspring passes by "You seem flustered? Well hurry, the area is dark and there are rats" and then quickly leaves them to handle the task alone.
 
 ## Goal
 1. Retrieve 3 flagons from the basement: 1 Beer, 1 wine, 1 water.
-
-2. **SECRET** Save the child that is locked in room 4 by the bully Gilad.
+1. **SECRET** Save the child Timmy that is locked in room 4 by the bully Gilad.
 
 ## Blessings
 
+In order to take one of the blessings they will need to convince a senior if they see them take it.
 1. There is a lantern in the hallway
-
 1. There are a big knife and meat cleaver in the kitchen
-
 1. In the common room near the fireplace is a firepoke
 
 ## Obstacles
@@ -52,15 +50,15 @@ That is 1 Bolts for all characters.
 **ROOM 2: KEGS [DC-10]**
 > A basement room filled with wooden kegs of various sizes stacked up against the walls. The room is dark with a little dim light from the stairs
 
+The children will need to use the spigots, which requires a strength check to open.
+
 * 1d4 rats appear from the moment they enter the room.
+* Timmy's teddy bear is between barrel 2 and 3.
 * How are they going to know what is wine and beer?
 
     Kegs 1 and 2 (3 leaves standing up), contain beer [PIA]  
     Kegs 3 and 4 (3 circles upside down), contain wine [WAINA]  
     Keg 5 (Circle with line, on/off symbol), contains apple cider [APORO]  
-
-* You need to make a strength check to use th spigots. 
-* The teddy bear is between barrel 2 and 3.
 
 **ROOM 3: STORAGE [DC-10]**
 > A dark storage area in the basement. The air is musty and damp, carrying with it the scent of old and forgotten things. Wooden crates and boxes are stacked haphazardly against the walls, leaving narrow aisles in between.
@@ -75,7 +73,7 @@ This room contains old and worn clothes and cheap items required to run the orph
 
 * Entering the room they pass through cobwebs.  
 
-    The spiders are harmless. But if you get walk through them you become frightened and drop everything you are carrying. In room 5 on the right wall they can find an old broom to clear the cobwebs.
+    The spiders are harmless. But if you get walk through them you become frightened and drop everything you are carrying. In room 5 on the right wall they can find an old broom to clear the cobwebs. CON SAVE.
 
 * Save the boy from the locked storage room.
 
@@ -94,8 +92,8 @@ This room contains clothes, pottery for longer term storage and the more expensi
 * Timmy will not really respond but ask for his stuff
 * Once Timmy has his stuff he will accompany the kids upstairs
 
-**ROOM 5: STORAGE**
-> his area of the basement is located near the stairs and is partially illuminated by its light. The dim light makes it difficult to see clearly, but you can make out the shapes of cluttered boxes and sacks, stacked haphazardly against the walls.
+**ROOM 5: STORAGE [CD-10]**
+> This area of the basement is located near the stairs and is partially illuminated by its light. The dim light makes it difficult to see clearly, but you can make out the shapes of cluttered boxes and sacks, stacked haphazardly against the walls.
 
 This room contains food, produce, grain. More expensive bottles of wine and beer. Candles.
 
@@ -118,7 +116,7 @@ This room contains food, produce, grain. More expensive bottles of wine and beer
 * Proficiency 1d4, Darkvision 30 ft.
 * advantage on smell Wisdom (Perception).
 
-### Supporting
+### Supporting Characters
 | Character | Name | Description | Link |
 | --------- | ---- | ----------- | ---- |
 | Headmistress | Miss Witchling | The headmistress of the orphanage | [Link](./npc/witchling.md) |
