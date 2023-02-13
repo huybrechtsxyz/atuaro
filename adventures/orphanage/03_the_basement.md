@@ -1,6 +1,6 @@
 ![Adventure Header](assets/images/orphanage_cover.png)
 
-# The House of Orphaned and Abondoned Offspring
+# The House of Orphaned and Abandoned Offspring
 
 <HR>
 

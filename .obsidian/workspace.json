@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e85822016352771b",
+        "id": "63e587762f9fffa6",
         "type": "tabs",
         "children": [
           {
-            "id": "37e1b6c125a16849",
+            "id": "4c46a68a349836c6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/orphanage/assets/npc/aeria_jones.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/orphanage/assets/npc/aeria_jones.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "adventures/orphanage/assets/npc/aeria_jones.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -151,17 +147,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "492888bac540fc89",
+  "active": "4c46a68a349836c6",
   "lastOpenFiles": [
-    "adventures/orphanage/assets/maps/orphanage_grounds.jpg",
-    "adventures/orphanage/assets/maps/orphanage_floor.jpg",
-    "adventures/orphanage/assets/maps/orphanage_basement.png",
-    "adventures/orphanage/assets/maps/orphanage_attic.jpg",
-    "adventures/orphanage/assets/images/symbol_wine.jpg",
-    "adventures/orphanage/assets/images/symbol_cider.jpg",
-    "adventures/orphanage/assets/images/symbol_beer.jpg",
-    "adventures/orphanage/assets/images/orphanage_cover.png",
+    "META.md",
+    "adventures/orphanage/ineffable_games.md",
+    "adventures/orphanage/01_introduction.md",
     "adventures/orphanage/03_the_basement.md",
-    "adventures/session_zero_orphanage/assets/pdf/03_the_basement_v010.pdf"
+    "adventures/orphanage/02_out_of_bed.md",
+    "adventures/orphanage/npc/aeria_jones_weird.md",
+    "adventures/orphanage/npc/_index_orphanage_npc.md",
+    "adventures/orphanage/assets/npc/aeria_jones.jpg",
+    "adventures/orphanage/assets/maps/orphanage_grounds.jpg",
+    "adventures/orphanage/assets/maps/orphanage_floor.jpg"
   ]
 }
