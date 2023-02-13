@@ -1,4 +1,4 @@
-![NPC Header](../assets/npc/aeria_jones.jpg)
+![NPC Header](../../../../adventures/orphanage/assets/npc/aeria_jones.jpg)
 
 # Aeria Duval aka The The Weird One [NPC]
 

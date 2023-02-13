@@ -1,4 +1,4 @@
-![NPC Header](../assets/npc/rufina_lo_duca.jpg)
+![NPC Header](../../../../adventures/orphanage/assets/npc/rufina_lo_duca.jpg)
 
 # Rufina Lo Duca aka The Beauty  [NPC]
 

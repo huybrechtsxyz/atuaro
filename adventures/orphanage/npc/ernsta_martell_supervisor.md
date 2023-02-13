@@ -1,4 +1,4 @@
-![NPC Header](../assets/npc/ernsta_martell.png)
+![NPC Header](../../../../adventures/orphanage/assets/npc/ernsta_martell.png)
 
 # Ernsta Martell aka The Supervisor [NPC]
 ## Statistics

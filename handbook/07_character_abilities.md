@@ -5,10 +5,15 @@
 An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability. Much of what your character does in the game depends on their six abilities. Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities-a creature's assets as well as weaknesses. Six abilities provide a quick description of every creature's physical and mental characteristics:
 
 **Strength**, measuring physical power. How hard can I hit with this weapon? Represents the physical power your character can exert upon the world.  
+
 **Dexterity**, measuring agility. Can I avoid getting hit by their weapon? Represents your character’s physical agility and reflexes.  
+
 **Constitution**, measuring endurance.  How many strikes from their weapon can I take? Represents your character’s health, stamina, and endurance.  
+
 **Intelligence**, measuring reasoning and memory. Theoretically, I can calculate how many strikes I can take before I pass out. Represents your character’s mental power, including information recall and general knowledge.  
+
 **Wisdom**, measuring perception and insight. It would be best not to test that theory myself in combat. Represents your character’s ability to apply logic and reasoning to situations, as well as overall awareness of surroundings and intuition.  
+
 **Charisma**, measuring force of personality.  I’ve convinced them to just not hit me...or possibly hit someone else. Represents your character’s overall impression on others and their ability to convince, deceive, and lead.
 
 The three main rolls of the game-the ability check, the saving throw, and the attack roll-rely on the six ability scores. The basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
@@ -145,5 +150,5 @@ Everyone knows what to do with a 16 STR or 18 DEX, but how to deal with a 6 INT 
 18-19 (4): Quickly likeable, respected or feared by almost everybody; can entertain people easily or knows how to effectively convince them of their own beliefs and arguments  
 20 (5): Renowned for wit, personality, and/or looks; may be a natural born leader  
 
-## Varia and Bruenor## 
+## Varia and Bruenor
 We roll the stats for both of them and determine our ability scores.

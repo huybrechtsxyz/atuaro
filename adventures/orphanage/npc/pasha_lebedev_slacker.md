@@ -1,4 +1,4 @@
-![NPC Header](../assets/npc/pasha_lebedev.png)
+![NPC Header](../../../../adventures/orphanage/assets/npc/pasha_lebedev.png)
 
 # Pasha Lebedev aka The Slacker  [NPC]
 
