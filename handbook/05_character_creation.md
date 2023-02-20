@@ -2,6 +2,8 @@
 
 # Character Creation
 
+**Tags:**  #character
+
 1. [Ability Scores and Modifiers](07_character_abilities.md)  
 2. [Ability Scores and Modifiers](07_character_abilities.md)
 

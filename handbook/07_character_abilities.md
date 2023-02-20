@@ -1,6 +1,10 @@
+
 ![Article Header](../assets/images/article_heading.jpg)
 
 # Character Ability Scores
+
+**Tags:**  #character, #abilities
+
 ## About Ability Scores
 An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability. Much of what your character does in the game depends on their six abilities. Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities-a creature's assets as well as weaknesses. Six abilities provide a quick description of every creature's physical and mental characteristics:
 
