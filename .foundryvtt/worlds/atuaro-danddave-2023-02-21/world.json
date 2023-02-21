@@ -1,0 +1,14 @@
+{
+  "title": "Atuaro - D&Dave",
+  "id": "atuaro-danddave",
+  "system": "dnd5e",
+  "nextSession": "2023-02-26T12:00:00.000Z",
+  "description": "<h1>Welcome to Atuaro</h1><p></p><h2>The Age of Reckoning</h2><p>“We tell ourselves that the scourge is a mere bogey of the mind, a bad dream that will pass away. But it doesn't always pass away and, from one bad dream to another, it is men who pass away.” - Albert Camus</p><p>Players make practical, but morally questionable decisions, only to later contrast their choices against the selfless heroism of decent “common folk”. What price will they have to pay to save the city, and will their victory be complete or will it be a hollow one? What kinds of disputes will they encounter between factions, and what solutions will they find for them? What does it means to be a hero?</p><p></p>",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "systemVersion": "2.1.5",
+  "background": "worlds/atuaro-danddave/assets/images/dungeons-and-dragons-5e.jpg"
+}

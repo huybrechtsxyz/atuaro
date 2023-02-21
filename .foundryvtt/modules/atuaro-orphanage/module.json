@@ -1,0 +1,96 @@
+{
+    "name": "atuaro-orphanage",
+    "title": "Atuaro Adventure: The House of Orphaned and Abandoned Offspring",
+    "author": "Vincent Huybrechts",
+    "description": "Huybrechts XZY presents a level zero character creation adventure for Atuaro: The House of Orphaned and Abandoned Offspring.",
+    "packs": [
+        {
+            "name": "npc",
+            "label": "NPC",
+            "type": "Actor",
+            "system": "dnd5e",
+            "path": "packs/npc.db",
+            "entity": "Actor",
+            "module": "atuaro-orphanage"
+        },
+        {
+            "name": "adventures",
+            "label": "Adventures",
+            "type": "Adventure",
+            "system": "dnd5e",
+            "path": "packs/adventures.db",
+            "entity": "Adventure",
+            "module": "atuaro-orphanage"
+        },
+        {
+            "name": "cards",
+            "label": "Cards",
+            "type": "Cards",
+            "path": "packs/cards.db",
+            "entity": "Cards",
+            "module": "atuaro-orphanage"
+        },
+        {
+            "name": "items",
+            "label": "Items",
+            "type": "Item",
+            "system": "dnd5e",
+            "path": "packs/items.db",
+            "entity": "Item",
+            "module": "atuaro-orphanage"
+        },
+        {
+            "name": "journal",
+            "label": "Journal ",
+            "type": "JournalEntry",
+            "path": "packs/journal.db",
+            "entity": "JournalEntry",
+            "module": "atuaro-orphanage"
+        },
+        {
+            "name": "macro",
+            "label": "Macro",
+            "type": "Macro",
+            "path": "packs/macro.db",
+            "entity": "Macro",
+            "module": "atuaro-orphanage"
+        },
+        {
+            "name": "playlist",
+            "label": "Playlist",
+            "type": "Playlist",
+            "path": "packs/playlist.db",
+            "entity": "Playlist",
+            "module": "atuaro-orphanage"
+        },
+        {
+            "name": "tables",
+            "label": "Tables",
+            "type": "RollTable",
+            "path": "packs/tables.db",
+            "entity": "RollTable",
+            "module": "atuaro-orphanage"
+        },
+        {
+            "name": "scenes",
+            "label": "Scenes",
+            "type": "Scene",
+            "path": "packs/scenes.db",
+            "entity": "Scene",
+            "module": "atuaro-orphanage"
+        }
+    ],
+    "id": "atuaro-orphanage",
+    "authors": [
+        {
+            "name": "Vincent Huybrechts"
+        }
+    ],
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": 10
+    },
+    "version": "1.1"
+}

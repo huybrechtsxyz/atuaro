@@ -1,0 +1,96 @@
+{
+    "name": "atuaro-world",
+    "title": "Atuaro World Compendium",
+    "author": "Vincent Huybrechts",
+    "description": "Huybrechts XYZ presents the Atuaro World Compendium",
+    "packs": [
+        {
+            "name": "npc",
+            "label": "NPC",
+            "type": "Actor",
+            "system": "dnd5e",
+            "path": "packs/npc.db",
+            "entity": "Actor",
+            "module": "atuaro-world"
+        },
+        {
+            "name": "adventures",
+            "label": "Adventures",
+            "type": "Adventure",
+            "system": "dnd5e",
+            "path": "packs/adventures.db",
+            "entity": "Adventure",
+            "module": "atuaro-world"
+        },
+        {
+            "name": "cards",
+            "label": "Cards",
+            "type": "Cards",
+            "path": "packs/cards.db",
+            "entity": "Cards",
+            "module": "atuaro-world"
+        },
+        {
+            "name": "items",
+            "label": "Items",
+            "type": "Item",
+            "system": "dnd5e",
+            "path": "packs/items.db",
+            "entity": "Item",
+            "module": "atuaro-world"
+        },
+        {
+            "name": "journal",
+            "label": "Journal ",
+            "type": "JournalEntry",
+            "path": "packs/journal.db",
+            "entity": "JournalEntry",
+            "module": "atuaro-world"
+        },
+        {
+            "name": "macro",
+            "label": "Macro",
+            "type": "Macro",
+            "path": "packs/macro.db",
+            "entity": "Macro",
+            "module": "atuaro-world"
+        },
+        {
+            "name": "playlist",
+            "label": "Playlist",
+            "type": "Playlist",
+            "path": "packs/playlist.db",
+            "entity": "Playlist",
+            "module": "atuaro-world"
+        },
+        {
+            "name": "tables",
+            "label": "Tables",
+            "type": "RollTable",
+            "path": "packs/tables.db",
+            "entity": "RollTable",
+            "module": "atuaro-world"
+        },
+        {
+            "name": "scenes",
+            "label": "Scenes",
+            "type": "Scene",
+            "path": "packs/scenes.db",
+            "entity": "Scene",
+            "module": "atuaro-world"
+        }
+    ],
+    "id": "atuaro-world",
+    "authors": [
+        {
+            "name": "Vincent Huybrechts"
+        }
+    ],
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": 10
+    },
+    "version": "1.1"
+}
