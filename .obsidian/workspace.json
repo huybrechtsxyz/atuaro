@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e0f5f68485f22469",
+        "id": "b231256618f3cfd9",
         "type": "tabs",
         "children": [
           {
-            "id": "530463e596a2a621",
+            "id": "6353987328d85f5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "player_handbook/assets/images/lineages/dragonborn.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "player_handbook/assets/images/lineages/dragonborn.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "player_handbook/assets/images/lineages/dragonborn.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "player_handbook/assets/images/lineages/dragonborn.png"
+              }
             }
           },
           {
@@ -147,17 +153,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "530463e596a2a621",
+  "active": "6353987328d85f5d",
   "lastOpenFiles": [
-    "adventures/orphanage/02_the_basement.md",
-    "adventures/orphanage/03_the_basement.md",
-    "adventures/orphanage/01_introduction.md",
-    "adventures/orphanage/assets/images/symbol_beer.jpg",
-    "adventures/orphanage/npc/witchling.md",
-    "handbook/01_introduction.md",
-    "handbook/02_basic_play.md",
-    "handbook/03_table_rules.md",
-    "handbook/04_game_rules.md",
-    "handbook/05_character_creation.md"
+    "player_handbook/assets/images/lineages/ardling.jpeg",
+    "campaigns/dndave-2023/campaign.md",
+    "templates/campaign/campaign.md",
+    "player_handbook/02_basic_play.md",
+    "player_handbook/01_introduction.md",
+    "world_encyclopedia/history_of_atuaro.md",
+    "world_encyclopedia/calendar_martaka.md",
+    "compendium/beasts/rat.md",
+    "encyclopedia/history_of_atuaro.md",
+    "encyclopedia/calendar_martaka.md"
   ]
 }
