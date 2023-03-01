@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b231256618f3cfd9",
+        "id": "22572c60bd63996b",
         "type": "tabs",
         "children": [
           {
-            "id": "6353987328d85f5d",
+            "id": "585e107666c09154",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "player_handbook/assets/images/lineages/dragonborn.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "player_handbook/assets/images/lineages/dragonborn.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "player_handbook/assets/images/lineages/dragonborn.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "player_handbook/assets/images/lineages/dragonborn.png"
-              }
+              "state": {}
             }
           },
           {
@@ -153,17 +147,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6353987328d85f5d",
+  "active": "585e107666c09154",
   "lastOpenFiles": [
-    "player_handbook/assets/images/lineages/ardling.jpeg",
-    "campaigns/dndave-2023/campaign.md",
-    "templates/campaign/campaign.md",
+    "adventures/orphanage/01_introduction.md",
+    "player_handbook/assets/character_sheets/character_sheet_alternative.pdf",
+    "player_handbook/21_character_abilities.md",
+    "adventures/orphanage/02_the_basement.md",
+    "world_compendium/beasts/rat.md",
+    "adventures/orphanage/ineffable_games.md",
+    "player_handbook/10_game_rules.md",
     "player_handbook/02_basic_play.md",
+    "adventures/orphanage/npc/ernsta_martell_supervisor.md",
+    "campaigns/dndave-2023/campaign.md",
+    "player_handbook/lineages/ardling.md",
+    "player_handbook/heritages/placeholder.md",
+    "player_handbook/classes/placeholder.md",
+    "player_handbook/backgrounds/placeholder.md",
+    "player_handbook/lineages/dragonborn.md",
+    "player_handbook/lineages/dwarf.md",
+    "player_handbook/lineages/elf.md",
+    "player_handbook/lineages/gnome.md",
+    "player_handbook/lineages/hobbit.md",
+    "player_handbook/lineages/human.md",
+    "player_handbook/lineages/tiefling.md",
     "player_handbook/01_introduction.md",
-    "world_encyclopedia/history_of_atuaro.md",
-    "world_encyclopedia/calendar_martaka.md",
-    "compendium/beasts/rat.md",
-    "encyclopedia/history_of_atuaro.md",
-    "encyclopedia/calendar_martaka.md"
+    "player_handbook/03_table_rules.md",
+    "player_handbook/11_game_rules_combat.md",
+    "player_handbook/12_game_rules_spells.md",
+    "player_handbook/20_character_creation.md",
+    "templates/campaign/assets/images/campaign.jpg",
+    "player_handbook/assets/images/lineages/dragonborn.png",
+    "player_handbook/assets/images/lineages/ardling.jpeg"
   ]
 }

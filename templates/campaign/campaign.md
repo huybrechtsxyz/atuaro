@@ -32,7 +32,7 @@ Here we refer to the Player Handbook, section about the table rules or social co
 * Social Expectations
 * Ethics and concerns
 * Game style
-* Experience and Leveling
+* Experience and Levelling
 * Character Creation
 * Mechanics and house rules
 

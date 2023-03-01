@@ -58,7 +58,7 @@ After a few centuries Helvetica entered its Republican Period. No longer ruled b
 
 Helvetica continued to expand and gained control over the entire peninsula. After the wars the republic, with no enemy to fight, turned on itself. Soon, Helvetica’s political atmosphere pushed the Republic into a period of chaos and civil war. This led to the election of a dictator. While Helvetica continued to be governed as a Republic, the shift to Imperialism began to materialize. Although the Senate was still Helvetica’s governing body, its power was weakening. A dictator used this to rise to power and thus became the first emperor of Helvetica. During the start of this imperial period, Helvetica saw several centuries of peace and prosperity. 
 
-The Scourge of Pestilence started a period of civil unrest and invasions that started the fall of Helvetica. With a limited army spread to thin across the empire, there was to much turmoil and not enough man power. Major cities were sacked, the economy in shambles, the military deplenished; Helvetica continued to decline.
+The Scourge of Pestilence started a period of civil unrest and invasions that started the fall of Helvetica. With a limited army spread to thin across the empire, there was to much turmoil and not enough man power. Major cities were sacked, the economy in shambles, the military deplenished; Helvetica collapsed.
 
 ### Scourge of Pestilence
 
@@ -71,3 +71,5 @@ The Scourge of Pestilence was a civilisation ruining widespread disease that kil
 ![](./assets/images/history/age_of_reckoning.jpg)
 
 Age of Reckoning was the time period that started in the year of the reckoning and continues to the present. It is considered a tumultuous age in the history of Atuaro. It is a time of struggle but also a time of discovery and exploration.
+
+The remains of humanity fell apart into different kingdoms, empires, and city states.

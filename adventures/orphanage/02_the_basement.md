@@ -184,7 +184,7 @@ This room contains food, produce, grain. More expensive bottles of win
 * They need to put the buck in, pull it up with water, and fill the flagon.
 
 ## Relevant Statblocks
-### [RAT](../../compendium/beasts/rat.md) [HP 1, +0 hit, 1 piercing dmg]
+### [RAT](../../world_compendium/beasts/rat.md) [HP 1, +0 hit, 1 piercing dmg]
 
 | Speed | STR    | DEX     | CON    | INT    | WIS     | CHA    |
 | ----- | ------ | ------- | ------ | ------ | ------- | ------ |

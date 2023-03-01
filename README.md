@@ -15,13 +15,6 @@ Sword and Sorcery; Fantasy Low Magic
 Followers: Whaihai
 Follower: Kaiwhai
 
-## Table of Contents
-
-A word about the [META](META.md) of this world.
-
-* [World Encyclopedia](encyclopedia/_index_encyclopedia.md)
-
 ## World Credits
 
 All information in this world is borrowed from reputable sources that own the copyright to their works. This includes but is not limited to the D&D core books by Wizards of the Coast, the Level Up Adventure Guide by EN Publishing, 5e Hardcore Mode by Runehammer Games, The Lazy Dungeon Master by Michael E. Shea, and al X-treme Dungeon Mastery by Tracy Hickman and Curtis Hickman.
-
