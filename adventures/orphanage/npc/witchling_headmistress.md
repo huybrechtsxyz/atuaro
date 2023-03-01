@@ -14,12 +14,12 @@ Speed: 30 ft
 
 Attributes:
 
-    Strength: 14 [+2]
+    Strength: 12 [+1]
     Dexterity: 10 [+0]
-    Constitution: 14 [+2]
-    Intelligence: 16 [+3]
-    Wisdom: 18 [+4]
-    Charisma: 16 [+3]
+    Constitution: 12 [+1]
+    Intelligence: 14 [+2]
+    Wisdom: 16 [+3]
+    Charisma: 12 [+1]
 
 Common Items:
 
@@ -38,7 +38,7 @@ Special Abilities:
     **Deception**: Ms Witchling's work as a headmistress involves a certain level of cunning and subterfuge. She could have abilities that improve her ability to deceive others, and make her a skilled liar and negotiator.
 
 # About
-he is a thiefling woman in her early forties, who takes care of the children who are not taken care of by nature. She rules the orphanage with an iron hand, believing that she can save the children from themselves. She is described as old-fashioned and is known to delegate more housekeeping-related tasks to the girls. Despite her strict demeanor, she only cares that the tasks are completed.
+She is a thiefling woman in her early forties, who takes care of the children who are not taken care of by nature. She rules the orphanage with an iron hand, believing that she can save the children from themselves. She is described as old-fashioned and is known to delegate more housekeeping-related tasks to the girls. Despite her strict demeanor, she only cares that the tasks are completed.
 
     She wlways speaks in a firm and stern tone
     Constantly checks for cleanliness and order

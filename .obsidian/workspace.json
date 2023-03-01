@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22572c60bd63996b",
+        "id": "75d5a48c192d518b",
         "type": "tabs",
         "children": [
           {
-            "id": "585e107666c09154",
+            "id": "e30d853c39a655f4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,36 +148,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "585e107666c09154",
+  "active": "e30d853c39a655f4",
   "lastOpenFiles": [
+    "player_handbook/lineages/aasimar.md",
+    "player_handbook/lineages/dwarf.md",
+    "player_handbook/lineages/dragonborn.md",
+    "adventures/orphanage/npc/witchling_headmistress.md",
+    "adventures/orphanage/npc/witchling_bosslady.md",
+    "adventures/orphanage/npc/timothy_burch_sad.md",
+    "player_handbook/lineages/elf.md",
+    "player_handbook/assets/images/lineages/aasimar.jpeg",
+    "adventures/orphanage/npc/hibiscus_tauwi_priest.md",
+    "adventures/orphanage/ineffable_games.md",
+    "adventures/orphanage/assets/images/symbol_ohm.webp",
     "adventures/orphanage/01_introduction.md",
     "player_handbook/assets/character_sheets/character_sheet_alternative.pdf",
     "player_handbook/21_character_abilities.md",
     "adventures/orphanage/02_the_basement.md",
     "world_compendium/beasts/rat.md",
-    "adventures/orphanage/ineffable_games.md",
     "player_handbook/10_game_rules.md",
     "player_handbook/02_basic_play.md",
     "adventures/orphanage/npc/ernsta_martell_supervisor.md",
     "campaigns/dndave-2023/campaign.md",
-    "player_handbook/lineages/ardling.md",
     "player_handbook/heritages/placeholder.md",
     "player_handbook/classes/placeholder.md",
     "player_handbook/backgrounds/placeholder.md",
-    "player_handbook/lineages/dragonborn.md",
-    "player_handbook/lineages/dwarf.md",
-    "player_handbook/lineages/elf.md",
     "player_handbook/lineages/gnome.md",
     "player_handbook/lineages/hobbit.md",
     "player_handbook/lineages/human.md",
     "player_handbook/lineages/tiefling.md",
     "player_handbook/01_introduction.md",
     "player_handbook/03_table_rules.md",
-    "player_handbook/11_game_rules_combat.md",
-    "player_handbook/12_game_rules_spells.md",
-    "player_handbook/20_character_creation.md",
     "templates/campaign/assets/images/campaign.jpg",
-    "player_handbook/assets/images/lineages/dragonborn.png",
-    "player_handbook/assets/images/lineages/ardling.jpeg"
+    "player_handbook/assets/images/lineages/dragonborn.png"
   ]
 }
