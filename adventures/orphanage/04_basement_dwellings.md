@@ -4,10 +4,12 @@
 
 <HR>
 
-# Part 2: Starting the adventure
+# Basement Dwellings
+
+**Tags:** #adventure, #orphanage
 
 ## Summary
-The children get out of bed, do some chores in the morning, eat breakfast and say prayers.
+Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them.
 
 ## The House of Orphaned and Abandoned Offspring
 Kids with good behaviour get a Star. On the other hand if you mucked about you get a Bolt. Stars are awarded to the highest performing children. Any child who fails will receive a Bolt, without exception.
@@ -39,7 +41,8 @@ The children get some lessons that learn them to read and write.
 * Tending to the vegetable path and the animals
 * Knitting clothes or spinning cotton
 
-**Supporting characters**
+## Supporting characters
+List of supporting characters in the orphanage.  
 
 | Character        | Name           | Description                                                            | Link |
 | ---------------- | -------------- | ---------------------------------------------------------------------- | ---- |
@@ -50,25 +53,17 @@ The children get some lessons that learn them to read and write.
 | The Weird One    | Aeria Jones    | The child well... you know a little bit weird?                         | [Link](npc/aeria_jones_weird.md) |
 | The Bully        | Gilad Shams    | The kid that will bully the others.                                    | [Link](npc/gilad_shams_bully.md) |
 
-## Morning Duty
+## Breakfast
 
 > The room is cramped and has a stale smell. You awaken from a restless sleep and realise that you are not the only one who has had a nightmare. The first bell rings at 6 AM and the assigned orphans rise from their beds, some still groggy, to wash up and get dressed. The girls are assigned to do the housekeeping tasks while the boys clean the fireplaces. 
 > 
 > The head mistress, Ms Witchling, a thiefling woman in her early forties, oversees the orphans with an iron hand, believing that she can save them from themselves through strict discipline. Her motto is "you can never start young enough" or "they will need to learn sometime, so why not now." The priority is that the tasks are completed to her satisfaction not on who did what.
-
-## Breakfast
+>
 > At 06:30 AM, all the other Offspring in the orphanage are required to rise from their beds and get ready for the day. This involves washing up and getting dressed. It is mandatory for everyone to have breakfast before 07:00 AM as this is the set schedule for starting the day. This strict routine is maintained by Ms Witchling, who runs the house with an iron hand. She believes that starting young and enforcing strict discipline is necessary to help the children grow into well-behaved and responsible individuals. 
-
+>
 > At 07:00 AM precisely, Ms Witchling sounds a bell and everyone falls silent, taking their place behind the table. She turns to you, "What's your name again? Oh well, never mind. Please lead the prayers this morning."
 
 Allow for players to roll-play this out if they want. Choose a player that has to preside the prayer moment. Remind them Ohm is the god to pray to. Even if they would have a different god. She will berate the character no matter what. If the GM is very impressed by the roll-play you may give a Star if they muck about they get a Bolt.
-
-<HR>
-
-# Part 3: Basement Dwellings
-
-## Summary
-Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them.
 
 ## It is not a request
 > Ms. Witchling reminds everyone of the guests arriving later that day and warns them to behave appropriately, reminding them of the consequences faced by Kenneth James McCormick. She then instructs someone to fetch two flagons of ale and wine, and to also one of water. *wait 2 seconds* What are you waiting for? Get on with it! An older offspring passes by "You seem flustered? Well hurry, the area is dark and there are rats" and then quickly leaves them to handle the task alone.

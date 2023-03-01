@@ -1,7 +1,13 @@
 
 # ![](assets/images/ineffable_games.jpg)
 
+# The House of Orphaned and Abandoned Offspring
+
+<HR>
+
 # Ineffable Games
+
+**Tags:** #public
 
 The world was a vast and ancient place, shaped by the will of powerful beings beyond the comprehension of mortals. At the center of it all stood Mount Celstia, a towering peak that reached to the very heavens. It was there, atop that sacred mountain, that the Allfather gods Ranginui and Papatanuku resided. They were the creators of all that existed, the bringers of light and life to a world that would otherwise have remained forever in darkness.
 
