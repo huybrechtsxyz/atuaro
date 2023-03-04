@@ -66,6 +66,7 @@ List of supporting characters in the orphanage.
 Allow for players to roll-play this out if they want. Choose a player that has to preside the prayer moment. Remind them Ohm is the god to pray to. Even if they would have a different god. She will berate the character no matter what. If the GM is very impressed by the roll-play you may give a Star if they muck about they get a Bolt.
 
 ## It is not a request
+
 > Ms. Witchling reminds everyone of the guests arriving later that day and warns them to behave appropriately, reminding them of the consequences faced by Kenneth James McCormick. She then instructs someone to fetch two flagons of ale and wine, and to also one of water. *wait 2 seconds* What are you waiting for? Get on with it! An older offspring passes by "You seem flustered? Well hurry, the area is dark and there are rats" and then quickly leaves them to handle the task alone.
 
 ## Goal

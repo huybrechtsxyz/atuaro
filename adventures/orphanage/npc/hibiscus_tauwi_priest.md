@@ -5,6 +5,7 @@ Hibiscus Tauwi aka The Priest [NPC]
 ## Statistics
 Race: Human
 Class: Cleric
+Level: 6
 Age: Early thirties
 Alignment: Lawful Good
 
