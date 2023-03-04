@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64b2db095be2f4b7",
+        "id": "03a0db146b359539",
         "type": "tabs",
         "children": [
           {
-            "id": "1b5a1968b3ce2a31",
+            "id": "fa8cf8124043ac13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "adventures/orphanage/npc/hibiscus_tauwi_priest.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "adventures/orphanage/npc/hibiscus_tauwi_priest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "adventures/orphanage/npc/hibiscus_tauwi_priest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "adventures/orphanage/npc/hibiscus_tauwi_priest.md"
+              }
             }
           },
           {
@@ -148,8 +156,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b5a1968b3ce2a31",
+  "active": "fa8cf8124043ac13",
   "lastOpenFiles": [
+    "resources/ddb-images/other/spell-transmutation.png",
+    "resources/ddb-images/other/spell-necromancy.png",
+    "resources/ddb-images/other/spell-illusion.png",
+    "resources/ddb-images/other/spell-evocation.png",
+    "resources/ddb-images/other/spell-enchantment.png",
+    "resources/ddb-images/other/spell-divination.png",
+    "resources/ddb-images/other/spell-conjuration.png",
+    "resources/ddb-images/other/spell-abjuration.png",
+    "resources/ddb-images/other/npc-Zuggtmoy.png",
+    "resources/ddb-images/other/npc-Zuggtmoy-Legacy-.png",
+    "resources/ddb-images/other/npc-Zress-Orlezziir.jpeg",
+    "resources/ddb-images/adventures/misc",
+    "resources/ddb-images/frames",
+    "resources/ddb-images/other",
+    "resources/ddb-images/characters",
+    "resources/ddb-images/adventures",
+    "resources/ddb-images",
+    "resources/ddb-images copy/adventures/misc",
+    "resources/ddb-images copy/other",
+    "resources/ddb-images copy/frames",
+    "resources/ddb-images copy/characters",
+    "adventures/orphanage/npc/witchling_headmistress.md",
+    "player_handbook/games/gambling/race_gambling.md",
+    "player_handbook/games/gambling/sinner_spinner.md",
+    "player_handbook/games/gambling/hand_of_fate.md",
+    "player_handbook/games/gambling/gambit_of_ord.md",
+    "player_handbook/games/gambling/liars_dice.md",
+    "player_handbook/games/gambling/twenty_one.md",
+    "adventures/orphanage/05_fruit_heist_carnival.md",
+    "adventures/orphanage/05_candy_raid.md",
     "adventures/orphanage/04_basement_dwellings.md",
     "adventures/orphanage/03_character_creation.md",
     "adventures/orphanage/02_ineffable_games.md",
@@ -158,27 +196,13 @@
     "player_handbook/lineages/aasimar.md",
     "player_handbook/lineages/dwarf.md",
     "player_handbook/lineages/dragonborn.md",
-    "adventures/orphanage/npc/witchling_headmistress.md",
     "adventures/orphanage/npc/witchling_bosslady.md",
     "adventures/orphanage/npc/timothy_burch_sad.md",
     "player_handbook/lineages/elf.md",
-    "player_handbook/assets/images/lineages/aasimar.jpeg",
     "adventures/orphanage/npc/hibiscus_tauwi_priest.md",
-    "adventures/orphanage/assets/images/symbol_ohm.webp",
-    "player_handbook/assets/character_sheets/character_sheet_alternative.pdf",
     "player_handbook/21_character_abilities.md",
     "world_compendium/beasts/rat.md",
     "player_handbook/10_game_rules.md",
-    "player_handbook/02_basic_play.md",
-    "adventures/orphanage/npc/ernsta_martell_supervisor.md",
-    "campaigns/dndave-2023/campaign.md",
-    "player_handbook/heritages/placeholder.md",
-    "player_handbook/classes/placeholder.md",
-    "player_handbook/backgrounds/placeholder.md",
-    "player_handbook/lineages/gnome.md",
-    "player_handbook/lineages/hobbit.md",
-    "player_handbook/lineages/human.md",
-    "templates/campaign/assets/images/campaign.jpg",
-    "player_handbook/assets/images/lineages/dragonborn.png"
+    "player_handbook/02_basic_play.md"
   ]
 }

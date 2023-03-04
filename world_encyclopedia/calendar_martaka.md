@@ -53,7 +53,6 @@ Each day off the month is given a name.
 | 26  | Ruhato | The twenty-sixth day. A new moon.          |
 | 27  | Ruwiko | The twenty-seventh day. A dark night.      | 
 
-
 ## Months
 Atuaro has 11 months of 27 days each.
 
