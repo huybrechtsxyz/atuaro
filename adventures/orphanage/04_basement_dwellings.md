@@ -103,13 +103,13 @@ In order to take one of the blessings they will need to convince a�
   
 ![Orphanage Basement](assets/maps/orphanage_basement.png)
 
-**ROOM 1: STAIRS [DC-10]**
+**MAP 01: STAIRS [DC-10]**
 
 > A stone sturdy yet worn with time staircase leads you with each footstep deeper into the dark basement. The dim light filtering in from above casts a shadowy aura over the staircase.
 
 * You need to hold the flagon's with 2 hands on the stairs. DEX check or drop the flagon.
 
-**ROOM 2: KEGS [DC-10]**
+**MAP 02: KEGS [DC-10]**
 
 > A basement room filled with wooden kegs of various sizes stacked up against the walls. The room is dark with a little dim light from the stairs
 
@@ -127,7 +127,7 @@ Keg 5 (Circle with line, on/off symbol), contains apple cider [APORO]�
 <img src="./assets/images/symbol_wine.jpg" width="50" height="50" /> 
 <img src="./assets/images/symbol_cider.jpg" width="50" height="50" />
 
-**ROOM 3: STORAGE [DC-10]**
+**MAP 03: STORAGE [DC-10]**
 
 > A dark storage area in the basement. The air is musty and damp, carrying with it the scent of old and forgotten things. Wooden crates and boxes are stacked haphazardly against the walls, leaving narrow aisles in between.
 
@@ -149,7 +149,7 @@ This room contains old and worn clothes and cheap items required to 
 
 * Timmy's small tin soldier toy is in room 3 (just behind the wall on the left)
 
-**ROOM 4: LOCKED ROOM [DC-11]**  
+**MAP 04: LOCKED ROOM [DC-11]**  
 
 The door of the room:
 
@@ -165,7 +165,7 @@ This room contains clothes, pottery for longer term storage and the m
 * Timmy will not really respond but ask for his stuff
 * Once Timmy has his stuff he will accompany the kids upstairs
 
-**ROOM 5: STORAGE [CD-10]**
+**MAP 05: STORAGE [CD-10]**
 
 > This area of the basement is located near the stairs and is partially illuminated by its light. The dim light makes it difficult to see clearly, but you can make out the shapes of cluttered boxes and sacks, stacked haphazardly against the walls.
 
@@ -173,7 +173,7 @@ This room contains food, produce, grain. More expensive bottles of win
 
 * There is a broom near the right wall that can be used for the cobwebs.
 
-**ROOM 6: WELL [DC-11]**
+**MAP 06: WELL [DC-11]**
 
 > This section contain a well surrounded by a stone wall. It provides fresh water for the orphanage. A sturdy wooden lid covers the top of the well, and a rope and bucket hang down into the depths. The walls of the well are slick and slippery, and the water in the depths is dark and still. The well is deep and narrow, and there is no light at the bottom, making it difficult to see what lies below. 
 

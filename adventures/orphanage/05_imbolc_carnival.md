@@ -9,7 +9,7 @@
 **Tags:** #adventure, #orphanage, #carnival
 
 ## Summary
-The 11th day of Mahea [11/03/365 AR] is a lucky day. The Imbolc carnival is in town. Ms Witchling made arrangements that allow the children to visit the carnival. The children heard from the older ones the exotic fruit is very special, but that Ms Witchling did not arrange a tasting. The children can go and visit the carnival, play the games, and maybe steal some of that fruit?
+The 11th day of Mahea [11/03/365 AR] is a lucky day. The Imbolc Carnival is in town. Ms Witchling made arrangements that allow the children to visit the carnival. The children heard from the older ones the exotic fruit is very special, but that Ms Witchling did not arrange a tasting. The children can go and visit the carnival, play the games, and maybe steal some of that fruit?
 
 ## Carnival
 > The carnival is loud and boisterous, with music blaring, vendors shouting to attract customers, and carnival games being played. Musicians, dancers, and performers fill the streets, providing entertainment for the crowds that have gathered. Vendors sell an array of tasty treats, such as roasted meats, stews, bread, and sweet pastries. Children play games like tag, hopscotch, and leapfrog, while adults engage in games of chance and skill, such as archery, horseshoes, and chess.
@@ -21,6 +21,10 @@ The 11th day of Mahea [11/03/365 AR] is a lucky day. The Imbolc carnival is in t
 
 ## Blessings
 1. At the welcome you receive 10 chips that allow you to participate or buy 1 single unit / item
+1. NPC Mentor for druids: Willow Greenleaf (Herbalist)
+1. NPC Mentor for warriors: Constable Emeric (police)
+1. NPC Mentor for rogues: Magnifico the Magnificent (magician)
+1. NPC Mentor for diviners of Ohm: Hibiscus Tauwi (Priest)
 
 ## Obstacles
 1. There are 4 guards walking a beat, known as Tythingman. (~ local city guard for towns)
@@ -39,54 +43,101 @@ The 11th day of Mahea [11/03/365 AR] is a lucky day. The Imbolc carnival is in t
 	They do 1 damage. If they take any damaged, they die.
 
 ## Carnival Maps
-
-![Orphanage Basement](assets/maps/carnival_map_no.png)
+  
+### Carnival Map
+![Map](assets/maps/carnival_map_no.png)
 Rooms are numbered clockwise from the bottom left.
+
+### Carnival Maze
+![Mawe](assets/maps/carnival_maze.png)
 
 ### 01 - Welcome [DC10]
 > The carnival entrance is marked by a grand archway, decorated with brightly coloured ribbons, flowers, and streamers. The archway towers over the entrance.
 
 > Ms Witchling gathers the offspring and gives the each 10 tokens. "Have fun. It will be a while before something like this happens again. But I wanted to give you something as you have been behaving very well the last couple of months. Keep it up!" pointing to Gilad and Player [Antonio] "I told the guards about you! DO NOT LET ME DOWN!".
 
-Tythingman Erevan is standing guard, salutes Ms Witchling and does not thrust the children to the kids.
+Tythingman Erevan is standing guard, salutes Ms Witchling and does not thrust the children.
 
-Let the player make a deception check to see how well they can keep a straight face. Gilad does without a hitch.
+Let the player make a deception check to see how well they can keep a straight face. Gilad the bully does without a hitch.
 
 ### 02 - Clown School [DC14]
 > The walls of the tent are covered in colorful posters advertising different circus acts, and there are several small groups of people gathered around the different stations, watching the performers and practicing their own tricks. The air is filled with the sound of laughter and chatter as people share their successes and failures with each other.
 
-**ABILITY CHECK: DEX**
-There is a clown performing some basic acrobatic tricks. 
-The one that can impress him the most gets his token back.
-There are a few tricks they can try:
+There is a clown performing some basic acrobatic tricks which he is willing to learn to the audience.
 
-- Juggling. 
-    - You throw 2 cones. [DC=8]
-    - Add 1 cone (3) [DC=10]
-    - Add 1 cone (4) [DC=12] - 1 token
-    - Add 1 cone (4) [DC=14] - 2 token 
-    The clown lights them on fire
-    - Add 1 cone (4) [DC=16] - 2 token
+*DEX CHECK : Juggling*
 
-### 03 - Strong Man
-> s
+    You juggle with 2 cones for [DC=8]
+    Add 1 cone (3) for [DC=10]
+    Add 1 cone (4) for [DC=12]
+    Add 1 cone (5) for [DC=14] (Win 1 token)
+    The clown lights them on fire for [DC=16] (Win 2 tokens)
+    Failure to keep them up results in 1 fire/singe damage
 
-STRe
+### 03 - Maze
+> The entrance of the maze made of haystacks is marked by two tall, imposing columns, each topped with a fake stuffed horse head. The columns are connected by a wooden arch, with the words "The Maze of Wonders" painted in bold, bright letters. The archway is draped with a garland of brightly colored flowers and ribbons, creating a festive and inviting atmosphere.
+
+> Looking better as you step closer to the entrance, you notice that the hay bales making up the walls of the maze have been badly arranged and not as stable as it should be.
+
+The moment they enter the maze the goblins escape. Yes: it was Galid but he made sure nobody knows. Some of the goblins come to hide in the maze. Will attack when they feel threathened.
+
+Goblins have 1 HP and deal 1 DMG when they attack. 
+
+*NPC: Gormack Labirini*
+The maze runner is a lanky, unkempt man in his mid-twenties. His shaggy brown hair falls haphazardly over his forehead, and he has a scruffy beard that looks like it hasn't been properly groomed in weeks. He wears a stained and tattered green tunic that hangs loosely on his thin frame, and his baggy trousers are held up by a frayed rope belt.
 
 ### 04 - Magic Show
- WISDOM
- A game of cards: deception checks (trying to cheat slight of hands checks)
+> As the players approach the tent, they see a sign that reads "The Amazing Magnifico - Master of Magic!" Inside the tent, they see a middle-aged man wearing a top hat and cape, performing various magic tricks using various implements.
+
+The tent where Magnifico performs is brightly colored, with colorful streamers and posters of his magic tricks lining the walls. The atmosphere is lively, with people laughing and applauding as they watch his performance.
+
+*WIS CHECK*  
+Magnifico performs a trick where he shuffles a ball under three cups, and the players must guess which cup the ball is under. After several attempts, the players realize that Magnifico is using slight of hand to manipulate the cups and ball, and they manage to catch him in the act. Impressed by their skills, Magnifico decides to teach them the trick and a few other slight of hand techniques. He reveals that he used to be a thief, but he gave up his life of crime after discovering the joy of entertaining people with his magic tricks.
+
+*NPC: Magnifico the Magnificent*
+Magnifico himself is a charming and flamboyant character, with a big personality and a love for entertaining people. He is always looking for new tricks to perform and new audiences to amaze. He greets them with a big smile and introduces himself as Magnifico. He offers to teach them one of his tricks for a small fee. However, the catch is that they must figure out how he did it themselves.
 
 ### 05 - Pie eating contest
-CON
+> A stage is set up for the presenter to entertain the crowd and the area is lined with tables and chairs where contestants sit and wait for the signal to start. The pies are lined up in front of them, steaming hot and smelling delicious.
+
+> "Welcome, welcome, one and all to the grandest pie eating contest in all the land!" Barnaby announces, his voice booming across the area. "We've got pies, we've got contestants, and we've got the best audience in the world!" 
+
+> As the contestants prepare to start, Barnaby continues to hype up the crowd. "These brave souls are about to put their stomachs to the test!" he exclaims. "Who will emerge victorious and claim the title of Pie Eating Champion? Only time will tell!"
+
+> Throughout the contest, Barnaby continues to provide colorful commentary and witty remarks. "That's it, folks, we've got a real slobberknocker on our hands!" he shouts as two contestants go head to head. "Who will be the first to succumb to the pie-induced food coma?"
+
+> At the end of the contest, Barnaby crowns the winner with a grand flourish. "Ladies and gentlemen, we have a winner!" he declares. "Let's give it up for the newest member of the Pie Eating Hall of Fame!"
+
+*CON CHECK*
+Exceeding CON checks +2 until there are no more participants. Start with [DC8].
+Winner gets carnival token.
+
+*NPC: Barnaby*
+The presenter, a flamboyant and enthusiastic man named Barnaby, is dressed in a colorful suit and top hat. He speaks into a microphone and addresses the crowd, building up excitement for the contest.
 
 ### 06 - mechanical bull riding
-STR
+> The bull is a massive, muscular creature with a thick, shaggy coat of brown fur. Its horns are long and curved, and it snorts and paws at the ground, clearly agitated by the cheering crowd. The ring is a large, circular enclosure made of rough-hewn wood, with high walls to keep the bull contained.
+
+> As the bull riding contest begins, Bofur pumps up the crowd with his booming voice, shouting out quotes like:
+>  
+>    "Are you ready for the ride of your life? This ain't no pony ride, folks!"  
+>    "This bull's got more moves than a drunken dwarf on a dance floor!"  
+>    "Let's see if our riders have what it takes to tame the beast!"  
+>    "Hang on tight, folks, it's gonna be a bumpy ride!"  
+>    "Who will be the last one standing? The bull or the brave dwarves who dare to ride it?"  
+
+*STR CHECK*
+Keep making an DC14 strenght check to stay on the bull.
+If you fall of make a DC10 strength check to make certain you do get damaged.
+Stay on the bull the longest? Token.
+
+*NPC: Bofur*
+He is loud and boisterous dwarf. He wears a bright red vest with gold buttons and a black bowler hat that sits atop his curly red hair. He carries a whip and a megaphone as he struts around the ring, announcing the upcoming riders and revving up the crowd.
 
 ### -7- Open Podium [DC10]
 > The open podium allows everyone can join and perform to be star!
 
-**ABILITY CHECK: CHAR**
+*CHAR CHECK*
 A contest to win the hearts of the people. Either against each other or alone.
 Beat a 10 and keep the score going higher. The moment you fail the DC people boo you.
 Otherwise, drop the score to low and the people will just leave or another person will try to push you of the stage to get their turn.
@@ -114,12 +165,12 @@ Some bad jokes the other NPC can give
 
 If they come to close the animal will try to bite attack for 1 damage.
 
-**ABILITY CHECK: INT**
+*INT CHECK*
 Guess how many goblins are in the cage.
 Throw higher then 18 you know the exact number. The highest number wins.
 Winner gets 1 extra ability score point to distribute and a coin for an attraction.
 
-**NPC: Zephyrion Nightshade**
+*NPC: Zephyrion Nightshade*
 Owner is a flamboyant and eccentric half-elf named Zephyrion Nightshade. He dresses in garish and ostentatious clothing, adorned with feathers, beads, and other exotic trinkets. His long hair is dyed a bright blue, and his ears are pierced with multiple rings and studs. Zephyrion is a consummate showman, and he regales passersby with tales of his travels to distant lands in search of rare and exotic creatures.
 
 ### -9-: Guard Room [DC12]
@@ -128,31 +179,13 @@ Owner is a flamboyant and eccentric half-elf named Zephyrion Nightshade. He dres
 
 One of the Tythingman is sleeping on the bedrol. Fail a stealthcheck to awaken him. If other guards see you enter they will call out to leave the place alone. Inside there is a short sword, shield, dagger, and a spear. And a set of cloth armor.
 
-<HR>
-
-
-
-
-
-
-
-
-
-
-, and on either side of it are booths selling carnival-themed merchandise, such as masks, costumes, and souvenirs
-
-
-
-
-
-
 ### Central Market square [DC10]
 
 > The center of the carnival is a bustling marketplace where vendors have set up colourful stalls to sell their wares. The stalls are arranged in neat rows, each one adorned with bright banners and flags that flap in the breeze. The smell of cooking food wafts through the air, mingling with the sounds of laughter, music, and chatter. The vendors are a diverse group, selling everything from fresh produce to handmade crafts, clothing, and trinkets. Their wares are displayed in colourful arrays, catching the eye of passersby with their vibrant hues and intricate designs.
 
 Their are various vendors who work on the small market.
 
-    Herbalist - Willow Greenleaf --> Can be mentor for the druid
+    Herbalist - Willow Greenleaf --> Can be mentor for a druid
 
     Baker - Roland Crust
     Jeweler - Aria Gemstone
@@ -163,32 +196,6 @@ Their are various vendors who work on the small market.
     Book Seller - Edgar Tomekeeper
     Toy Maker - Gwendolyn Playful
     Wine Merchant - Luciano Vino
-
-
-
-### Carnival Maze
-![Orphanage Basement](assets/maps/carnival_maze.png)
-
-### ROOM 1: x Stalls [DC10]
-
-
-
-## Carnaval Games
-
-
-
-
-
-
-
-
-### LUCK
-Duck Pond: The player tries to pick up rubber ducks floating in a pool, each one with a number on the bottom. The prize might be a small toy or candy, depending on the number chosen.
-
-
-
-
-
 
 ## Extra
 During the Dark Ages of Europe, which lasted from the 5th to the 10th century, the seasonal transition from winter to spring was often referred to as "Candlemas" or "Imbolc". Candlemas was celebrated on February 2nd and marked the halfway point between the winter solstice and the spring equinox. Imbolc was a Gaelic festival celebrated on the first day of February and marked the beginning of spring in Ireland and Scotland. Both of these festivals celebrated the end of winter and the beginning of the agricultural season.
