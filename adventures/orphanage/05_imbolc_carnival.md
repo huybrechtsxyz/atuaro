@@ -47,7 +47,7 @@ They have to find a treasury map that leads to the next encounter.
 ## Carnival Maps
   
 ### Carnival Map
-![Map](assets/maps/carnival_map_no.png)
+![Map](assets/maps/carnival_map_no.jpg)
 Rooms are numbered clockwise from the bottom left.
 
 ### Carnival Maze
