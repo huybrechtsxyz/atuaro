@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0aec280326b23571",
+        "id": "98a7e5196fb15356",
         "type": "tabs",
         "children": [
           {
-            "id": "297cff0fb1775ffe",
+            "id": "caff451ca87dbbc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "adventures/orphanage/05_imbolc_carnival.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "adventures/orphanage/05_imbolc_carnival.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "adventures/orphanage/05_imbolc_carnival.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "adventures/orphanage/05_imbolc_carnival.md"
+              }
             }
           },
           {
@@ -148,12 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "297cff0fb1775ffe",
+  "active": "caff451ca87dbbc0",
   "lastOpenFiles": [
+    "adventures/orphanage/assets/maps/carnival_map_no.png",
+    "adventures/orphanage/assets/maps/orphanage_attic.jpg",
+    "adventures/orphanage/assets/maps/carnival_map_no.jpeg",
+    "adventures/orphanage/05_imbolc_carnival.md",
+    "adventures/orphanage/assets/maps/carnival_map - Copy.jpeg",
+    "adventures/orphanage/assets/audio/ambience-heckna-carnival-ambience-joyful.mp3",
     "adventures/orphanage/npc/willow_greenleaf_druid.md",
     "adventures/orphanage/npc/timothy_burch_sad copy.md",
     "adventures/orphanage/assets/npc/willow_greenleaf.jpg",
-    "adventures/orphanage/05_imbolc_carnival.md",
     "adventures/orphanage/05_fruit_heist_carnival.md",
     "adventures/orphanage/04_basement_dwellings.md",
     "adventures/orphanage/assets/audio/witchlight-carnival-ambient-sounds.mp3",
@@ -164,9 +177,6 @@
     "resources/ddb-images/other/spell-necromancy.png",
     "resources/ddb-images/other/spell-illusion.png",
     "resources/ddb-images/other/spell-evocation.png",
-    "resources/ddb-images/other/spell-enchantment.png",
-    "resources/ddb-images/other/spell-divination.png",
-    "resources/ddb-images/other/spell-conjuration.png",
     "resources/ddb-images/adventures/misc",
     "resources/ddb-images/frames",
     "resources/ddb-images/other",
@@ -175,7 +185,6 @@
     "resources/ddb-images",
     "resources/ddb-images copy/adventures/misc",
     "resources/ddb-images copy/other",
-    "resources/ddb-images copy/frames",
     "adventures/orphanage/npc/witchling_headmistress.md",
     "player_handbook/games/gambling/race_gambling.md",
     "player_handbook/games/gambling/sinner_spinner.md",
@@ -194,7 +203,6 @@
     "adventures/orphanage/npc/witchling_bosslady.md",
     "adventures/orphanage/npc/timothy_burch_sad.md",
     "player_handbook/lineages/elf.md",
-    "player_handbook/21_character_abilities.md",
-    "world_compendium/beasts/rat.md"
+    "player_handbook/21_character_abilities.md"
   ]
 }
