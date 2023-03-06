@@ -11,11 +11,15 @@
 ## Summary
 Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them.
 
+If they succees then they can go to the carnival. They not gonna fail right... right...
+
 ## The House of Orphaned and Abandoned Offspring
+// SKIP THE STARS
 Kids with good behaviour get a Star. On the other hand if you mucked about you get a Bolt. Stars are awarded to the highest performing children. Any child who fails will receive a Bolt, without exception.
 * Earning eleven Bolts results in immediate expulsion. Unlike you, Ms Witchling does not muck about. 
 * A Star can be used to forgive a small trespassing if you play it off.
 * You can use 2 Stars to get rid of 1 Bolt.
+//ENDSKIP
 
 **A day at the House of Orphaned and Abandoned Offspring**
 

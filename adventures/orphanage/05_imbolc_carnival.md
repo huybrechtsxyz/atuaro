@@ -11,6 +11,8 @@
 ## Summary
 The 11th day of Mahea [11/03/365 AR] is a lucky day. The Imbolc Carnival is in town. Ms Witchling made arrangements that allow the children to visit the carnival. The children heard from the older ones the exotic fruit is very special, but that Ms Witchling did not arrange a tasting. The children can go and visit the carnival, play the games, and maybe steal some of that fruit?
 
+They have to find a treasury map that leads to the next encounter.
+
 ## Carnival
 > The carnival is loud and boisterous, with music blaring, vendors shouting to attract customers, and carnival games being played. Musicians, dancers, and performers fill the streets, providing entertainment for the crowds that have gathered. Vendors sell an array of tasty treats, such as roasted meats, stews, bread, and sweet pastries. Children play games like tag, hopscotch, and leapfrog, while adults engage in games of chance and skill, such as archery, horseshoes, and chess.
 
@@ -60,10 +62,14 @@ Tythingman Erevan is standing guard, salutes Ms Witchling and does not thrust th
 
 Let the player make a deception check to see how well they can keep a straight face. Gilad the bully does without a hitch.
 
+If they stay instead of running in they will hear the tythingman telling Ms Witchling about the treasury map the confiscated.
+
 ### 02 - Clown School [DC14]
 > The walls of the tent are covered in colorful posters advertising different circus acts, and there are several small groups of people gathered around the different stations, watching the performers and practicing their own tricks. The air is filled with the sound of laughter and chatter as people share their successes and failures with each other.
 
 There is a clown performing some basic acrobatic tricks which he is willing to learn to the audience.
+
+If they succees the magician can tell them about the treasury map. He shares it as a joke because he does not believe it.
 
 *DEX CHECK : Juggling*
 
@@ -91,6 +97,8 @@ The maze runner is a lanky, unkempt man in his mid-twenties. His shaggy brown ha
 
 The tent where Magnifico performs is brightly colored, with colorful streamers and posters of his magic tricks lining the walls. The atmosphere is lively, with people laughing and applauding as they watch his performance.
 
+If they succees the magician can tell them about the treasury map. He shares it as a joke because he does not believe it.
+
 *WIS CHECK*  
 Magnifico performs a trick where he shuffles a ball under three cups, and the players must guess which cup the ball is under. After several attempts, the players realize that Magnifico is using slight of hand to manipulate the cups and ball, and they manage to catch him in the act. Impressed by their skills, Magnifico decides to teach them the trick and a few other slight of hand techniques. He reveals that he used to be a thief, but he gave up his life of crime after discovering the joy of entertaining people with his magic tricks.
 
@@ -115,8 +123,8 @@ Winner gets carnival token.
 *NPC: Barnaby*
 The presenter, a flamboyant and enthusiastic man named Barnaby, is dressed in a colorful suit and top hat. He speaks into a microphone and addresses the crowd, building up excitement for the contest.
 
-### 06 - mechanical bull riding
-> The bull is a massive, muscular creature with a thick, shaggy coat of brown fur. Its horns are long and curved, and it snorts and paws at the ground, clearly agitated by the cheering crowd. The ring is a large, circular enclosure made of rough-hewn wood, with high walls to keep the bull contained.
+### 06 - Displace Beast Ride
+> The displacer beast is a magical creature resembling a large, sleek panther with six legs and two tentacles protruding from its shoulders. The ring is a large, circular enclosure made of rough-hewn wood, with high walls to keep the bull contained.
 
 > As the bull riding contest begins, Bofur pumps up the crowd with his booming voice, shouting out quotes like:
 >  
@@ -163,6 +171,9 @@ Some bad jokes the other NPC can give
 >
 >The cage of the owlbear is a large, sturdy wooden structure with thick metal bars. The bars are spaced closely together to prevent the owlbear from squeezing through, and the door is secured with a heavy padlock. Inside the cage, there is a large pile of straw for the owlbear to sleep on, and a shallow bowl of water in the corner. The owlbear itself is a fearsome creature with sharp claws and a powerful beak, and it paces back and forth restlessly in its cage, occasionally letting out a menacing growl.
 
+If they are pleasent to him and can guess the number of goblins, he will share the secret of the treasury map.
+He heard the guards talking to each other.
+
 If they come to close the animal will try to bite attack for 1 damage.
 
 *INT CHECK*
@@ -178,6 +189,7 @@ Owner is a flamboyant and eccentric half-elf named Zephyrion Nightshade. He dres
 > The Tythingman's tent is a functional and utilitarian space, designed to provide a base of operations. It is made of durable canvas and supported by wooden poles. Inside the tent, there is a simple wooden table with a few chairs, where the Tythingman and his assistants can sit and keep an eye on the comings and goings of the carnival. There is also a small bedroll in one corner of the tent, where the Tythingman can rest during his long shifts. There seems to be a map on the table that looks like a treasure map.
 
 One of the Tythingman is sleeping on the bedrol. Fail a stealthcheck to awaken him. If other guards see you enter they will call out to leave the place alone. Inside there is a short sword, shield, dagger, and a spear. And a set of cloth armor.
+The treasury map is on the table.
 
 ### Central Market square [DC10]
 
