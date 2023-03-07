@@ -1,6 +1,6 @@
-![NPC Header](../../../../adventures/orphanage/assets/npc/hibiscus_tauwi.jpg)
+![NPC Header](../assets/npc/hibiscus_tauwi.jpg)
 
-Hibiscus Tauwi aka The Priest [NPC]
+# Hibiscus Tauwi aka The Priest [NPC]
 
 ## Statistics
 Race: Human
