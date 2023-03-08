@@ -1,4 +1,4 @@
-![Article Header](../assets/images/article_heading.jpg)
+![header](./assets/images/heading.jpg)
 
 # About playing a RPG
 ## TL;DR

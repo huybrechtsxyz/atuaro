@@ -1,4 +1,4 @@
-![Article Cover](../assets/images/lineages/dragonborn.png)
+![cover](../assets/images/lineages/dragonborn.png)
 
 # Dragonborn
 For all her life, Farideh had known that reading her father's face was a skill she'd been fortunate to learn. A human who couldn't spot the shift of her eyes or Havi/ar's would certainly see only the indifference of a dragon in Clanless Mehen's face. But the shift of scales, the arch of a ridge, the set of his eyes, the gape of his teeth-her father's face spoke volumes. But every scale of it, this time, seemed completely still. The indifference of a dragon, even to Farideh.  

@@ -1,5 +1,5 @@
 
-![Article Header](./assets/images/article_heading.jpg)
+![header](./assets/images/heading.jpg)
 
 # Character Ability Scores
 

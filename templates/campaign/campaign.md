@@ -1,4 +1,4 @@
-![Image](./assets/images/campaign.jpg)
+![Image](./assets/images/cover.jpg)
 
 # {campaign.name} Campaign
 
@@ -35,4 +35,3 @@ Here we refer to the Player Handbook, section about the table rules or social co
 * Experience and Levelling
 * Character Creation
 * Mechanics and house rules
-

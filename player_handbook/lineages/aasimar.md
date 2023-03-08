@@ -1,4 +1,4 @@
-![Article Cover](../assets/images/lineages/aasimar.jpeg)
+![cover](../assets/images/lineages/aasimar.jpeg)
 
 # Aasimar
 I SAW HER, WREATHED IN WINGS OF PURE LIGHT, HER eyes blazing with the fury of the gods. The bone devils stopped in their tracks, shielding their faces. Her blade, now a brand of light, swept once, twice, three times. The devils' heads hit the ground, one after another. And thus we learned that an aasimar traveled in our ragtag band.  

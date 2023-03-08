@@ -1,4 +1,4 @@
-![Article Header](../../assets/images/article_heading.jpg)
+![Article Header](../../assets/images/heading.jpg)
 
 # Games of the World
 

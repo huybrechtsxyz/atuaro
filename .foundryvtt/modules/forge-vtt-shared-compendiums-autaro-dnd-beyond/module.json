@@ -1,0 +1,188 @@
+{
+  "id": "forge-vtt-shared-compendiums-autaro-dnd-beyond",
+  "name": "forge-vtt-shared-compendiums-autaro-dnd-beyond",
+  "title": "Autaro DND Beyond (Shared Compendiums)",
+  "description": "<p>DND Beyond compendium for Atuaro</p>\n <br/><div style=\"border: 1px solid #eee;border-left-width: .25rem;border-left-color: #f0ad4e;border-radius: .25rem;padding: 10px;\">\n        <h5 style=\"margin:0px;\">Shared Compendium</h5>\n        <p style=\"margin-bottom:0px;\">This module allows you to share compendiums between your worlds.</p>\n        <p style=\"margin-bottom:0px;\">It cannot be auto-updated, therefore it cannot overwrite your compendiums and is therefore <strong>safe to unlock</strong>.</p></div>",
+  "version": "1.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "0.6.0",
+    "verified": "10"
+  },
+  "author": "The Forge",
+  "authors": [
+    {
+      "name": "The Forge"
+    }
+  ],
+  "packs": [
+    {
+      "name": "item-1-dnd-backgrounds",
+      "label": "DND Backgrounds (Shared)",
+      "path": "packs/item-1-dnd-backgrounds.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "item-2-dnd-classes",
+      "label": "DND Classes (Shared)",
+      "path": "packs/item-2-dnd-classes.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "item-3-dnd-subclasses",
+      "label": "DND Subclasses (Shared)",
+      "path": "packs/item-3-dnd-subclasses.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "item-4-dnd-class-feats",
+      "label": "DND Class Feats (Shared)",
+      "path": "packs/item-4-dnd-class-feats.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "item-5-dnd-feats",
+      "label": "DND Feats (Shared)",
+      "path": "packs/item-5-dnd-feats.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "item-6-dnd-items",
+      "label": "DND Items (Shared)",
+      "path": "packs/item-6-dnd-items.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "actor-1-dnd-monsters",
+      "label": "DND Monsters (Shared)",
+      "path": "packs/actor-1-dnd-monsters.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "actor-2-dnd-vehicles",
+      "label": "DND Vehicles (Shared)",
+      "path": "packs/actor-2-dnd-vehicles.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "item-7-dnd-lineages",
+      "label": "DND Lineages (Shared)",
+      "path": "packs/item-7-dnd-lineages.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "item-8-dnd-lineage-traits",
+      "label": "DND Lineage Traits (Shared)",
+      "path": "packs/item-8-dnd-lineage-traits.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "item-9-dnd-spells",
+      "label": "DND Spells (Shared)",
+      "path": "packs/item-9-dnd-spells.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "rolltable-1-dnd-tables",
+      "label": "DND Tables (Shared)",
+      "path": "packs/rolltable-1-dnd-tables.db",
+      "entity": "RollTable",
+      "type": "RollTable",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "item-10-dnd-override",
+      "label": "DND Override (Shared)",
+      "path": "packs/item-10-dnd-override.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "adventure-1-dnd-adventures",
+      "label": "DND Adventures (Shared)",
+      "path": "packs/adventure-1-dnd-adventures.db",
+      "entity": "Adventure",
+      "type": "Adventure",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "scene-1-dnd-scenes",
+      "label": "DND Scenes (Shared)",
+      "path": "packs/scene-1-dnd-scenes.db",
+      "entity": "Scene",
+      "type": "Scene",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "playlist-1-dnd-audio",
+      "label": "DND Audio (Shared)",
+      "path": "packs/playlist-1-dnd-audio.db",
+      "entity": "Playlist",
+      "type": "Playlist",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "macro-1-dnd-macros",
+      "label": "DND Macros (Shared)",
+      "path": "packs/macro-1-dnd-macros.db",
+      "entity": "Macro",
+      "type": "Macro",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "journalentry-1-dnd-journals",
+      "label": "DND Journals (Shared)",
+      "path": "packs/journalentry-1-dnd-journals.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "actor-3-dnd-heroes",
+      "label": "DND Heroes (Shared)",
+      "path": "packs/actor-3-dnd-heroes.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    },
+    {
+      "name": "cards-1-dnd-cards",
+      "label": "DND Cards (Shared)",
+      "path": "packs/cards-1-dnd-cards.db",
+      "entity": "Cards",
+      "type": "Cards",
+      "package": "forge-vtt-shared-compendiums-autaro-dnd-beyond"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e"
+      }
+    ]
+  }
+}

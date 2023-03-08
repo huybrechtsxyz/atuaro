@@ -1,4 +1,4 @@
-![Article Header](../assets/images/article_heading.jpg)
+![header](./assets/images/heading.jpg)
 
 *You sneak through the rocks, noting the hot steam rising from the crevices in the ground, the red glow of the lava just below the surface. Your brow glistens with sweat as you nervously clutch your scimitar. One wrong move, one false step, could mean the end for you. Slowly, carefully, you creep round the corner into a great cavern—and freeze. Before you lies an enormous pile of gold, a treasure hoard like none you’ve ever seen. And curled around it is a winged, scaled serpent with claws the length of swords: a dragon!*  
 -- by Mike Mearls, May 2014

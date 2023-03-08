@@ -1,0 +1,27 @@
+{
+    "name": "The House of Orphaned and Abandoned Offspring",
+    "img": "orphanage_cover.png",
+    "caption": "The House of Orphaned and Abandoned Offspring",
+    "sort": 0,
+    "description": "<p>Introduction to the world of Atuaro by creating level zero characters.</p>",
+    "actors": [],
+    "combats": [],
+    "items": [],
+    "journal": [],
+    "scenes": [],
+    "tables": [],
+    "macros": [],
+    "cards": [],
+    "playlists": [],
+    "folders": [],
+    "_id": "tkLrxrT4hjmxdeMF",
+    "flags": {},
+    "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.4",
+        "coreVersion": "10.291",
+        "createdTime": 1676980570989,
+        "modifiedTime": 1676980570989,
+        "lastModifiedBy": "DQE8qjkWrKfthUU3"
+    }
+}

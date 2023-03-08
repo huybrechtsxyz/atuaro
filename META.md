@@ -3,19 +3,16 @@
 KEEP TRACK OF WHY YOU’RE CREATING! Stay on track and make your world, campaign or novel the very best it can be! It all starts with a little motivation...
 
 ## What is your motivation for building this world?
-
 Decide what the world is being built for, and what it means to you - that way, it’ll be fit for purpose!
 
 > To create a world where adventure can take place. To let players find their way in adventures that will be adapted to this world. A place where players can have fun, but perhaps their characters don't. With dark moments a la Ravenloft or Game of Thrones but with a renaissance flair and hope for a better future. Players will need to find adventure by exploring and interacting with the world.
 
 ## What are you hoping to get out of it?
-
 Knowing what you want from your world building project will help keep you on track when you get tired or stuck. Are you creating for a novel or a D&D campaign? What kind of experience do you want your audience to have?
 
 > An open placeholder for adventure, by either designing an adventure, or by using written adventures and incorporating their story into this world. A world where players can create their path by finding adventure and interacting with the world. I am hoping to give my players an epic experience by combining the Gone Away War, Game of Thrones in the Assassins Creed world of Florence.
 
 ## What is the Hook or Unique Selling Point of your world?
-
 What makes it different? This is the core of your idea, the hook that draws you - and hopefully your players and readers - into the setting of the world. When we say “Unique” we really mean “special to you”. As long as you’re excited about the concept, that’s enough. Don’t feel like you have to reinvent the wheel and come up with something 100% original.
 
 > A beautiful and bright renaissance world where each person can better themselves - on top of pile of death enemies.
@@ -26,31 +23,26 @@ What makes it different? This is the core of your idea, the hook that draws you 
 Instill clarity and consistency to your storytelling. From the darkest dungeon to the brightest rainbow, choose the look and feel of your world, and how noble (or grim) your heroes’ fates will be!
 
 ## What’s the Genre of your World?
-
 Knowing the genre(s) and general technology/magic level will help you set expectations about your world, and keep your world feeling cohesive.
 
 > A low magic but powerful renaissance sword & sorcery world where magic and gods exist and influence the world.
 
 ## How does the world feel (player/reader experience)?
-
 Do you want your world to feel mystical, or terrifying - or both? Should your audience be afraid or moved, filled with wanderlust or wonder? Awed by the past, or by the future? Your world will have a general feel to it, even if the specifics of tone vary from story to story.
 
 > Atuaro should feel exciting and dangerous, with bright and dark experiences. A world where players need to worry about their environment. Most of the people in this world are only out to survive, those who can want to better themselves.
 
 ## What is the character agency level like?
-
 Character agency describes how much power the main characters or player characters have to change the world, and how long-lasting that change might be.
 
 > The world should feel epic, so characters will be able to effect a great deal of change in the world, and that change might be long lasting. Because it can be a dark world too, that change won't always be good! Fumbling or making big mistakes will have consequences!
 
 ## What is the tone of your world
-
 Is your world  **dark** (e.g. Game of Thrones, Battlestar Galactica, The Witcher)  or **bright** (e.g. original Star Trek, the Princess bride, My Little Pony),  or **somewhere in the middle** (e.g. StarGate, Harry Potter, Shannara Chronicles)?  How pleasant or difficult is it to live there, in general? Do horrible or wondrous things happen to ordinary people?
 
 > Atuaro is recovering from the Reckoning and is ending a golden age. A period of hope and prosperity that lasted during the last kings is ending. The once previously untouchable Houses are loosing power to the Guilds. Not all of ramifications of the Reckoning are gone. There are still plenty of creatures at the fringes of civilisation that liked it better when the lights were off and they are encroaching on civilisation.
 
 ## What are the recurring themes
-
 What themes reinforce the genre, tone and feel of your world? A few recurring themes can help anchor your audience in your tone and genre, and establish your hook. What three motifs/scenes/themes capture the world you’re trying to create? Give three to five examples.
 
 These motifs are a great way to help reinforce the feeling of your world, despite the different pacing and mood of locations or scenes within your story or campaign. They do not need to feature in every single session or scene.
@@ -118,10 +110,9 @@ What are the fundamental differences in the natural laws of your world compared 
 >**Source of magic.** The power granted to you by your patron (cleric, warlock) is not equal to being able to manipulate the weave or what is granted to you by the primal forces. Divine is religion, the weave is arcane, and primal are the forces of nature.
 
 ## How did this world come to be? (Cosmology)
-
 The dominant religion, The Children of the Suns, believes that the world is the child of the twin suns, La and Tho. In reality, the world was intentionally created from a nebula by aliens who will be back to check on it someday... Write how your world ACTUALLY came to be - was it born from an egg, created by a god, or sneezed into being? You can add the prevalent in-world belief if you like. Just one paragraph on this - don't go full Silmarillion!
 
-> he only allowed official religion is The Faith of Ohm. Although other gods exist, Ohm is the one and only official one on the continent where our adventures take place.*
+> The only allowed official religion is The Faith of Ohm. Although other gods exist, Ohm is the one and only official one on the continent where our adventures take place.*
 > 
 > * As clearly stated by Law, don't lightning the messenger please.
 >  
@@ -130,7 +121,6 @@ The dominant religion, The Children of the Suns, believes that the world is the 
 > Who knew humans could be so self-centered
 
 ## World Geography
-
 What does the geography of your world look like?  Does your Geography have any special properties or features? This should be a generic vision of your geography. Is your world full of volcanoes and lava flows or floating islands? Is it an ice planet, or a desert waste? Is it a planet-city like Coruscant? Is it bio-diverse or all the same?
 
 From winters which last decades (Game of Thrones, G.R.R. Martin) to moons which throw destructive spores (World of Pern, Anne MacCaffery ), extraordinary geographical features can add character and challenges to your world. What are the fundamental truths of the physical geography of your world?
@@ -140,18 +130,16 @@ Remember to refer back to your genre, tone and motifs in your Foundation! They�
 > The geology of the world is hugely varied and complex, and gives rise to the wide variety of landscapes found across the continent, from the Mountain Ranges and Highlands to the rolling plains and frozen tundra.
 
 ## What is the initial size of your active setting?
-
 What is the initial scale* of your active storytelling space? An island, a region or a continent, for example? Defining your initial active setting doesn’t mean your players or main characters can’t go elsewhere! But it does help you create a starting point which feels rich and alive. Remember this will be affected by the genre! If you’re playing a Star Trek campaign, you’ll be exploring different planets, so an active area might be a solar system or a cluster of systems.
 
 > All adventures and campaigns take place in this world. The size of is as yet undefined. But the initial story starts in a small village named Kainga, near the city of Loukotokía, although everybody names it Anthill. Loukotokia could be regarded as Florence during the renaissance. A bustling city with entrepreneurial people and a flourishing trade and industry.
-    
-
+  
+  
 # People of the World
 
 Explore the impact of sentience in your world. Breathe life into your world with great fallen empires, forgotten cities and lost civilisations. Add conflict and drama with the struggles and politics of today.
 
 ## Who used to live here, and what’s their history?
-
 Write max. 1 paragraph on each lost civilisation that was active in the area. Remember you can always add more later, which have not yet been discovered! This is where the unknown mysteries come from, and a great source of dungeons, secrets, adventures, unique items and more. Also makes your world feel living and established. If you want your world to feel brand new and unsettled, write instead about the geological history of your world - the fossils that people will find.
 
 > The [Akkadian]() are an ancient and highly-advanced species of humanoid beings who were active on what is now the Kingdom of Eden during the First Flowering. After their empire fell the [Mauryan]() people rose to power and ruled for tens of thousands of years .After the Mauryan came the [Helvetian](). As the human cities grew and their borders ended, the Helvetian were the first and most vast human empire and were pivotal in the human expansion.  Now the last true king of the Helvetian's is dead the empire is hit hard by the Scourge the other races are reclaiming their place on Atuaro. 

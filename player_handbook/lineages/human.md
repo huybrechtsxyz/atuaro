@@ -1,4 +1,4 @@
-![Article Cover](../assets/images/lineages/human.png)
+![cover](../assets/images/lineages/human.png)
 
 # Human
 Human beings are remarkable creatures who, despite their short life span and limited inherent supernatural abilities, produce the noblest heroes and the most vile villains. Human build (and body hair) is somewhere between that of elves and dwarves, yet humans stand taller than either. Their skin and hair color can be dark as jet or light as alabaster. Human hair can also be bright red and pale yellow— other hair colors may be the result of dye, magic, or a distant non-human ancestor like an elf, dragon, or giant. 

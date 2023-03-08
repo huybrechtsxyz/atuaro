@@ -15,6 +15,26 @@ Sword and Sorcery; Fantasy Low Magic
 Followers: Whaihai
 Follower: Kaiwhai
 
-## World Credits
+## About Atuaro
+Atuaro is a low magic but powerful renaissance sword & sorcery world where magic and gods exist and influence the world.
 
+> **The World Is Ancient.** Empires rise and fall, leaving few places that have not been touched by imperial grandeur or decay. War, time, and natural forces eventually claim the mortal world, leaving it rich with places of adventure and mystery. Ancient civilisations and their knowledge survive in legends, magic items, and their ruins. Chaos and evil often follow an empire's collapse.
+
+> **The World Is Magical.** Practitioners of magic are few in number, but they leave evidence of their craft everywhere. The higher the level of magic the fewer the practitioners. The magic can be as innocuous and commonplace as a potion that heals wounds to something much more rare and impressive, such as a levitating tower or a stone golem guarding the gates of a city. Beyond the realms of civilisation are caches of magic items guarded by magic traps, as well as magically constructed dungeons inhabited by monsters created by magic, cursed by magic, or endowed with magical abilities. Magic comes from The Weave. It is an energy field that connects everything and all.
+> 
+> **Note.** Artificers and the like talk to the DM, you will need to use aether.
+
+>**Gods Oversee the World.** The gods are real and embody a variety of beliefs, with each god claiming dominion over an aspect of the world. Gods exert influence over the world by granting divine magic to their followers and sending signs and portents to guide them. The follower of a god serves as an agent of that god in the world. The agent seeks to further the ideals of that god and defeat its rivals. While some folk might refuse to honor the gods, none can deny their existence. Gods can't manifest themselves directly as they are incorporeal. Celestials (angels and demons) are the most used and known 'super'-agents for a diety. The more Faith a god receives the more powerfull his divitity and plentyfull celestials.
+
+>**Source of magic.** The power granted to you by your patron (cleric, warlock) is not equal to being able to manipulate the weave or what is granted to you by the primal forces. Divine is religion, the weave is arcane, and primal are the forces of nature.
+
+>**Pantheon.** The only allowed official religion is The Faith of Ohm. Although other gods exist, Ohm is the one and only official one on the continent where our adventures take place.*
+> 
+> * As clearly stated by Law, don't lightning the messenger please.
+>  
+> The dominant religion, The Faith of Ohm, believes that all creation - from the multiverse as a whole to the tiniest pebble or grain of sand - is a mysterious and beautiful sign pointing to Ohm's divine power. We are in the cradle and are the origin and most perfect of all its creations.*
+> 
+> Who knew humans could be so self-centered
+
+## World Credits
 All information in this world is borrowed from reputable sources that own the copyright to their works. This includes but is not limited to the D&D core books by Wizards of the Coast, the Level Up Adventure Guide by EN Publishing, 5e Hardcore Mode by Runehammer Games, The Lazy Dungeon Master by Michael E. Shea, and al X-treme Dungeon Mastery by Tracy Hickman and Curtis Hickman.

@@ -1,4 +1,4 @@
-![Article Cover](../assets/images/lineages/elf.png)
+![cover](../assets/images/lineages/elf.png)
 
 # Elf
 "I HAVE NEVER IMAGINED SUCH BEAUTY EXISTED," Goldmoon said softly. The day's march had been difficult, but the reward at the end was beyond their dreams. The companions stood on a high cliff over the fabled city of Qualinost. Four slender spires rose from the city's corners like glistening spindles, their brilliant white stone marbled with shining silver. Graceful arches, swoopingfrom spire to spire, soared through the air. Crafted by ancient dwarven metalsmiths, they were strong enough to hold the weight of an army, yet they appeared so delicate that a bird lighting on them might overthrow the balance. These glistening arches were the city's only boundaries; there was no wall around Qualinost. The elven city opened its arms lovingly to the wilderness.  
