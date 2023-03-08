@@ -2,6 +2,8 @@
 
 # History of Atuaro
 
+**Tags:** #history, #akkadia, #maurya, #helvetica
+
 The known history of Atuaro spans for thousands of years. In the beginning Ranginui (the sky) and Papatūānuku (earth) were joined together, and their children were born between them in darkness. After they sundered the world in the Age of Dawn, the children decided to separate their parents. To allow light to come into the world. The children then became gods of the world.
 
 ## Age of Dawn

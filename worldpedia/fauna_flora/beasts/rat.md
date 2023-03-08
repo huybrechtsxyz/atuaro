@@ -1,19 +1,31 @@
-![Image](../assets/images/beasts/rat.jpeg)
+![cover](./assets/images/rat.jpeg)
 
 # Rat
-Tiny tiny beast, unaligned  
-Challenge Rating: 0 (10 XP)  
-  
-Armor Class: 10
-Hit Points: 1 (1d4-1) 1d4-1
-Speed: 20ft 
 
+**Tags:** #tiny, #beast, #unaligned
+
+## Attributes
 | STR     | DEX     | CON    | INT     | WIS     | CHA     |
 | ------- | ------- | ------ | ------- | ------- | ------- |
 |  2 [-4] | 11 [+0] | 9 [-1] |  2 [-4] | 10 [+0] |  4 [-3] |
 
-Skills:
+## About
+| Property    | Description |
+| ----------- | ----------- |
+| Type        | Tiny beast  |
+| Morality    | Unaligned   |
+| Challenge   | 0           |
+| XP          | 10          |
+| Proficiency | +2          |
+| Initiative  | +0          |
+| Armor       | 10          |
+| HP value    | 1           |
+| HP dice     | 1d4-1       |
+| Speed       | 20 ft.      |
 
-    **Keen Smell**. The rat has advantage on Wisdom (Perception) checks that rely on smell.
+## Actions
+**Bite.** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 
-    **Senses**: Darkvision 30 ft., Passive Perception 10 ft. Proficiency Bonus +2
+## Abilities
+**Senses**: Darkvision 30 ft., Passive Perception 10 ft. 
+**Keen Smell.** The rat has advantage on Wisdom (Perception) checks that rely on smell.

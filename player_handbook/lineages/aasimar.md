@@ -1,6 +1,9 @@
 ![cover](../assets/images/lineages/aasimar.jpeg)
 
 # Aasimar
+
+**Tags:**  #character #lineage 
+
 I SAW HER, WREATHED IN WINGS OF PURE LIGHT, HER eyes blazing with the fury of the gods. The bone devils stopped in their tracks, shielding their faces. Her blade, now a brand of light, swept once, twice, three times. The devils' heads hit the ground, one after another. And thus we learned that an aasimar traveled in our ragtag band.  
  --Geldon Parl, Of the 'Jyranny of Dragons
 
@@ -11,7 +14,6 @@ I SAW HER, WREATHED IN WINGS OF PURE LIGHT, HER eyes blazing with the fury of th
 | Lifespan | Up to 200 years, mature at 20, 150 is old |
 | Height | Base 4 ft 5 in [2d8]; 5 - 7 ft avg; Medium |
 | Weight | Base 75 lb [2d4]; 100 lb avg |
-| Languages | Celestial, common |
 | Speed     | 30 ft |
 | Angelic Lineage | Lineage damage: radiant <br />Half prof mod / day Lineage spells: <br /> - Light <br /> - Guidance
 | Angelic Resistance | Lineage damage resistance<br />Extra lineage spells: <br />- Lesser restauration <br />- Devine favor |
@@ -29,3 +31,7 @@ ward on a greater quest. To a distant angel, saving a few commoners might pale i
 Aasimar are generally viewed with admiration and respect by most people, who see them as emissaries of the gods. Many people seek their guidance or assistance in matters of religion or spirituality or for good luck. However, some people may also fear or mistrust Aasimar, particularly those who worship evil deities or demons.
 
 As for Aasimar of different divine lineages, they may not necessarily be in conflict with each other, but they may have different goals or priorities depending on their alignment and the gods they serve. For example, an Aasimar who serves a lawful good deity may be more concerned with upholding justice and protecting the innocent, while an Aasimar who serves a chaotic good deity may be more focused on freedom and individual liberty.
+
+## Related Links
+- [Character Creation](../20_character_creation.md)
+- [Character Lineages](../22_character_lineage.md)

@@ -1,6 +1,8 @@
 ![header](./assets/images/heading.jpg)
 
 # The Rules of the Game
+
+
 ## TL;DR
 The Atuaro Player Handbook overrules any source book you might think is applicable. By default only information from this book is usable. The core rules of Dungeons and Dragons are used (even if not mentioned) unless specifically overruled in this book.
 

@@ -4,6 +4,9 @@
 # Character Ability Scores
 
 **Tags:**  #character, #abilities
+**Parent**: [Character Creation](20_character_creation.md)
+
+Much of what your character does in the game depends on his or her six abilities:**Strength**, **Dexterity**, **Constitution**,**Intelligence**, **Wisdom**, and **Charisma**. Each ability has a score, which is a number you record for use during play.
 
 ## About Ability Scores
 An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability. Much of what your character does in the game depends on their six abilities. Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities-a creature's assets as well as weaknesses. Six abilities provide a quick description of every creature's physical and mental characteristics:
@@ -74,7 +77,6 @@ Everyone knows what to do with a 16 STR or 18 DEX, but how to deal with a 6 INT 
 | 4 | Animal Kin | By birth or druid meddling, you are part beast. You keep your hood low and your voice down, lest humankind cast you out. |
 | 5 | The Kid | You took the adventurer’s road after only ten winters. Your mind may be that of your adult kin, but you are yet small. |
 | 6 | Aether Touched | A new kind of metal/ore has been revealed by the mountain dwarves, but this poisons the veins of some, and vexes them with pain. What is its secret? |
-|  |  |  |
 
 ### Strength
 1 (–5): Morbidly weak, has significant trouble lifting own limbs  

@@ -1,6 +1,9 @@
 ![cover](../assets/images/lineages/hobbit.png)
 
 # Hobbit (Halfling)
+
+**Tags:**  #character #lineage 
+
 REGIS THE HALFLING, THE ONLY ONE OF HIS KIND FOR hundreds of miles in any direction, locked his fingers behind his head and leaned back against the mossy blanket of the tree trunk. Regis was short, even by the standards of his diminutive race, with the fluff of his curly brown locks barely cresting the three-foot mark, but his belly was amply thickened by his love of a good meal, or several, as the opportunities presented themselves. The crooked stick that served as his fishing pole rose up above him, clenched between two of his toes, and hung out over the quiet lake, mirrored perfectly in the glassy surface of Maer Dua/don.  
  -- R.A. Salvatore, The Crystal Shard
  
@@ -13,7 +16,6 @@ The diminutive halflings survive in a world full of larger creatures by avoiding
 | Lifespan | Up to 120 years, Mature at 20 (=20), Ages like human but after 50 they age slower. Old at 90.  | 
 | Height | Base 2 ft 7 in [+2d4]; 3 - 4 ft avg; Small  | 
 | Weight | Base 35 lb [x1]; 40 lb avg | 
-| Languages | Common (Hobbit as oral only) | 
 | Speed | 25 ft | 
 | Hobbit Lineage | Nimble (Move through space larger creature)<br />Stealthy (Hide behind larger creature) | 
 | Halfling Nibleness | In natural difficult terrain (plants, undergrowth, …)<br /> No loss of movement and disadvantage to track <br /> Half prof mod / day you can <br /> - Reroll saving throw vs frightened | 
@@ -26,3 +28,7 @@ The comforts of home are the goals of most hobbits' lives: a place to settle in 
 Hobbits are adept at fitting into a community of humans, dwarves, or elves, making themselves valuable and welcome. The combination of their inherent stealth and their unassuming nature helps halflings to avoid unwanted attention. Loyal to their friends, whether halfling or otherwise. 
 
 Hobbits try to get along with everyone else and are loath to make sweeping general izations-especially negative ones.
+
+## Related Links
+- [Character Creation](../20_character_creation.md)
+- [Character Lineages](../22_character_lineage.md)
