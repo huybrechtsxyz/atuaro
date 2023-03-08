@@ -88,6 +88,8 @@ Adding Drama is the way to put your world in motion. **Add 5 points of drama to 
 > 4. The scourge made the world, which was already dog eat dog, even more dangerous.
 > 5. The gods hate the fact that their are people who can use the weave and aether to perform acts of magic.
 > 6. A rare medium named aether can power technological artfacts that wield great power!
+
+Can you force the players into making practical, but morally questionable decisions, only to later contrast their choices against the selfless heroism of decent “common folk”? What price will they have to pay to save the city, and will their victory be complete or will it be a hollow one? What kinds of disputes will they encounter between factions, and what solutions will they find for them? A plague gives your players a chance to “save” a city, while at the same asking them what it means to be a hero.
     
 
 # Basic World Properties

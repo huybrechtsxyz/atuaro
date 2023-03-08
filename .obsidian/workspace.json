@@ -147,8 +147,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0efe5d1bb98d0a90",
+  "active": "492888bac540fc89",
   "lastOpenFiles": [
+    "player_handbook/spells/template.md",
+    "player_handbook/spells",
+    "player_handbook/classes copy/template.md",
+    "player_handbook/classes copy",
+    "player_handbook/items/gear/template.md",
+    "player_handbook/items/gear",
+    "player_handbook/items/weapons/template.md",
+    "player_handbook/items/weapons",
+    "player_handbook/items/armor/template.md",
+    "player_handbook/items/armor",
+    "player_handbook/talents/template.md",
+    "player_handbook/talents",
     "player_handbook/heritages/collegiate.md",
     "player_handbook/tables/playable_heritages.md",
     "player_handbook/heritages/circusfolk.md",
@@ -170,13 +182,7 @@
     "player_handbook/21_character_abilities.md",
     "tables",
     "player_handbook/tables/lineages_table.md",
-    "player_handbook/26_character_equipment.md",
-    "player_handbook/25_character_class.md",
-    "player_handbook/24_character_background.md",
-    "player_handbook/27_character.md",
     "player_handbook/Untitled",
-    "player_handbook/10_game_rules.md",
-    "player_handbook/11_game_rules_combat.md",
     "templates/campaign/assets/images/heading copy.jpg",
     "templates/adventure/assets/images/heading.jpg",
     "templates/adventure/assets/images/cover.jpg",
@@ -188,12 +194,6 @@
     "adventures/orphanage/assets/maps/carnival_map_no.png",
     "adventures/orphanage/assets/maps/orphanage_attic.jpg",
     "adventures/orphanage/assets/maps/carnival_map_no.jpeg",
-    "adventures/orphanage/assets/audio/ambience-heckna-carnival-ambience-joyful.mp3",
-    "adventures/orphanage/assets/audio/witchlight-carnival-ambient-sounds.mp3",
-    "resources/ddb-images/adventures/misc",
-    "resources/ddb-images/frames",
-    "resources/ddb-images/other",
-    "resources/ddb-images/characters",
-    "resources/ddb-images/adventures"
+    "adventures/orphanage/assets/audio/ambience-heckna-carnival-ambience-joyful.mp3"
   ]
 }

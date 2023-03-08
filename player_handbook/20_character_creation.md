@@ -24,6 +24,26 @@ As your character goes on adventures and overcomes challenges, he or she gains e
 
 The next step also includes various preferences for your character. You can proceed with the default options or make changes if desired. Make sure to ask the game master about certain requirements.
 
+## Preferences
+
+
+[h3]D&D Beyond Summary[/h3]
+Sources : All. Remember, when not using Core or Basic stuff ask the DM!
+Dice Rolling : Your choice
+Optional Features : Yes
+Advancement Type : Milestone
+Hitpoint Type : Fixed
+Use Prerequisites : Yes for Multiclassing
+Show Level Scaled Spells : Yes
+Encumbrance : Use
+Ignore coin weight : Yes
+
+### Leveling Up
+This campaign will use Milestone levelling. This keeps managing the level progression easy and straightforward. It promotes teamwork and value over the action of a single character. There is nothing wrong with being in the spotlight, or just good at certain things, but in the end you do it for the benefit of the party. Starting level is discussed at session zero.
+
+### Reskinning
+If you want to reskin something please ask your DM. Unless you want to change a mechanic and it does not break suspension of disbelief there is no real issue. But if you want your dragonborn to only cast spells with the same damage as his breath weapon, ask the DM.
+
 ## Ability Scores
 Much of what your character does in the game depends on his or her six abilities: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. By default we roll 3D6 ONCE for each attribute. Record that score. Proceed in sequence rolling six times (hardcore mode). [Read more](21_character_abilities.md)
 

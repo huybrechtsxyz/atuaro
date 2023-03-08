@@ -1,3 +1,14 @@
+
+
+
+
+[h3]Backgrounds[/h3]
+Please talk to your DM about your background. They are willing to help you fit your idea in the world where the story takes place. This will tie your background to the world and fit the character in the game. If you have preconceived ideas about your character, session zero is the place to talk about them. As a general rule we hope that people can create the characters they want, but that players are willing to make concessions to make it work with the world. You can create a custom background.
+
+[h3]Age Restrictions[/h3]
+Although there are no age restrictions to your character, please remember the starting level of your character. This starting level is given in session zero. If your character starts at level 1 and is already a 1000 year old Elf. What did they do in those centuries to only now become an adventurer.
+
+
 Describe Your Character
 
 In this step, you will flesh your character out as a person. Your character needs a name.
