@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cc25d4d463ca8696",
+        "id": "db5c731fb5c8a0a3",
         "type": "tabs",
         "children": [
           {
-            "id": "1ccc321a9b3156bc",
+            "id": "6f8995e5eec1016e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "player_handbook/character/cultures/settler.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "player_handbook/character/cultures/settler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "player_handbook/character/cultures/settler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "player_handbook/character/cultures/settler.md"
+              }
             }
           },
           {
@@ -147,40 +155,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ccc321a9b3156bc",
+  "active": "6f8995e5eec1016e",
   "lastOpenFiles": [
-    "player_handbook/heritages/Eladrin.md",
-    "player_handbook/heritages/template copy.md",
-    "player_handbook/heritages/dragoncult.md",
-    "player_handbook/tables/playable_heritages.md",
-    "player_handbook/heritages/gnome_deep.md",
-    "player_handbook/heritages/dragonbound.md",
-    "player_handbook/heritages/dwarf_deep.md",
-    "player_handbook/heritages/cosmopolitan.md",
-    "player_handbook/heritages/circusfolk.md",
-    "player_handbook/spells/template.md",
+    "player_handbook/character/cultures/elf_wood.md",
+    "player_handbook/character/cultures/_template copy.md",
+    "player_handbook/character/cultures/wildling.md",
+    "player_handbook/character/cultures/warhordling.md",
+    "player_handbook/character/cultures/villager.md",
+    "player_handbook/character/cultures/_template.md",
+    "player_handbook/character/cultures/tyrannized.md",
+    "player_handbook/character/cultures/template copy.md",
+    "player_handbook/character/cultures/halfling_tunnel.md",
+    "player_handbook/assets/images/lineages/halfling.png",
+    "player_handbook/character/lineages/halfling.md",
+    "player_handbook/character/cultures/gnome_tinker.md",
+    "player_handbook/character/cultures/halfling_stout.md",
+    "player_handbook/character/cultures/stoneworthy.md",
+    "player_handbook/character/cultures/orc_stoic.md",
+    "player_handbook/character/cultures/steamforged.md",
+    "player_handbook/character/cultures/nomad.md",
+    "player_handbook/character/cultures/settler.md",
+    "player_handbook/character/cultures/lone_wanderer.md",
+    "player_handbook/character/cultures/Itinerant.md",
+    "player_handbook/character/cultures/Imperial.md",
+    "player_handbook/character/cultures/halfling_mustbairn.md",
+    "player_handbook/character/cultures/halfling_kithbain.md",
+    "player_handbook/character/cultures/godbound.md",
+    "player_handbook/character/cultures/gnome_forest.md",
+    "player_handbook/character/cultures/gnome_deep.md",
+    "player_handbook/character/cultures/forsaken.md",
     "player_handbook/spells",
-    "player_handbook/classes copy/template.md",
     "player_handbook/classes copy",
-    "player_handbook/items/gear/template.md",
     "player_handbook/items/gear",
-    "player_handbook/items/weapons/template.md",
     "player_handbook/items/weapons",
-    "player_handbook/items/armor/template.md",
     "player_handbook/items/armor",
-    "player_handbook/talents/template.md",
     "player_handbook/talents",
-    "player_handbook/heritages/collegiate.md",
-    "player_handbook/lineages/tiefling.md",
-    "player_handbook/lineages/human.md",
-    "player_handbook/lineages/hobbit.md",
-    "player_handbook/lineages/gnome.md",
-    "player_handbook/lineages/elf.md",
-    "player_handbook/lineages/dwarf.md",
-    "player_handbook/lineages/dragonborn.md",
-    "player_handbook/heritages/caravanner.md",
-    "player_handbook/lineages/aasimar.md",
-    "player_handbook/heritages/template.md",
     "tables",
     "player_handbook/Untitled",
     "templates/campaign/assets/images/heading copy.jpg",
@@ -193,7 +202,6 @@
     "templates/adventure/maps",
     "adventures/orphanage/assets/maps/carnival_map_no.png",
     "adventures/orphanage/assets/maps/orphanage_attic.jpg",
-    "adventures/orphanage/assets/maps/carnival_map_no.jpeg",
     "adventures/orphanage/assets/audio/ambience-heckna-carnival-ambience-joyful.mp3"
   ]
 }

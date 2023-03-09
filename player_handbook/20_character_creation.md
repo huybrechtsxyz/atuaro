@@ -6,7 +6,7 @@
 
 1. [Ability Scores and Modifiers](21_character_abilities.md)  
 2. [Select a Lineage](22_character_lineage.md)
-3. [Select a heritage](23_character_heritage.md)
+3. [Select a Culture](23_character_culture.md)
 
 ## Getting Started
 To play in a role-playing game you will need a character. But as most players already did this plenty we are going to condense the information in this article to what you need to know to play in Atuaro with links to relevant articles if you want to know more.
@@ -50,5 +50,5 @@ Much of what your character does in the game depends on his or her six abilities
 ## Select a Lineage
 Every character belongs to a lineage, one of the many intelligent humanoid species in the D&D world. The most commonly known lineages are dwarves, elves, halfiings, and humans. [Read more](22_character_lineage.md)
 
-## Select a Heritage
-The culture you are raised in is as important to your development as the family you are born into. While your chosen culture usually describes how your character grew up, the culture you choose could also represent the environment in which they spent a number of their formative years. [Read more](23_character_heritage.md)
+## Select a Culture
+The culture you are raised in is as important to your development as the family you are born into. While your chosen culture usually describes how your character grew up, the culture you choose could also represent the environment in which they spent a number of their formative years. [Read more](23_character_culture.md)
