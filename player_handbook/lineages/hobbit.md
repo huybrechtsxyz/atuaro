@@ -20,7 +20,6 @@ The diminutive halflings survive in a world full of larger creatures by avoiding
 | Hobbit Lineage | Nimble (Move through space larger creature)<br />Stealthy (Hide behind larger creature) | 
 | Halfling Nibleness | In natural difficult terrain (plants, undergrowth, …)<br /> No loss of movement and disadvantage to track <br /> Half prof mod / day you can <br /> - Reroll saving throw vs frightened | 
 | Hobbit Luck | Half prof mod / day you can<br />- You succeed on your ability check or saving throw | 
-| | | 
 
 ## About
 The comforts of home are the goals of most hobbits' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies; a blazing fire and a generous meal; fine drink and fine conversation. Even those who wander love peace, food, hearth, and home, though home might be a wagon jostling along an dirt road or a raft floating downriver. 

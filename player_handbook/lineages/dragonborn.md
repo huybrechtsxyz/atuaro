@@ -17,10 +17,9 @@ Dragonborn look very much like dragons standing erect in humanoid form, though t
 | Height | Base 5 ft 6 in [2d8]; 6 - 8 ft avg; Medium |
 | Weight | Base 175 lb [2d6]; 250 lb avg |
 | Speed | 30 ft |
-| Draconic Lineage | Prof mod / day use your breath weapon <br /> Your Claws use STR <br /> Your Scales give AC13 | <br />
+| Draconic Lineage | Prof mod / day use your breath weapon <br /> Your Claws use STR <br /> Your Scales give AC13 |
 | Draconic Resistance | Breath resistance <br /> Claws (2 x STR) <br /> Scales (AC13 + DEX|STR|CON) |
 | Draconic Immunity | Prof mod / day you have breath immunity <br /> Claws (3 x STR) <br /> Scales (AC13 + DEX|STR + CON) |
-|  |  |
  
 ## Draconic Ancestry
 You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.

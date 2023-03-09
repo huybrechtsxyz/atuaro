@@ -19,7 +19,6 @@ The origin of human beings is contentious. Many human cultures believe that thei
 | Human Lineage | Can forgo supplies for extra CON days before fatigue Fast learner (train/learn new skills/spells/.. in half the time) | 
 | Human Perseverance | Desperate dash (run + 10ft + expertise on DEX related checks) <br />Half prof mod / day you can <br />- Reroll ability checks, saving throws vs survival / fatigue<br />- Add expertise to an ability check | 
 | Human Determination | Half prof mod / day you can <br />- You change one of your d20 roles to a natural 20<br />
-| | | 
 
 ## About
 Humans were the last lineage to settle on this world and have claimed parts of it as their own and their teritory keeps expanding. Thhis is not taken kindly by those unable to adapt.

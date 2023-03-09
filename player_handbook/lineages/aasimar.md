@@ -15,10 +15,9 @@ I SAW HER, WREATHED IN WINGS OF PURE LIGHT, HER eyes blazing with the fury of th
 | Height | Base 4 ft 5 in [2d8]; 5 - 7 ft avg; Medium |
 | Weight | Base 75 lb [2d4]; 100 lb avg |
 | Speed     | 30 ft |
-| Angelic Lineage | Lineage damage: radiant <br />Half prof mod / day Lineage spells: <br /> - Light <br /> - Guidance
+| Angelic Lineage | Lineage damage: radiant <br />Half prof mod / day Lineage spells: <br /> - Light <br /> - Guidance |
 | Angelic Resistance | Lineage damage resistance<br />Extra lineage spells: <br />- Lesser restauration <br />- Devine favor |
-| Angelic Immunity | Lineage damage immunity<br />Extra lineage spells: <br />- Greater restauration <br />- Zone of thruth
-|  |  |
+| Angelic Immunity | Lineage damage immunity<br />Extra lineage spells: <br />- Greater restauration <br />- Zone of thruth |
 
 ## About
 Aasimar bear within their souls the light of the heavens. They are descended from humans with a touch of the power of Mount Celestia, the divine realm of many lawful good deities. Aasimar are born to serve as champions of the gods, their births hailed as blessed events. They are a people of otherworldly visages, with luminous features that reveal their celestial heritage.

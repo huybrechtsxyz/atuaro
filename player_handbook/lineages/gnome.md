@@ -17,7 +17,6 @@ Gnomes make their homes in hilly, wooded lands. They live underground but get mo
 | Gnome Lineage | Natural Illusionist. <br /> You know the minor illusion cantrip. <br /> Intelligence is your spellcasting ability for it. |
 | Gnome Cunning | Prof mod / day you can have advantage on all Intelligence saving throws against magic.<br /> Prof mod / day cast lineage spells without fail using INT you can cast <br />- Prestidigitation <br /> - Mending  |
 | Gnome Resistance | Half prof mod / day you can<br /> - Succeed on Intelligence, Wisdom, and Charisma saving throws against magic.  |
-|  |  |
 
 ## About
 As far as gnomes are concerned, being alive is a wonderful thing, and they squeeze every ounce of enjoyment out of their four to five centuries of life. Gnomes make their homes in hilly, wooded lands. They live underground but get more fresh air than dwarves do, enjoying the natural, living world on the surface whenever they can. Their homes are well hidden by both clever construction and simple illusions.
