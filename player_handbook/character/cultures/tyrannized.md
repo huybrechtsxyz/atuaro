@@ -2,7 +2,7 @@
 
 # Tyrannized
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Many people live in fear of a tyrannical ruler and of the militant minions that punish dissent and disobedience. Performative loyalty becomes necessary for survival, until even those who oppose the ruler will sometimes betray their neighbors lest they be dragged away to torture and enslavement. Those who resist the tyrant learn to feign the role of faithful soldier, and the cruel irony is that they often profit from the violent conquests of the regime they loathe. Characters raised in the tyrannized culture share a variety of traits in common with one another.
 

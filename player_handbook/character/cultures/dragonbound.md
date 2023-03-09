@@ -2,7 +2,7 @@
 
 # Dragonbound
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Dragonbound clans live under the direct rule of a dragon; in the case of dragonborn characters, that dragon will usually be their progenitor dragon. Whether that dragon is malevolent or benign, the clan exists to serve it. Living under a kind and wise dragon can be a safe and joyful upbringing, though one of strict control. Life under a cruel dragon can be fraught with the uncertainty of survival, scrounging off what a dragonic overlord deems a servant worthy of. Dragonbound living can often be comfortable or even enjoyable, but it is not living for oneself. Whether their chains are literal or metaphorical, dragonbound live at their master’s whims. Thankfully those whims often involve directives and missions that range far and wide, endeavors that expose dragonbound to countless viewpoints and quite often plant the seeds of sedition. Characters raised in the dragonbound culture share a variety of traits in common with one another. 
 

@@ -2,7 +2,7 @@
 
 # Circusfolk
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture  
 
 Circusfolk value wit, surprise, and daring which they display in both their lifestyle and their folktales. While some communities are found in villages and insular neighbourhoods, they are most famous for their travelling carnivals. These troupes often began as just a handful of entrepreneurial entertainers but blossomed into big top circuses with caravans complete with support staff, spouses, and new family members. Orphans, runaways, and misfits of all heritages find a new family among circusfolk. 
 

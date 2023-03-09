@@ -2,7 +2,7 @@
 
 # Wildling
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Remote groups isolated by vast oceans, high mountains, or thick vegetation live at the mercy of nature. They learn to be part of the wilderness’ unending cycles, living in small communities which have little or no contact with the so-called “civilized” peoples of the world. Most frequently, wildlings can be found in secluded villages; sometimes, a wildling lives alone, their only company the beasts with which they share the wilderness. With their intimate understanding of and relationship with nature wildlings make excellent adventurers. Characters raised in the wildling culture share a variety of traits in common with one another. 
 

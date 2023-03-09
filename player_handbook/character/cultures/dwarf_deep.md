@@ -2,7 +2,7 @@
 
 # Deep Dwarf
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Deep dwarves make their homes underground, far from most other creatures and from the sun. Their communities are the most isolated of all dwarven cultures. Some of them refuse trade even with other dwarves. Those that do trade, however, quickly realize that some goods they grow underground cannot live on the surface, and vice versa. Deep dwarf beer is unique, prized across all other dwarven cultures and many other peoples. Living so isolated and surrounded by dangerous monsters makes these people extremely cautious and calls for specialized training. While hammers and axes are similar to tools dwarves use, they are not much use in the cramped environments deep dwarves navigate. 
 

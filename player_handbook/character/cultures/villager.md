@@ -2,7 +2,7 @@
 
 # Villager
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Far away from the protection of armies and uncomfortably close to the borders beyond which anything 
 might roam, day-to-day life as a villager is routine—

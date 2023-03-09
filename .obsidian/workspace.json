@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db5c731fb5c8a0a3",
+        "id": "a01ea9e730d25857",
         "type": "tabs",
         "children": [
           {
-            "id": "6f8995e5eec1016e",
+            "id": "81ec4fcae522891e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "player_handbook/character/cultures/settler.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#heritage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "player_handbook/character/cultures/settler.md",
+                "file": "player_handbook/character/cultures/lone_wanderer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "player_handbook/character/cultures/settler.md",
+                "file": "player_handbook/character/cultures/lone_wanderer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "player_handbook/character/cultures/settler.md"
+                "file": "player_handbook/character/cultures/lone_wanderer.md"
               }
             }
           },
@@ -155,35 +152,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f8995e5eec1016e",
+  "active": "1932da6d46f54ae2",
   "lastOpenFiles": [
-    "player_handbook/character/cultures/elf_wood.md",
-    "player_handbook/character/cultures/_template copy.md",
-    "player_handbook/character/cultures/wildling.md",
-    "player_handbook/character/cultures/warhordling.md",
-    "player_handbook/character/cultures/villager.md",
-    "player_handbook/character/cultures/_template.md",
-    "player_handbook/character/cultures/tyrannized.md",
-    "player_handbook/character/cultures/template copy.md",
-    "player_handbook/character/cultures/halfling_tunnel.md",
-    "player_handbook/assets/images/lineages/halfling.png",
-    "player_handbook/character/lineages/halfling.md",
-    "player_handbook/character/cultures/gnome_tinker.md",
-    "player_handbook/character/cultures/halfling_stout.md",
-    "player_handbook/character/cultures/stoneworthy.md",
-    "player_handbook/character/cultures/orc_stoic.md",
-    "player_handbook/character/cultures/steamforged.md",
-    "player_handbook/character/cultures/nomad.md",
-    "player_handbook/character/cultures/settler.md",
-    "player_handbook/character/cultures/lone_wanderer.md",
-    "player_handbook/character/cultures/Itinerant.md",
-    "player_handbook/character/cultures/Imperial.md",
     "player_handbook/character/cultures/halfling_mustbairn.md",
-    "player_handbook/character/cultures/halfling_kithbain.md",
+    "player_handbook/character/cultures/halfling_tunnel.md",
+    "player_handbook/character/cultures/Itinerant.md",
+    "player_handbook/character/cultures/settler.md",
+    "player_handbook/character/cultures/stoneworthy.md",
+    "player_handbook/character/cultures/villager.md",
     "player_handbook/character/cultures/godbound.md",
     "player_handbook/character/cultures/gnome_forest.md",
+    "player_handbook/character/cultures/wildling.md",
+    "player_handbook/character/cultures/warhordling.md",
+    "player_handbook/character/cultures/tyrannized.md",
+    "player_handbook/character/cultures/steamforged.md",
+    "player_handbook/character/cultures/orc_stoic.md",
+    "player_handbook/character/cultures/nomad.md",
+    "player_handbook/character/cultures/Imperial.md",
+    "player_handbook/character/cultures/halfling_stout.md",
+    "player_handbook/character/cultures/halfling_kithbain.md",
+    "player_handbook/character/cultures/gnome_tinker.md",
     "player_handbook/character/cultures/gnome_deep.md",
+    "player_handbook/character/cultures/forgotten_folx.md",
+    "player_handbook/character/cultures/elf_wood.md",
+    "player_handbook/character/cultures/elf_eladrin.md",
     "player_handbook/character/cultures/forsaken.md",
+    "player_handbook/character/cultures/elf_shadow.md",
+    "player_handbook/character/cultures/elf_high.md",
+    "player_handbook/character/cultures/dwarf_hill.md",
+    "player_handbook/assets/images/lineages/halfling.png",
     "player_handbook/spells",
     "player_handbook/classes copy",
     "player_handbook/items/gear",

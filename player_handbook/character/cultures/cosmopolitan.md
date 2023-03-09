@@ -2,7 +2,7 @@
 
 # Cosmopolitan
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Cosmopolitans grew up in one of the world’s largest, most diverse cities. People of every heritage and way of life brush shoulders, speaking any tongue that can be imagined. Any faith can find a place of worship — even if it is in a home and not a proper temple. The main roads are active all through the night, and there are shadowy alleys where any good might be procured no matter the hour. Folks tend to have polarized opinions on the city—you either love it or hate it. For some people the big city is a cesspool of corruption and debauchery, but for others the cosmopolitan lifestyle represents what could be: a peaceful global society. The ideal of creating a culture where everyone can fit in fills some folks with hope. Characters raised in the cosmopolitan culture share a variety of traits in common with one another.
 

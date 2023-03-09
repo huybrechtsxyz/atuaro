@@ -2,7 +2,7 @@
 
 # {template}
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Description
 

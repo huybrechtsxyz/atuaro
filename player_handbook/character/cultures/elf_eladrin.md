@@ -2,7 +2,7 @@
 
 # Eladrin
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 These elvish people are the most accustomed to life in the Dreaming (what some call the Feywild). It is sometimes said that eladrin are the most ancient lineage of elves with the closest blood link to other faeries. Settlements of eladrin empires (and the ruins thereof) can be found scattered all across the Faerie Realm, and some appear in the Material Plane where the boundary between worlds is thin.
 

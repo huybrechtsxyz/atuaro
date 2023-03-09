@@ -2,7 +2,7 @@
 
 # Forsaken
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 In world-shaking catastrophes where magic, disasters, and monsters ran rampant, there were those that gritted their teeth and adapted to survive rather than flee their homes. Such cataclysms are now stories of a distant past, and descendants of the survivors continue to channel and embrace the unpredictability of the magical energies surrounding their ruined lands. Despite having lost most everything—sometimes more than once —these people remain optimistic. They are not bound by tradition and are the culture least likely to be obsessed with the glory of past kingdoms. Forsaken characters are forced to grow up quickly. They often get married after short courtships and form big families —most of them are nonmonogamous. However, they are still relatively suspicious of outsiders. After all, no matter how bright the future might be the bitter sting of grief lasts a lifetime. Characters raised in the forsaken culture share a variety of traits in common with one another.
 

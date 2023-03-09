@@ -2,7 +2,7 @@
 
 # Collegiate
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Sometimes a village, farm, or city becomes a hub of new ideas and innovations in knowledge and technology. Other times, great institutes of learning arise, universities and colleges where one can spend their entire life in study. Those from these learned communities are renowned for their ability to apply their intellect to their field of expertise. Characters raised in the collegiate culture share a variety of traits in common with one another.
 

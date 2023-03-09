@@ -2,7 +2,7 @@
 
 # Forgotten Folx
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 The forgotten folx are even more secretive than the notoriously reclusive forest gnomes. These communities almost always share a strong, familial bond with each other, even those they aren’t related to. Entire villages raise children communally, provide for each other, and survive primarily by bartering craft goods. These settlements have a lot of love to give and are more than happy to take in wanderers or adventurers who stumble across their homes. Because of their open and caring nature, it is not uncommon for relationships among forgotten folx to include multiple partners— of all genders and heritages. Most who leave this culture do so to become merchants and provide their crafts and talents to more people, or out of a desire to see the “real” world. It is common for young adults to be encouraged to go on a sort of sabbatical to experience life outside of the community, bringing back new technologies and goods upon their return. Characters raised in the forgotten folx culture share a variety of traits in common with one another. 
 

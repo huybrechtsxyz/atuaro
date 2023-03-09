@@ -2,7 +2,7 @@
 
 # Stoneworthy
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Civilizations can thrive without developing metallurgy, either by choice or because they live in stone-age cultures. Those from such societies are known as the stoneworthy. They are often adaptable and tenacious, with skills well-suited for adventuring.Characters raised in the stoneworthy culture share a variety of traits in common with one another. 
 

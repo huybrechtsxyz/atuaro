@@ -2,7 +2,7 @@
 
 # Deep Gnome
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Thriving in the darkest, most remote depths, deep gnomes excel when working in darkened or stealth conditions. In general deep gnomes tend to be thin and muscular, and typically bald. They have adapted to underground environments and are at home in the darkness, easily blending in against rocks and stonework. This cultural predilection for stealth manifests itself in magical abilities, including the power to blind others, change appearance, and even 
 conceal themselves from divination magic.

@@ -2,7 +2,7 @@
 
 # Tinker Gnome
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Gnomes are known for their unique brand of creativity which often leads to the advancement of both magic and technology. Non-gnomes that immerse themselves in this culture struggle to reach the level of craftsmanship achieved by their gnomish counterparts, but can learn to match it with enough dedication and hard work. There is rarely rivalry inside of tinker gnome communities and it’s not uncommon for tinkers to help even a direct competitor perfect a new product— though there are no promises that they won’t steal the plans for themselves afterwards. Characters raised in the tinker gnome culture share a variety of traits in common with one nother. 
 

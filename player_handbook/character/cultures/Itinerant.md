@@ -2,7 +2,7 @@
 
 # Itinerant
 
-**Tags:**  #character #heritage 
+**Tags:**  #character #culture 
 
 Some wanderers may not have grown up with a single place to call home. Their culture is a mix of many, allowing them to see things from different angles and perspectives. Always outsiders yet able to blend in with ease, such folks benefit from the wisdom of a wide range of peoples, customs, and places. Characters raised as itinerants share a variety of traits in common with one another.
 
