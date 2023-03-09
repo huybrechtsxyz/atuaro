@@ -10,12 +10,12 @@ The circusfolk oral tradition is exceedingly rich and best known for its trickst
 
 ## Abilities
 
-| Trait            | Description                                                                                                                               |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Rapid Escape     | You can use the Disengage action as a bonus action.                                                                                       |
-| Slapstick        | You are proficient with improvised weapons, and improvised weapons you use can deal 1d6 damage rather than the damage they normally deal. |
-| Trickster’s Veil | You are proficient with the disguise kit.                                                                                                 |
-| Languages | You can speak, read, write, and sign Common |
+| Trait | Description |
+| ----- | ----------- |
+| Rapid Escape | You can use the Disengage action as a bonus action. |
+| Slapstick | You are proficient with improvised weapons, and improvised weapons you use can deal 1d6 damage rather than the damage they normally deal. |
+| Trickster’s Veil | You are proficient with the disguise kit. |
+| Languages | You can speak, read, write, and sign Common. |
 
 ## Related Links
 - [Character Creation](../20_character_creation.md)

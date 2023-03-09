@@ -7,14 +7,13 @@
 Sometimes a village, farm, or city becomes a hub of new ideas and innovations in knowledge and technology. Other times, great institutes of learning arise, universities and colleges where one can spend their entire life in study. Those from these learned communities are renowned for their ability to apply their intellect to their field of expertise. Characters raised in the collegiate culture share a variety of traits in common with one another.
 
 ## Abilities
-Skil, Tool, Advantage on check, utility
 
-| Trait              | Description                                                                                                                                                                                                   |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Philosophic Mind   | Your rationale shields your psyche occasionally. Once between long rests, at the start of your turn you can suppress the effects of an enchantment spell you are under for 1 round as your logic overrides it |
-| Practiced Artisan  | You are proficient with calligrapher’s supplies and another artisan’s tool.                                                                                                                                   |
-| Studied Discipline | You have extensive knowledge in certain fields. For all skill proficiencies gained through this trait, you always choose which ability score to use for these rolls (Intelligence, Wisdom, or Charisma).      |
-| Languages.         | You can speak, read, write, and sign Common and two additional languages.                                                                                                                                     |
+| Trait | Description |
+| ----- | ----------- |
+| Philosophic Mind | Your rationale shields your psyche occasionally. Once between long rests, at the start of your turn you can suppress the effects of an enchantment spell you are under for 1 round as your logic overrides it |
+| Practiced Artisan | You are proficient with calligrapher’s supplies and another artisan’s tool. |
+| Studied Discipline | You have extensive knowledge in certain fields. For all skill proficiencies gained through this trait, you always choose which ability score to use for these rolls (Intelligence, Wisdom, or Charisma). |
+| Languages. | You can speak, read, write, and sign Common and two additional languages. |
 
 For studied discipline choose one of the following:
 

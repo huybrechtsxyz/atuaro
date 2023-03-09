@@ -10,7 +10,7 @@ Description
 Skil, Tool, Advantage on check, utility
 
 | Trait | Description |
-| --------- | ----------- |
+| ----- | ----------- |
 |  |  | 
 
 ## Related Links

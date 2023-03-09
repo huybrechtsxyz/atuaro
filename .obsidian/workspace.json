@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6d5d16b94d849ab",
+        "id": "cc25d4d463ca8696",
         "type": "tabs",
         "children": [
           {
-            "id": "0efe5d1bb98d0a90",
+            "id": "1ccc321a9b3156bc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "492888bac540fc89",
+  "active": "1ccc321a9b3156bc",
   "lastOpenFiles": [
+    "player_handbook/heritages/dragoncult.md",
+    "player_handbook/tables/playable_heritages.md",
+    "player_handbook/heritages/template copy.md",
+    "player_handbook/heritages/gnome_deep.md",
+    "player_handbook/heritages/dragonbound.md",
+    "player_handbook/heritages/dwarf_deep.md",
+    "player_handbook/heritages/cosmopolitan.md",
+    "player_handbook/heritages/circusfolk.md",
     "player_handbook/spells/template.md",
     "player_handbook/spells",
     "player_handbook/classes copy/template.md",
@@ -162,8 +170,6 @@
     "player_handbook/talents/template.md",
     "player_handbook/talents",
     "player_handbook/heritages/collegiate.md",
-    "player_handbook/tables/playable_heritages.md",
-    "player_handbook/heritages/circusfolk.md",
     "player_handbook/lineages/tiefling.md",
     "player_handbook/lineages/human.md",
     "player_handbook/lineages/hobbit.md",
@@ -175,13 +181,7 @@
     "player_handbook/lineages/aasimar.md",
     "player_handbook/heritages/template.md",
     "player_handbook/tables/playable_lineages.md",
-    "player_handbook/23_character_heritage.md",
-    "tables/playable_heritage.md",
-    "player_handbook/22_character_lineage.md",
-    "player_handbook/20_character_creation.md",
-    "player_handbook/21_character_abilities.md",
     "tables",
-    "player_handbook/tables/lineages_table.md",
     "player_handbook/Untitled",
     "templates/campaign/assets/images/heading copy.jpg",
     "templates/adventure/assets/images/heading.jpg",

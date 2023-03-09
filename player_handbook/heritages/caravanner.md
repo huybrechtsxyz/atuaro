@@ -8,12 +8,12 @@ Sometimes societies are overturned by war and conflict, and there isn’t always
 
 ## Abilities
 
-| Trait            | Description                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Caravanner       | Long hauls require steady handling of a wagon and a good rapport with the pack animals. You are proficient in Animal Handling and with land vehicles.                                                                                                                                                                                                                                                                                    |
-| Long Hauler      | Sometimes riding in a caravan means enduring long hours and harsh weather. You have advantage on checks made to avoid fatigue from a forced march.                                                                                                                                                                                                                                        |
-| Mobile Living    | You can create a ramshackle version of a cart or wagon with 30 minutes of work if you have access to raw or reclaimed materials. Ramshackle vehicles created in this way function identically to their normal counterparts, except their gold piece value is always 0, they have half as many hit points as their normal counterparts, and they break and become useless if they are hit by any attack roll with a result of natural 20. |
-| Languages        | You can speak, read, write, and sign Common and one other language |
+| Trait | Description |
+| ----- | ----------- |
+| Caravanner | Long hauls require steady handling of a wagon and a good rapport with the pack animals. You are proficient in Animal Handling and with land vehicles. |
+| Long Hauler | Sometimes riding in a caravan means enduring long hours and harsh weather. You have advantage on checks made to avoid fatigue from a forced march. |
+| Mobile Living | You can create a ramshackle version of a cart or wagon with 30 minutes of work if you have access to raw or reclaimed materials. Ramshackle vehicles created in this way function identically to their normal counterparts, except their gold piece value is always 0, they have half as many hit points as their normal counterparts, and they break and become useless if they are hit by any attack roll with a result of natural 20. |
+| Languages | You can speak, read, write, and sign Common and one other language |
 
 ## Related Links
 - [Character Creation](../20_character_creation.md)
