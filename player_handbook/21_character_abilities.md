@@ -156,5 +156,253 @@ Everyone knows what to do with a 16 STR or 18 DEX, but how to deal with a 6 INT 
 18-19 (4): Quickly likeable, respected or feared by almost everybody; can entertain people easily or knows how to effectively convince them of their own beliefs and arguments  
 20 (5): Renowned for wit, personality, and/or looks; may be a natural born leader  
 
+## Skills
+While abilities provide broad descriptions of a character’s capabilities, a skill represents their training in a particular task such as Acrobatics or Deception. A character who has training in a skill is said to be proficient in it. Most skill proficiencies are acquired by adventurers during character creation from their choice of culture, background, and class.
+
+### Acrobatics
+An Acrobatics check allows a character to perform gymnastic feats such as 
+rolling under a closing gate, swinging across a chasm on a rope, or keeping their balance on a narrow ledge. The most commonly used ability score is Dexterity. A character might use Strength to perform acrobatics while carrying a heavy burden, Constitution to do so against a heavy wind, or any other ability score as circumstances warrant.
+
+**Specialties**: balancing, escape artistry, swinging, tumbling.
+
+**Examples:**
+* 10 Maneuver quickly through a light crowd; rappel safely down a rope
+* 15 Do a standing flip; keep your balance in a sudden, strong earthquake
+* 18 Balance along a tightrope; swing from a chandelier
+* 20 Contort into a space too narrow for your body to fit through; escape basic shackles
+
+### Animal Handling
+Animal Handling allows a character to train or control a domesticated animal, to handle a steed, or to communicate nonaggression to a wild beast. The most commonly used ability score is Wisdom. A character might use Charisma to command an animal’s attention, Strength to stay mounted on a rampaging bull, or Dexterity to stand on the back of a galloping horse.
+
+**Specialties:** calming, driving, farming, riding, training.
+
+**Examples:**
+* 10 Calm a warhorse startled in battle; de-escalate aggressive urban wildlife
+* 15 Calm a riding or draft horse startled by battle; de-escalate territorial wildlife
+* 20 Earn the immediate trust of urban wildlife; drive a warhorse into extreme peril
+* 22 Befriend hostile wildlife; drive an untrained mount into battle
+
+### Arcana
+Arcana measures a character’s knowledge of magic and magical creatures. It can also be used to sense whether an area has magical qualities. The most commonly used ability score is Intelligence. A character might use Dexterity to trace a complicated magical rune, or Wisdom to read very carefully and protect their sanity while interpreting forbidden eldritch secrets.
+
+**Specialties:**
+aberrations, constructs, detection, dragons, elementals, fey, forbidden knowledge, monstrosities, oozes, the planes.
+
+**Examples:**
+* 10 Notice the telltale signs of a mage’s lab; pick out a spellbook among mundane tomes
+* 15 Detect places of latent magical energy; recall an uncommon arcane method
+* 18 Identify the purpose of an esoteric ritual circle; notice signs of planar disturbance
+* 22 Wow an archmage with your expertise; recreate a complex ritual from memory
+
+### Athletics
+A character makes an Athletics check to perform unusually difficult feats of swimming, running, climbing, or jumping. The most commonly used ability score is Strength. A character might use Dexterity to climb a smooth wall for a short distance or to jump onto a moving creature, Constitution to perform an athletic activity for more than a minute, or Intelligence to keep track of opposing players in a complex sport. 
+
+**Specialties:** climbing, jumping, lifting, running, swimming, throwing.
+
+**Examples:**
+* 10 Climb a rock face with obvious hand and footholds; climb a secured rope
+* 15 Climb a ship’s rigging in inclement weather; climb a cliffside
+* 18 Jump from a moving carriage to another; stay on a horse as it makes a daring jump
+* 20 Long jump while carrying a Medium or Small creature; climb an overhan
+
+### Deception
+The Deception skill is used when a character lies, misleads, or hides the truth whether verbally or otherwise. This ability check may be made against a DC set by the Narrator or may be opposed by a target’s Insight check. The most commonly used ability score is Charisma. A character might use Intelligence to compose a cipher or Constitution to conceal the effect of a wound or attack.
+
+**Specialties:** boasting, ciphers, concealing emotions, mimicry.
+
+**Examples:**
+* 10 Communicate a simple secret message to an ally
+* 15 Decipher a simple cipher or code
+
+Deception is usually contested by a creature’s passive Insight. 
+* –2 Victim wants to believe the lie, as it’s convenient or beautiful
+* –2 Victim trusts the liar deeply and implicitly
+* +2 Victim stands to lose something from the lie
+* +4 Victim is undertaking serious risk by believing the lie
+* +10 Lie is far-fetched, and the victim would be a fool to take it at face value
+
+### History
+The History skill measures a character’s knowledge of past events. Intelligence is nearly always the ability score used with this skill.
+ 
+**Specialties:** arts, empires, genealogy, legends, wars.
+
+**Examples:**
+* 10 Recall famous legends about a specific region; remember the name of a famous hero
+* 15 Assess the historical importance of an ancient artwork; identify long-lost heraldry
+* 20 Know the childhood nickname of a famous noble; accurately recall an entire family’s genealogy dating back a century
+
+### Insight
+An Insight check can be used for reading a creature’s intentions or motives. The most commonly used ability score is Wisdom. A character might use Dexterity to interrupt an enemy’s sudden action or Strength when squeezing an object to see how hard it will be to break.
+
+**Specialties:** detecting lies, reading emotions, sensing motives. 
+
+**Examples:**
+Also see Deception.
+* 10 Assess the mood of someone not hostile to you
+* 15 Determine someone’s true opinion of you; learn someone’s current, most immediate desire
+* 20 Understand the general meaning of someone speaking a language you don’t know
+
+### Intimidation
+A character makes an Intimidation check to alter someone’s behavior by rightening or threatening them. A single Intimidation check can also be used as part of an interrogation, though further checks rarely offer different results. The Narrator sets the DC of the check based on the target’s bravery and the circumstances of the check; some creatures can’t be intimidated. The most commonly used ability scores for Intimidation checks are Charisma (for verbal threats) and Strength (for physical threats). A character might use Wisdom to discern a creature’s weak point, and a spellcaster might use their spellcasting ability score to summon frightening energies.
+
+**Specialties:** authority, ferocity, interrogation, subtle threats, weapon displays.
+
+**Examples:**
+* 10 Push around someone you could take in a fight; force a battered opponent to surrender
+* 15 Verbally rebuke someone who holds authority over you; demoralize foes stronger than you
+* 20 Turn a threat back on someone more dangerous than you; demoralize a stronger foe while bloodied
+
+### Investigation
+Investigation is used for actively searching, looking for clues, gathering information, experimentation, and research. The most commonly used ability score is Intelligence. A character might use Charisma to gather rumors or Wisdom to intuit which tomes and books in a library will be the most efficacious.
+
+**Specialties:** appraisal, deciphering, forensics, gathering rumors, research, trapfinding.
+
+**Examples:**
+* 10 Notice an old and frequently-used secret door; find out what inn someone’s staying at
+* 15 Discern simple truths from a crime scene; find a specific passage in a daunting tome
+* 18 Identify patterns of thieves’ cant in a town; determine how long ago a recent event took place
+* 20 Get dangerous gossip on a well-known local; assemble a timeline of suspicious happenings going back as far as 6 months
+
+### Medicine
+A character can perform a Medicine check to stabilize a dying creature, treat or diagnose a disease or poison, or determine a cause of death. The most commonly used ability score is Wisdom. A character might use Intelligence to diagnose a rare poison or Constitution to nurse someone through a lengthy and dangerous illness.
+
+**Specialties:** animals, autopsy, diseases, herbalism, poisons.
+
+**Examples:**
+* 10 Assess a broken bone or other obvious injury; stabilize a bleeding creature
+* 15 Identify the cause of death on a recent corpse; diagnose early signs of a plague
+* 18 Surgically remove a foreign object in a non-vital area; identify cause of death on an old corpse
+* 20 Keep a maimed or dismembered creature alive; amputate an infected limb
+
+### Nature
+The Nature skill measures a character’s knowledge of natural terrains, beasts, plants, and hazards. It can also be used to sense whether a creature is the product of this world or of another plane of existence. Unlike Survival, the Nature skill doesn’t necessarily imply practical experience with a phenomenon. The most commonly used ability score is Intelligence. A character might use Wisdom to recognize a hazard or Charisma to bring calm to an errant elemental presence disrupting an abandoned druid’s grove (or other place of great natural power).
+
+**Specialties:** astronomy, beast lore, farming, fey, plant lore, weather.
+
+**Examples:**
+* 10 Tell a poison berry from a safe one; identify contacthazardous plants such as poison ivy
+* 15 Intuit what kind of wildlife inhabits the surrounding environment; identify medicinal plants
+* 18 Detect signs of fey crossing or other woodland spirits; predict weather up to 7 days in advance
+* 20 Anticipate natural disasters from local animal behavior; assess the long-term health of a natural environment from a short examination
+
+### Perception
+A character’s Perception measures what they are able to see, hear, or otherwise sense (unlike Investigation, Perception doesn’t involve approaching, searching, or handling an object of study.) The most commonly used ability score is Wisdom. A character might use Constitution for a long stretch of sentinel duty, or Intelligence to pick up on changes to the type of stone bricks used deeper than elsewhere in a dungeon. 
+
+**Specialties:** farsight, invisible objects, listening, scent.
+
+**Examples:**
+Also see Sleight of Hand and Stealth.
+* 10 Spot a hunter’s trap before bumbling into it; notice signs of a recent campsite
+* 15 Notice a well-concealed pressure plate; spot campfire smoke from a long distance
+* 20 Detect the rumbling of a rockslide or avalanche before it’s too late; hear flowing water from a long distance
+
+### Performance
+A Performance check allows a 
+character to entertain an audience with singing, 
+acting, or the like. It also allows a character to 
+write or compose music, literature, or other 
+artistic endeavors to entertain future audiences. 
+The most commonly used ability score is Charisma, 
+especially for performances before an audience. 
+Writing, composing, or painting might instead 
+use Intelligence or Wisdom. A display of martial 
+prowess might require Dexterity or Strength.
+
+**Specialties:** acting, composing, dancing, fine art, singing, speaking, writing. 
+
+**Examples:**
+* 10 Earn room and board at a common inn; busk to impress passersby
+* 15 Give a performance that catches the attention of a potential patron; show off for a minor noble
+* 18 Draw a substantial crowd through busking; cause a massive distraction
+* 20 Give a performance worthy of a lavish party; win over a wealthy patron
+
+### Persuasion
+A character makes a Persuasion check to convince or influence someone through logic, flattery, or negotiation (unlike a Deception check, a Persuasion check is made in some degree of good faith.) The Narrator sets the DC of the Persuasion check based on what the character is asking for and how the target feels about the character; some persuasion attempts may be impossible. The most commonly used ability score is Charisma. Wisdom might be used for gauging what offers would sway a creature, or Intelligence if it is a matter entirely about logic.
+
+**Specialties:** bribery, flattery, leadership, negotiation, peacemaking.
+
+**Examples:**
+* 10 Get a lower price on common goods; bypass underpaid guards
+* 15 Make fast friends at a social gathering; recruit someone’s aid for minimal rewards
+* 18 Recruit someone untested into potential danger
+* 22 Lead folks into peril without fear; convince a noble to offer a loan with insufficient collateral
+
+### Religion
+Religion measures a character’s knowledge of gods, religions, rites, and systems of morality. A character can also try to use it to sense if a place, person, or object has the Good or Evil alignment traits or a holy or unholy aura. The most commonly used ability score is Intelligence. Wisdom is used for sensing alignment and determining whether an action is moral according to a particular philosophy. Charisma can be used for preaching.
+
+**Specialties:** alignment, celestials, cults, fiends, holy symbols, gods, morality, prophecy, undead.
+
+**Examples:**
+* 10 Recognize a holy symbol or important site
+* 15 Sense the presence of a holy or unholy aura; identify signs of undead or fiends
+* 20 Convert someone with strong beliefs to your faith; recognize the rituals of long-dead religions
+
+### Sleight of Hand
+A character makes a Sleight of Hand check to perform legerdemain, pickpocket, hide an object on another creature, make a concealed hand signal, or otherwise deceive the eyes with feats of agility. Dexterity is nearly always the ability score used with this skill.
+
+**Specialties:** distraction, pickpocketing, legerdemain.
+
+**Examples:**
+Sleight of Hand is often contested by the passive Perception of the creature you’re trying to trick.
+* 10 Perform an amusing “magic trick”; palm a coin
+* 15 Make an object the size of a deck of cards “disappear”
+* 18 Hide a dagger† on your person
+* 25 Hide a shortsword† on your person
+† or similarly sized weapon
+
+### Stealth 
+Stealth is used to hide or avoid notice. A creature’s Stealth check is usually opposed by a potential observer’s Perception check. The most commonly used ability score for Stealth is Dexterity. Constitution might be used for staying still for a very long time, Intelligence for casing out an unfrequented route, and Charisma for blending anonymously into a crowd.
+
+To attempt to hide from a creature, you must be unseen (behind something, obscured, invisible, or otherwise out of sight) and unheard by that creature, as well as undetected by any other special senses that it might possess. Make a Stealth check. This check’s total is used until you stop hiding or are discovered. If a creature sees you while you are hiding or makes a successful Perception check to locate you, or you make a noise that it can overhear, you are discovered and are no longer hidden from that creature. 
+
+**Specialties:** anonymity, camouflage, casing.
+
+**Examples:**
+Stealth is almost always contested by the passive Perception of the creature you’re hiding from. The following modifiers are appropriate.
+* –2 The hider is wearing distinctive or bright garments
+* –2 The area is still and there’s little movement otherwise
+* +2 The hider is wearing common or subdued garments
+* +2 The area is active and there are distractions
+
+### Survival
+The Survival skill allows a character to perform the tasks necessary to thrive in the wilderness: hunting, tracking, avoiding natural hazards, and traveling without letting lost (unlike Nature, a Survival check doesn’t imply knowledge of the trouble you’re avoiding or tracking.) The most commonly used ability score is Wisdom. A character might use Constitution to weather a storm or Intelligence to follow a route marked on an old map.
+
+**Specialties:** dungeoneering, foraging, hunting, tracking, wayfindings
+
+**Examples:**
+* 10 Determine which way is north aboveground; light a campfire; predict the weather; identify common plants
+* 15 Identify rare plants; determine whether food or water is safe to consume; determine which way is north belowground
+* 20 Light a campfire in the driving rain; figure out the direction of the nearest natural water source
+
+In addition, see the Journey rules in Trials and Treasure for more information on tracking.
+* –2 The quarry traveled on a commonly used path
+* –2 Firm ground with faint tracks
+* +2 The quarry used a new path or none at all
+* +2 Soft ground with distinct tracks
+* +2 The quarry is in a group of 6 or more
+
+## Unofficial Skills
+### Culture
+A Culture check allows a character to know the customs, laws, trade in regional products, and etiquette of cultures other than their own (a character is presumed to know about their own culture and background without requiring an ability check.) Culture can also be used to communicate simple concepts with creatures whose language is unknown to a character. The most commonly used ability score is Intelligence. A character might use Wisdom to avoid social blunders, Dexterity to perform an unfamiliar dance, or Charisma to track down a seller of a hard-to-find item.
+
+**Specialties:** courtly manners, etiquette, laws, linguistics, regional goods, streetwise, trade.
+
+**Examples:**
+* 10 Conduct yourself appropriately in an unfamiliar culture; know commonplace traditions
+* 15 Give a crash course on etiquette; express yourself without a shared language
+* 18 Integrate seamlessly into exclusive circles; twist the law to escape reproach
+* 22 Earn a comfortable living in an urban environment through nothing more than trading
+
+### Engineering.
+An Engineering check allows a character to know a fact or advance a project involving building, invention, or mathematics. The most commonly used ability score is Intelligence. A character might use Dexterity to construct a tiny device or Strength to build a wall without assistance.
+
+**Specialties:** architecture, chemistry, explosives, gadgetry, mathematics, mechanical traps, siegecraft.
+
+**Examples:**
+* 10 Spot a dangerous structural instability; identify a weak point in a small construction
+* 15 Determine if a building is condemned from outside; build a simple, * single-purpose device
+* 20 Identify a weak point in a grand construction such as a stone bridge; quickly synthesize a useful chemical compound from limited * available resources
+* 22 Assess the causes of long-past structural damage; rig a small structure to fall at a specific time
+
 ## Varia and Bruenor
 We roll the stats for both of them and determine our ability scores.

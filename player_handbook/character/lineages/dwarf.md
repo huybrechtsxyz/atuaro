@@ -17,7 +17,7 @@ Bold and hardy, dwarves are known as skilled warriors, miners, and workers of st
 | Height | Base 3 ft 8 in [+2d4]; 4 - 5 ft avg; Medium |
 | Weight | Base 120 lb [+2d6]; 150 lb avg |
 | Speed | 25 ft |
-| Dwarven Lineage | Darkvision (15 ft as dim light without disadvantage, greyscale) <br />Dungeoneering Lore (You know about being underground) |
+| Dwarven Lineage | Your hit point maximum increases by an additional proficieny die when you level up.<br />Dungeoneering Lore (You know about being underground) |
 | Dwarven Thoughness | Speed is not reduced by wearing armor<br />Half prof mod / day you can<br />- Reroll your saving throw vs forced movement (prone, push) |
 | Dwarven Fortitude | Half prof mod / day as a reaction you can<br />- Get temporary hit points 1d10 + CON |
 

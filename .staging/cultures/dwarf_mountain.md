@@ -10,9 +10,12 @@ When most people think of dwarves they think of mountain dwarves. Living in tall
 
 | Trait | Description |
 | ----- | ----------- |
-| Dwarven Weapon Training | You have proficiency with axes and hammers. |
-| Heart of the Forge | You have proficiency in Smithing tools. |
-| Languages | You can speak, read, write, and sign Common, Dwarvish. |
+| Dwarven Weapon Training | You have proficiency with the battleaxe, handaxe, light hammer, and warhammer. |
+| Dwarven Armor Training | You have proficiency with light and medium armor. |
+| Heart of the Forge | You have resistance to fire damage. In addition, you gain proficiency in Engineering. |
+| Mountain Born | You’re acclimated to high and low altitudes, including elevations above 20,000 feet or depths below 20,000 feet. You’re also naturally adapted to cold climates. |
+| Stonecunning | Whenever you make a History check related to the origin of stonework, you are considered proficient in the History skill and gain an expertise die. |
+| Languages | You can speak, read, write, and sign Common, Dwarvish, and one other language. |
 
 ## Related Links
 - [Character Creation](../../20_character_creation.md)

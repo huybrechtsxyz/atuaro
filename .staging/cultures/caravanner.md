@@ -12,6 +12,8 @@ Sometimes societies are overturned by war and conflict, and there isn’t always
 | ----- | ----------- |
 | Caravanner | Long hauls require steady handling of a wagon and a good rapport with the pack animals. You are proficient with land vehicles and in the animal handling skill |
 | Long Hauler | Sometimes riding in a caravan means enduring long hours and harsh weather. You have advantage on checks made to avoid fatigue from a forced march. |
+| Mobile Living | You can create a ramshackle version of a cart or wagon with 30 minutes of work if you have access to raw or reclaimed materials. Ramshackle vehicles created in this way function identically to their normal counterparts, except their gold piece value is always 0, they have half as many hit points as their normal counterparts, and they break and become useless if they are hit by any attack roll with a result of natural 20. |
+| Memento | An item of sentimental value worth less then 10 gold. |
 | Languages | You can speak, read, write, and sign Common and one other language |
 
 ## Related Links

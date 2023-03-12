@@ -10,9 +10,10 @@ Whereas most elf cultures focus on light and the immanence of life, the shadow e
 
 | Trait | Description |
 | ----- | ----------- |
+| Superior Darkvision | The range of your darkvision increases to 120 feet. If you didn’t have darkvision already, you gain darkvision to a range of 60 feet. |
 | Shadow Elf Weapon Training | You have proficiency with rapiers and hand crossbows. |
-| Shadow Elf Education | You are proficient in Stealth. |
-| Languages | You can speak, read, write, and sign Elvish, and Undercommon. |
+| Shadow Lore | You know a cantrip: either dancing lights or minor illusion. Once you reach 3rd level, you can cast faerie fire once per long rest. At 5th level, you can cast darkness once per long rest. You don’t need material components for these spells, and when casting them your spellcasting ability is Intelligence, Wisdom, or Charisma (whichever is highest). |
+| Languages | You can speak, read, write, and sign Common, Elvish, and Undercommon. |
 
 ## Related Links
 - [Character Creation](../../20_character_creation.md)

@@ -13,8 +13,11 @@ Skil, Tool, Advantage on check, utility
 
 | Trait | Description |
 | ----- | ----------- |
-| Superior Darkvision. | You grew so used to being underground that you can see in the dark. You gain darkvision to 15 ft bright and 15 ft dim light (greyscale). |
-| Languages | You can speak, read, write, and sign Dwarvish, and Undercommon |
+| Superior Darkvision. | You grew so used to being underground that you can see in the dark farther than other dwarves. The range of your darkvision increases to 15 ft bright and 15 ft dim light without disadvantage on perception checks. If you didn’t have darkvision this does not count. |
+| Deep Magic | You know the resistance cantrip. Once you reach 3rd level, you can cast jump once per long rest. At 5th level, you can cast enlarge/ reduce once per long rest. You don’t need material components for these spells, but you can’t cast them while you’re in direct sunlight (although sunlight has no effect on them once cast). Intelligence is your spellcasting ability for these spells. |
+| Deep Suspicion | Your lack of trust protects you from some magic. You have advantage on saving throws against illusions and to resist being charmed. |
+| Underground Combat Training | You are proficient with picks and hammers. |
+| Languages | You can speak, read, write, and sign Common, Dwarvish, and Undercommon |
 
 ## Related Links
 - [Character Creation](../../20_character_creation.md)

@@ -10,8 +10,10 @@ Some dwarves never settle in underground kingdoms. They live in surface communit
 
 | Trait | Description |
 | ----- | ----------- |
-| Friendly | You are proficient in Persuasion. |
-| Ways of the Land | You are proficient with an Artisanal toolkit. |
+| Community Magic | You know the friends cantrip. Once you reach 3rd level, you can cast charm person once per long rest. At 5th level, you can cast suggestion once per long rest. You don’t need material components for these spells, and when casting them your spellcasting ability is Charisma. |
+| Friendly | You are proficient in either Deception or Persuasion. |
+| Wagoner | You are either proficient in either Animal Handling or with land vehicles. |
+| Ways of the Land | You are proficient in Survival and gain an expertise die on checks using it. |
 | Languages | You can speak, read, write, and sign Common, Dwarvish, and two additional languages. |
 
 ## Related Links

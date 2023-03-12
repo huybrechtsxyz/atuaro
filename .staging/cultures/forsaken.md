@@ -10,9 +10,9 @@ In world-shaking catastrophes where magic, disasters, and monsters ran rampant, 
 
 | Trait | Description |
 | ----- | ----------- |
-| Eat Like a Bird | You grew used to eating very little. You can go a number of days equal to half your Constitution modifier without suffering any fatigue from lack of Supply. |
-| Fleet of Foot. | Your Speed increases by 5 feet. |
-| Improvised Tools | During a long rest, when you have access to raw materials you can jury-rig an improvised tool kit. The next time you take a long rest, they break. |
+| Eat Like a Bird | You grew used to eating very little. You can go a number of days equal to half your Constitution modifier without suffering any fatigue from lack of Supply. Fleet of Foot. Your Speed increases by 5 feet. |
+| Improvised Tools | During a long rest, when you have access to raw materials you can jury-rig an improvised tool kit. If you roll a 1 while making a check using the improvised tools or the next time you take a long rest, they break. |
+| Pack Rat | You can carry your whole house on your back. You count as one size larger when determining your carrying capacity. |
 | Roll With the Punches | After you fail an ability check, you have advantage on your next ability check. You can’t use this trait again until you finish a short or long rest. |
 | Languages | You can speak, read, write, and sign Common, and two additional languages. |
 
