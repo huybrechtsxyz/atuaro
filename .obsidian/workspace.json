@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a01ea9e730d25857",
+        "id": "0bc66ee642f87dc6",
         "type": "tabs",
         "children": [
           {
-            "id": "81ec4fcae522891e",
+            "id": "7e02873ce360f86a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#heritage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "player_handbook/character/cultures/lone_wanderer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "player_handbook/character/cultures/lone_wanderer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "player_handbook/character/cultures/lone_wanderer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,8 +147,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1932da6d46f54ae2",
+  "active": "7e02873ce360f86a",
   "lastOpenFiles": [
+    "player_handbook/26_character_equipment.md",
+    "player_handbook/29_character_final.md",
+    "player_handbook/26_character_equipment copy.md",
+    "player_handbook/tables/playable_cultures.md",
+    "player_handbook/character/cultures/caravanner.md",
+    "player_handbook/character/cultures/halfling_tunnel.md",
+    "player_handbook/character/cultures/tyrannized.md",
+    "player_handbook/character/cultures/villager.md",
+    "player_handbook/character/cultures/warhordling.md",
+    "player_handbook/character/cultures/wildling.md",
+    "player_handbook/character/cultures/elf_wood.md",
     "campaigns/campaign/actors/_template.md",
     "campaigns/campaign/sessions/_template.md",
     "player_handbook/backgrounds/_template.md",
@@ -169,17 +175,6 @@
     "templates/campaign/protagonists/_template.md",
     "templates/campaign/sessions/_template.md",
     "worldpedia/atlas/_template.md",
-    "worldpedia/economy/_template.md",
-    "worldpedia/fauna_flora/beasts/_template.md",
-    "worldpedia/fauna_flora/flora/assets/images/_template.md",
-    "worldpedia/fauna_flora/monsters/_template.md",
-    "worldpedia/fauna_flora/species/_template.md",
-    "campaigns/campaign/protagonists/_template.md",
-    "player_handbook/character/cultures/halfling_mustbairn.md",
-    "player_handbook/character/cultures/halfling_tunnel.md",
-    "player_handbook/character/cultures/Itinerant.md",
-    "player_handbook/character/cultures/settler.md",
-    "player_handbook/character/cultures/stoneworthy.md",
     "player_handbook/assets/images/lineages/halfling.png",
     "player_handbook/spells",
     "player_handbook/classes copy",

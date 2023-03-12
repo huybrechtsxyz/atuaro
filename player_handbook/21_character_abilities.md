@@ -3,8 +3,8 @@
 
 # Character Ability Scores
 
-**Tags:**  #character, #abilities
-**Parent**: [Character Creation](20_character_creation.md)
+**Tags:**  #character, #abilities  
+**Parent**: [Character Creation](20_character_creation.md)  
 
 Much of what your character does in the game depends on his or her six abilities:**Strength**, **Dexterity**, **Constitution**,**Intelligence**, **Wisdom**, and **Charisma**. Each ability has a score, which is a number you record for use during play.
 
@@ -403,6 +403,11 @@ An Engineering check allows a character to know a fact or advance a project invo
 * 15 Determine if a building is condemned from outside; build a simple, * single-purpose device
 * 20 Identify a weak point in a grand construction such as a stone bridge; quickly synthesize a useful chemical compound from limited * available resources
 * 22 Assess the causes of long-past structural damage; rig a small structure to fall at a specific time
+
+## Critical Success
+When you roll a natural 20 and succeed on an ability check, or when you roll a natural 1 and fail on an ability check, if you’re using a skill roll 1d6 to determine what special effect occurs. Because of the benefits of ability check criticals, some players may try a variety of easy ability checks to get a critical effect. The Narrator is always the arbiter of these critical effects and can rule that if an ability check is superfluous or insignificant, any resulting natural 20s and natural 1s have no special effect. 
+
+Tool Kits. Whether or not a tool kit is appropriate for an Ability Check Critical and for which type it qualifies is at the Narrator’s discretion
 
 ## Varia and Bruenor
 We roll the stats for both of them and determine our ability scores.

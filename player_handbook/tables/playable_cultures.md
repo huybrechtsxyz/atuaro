@@ -16,7 +16,6 @@ The culture you are raised in is as important to your development as the family 
 | Deep Gnome         | The mountain gnome     | [link](../character/cultures/gnome_deep.md)         |
 | Dragonbound        | The dragon one         | [link](../character/cultures/dragonbound.md)        |
 | Dragoncult         | The dragonlovers one   | [link](../character/cultures/dragoncult.md)         |
-| Eladrin            | The high elves         | [link](../character/cultures/elf_eladrin.md)        |
 | Forest Gnome       | The forest gnome       | [link](../character/cultures/gnome_forest.md)       |
 | Forgotten Folx     | The forgotten one      | [link](../character/cultures/forgotten_folx.md)     |
 | Forsaken           | The lost one           | [link](../character/cultures/forsaken.md)           |
@@ -31,14 +30,12 @@ The culture you are raised in is as important to your development as the family 
 | Nomad              | The nomad guy          | [link](../character/cultures/nomad.md)              |
 | Settler            | The settler            | [link](../character/cultures/settler.md)            |
 | Shadow Elf         | The elf but shadowy    | [link](../character/cultures/elf_shadow.md)         |
-| Steamforged        | The engineer one       | [link](../character/cultures/steamforged.md)        |
 | Stoic Orc          | The stoic orc one      | [link](../character/cultures/orc_stoic.md)          |
-| Stoneworthy        | The stoneworthy once   | [link](../character/cultures/stoneworthy.md)        |
 | Stout Halfling     | The stout halfling     | [link](../character/cultures/halfling_stout.md)     |
 | Tinker Gnome       | The tinkering gnome    | [link](../character/cultures/gnome_tinker.md)       |
 | Tunnel Halfling    | The tunneling halfling | [link](../character/cultures/halfling_tunnel.md)    |
 | Tyrannized         | The tyrannized one     | [link](../character/cultures/tyrannized.md)         |
-| Villager           | The village one        | [link](../character/cultures/village.md)            |
+| Villager           | The village one        | [link](../character/cultures/villager.md)            |
 | Warhordling        | The warhordling one    | [link](../character/cultures/warhordling.md)        |
 | Wildling           | The wild one           | [link](../character/cultures/wildling.md)           |
 | Wood Elf           | The wood elf one       | [link](../character/cultures/elf_wood.md)           |
