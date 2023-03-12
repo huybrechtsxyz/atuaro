@@ -11,7 +11,7 @@ Skil, Tool, Advantage on check, utility
 
 | Trait | Description |
 | ----- | ----------- |
-| Artistic Pursuits | You have proficiency with one type of artisans’ tools of your choice. Natural Illusionist. You can cast disguise self once per long rest. Once you reach 3rd level, you can cast blur once per long rest. At 5th level, you can cast major image once per long rest. You don’t need material components for these spells, and when casting them your spellcasting ability is Intelligence or Wisdom (whichever is higher). |
+| Artistic Pursuits | You have proficiency with one type of artisans’ tools of your choice. |
 | Small Beast Speech | You have an innate ability to communicate simple thoughts and ideas with beasts of size Small or smaller. |
 | Languages | You can speak, read, write, and sign Common and Gnomish. |
 

@@ -11,8 +11,7 @@ Great civilizations provide shelter and comfort. As empires and kingdoms grow an
 | Trait | Description |
 | ----- | ----------- |
 | Conscript | All subjects of the crown must register for the draft, but many go ahead and serve in the guard. You are proficient with light armor, spears, and light crossbows. |
-| Learned Teachers | Those at the safe center of empires often have privileged access to fine teachers and the opportunity to follow their interests. You know about the past, at least as told by your people. You gain proficiency in History and one other skill of your choice. |
-| Local Healers | Citizens at the heart of a nation often see more healers and clerics in a year than a remote villager sees in a lifetime, and your medical upkeep has made you resilient. Whenever your hit point maximum or one of your ability scores would be reduced, it is reduced by half as much instead (minimum 1). |
+| Learned Teachers | Those at the safe center of empires often have privileged access to fine teachers and the opportunity to follow their interests. You know about the past, at least as told by your people. You gain proficiency in History. |
 | Languages | You can speak, read, write, and sign Common and one other language. |
 
 ## Related Links

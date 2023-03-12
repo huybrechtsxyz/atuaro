@@ -12,3 +12,7 @@
 After the children succeed in getting the warehouse
 
 They have to find a treasury map that leads to the next encounter.
+
+druide
+- pixie ontsnapt. priester pixie niet zien. contained houden terwijl mens er is..
+- pxie 

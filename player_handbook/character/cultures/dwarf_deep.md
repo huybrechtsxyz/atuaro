@@ -13,7 +13,8 @@ Skil, Tool, Advantage on check, utility
 
 | Trait | Description |
 | ----- | ----------- |
-| Superior Darkvision. | You grew so used to being underground that you can see in the dark. You gain darkvision to 15 ft bright and 15 ft dim light (greyscale). |
+| Superior Darkvision. | You grew so used to being underground that you can see in the dark. You gain darkvision to 30 ft bright and 30 ft dim light (greyscale). You have disadvantage in daylight |
+| Sunlight Sensitivity | You have disadvantage on attack rolls and on Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight. |
 | Languages | You can speak, read, write, and sign Dwarvish, and Undercommon |
 
 ## Related Links

@@ -11,9 +11,9 @@ With their warm hearths, verdant greenery, and low ceilings it is little surpris
 | Trait | Description |
 | ----- | ----------- |
 | Borough Cooking | Whenever you begin a short rest, you and up to 6 allies can each consume 1 Supply to partake in your borough cooking, gaining 1d6 temporary hit points. |
-| Home Gardening | You gain proficiency in either Animal Handling or Nature. |
-| Memoirist | You gain proficiency with calligrapher’s supplies. In addition, you gain an expertise die on Intelligence checks to recall details about past events you took part in by first checking your journals. |
-| Languages | You can speak, read, write, and sign Common, Halfling, and one other language. |
+| Home Gardening | You gain proficiency in Nature. |
+| Memoirist | You gain proficiency with calligrapher’s supplies. In addition, you gain a proficiency die on Intelligence checks to recall details about past events you took part in by first checking your journals. |
+| Languages | You can speak, read, write, and sign Common, Halfling (oral only), and one other language. |
 
 ## Related Links
 - [Character Creation](../../20_character_creation.md)

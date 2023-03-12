@@ -11,7 +11,7 @@ Gnomes are known for their unique brand of creativity which often leads to the a
 | Trait | Description |
 | ----- | ----------- |
 | Cunning Creative | You gain proficiency with tinker’s tools, Engineering, and either Arcana or History. You gain an expertise die whenever you use them to make a check related to alchemical, magical, or technological items. You can spend 1 hour and 10 gold worth of materials to build a variety of useful tools, all detailed below. Each device has an AC of 5 and 1 hit point, and ceases to function after 24 hours or whenever you choose to dismantle it. An hour can be spent repairing a device that has ceased to function. You can have up to three of the devices below active at one time. |
-| Languages | You can speak, read, write, and sign Common, Gnomish, and one other language. |
+| Languages | You can speak, read, write, and sign Common, Gnomish. |
 
 Choose from the creative devices:
 

@@ -10,9 +10,9 @@ There is no one nomadic culture. Most nomadic groups migrate along plains and st
 
 | Trait | Description |
 | ----- | ----------- |
-| Nature Minded | You are proficient in Animal Handling and Survival, and either Medicine, Nature, or Perception. |
-| On the Road Again | You are proficient with land vehicles and tinker’s tools. You can use tinker’s tools to repair a land vehicle you have travelled in for at least 1 month, and gain an expertise die on any checks made to do so. Additionally, you gain an expertise die on checks made to control or navigate a land vehicle. |
-| Sense Weather | After observing an outside area for 1 minute, you can predict the weather within the next 24 hours. You cannot foresee magical changes, but you can use an action to make an Insight or Perception check to notice them. |
+| Nature Minded | You are proficient in Animal Handling and Nature. |
+| On the Road Again | You are proficient with tinker’s tools. |
+| Roadside Watch | You gain an expertise die on Perception checks made while keeping watch during a rest. |
 | Languages | You can speak, read, write, and sign Common and two additional languages. |
 
 ## Related Links
