@@ -2,9 +2,10 @@
 
 # The Rules of the Game
 
+**Tags:** #rules, #basics
 
 ## TL;DR
-The Atuaro Player Handbook overrules any source book you might think is applicable. By default only information from this book is usable. The core rules of Dungeons and Dragons are used (even if not mentioned) unless specifically overruled in this book.
+The Atuaro Player Handbook [APHB] overrules any source book you might think is applicable. By default only information from this book is usable. The core rules of Dungeons and Dragons are used (even if not mentioned) unless specifically overruled in this book.
 
 ## Specific rules beats general ones
 This book contains rules that govern how the game plays. That said, many racial traits, class features, spells, magic items, monster abilities, and other game elements break the general rules in some way, creating an exception to how the rest of the game works. Remember this: If a specific rule contradicts a general rule, the specific rule wins. 

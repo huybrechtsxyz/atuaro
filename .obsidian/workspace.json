@@ -11,8 +11,12 @@
             "id": "7e02873ce360f86a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "player_handbook/24_character_background.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "player_handbook/24_character_background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "player_handbook/24_character_background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "player_handbook/24_character_background.md"
+              }
             }
           },
           {
@@ -149,7 +157,15 @@
   },
   "active": "7e02873ce360f86a",
   "lastOpenFiles": [
+    "player_handbook/25_character_class.md",
     "player_handbook/26_character_equipment.md",
+    "player_handbook/24_character_background.md",
+    "player_handbook/23_character_culture.md",
+    "player_handbook/20_character_creation.md",
+    "player_handbook/16_game_rules_spells.md",
+    "player_handbook/14_game_rules_combat.md",
+    "player_handbook/15_game_rules_combat.md",
+    "player_handbook/11_game_rules_adventure.md",
     "player_handbook/29_character_final.md",
     "player_handbook/26_character_equipment copy.md",
     "player_handbook/tables/playable_cultures.md",
@@ -167,14 +183,6 @@
     "player_handbook/games/_template.md",
     "player_handbook/items/armor/_template.md",
     "player_handbook/items/gear/_template.md",
-    "player_handbook/items/weapons/_template.md",
-    "player_handbook/spells/_template.md",
-    "player_handbook/talents/_template.md",
-    "templates/adventure/actors/_template.md",
-    "templates/campaign/actors/_template.md",
-    "templates/campaign/protagonists/_template.md",
-    "templates/campaign/sessions/_template.md",
-    "worldpedia/atlas/_template.md",
     "player_handbook/assets/images/lineages/halfling.png",
     "player_handbook/spells",
     "player_handbook/classes copy",

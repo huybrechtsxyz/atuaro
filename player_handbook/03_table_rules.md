@@ -1,6 +1,9 @@
 ![header](./assets/images/heading.jpg)
 
 # About playing together
+
+**Tags:** #table, #social
+
 ## TL;DR
 Respect the players, the game, and the social contract of the group. Ideally, players come to the gaming table with the same goal: to have a fun time together.
 
