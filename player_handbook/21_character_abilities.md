@@ -1,9 +1,9 @@
 
 ![header](./assets/images/heading.jpg)
 
-# Character Ability Scores
+# Character Ability Scores and Skills
 
-**Tags:**  #character, #abilities  
+**Tags:**  #character, #abilities, #skills  
 **Parent**: [Character Creation](20_character_creation.md)  
 
 Much of what your character does in the game depends on his or her six abilities:**Strength**, **Dexterity**, **Constitution**,**Intelligence**, **Wisdom**, and **Charisma**. Each ability has a score, which is a number you record for use during play.

@@ -2,7 +2,7 @@
 
 # Playable Lineages
 
-**Tags:** #lineage 
+**Tags:** #character, #lineage 
 
 The people in Atuaro vary in size, shape, and color, dressed in a dazzling spectrum of styles and hues-represent many different lineages, from diminutive halflings and stout dwarves to majestically beautiful elves, mingling among a variety of humans.
 

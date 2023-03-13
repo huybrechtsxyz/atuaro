@@ -5,7 +5,7 @@
 
 **Tags:**  #character, #culture 
 **Parent**: [Character Creation](20_character_creation.md)
-**Table:**  [Playable Cultures](tables/playable_cultures.md)
+**Table:**  [Playable Cultures](tables/player_cultures.md)
 
 By default choose from the list of available lineages in this player handbook.
 

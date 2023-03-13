@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc66ee642f87dc6",
+        "id": "17681dbb924de0fc",
         "type": "tabs",
         "children": [
           {
-            "id": "7e02873ce360f86a",
+            "id": "e3664d5fe2f25499",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "player_handbook/24_character_background.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 238.5
   },
   "right": {
     "id": "5b298d7c9f56ac40",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "player_handbook/24_character_background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "player_handbook/24_character_background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "player_handbook/24_character_background.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,34 +147,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e02873ce360f86a",
+  "active": "492888bac540fc89",
   "lastOpenFiles": [
-    "player_handbook/25_character_class.md",
-    "player_handbook/26_character_equipment.md",
+    "player_handbook/tables/playable_backgrounds.md",
+    "player_handbook/tables/player_lineages.md",
+    "player_handbook/tables/player_languages.md",
+    "player_handbook/tables/player_cultures.md",
+    "player_handbook/tables/player_classes.md",
+    "player_handbook/tables/player_backgrounds.md",
+    "player_handbook/03_table_rules.md",
     "player_handbook/24_character_background.md",
     "player_handbook/23_character_culture.md",
     "player_handbook/20_character_creation.md",
+    "player_handbook/22_character_lineage.md",
+    "player_handbook/21_character_abilities.md",
+    "player_handbook/21_character_setup.md",
+    "player_handbook/tables/playable_backgrounds copy.md",
+    "player_handbook/z20_character_creation 1.md",
+    "player_handbook/z28_character_extra.md",
+    "player_handbook/z27_character_magic.md",
+    "player_handbook/z27_character_spells.md",
+    "player_handbook/z25_character_class.md",
+    "player_handbook/z26_character_equipment.md",
+    "player_handbook/character/classes",
+    "player_handbook/character/backgrounds",
     "player_handbook/16_game_rules_spells.md",
     "player_handbook/14_game_rules_combat.md",
     "player_handbook/15_game_rules_combat.md",
     "player_handbook/11_game_rules_adventure.md",
     "player_handbook/29_character_final.md",
     "player_handbook/26_character_equipment copy.md",
-    "player_handbook/tables/playable_cultures.md",
-    "player_handbook/character/cultures/caravanner.md",
-    "player_handbook/character/cultures/halfling_tunnel.md",
-    "player_handbook/character/cultures/tyrannized.md",
-    "player_handbook/character/cultures/villager.md",
-    "player_handbook/character/cultures/warhordling.md",
-    "player_handbook/character/cultures/wildling.md",
-    "player_handbook/character/cultures/elf_wood.md",
-    "campaigns/campaign/actors/_template.md",
-    "campaigns/campaign/sessions/_template.md",
-    "player_handbook/backgrounds/_template.md",
-    "player_handbook/classes/_template.md",
-    "player_handbook/games/_template.md",
-    "player_handbook/items/armor/_template.md",
-    "player_handbook/items/gear/_template.md",
     "player_handbook/assets/images/lineages/halfling.png",
     "player_handbook/spells",
     "player_handbook/classes copy",
@@ -199,9 +193,7 @@
     "campaigns/campaign/assets/images/cover.jpg",
     "player_handbook/assets/images/heading.jpg",
     "player_handbook/assets/images/cover.jpg",
-    "templates/adventure/maps",
     "adventures/orphanage/assets/maps/carnival_map_no.png",
-    "adventures/orphanage/assets/maps/orphanage_attic.jpg",
-    "adventures/orphanage/assets/audio/ambience-heckna-carnival-ambience-joyful.mp3"
+    "adventures/orphanage/assets/maps/orphanage_attic.jpg"
   ]
 }

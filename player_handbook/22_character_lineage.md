@@ -4,7 +4,7 @@
 
 **Tags:**  #character, #lineage  
 **Parent**: [Character Creation](20_character_creation.md)  
-**Table:**  [Playable Lineages](tables/playable_lineages.md)  
+**Table:**  [Playable Lineages](tables/player_lineages.md)  
 
 By default choose from the list of available lineages in this player handbook.
 
