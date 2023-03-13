@@ -41,3 +41,8 @@ Example of Dwarfish
 Example of Draconic
 
 ![elvish](../assets/images/script_draconic.png)
+
+## Related Links
+- [Character Creation](../20_character_creation.md)
+- [Character Cultures](../23_character_culture.md)
+- [Character Backgrounds](../24_character_background.md)

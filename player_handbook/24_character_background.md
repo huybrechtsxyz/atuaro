@@ -2,9 +2,9 @@
 
 # Character backgrounds
 
-**Tags:**  #character, #backgrounds  
+**Tags:**  #character, #backgrounds, #languages
 **Parent**: [Character Creation](20_character_creation.md)  
-**Table:**  [Playable Backgrounds](tables/player_backgrounds.md)   
+**Table:**  [Playable Backgrounds](tables/player_backgrounds.md), [Player Languages](./tables/player_languages.md) table.
 
 In this step, you will flesh your character out as a person. By default choose from the list of available backgrounds in this player handbook.
 
@@ -22,23 +22,11 @@ Every story has a beginning. Your character's background reveals where you came 
 
 Although there are no age restrictions to your character, please remember the starting level of your character. This starting level is given in session zero. If your character starts at level 1 and is already a 1000 year old Elf. What did they do in those centuries to only now become an adventurer.
 
-Please talk to your DM about your background. They are willing to help you fit your idea in the world where the story takes place. This will tie your background to the world and fit the character in the game. If you have preconceived ideas about your character, session zero is the place to talk about them. As a general rule we hope that people can create the characters they want, but that players are willing to make concessions to make it work with the world. You can create a custom background.
+Please talk to your GM about your background. They are willing to help you fit your idea in the world where the story takes place. This will tie your background to the world and fit the character in the game. If you have preconceived ideas about your character, session zero is the place to talk about them. As a general rule we hope that people can create the characters they want, but that players are willing to make concessions to make it work with the world. You can create a custom background.
 
 Some backgrounds gives a character proficiency in skills, tools, additional languages, and most backgrounds provides a package of starting equipment.
 
 ## Languages
 Your lineage indicates the languages your character can speak by default, and your culture and background might give you access to one or more additional languages of your choice. Note these languages on your character sheet. Choose your languages from the Languages table. With your GM's permission, you can instead choose a language from the Exotic or Secret Languages table, such as thieves' cant or the tongue of druids. Creatures that speak different dialects of the same language can communicate with one another. 
 
-[h4]Standard Languages[/h4]
-[itable:93cc602d-6fce-434a-a747-7f7efa3debba]
-
-[h4]Exotic or Secret Languages[/h4]
-[itable:c39a3506-f47b-4b9e-b432-9bf1201aa06f]
-
-[h4]Scripts[/h4]
-[img:3496287]
-
-[img:3496291]
-
-[img:3496288]
-
+For a list of languages and scripts see [Player Languages](./tables/player_languages.md) table.

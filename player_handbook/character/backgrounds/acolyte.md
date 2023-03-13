@@ -4,7 +4,15 @@
 
 **Tags:**  #character, #background, #languages 
 
-Description
+You were trained as a servant of a particular god 
+or gods. Whether or not you have access to divine 
+magic, you are authorized to perform the rites of 
+your faith, and you are recognized and respected 
+by its faithful.
+What gods do you worship? Why did you leave 
+the confines of your temple and take up a life of 
+adventure? Have you turned your back on your 
+faith, or do you seek to advance it?
 
 ## Abilities
 
