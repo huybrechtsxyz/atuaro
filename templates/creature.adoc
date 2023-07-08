@@ -16,9 +16,9 @@ endif::[]
 *Proficiency* +2 +
 *Initiative* +2 +
 
-[cols="1,1,1,1,1,1",grid=rows,frame=none]
+[%header,cols="1,1,1,1,1,1",grid=rows,frame=none]
 !===
-^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! STR       ^! DEX       ^! CON       ^! INT       ^! WIS       ^! CHA
 ^!  8 (*-1*) ^! 14 (*+2*) ^! 10 (*+0*) ^! 10 (*+0*) ^!  8 (*-1*) ^!  8 (*-1*)
 !===
 
