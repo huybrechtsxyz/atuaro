@@ -1,0 +1,44 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+== ActorName aka Xyz
+
+[align=center]
+image:{homedir}/assets/images/actor.jpg[{homedir}/assets/images/actor.jpg]
+
+include::{homedir}/statblocks/actor.adoc[]
+
+=== About
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+|===
+>| *Creature* | <Select>
+>| *Height* | <Select>
+>| *Walk* | x ft
+
+>| *Class* | <Select>
+>| *Weight* | <Select>
+>| *Fly* | x ft
+
+>| *Size* | 
+>| *Eyes* | <Select>
+>| *Swim* | x ft
+
+>| *Alignment* | 
+>| *Skin* | <Select>
+>| *Climb* | x ft
+
+>| *Age* | 
+>| *Hair* | <Select>
+>| *Burrow* | x ft
+|===
+
+=== Roleplay Hints
+
+
+=== Special Abilities
+
