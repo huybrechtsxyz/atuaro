@@ -1,0 +1,52 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*link:../../compendium/beastiary/fey/pixie.adoc[Pixie]*#
+| [small]#Tiny fey, neutral good (CR 1/4 for 50 XP)#
+
+| image:{rootdir}/assets/ddb-images/npc-token-Pixie.jpeg[{assetdir}/ddb-images/npc-token-Pixie.jpeg]
+
+|
+*Armor Class* 15 +
+*Hit Points* 1 (1d4-1) +
+*Speed* 10 ft., fly 30 ft +
+*Proficiency* +2 +
+*Initiative* +2 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  2 (*-4*) ^! 20 (*+5*) ^!  8 (*-1*) ^! 10 (*+0*) ^! 14 (*+2*) ^! 15 (*+2*)
+!===
+
+| *Actions* | 
+*Superior Invisibility.*
+The pixie magically turns invisible until its concentration ends (as if concentrating on a spell). Any equipment the pixie wears or carries is invisible with it. 
+
+*Spells: Cantrips* +
+Druidcraft
+
+*Spells: Daily* +
+Confusion, Dancing Lights, Detect Evil and Good, Detect Thoughts, Dispel Magic, Entangle, Fly, Phantasmal Force, Polymorph, Sleep.
+
+| *Abilities* | 
+Perception +4 +
+Stealth +7 +
+Languages: Sylvan +
+darkvision 60 ft., passive Perception 9 +
+
+| *Traits* |
+*Innate Spellcasting*
+The pixie's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast requiring only its pixie dust as a component.
+
+*Magic Resistance.*
+The pixie has advantage on saving throws against spells and other magical effects. 
+
+2+| *About* +
+Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise. Those who wander through a pixie’s glade might never see the creatures, yet hear the occasional giggle, gasp, or sigh...
+
+*Environment:* Magical forests and groves. +
+*Tags:* Fey
+|===
