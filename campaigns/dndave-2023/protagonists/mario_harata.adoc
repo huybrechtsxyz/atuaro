@@ -1,0 +1,76 @@
+ifndef::rootdir[]
+:rootdir: ../../..
+endif::[]
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+= Mario Harata
+
+*as played by Michael Vandenbergh*
+
+[align=center]
+image:{homedir}/assets/images/mario_harata.webp[{homedir}/assets/images/mario_harata.webp]
+
+include::{homedir}/statblocks/mario_harata.adoc[]
+
+== Statistics
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+|===
+>| *Lineage* | Half-orc
+>| *Height* | x ft
+>| *Walk* | x ft
+
+>| *Culture* |  
+>| *Weight* |  
+>| *Fly* | 0 ft
+
+>| *Background* |  
+>| *Eyes* |  
+>| *Swim* | 0 ft
+
+>|  | 
+>| *Skin* |  
+>| *Climb* | 0 ft
+
+>|  | 
+>| *Hair* |  
+>| *Burrow* | 0 ft
+|===
+
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Level progression"]
+|===
+^| Level | Class                | Subclass                       | Remark
+^|  0    | Warrior              | -                              | As a child
+^|  1    | Fighter              | -                              | Adulthood
+|===
+
+== About Mario
+Is a half-orc fighter.
+Bullied a lot, spends all his time with Antonio Harata.
+Is used as a mount my Antonio
+
+=== Personality Traits
+
+
+=== Ideals
+
+
+=== Bonds
+
+
+=== Flaws
+
+
+=== Character Story
+
+
+=== Allies
+
+
+=== Opponents
+
+
+=== Notes
+
