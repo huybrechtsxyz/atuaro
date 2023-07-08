@@ -1,0 +1,74 @@
+ifndef::rootdir[]
+:rootdir: ../../..
+endif::[]
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+= Character Name
+
+*as played by John Doe*
+
+[align=center]
+image:{homedir}/assets/images/character.png[{homedir}/assets/images/character.png]
+
+include::{homedir}/statblocks/character.adoc[]
+
+== Statistics
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+|===
+>| *Lineage* | Orc
+>| *Height* | x ft
+>| *Walk* | x ft
+
+>| *Culture* |  
+>| *Weight* |  
+>| *Fly* | 0 ft
+
+>| *Background* |  
+>| *Eyes* |  
+>| *Swim* | 0 ft
+
+>|  | 
+>| *Skin* |  
+>| *Climb* | 0 ft
+
+>|  | 
+>| *Hair* |  
+>| *Burrow* | 0 ft
+|===
+
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Level progression"]
+|===
+^| Level | Class                | Subclass                       | Remark
+^|  0    | Warrior              | -                              | As a child
+^|  1    | Fighter              | -                              | Adulthood
+|===
+
+== About Mario
+
+
+=== Personality Traits
+
+
+=== Ideals
+
+
+=== Bonds
+
+
+=== Flaws
+
+
+=== Character Story
+
+
+=== Allies
+
+
+=== Opponents
+
+
+=== Notes
+
