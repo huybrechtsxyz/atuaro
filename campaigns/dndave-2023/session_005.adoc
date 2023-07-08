@@ -1,0 +1,102 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= D&Dave 2023 Session 5
+
+image:{homedir}/assets/images/heading.jpg[]
+
+== To Do List
+* The pixie fight was to easy in House Visit.
+
+== Important
+* Angela (Toon)      : INT > Command as cantrip (https://www.dndbeyond.com/spells/command)
+* Antonio (Giuseppe) : WIS > Mounted combat when on Mario (https://explorednd.com/gameplay/mounted-combat-5e-guide/)
+* Cornus (Koen)      : CHA > Cast animal frienship (https://www.dndbeyond.com/spells/animal-friendship)
+* Mario (Michael)    : STR > Protection fighting style (https://www.dndbeyond.com/sources/basic-rules/classes#FighterFightingStyle)
+* Tyrion (Dave)      : STR > 1 rage per long rest (https://www.dndbeyond.com/sources/basic-rules/classes#Rage) as a child.
+
+* *Do not forget to copy-paste the read-out texts to the chat for Giuseppe.*
+
+== Plot Evolution
+* Give boon to Antonio for performance nat20 and good sleigh of hand. +1 to performance.
+
+    Dear Player. Thank you for cooperation in getting into character in the carnival.
+    As you were successful in the magic school you receive to following boon:
+    Your character Antonio has +1 to the performance skill.
+
+* Give boon to Tyrion for 7 seconds with the displacer beast ride. 1 / day advantage op dex saving throw.
+
+    Dear Player. Thank you for cooperation in getting into character in the carnival.
+    As you were successful on riding the displacer beast you receive to following boon:
+    Your character Tyrion once per day has advantage on dexterity saving throws.
+
+* Give boon to Cornus for killing the most goblins in the maze. 1 / day advantage op attack roles vs goblins.
+
+    Dear Player. Thank you for cooperation in getting into character in the carnival.
+    As you were successful in killing a lot of (innocent?) baby goblins you receive to following boon:
+    Your character Cornus once per day has advantage on an attack role vs goblins.
+
+* Give boon to mario for the pie eating contest.
+
+    Dear Player. Thank you for cooperation in getting into character in the carnival.
+    As you were successful in eating a lot of pies you receive to following boon:
+    Your character Mario once per day has advantage on a CON saving throw.
+
+* Give boon to Angela
+
+    Dear Player. Thank you for cooperation in getting into character in the carnival.
+    As you were successful receive to following boon:
+    Your character Angela once per day has advantage on casting spells in public undetected.
+
+== Plot Summary
+After lunch the kids take a short nap in their room. Waking up each player gets a boon depending on how they played. Antonio checked the well: no treasure there. The deal with the pixies and go to the carnival. Then try to get to the treasure map at location 7.  At the moment they only saw the animals, the guards tent, and the entrance. Tyrion (Dave) failed to distract the guard for others to go inside of the tent. Tyrion tries to distract the guard while Antonio tries to look in. Both failed at their attempt. They continue their visit to the carnival. Owlbears and displacer beats. They are put in cages. They found a treasure map and met with a magician with quick hands. Mario was eating a lot of cake and told silly jokes on stage with Antonio. What is the difference between a snowman and snowwoman? Snowballs.
+
+== Start of session
+
+
+== Session Notes
+There are 4 guards known as Tythingman.
+    (~ local city guard for towns)
+    - Constable Emeric (mentor for fighter and barbarian)
+    - Tythingman Erevan (entrance)
+    - Tythingman Kaelen (rounds)
+    - Tythingman Aldric (sleeping)
+
+* Cornus got lost in the woods and was found and trained by Willow.
+* Kamer 4 is back together at the Stonehill Inn.
+* Mario was trained by Emeric and was part of the tythingman
+* Antonio was trained by Magnifico
+
+They got lost (failed the skill challange) in the woods while following the map.
+During nightfall they were attacked by the goblin spy.
+
+== Post Session
+* Anotonio will steal anything that is not fixed to a wall.
+
+=== Pending Plot Points
+
+
+=== Future Plot Points
+
+
+=== Plot Ideas
+* Fathers of Angela and Cornus do not like each other? Or hibisucs sucks up to pakal.
+* Glasstaff is the sad boy
+* Nezrra is the bully
+* Return of the carnival? After failing the Adventure Tournament, they want revenge.
+* Treasury map is a QR code ?
+
+== Rules Discussions
+
+*Half Cover*
+A target with half cover has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
+
+*Three-Quarters Cover*
+A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+
+*Total Cover*
+A target with total cover can't be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle. 
