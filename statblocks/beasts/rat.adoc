@@ -1,0 +1,39 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Rat*#
+| [small]#Tiny Beast, Unaligned (CR 0 for 10 XP)#
+
+| image:{rootdir}/assets/ddb-images/npc-token-Rat.jpeg[{rootdir}/assets/ddb-images/npc-token-Rat.jpeg]
+
+|
+*Armor Class* 10 +
+*Hit Points* 1 (1d4-1) +
+*Speed* 20 ft. +
+*Proficiency* +2 +
+*Initiative* +0 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  2 (*-4*) ^! 11 (*+0*) ^!  9 (*-1*) ^!  2 (*-4*) ^!  0 (*+0*) ^!  4 (*-3*)
+!===
+
+| *Actions* | 
+*Bite.* +
+Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+
+| *Abilities* | 
+Senses Darkvision 30 ft., Passive Perception 10 +
+
+| *Traits* |
+*Keen Smell.* +
+The rat has advantage on Wisdom (Perception) checks that rely on smell.
+
+2+| .
+
+*Environment* Swamp, Urban +
+*Tags* Misc Creature
+|===
