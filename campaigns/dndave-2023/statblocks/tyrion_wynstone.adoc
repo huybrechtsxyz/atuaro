@@ -1,0 +1,40 @@
+ifndef::rootdir[]
+:rootdir: ../../..
+endif::[]
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Mario Harata*#
+| [small]#Half-orc Fighter#
+
+| image:{homedir}/assets/images/tyrion_wynstone.webp[protagonist]
+
+|
+*Armor Class* x +
+*Hit Points* x +
+*Speed* x. +
+*Proficiency* +x +
+*Initiative* +0 +
+
+[%header,cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! STR       ^! DEX       ^! CON       ^! INT       ^! WIS       ^! CHA
+^! 18 (*+4*) ^! 14 (*+2*) ^! 15 (*+2*) ^! 12 (*+1*) ^! 10 (*+0*) ^! 08 (*-1*)
+!===
+
+| *Actions* | 
+
+| *Abilities* | 
+x
+
+| *Traits* |
+x
+
+2+| *About* +
+
+
+*Tags:* 
+|===
