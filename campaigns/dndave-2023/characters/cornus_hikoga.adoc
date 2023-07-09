@@ -5,20 +5,20 @@ ifndef::homedir[]
 :homedir: ..
 endif::[]
 
-= Angela Zaramus
+= Cornus Hikoga
 
-*as played by Toon Braspenninckx*
+*as played by Koen Braspenninckx*
 
 [align=center]
-image:{homedir}/assets/images/angela_zaramus.jpeg[{homedir}/assets/images/angela_zaramus.jpeg]
+image:{homedir}/assets/images/cornus_hikoga.png[{homedir}/assets/images/cornus_hikoga.png]
 
-include::{homedir}/statblocks/angela_zamarus.adoc[]
+include::{homedir}/statblocks/cornus_hikoga.adoc[]
 
 == Statistics
 
 [cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
 |===
->| *Lineage* | Human
+>| *Lineage* | Helf-Elf
 >| *Height* | x ft
 >| *Walk* | x ft
 
@@ -43,15 +43,14 @@ include::{homedir}/statblocks/angela_zamarus.adoc[]
 |===
 ^| Level | Class                | Subclass                       | Remark
 ^|  0    | Diviner              | -                              | As a child
-^|  1    | Cleric               | -                              | Adulthood
+^|  1    | Druid               | -                              | Adulthood
 |===
 
 == About
-Is a human cleric
-Is the daughter of the bisshop of the local city. She is a spoiled brat and a teacher's pet. She mostly wants to please her father. She has a connection to her father. But having a daughter with divine powers would be bad for his career. She was raised very religiously from a very young age. Crusader type. The law is never wrong. 
+Is a half-elf druid
+Named after the Kornoei flower. Many years ago an elf passed through the village and stayed for some time and had fun with the local priest. She gave birth to a boy and the priest, more interested in his career then children gave it up to the orphanage. To keep his conscience quite he does fundraisers for the orphanage.
+Ms Witchling has her suspicions but keeps quit. The flowers of the orphanage front garden started growing, hence his name, Cornus.
 
-Character arc. 
-Let her grow from the spoiled brat to someone who takes on her destiny and is very pro-active and self-made.
 
 === Personality Traits
 
