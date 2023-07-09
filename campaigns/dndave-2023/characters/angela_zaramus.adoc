@@ -1,0 +1,78 @@
+ifndef::rootdir[]
+:rootdir: ../../..
+endif::[]
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+= Angela Zaramus
+
+*as played by Toon Braspenninckx*
+
+[align=center]
+image:{homedir}/assets/images/angela_zaramus.jpeg[{homedir}/assets/images/angela_zaramus.jpeg]
+
+include::{homedir}/statblocks/angela_zamarus.adoc[]
+
+== Statistics
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+|===
+>| *Lineage* | Human
+>| *Height* | x ft
+>| *Walk* | x ft
+
+>| *Culture* |  
+>| *Weight* |  
+>| *Fly* | 0 ft
+
+>| *Background* |  
+>| *Eyes* |  
+>| *Swim* | 0 ft
+
+>|  | 
+>| *Skin* |  
+>| *Climb* | 0 ft
+
+>|  | 
+>| *Hair* |  
+>| *Burrow* | 0 ft
+|===
+
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Level progression"]
+|===
+^| Level | Class                | Subclass                       | Remark
+^|  0    | Diviner              | -                              | As a child
+^|  1    | Cleric               | -                              | Adulthood
+|===
+
+== About Mario
+Is a human cleric
+Is the daughter of the bisshop of the local city. She is a spoiled brat and a teacher's pet. She mostly wants to please her father. She has a connection to her father. But having a daughter with divine powers would be bad for his career. She was raised very religiously from a very young age. Crusader type. The law is never wrong. 
+
+Character arc. 
+Let her grow from the spoiled brat to someone who takes on her destiny and is very pro-active and self-made.
+
+=== Personality Traits
+
+
+=== Ideals
+
+
+=== Bonds
+
+
+=== Flaws
+
+
+=== Character Story
+
+
+=== Allies
+
+
+=== Opponents
+
+
+=== Notes
+
