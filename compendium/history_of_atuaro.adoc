@@ -1,0 +1,82 @@
+ifndef::rootdir[]
+:rootdir: ..
+endif::[]
+
+# History of Atuaro
+
+image:{rootdir}/assets/images/history/heading.jpg[{rootdir}/assets/images/heading.jpg]
+
+== About the history of Atuaro
+The known history of Atuaro spans for thousands of years. In the beginning Ranginui (the sky) and Papatūānuku (earth) were joined together, and their children were born between them in darkness. After they sundered the world in the Age of Dawn, the children decided to separate their parents. To allow light to come into the world. The children then became gods of the world.
+
+=== Age of Dawn
+
+image:{rootdir}/assets/images/history/age_of_dawn.jpg[]
+
+Tens of thousands of years ago, empires of reptilian, amphibian, and avian peoples- known in Elvish as Jqua'Tel'Quessir, the creator races- dominated the world. They built great cities of stone and glass, carved paths through the wilderness, tamed the great lizards, worked mighty magics, shaped the world around them, and warred upon each other. Those were the Days of Thunder. Their civilisations came to a sudden end some hundred thousand years ago. Perhaps their wars reached a terrible and inevitable crescendo, or they tampered with forbidden forces. For whatever reason, the world changed, and their vast empires vanished. All that remains of them are ruins and the scattered lizard folk, bullywug, aarakocra, and various tribes of barbaric descendants of hose who once ruled the world.
+
+==== The rise and fall of Akkadia
+
+image:{rootdir}/assets/images/history/akkadia_temple.jpg[]
+
+The Akkadian are an ancient and highly-advanced species of beings who were active on Atuaro in what is named The Dawn Age. The Akkadian are responsible for the creation of the Taonga Makutu. Powerful artifacts that augmented their already superhuman abilities. Their history shrouded in mystery, the Akkadian ruled thousands of years ago.
+
+Taonga Makutu is the name of the powerfull artifacts created by the Akkadians.
+
+==== The Descent of Tyranny
+
+image:{rootdir}/assets/images/history/descent_of_tyranny.jpg[]
+
+The Descent of Tyranny ended the rule of the Akkadian people. Nobody really knows what happened during the final years of the Age of Dawn but scholars define it as hell descending on Atuaro.
+
+=== Age of Thrive
+
+image:{rootdir}/assets/images/history/age_of_thrive.jpg[]
+
+From the ruins of the Age of Dawn arose the first nations of the Proud People. The Proud People defended their homelands against the hordes that arose from the mountains and the deep valleys and surged across the world to attack and pillage.
+
+==== The rise and fall of Maurya
+
+image:{rootdir}/assets/images/history/maurya.jpg[]
+
+From the ruins of the Age of Dawn arose the first nations of the Proud People. The Proud People defended their homelands against the hordes that arose from the mountains and the deep valleys and surged across the world to attack and pillage.
+
+==== Rupture of Arcanum
+
+image:{rootdir}/assets/images/history/rupture_of_arcanum.jpg[]
+
+The Rupture of Arcanum was a High Magic ritual cast by the greatest of high mages during the Age of Thrive, around -3.200 DR. The ritual resulted in a widespread disaster that destroyed and altered much of Atuaro and is the cause of much of the non-uniformity of magic throughout the world.
+
+=== Age of Humanity
+
+image:{rootdir}/assets/images/history/age_of_humanity.jpg[]
+
+The Age of Humanity began with the decline of the ancient empires and the flourishing and the first settlers. Expansion of the human (and humanoid) empires around the world. In a time when the many dragons and giants were long overthrown and the world ending wars no longer loomed over everyone as a threat, the humanoid civilisations began to rise. For millennia the ancient nations stagnated and began a log slow decline. In the centuries following the collapse many cities took in refugees and new settlements were founded
+
+==== The rise and fall of Helvetica
+
+image:{rootdir}/assets/images/history/helvetica.png[]
+
+A few hundred years after the Rupture of Arcanum, the city of Helvetica was founded. It is thought that the city-state was initially formed by villagers joining together with settlers from the surrounding hills in response to an invasion. The first settlement was built on Palatine Hill because it was easily defendable. Over time, the six other hills around Palatine were also settled. As the settlement grew, it became a city. A public area was built between the hills of Palatine and Capitoline that became known as the Forum. Here the city council ruled over the city under the guidance of the consul. When the last consul overthrew the city council to consolidate his power he became the first king of Helvetica. The new Kingdom increased its physical boundaries, military might, production and trade over the time to come.
+
+After a few centuries Helvetica entered its Republican Period. No longer ruled by kings, the Helvetians established a new form of government whereby the upper classes ruled, namely the senators and the equestrians, or knights. However, a dictator could be nominated in times of crisis. In this period Helvetica established the Tabularum. A standardized code of laws meant for public, private, and political matters.
+
+Helvetica continued to expand and gained control over the entire peninsula. After the wars the republic, with no enemy to fight, turned on itself. Soon, Helvetica’s political atmosphere pushed the Republic into a period of chaos and civil war. This led to the election of a dictator. While Helvetica continued to be governed as a Republic, the shift to Imperialism began to materialize. Although the Senate was still Helvetica’s governing body, its power was weakening. A dictator used this to rise to power and thus became the first emperor of Helvetica. During the start of this imperial period, Helvetica saw several centuries of peace and prosperity. 
+
+The Scourge of Pestilence started a period of civil unrest and invasions that started the fall of Helvetica. With a limited army spread to thin across the empire, there was to much turmoil and not enough man power. Major cities were sacked, the economy in shambles, the military deplenished; Helvetica collapsed.
+
+==== Scourge of Pestilence
+
+image:{rootdir}/assets/images/history/scourge_of_pestilence.webp[]
+
+The Scourge of Pestilence was a civilisation ruining widespread disease that killed large populations. Some exposed groups developed immuneties others ... changed.
+
+=== Age of Reckoning
+
+image:{rootdir}/assets/images/history/age_of_reckoning.jpg[]
+
+Age of Reckoning was the time period that started in the year of the reckoning and continues to the present. It is considered a tumultuous age in the history of Atuaro. It is a time of struggle but also a time of discovery and exploration.
+
+The remains of humanity fell apart into different kingdoms, empires, and city states.
+
+The story start at the Kingdom of Takangi

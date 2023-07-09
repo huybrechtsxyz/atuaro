@@ -1,10 +1,10 @@
 ifndef::rootdir[]
-:rootdir: ../..
+:rootdir: ..
 endif::[]
 
 = Martaka
 
-image:{rootdir}}/assets/images/heading.jpg[]
+image:{rootdir}/assets/images/heading.jpg[{rootdir}/assets/images/heading.jpg]
 
 The Martaka is the traditional calendar on Atuaro. Each year has 11 months based on the cycles of the winter moon. These lunar months begin and end when the moon is new, and last for 27 days. The stars also play a part in the calendar. Each month is represented by one or more stars. The calendar starts at the year of reckoning.
 
