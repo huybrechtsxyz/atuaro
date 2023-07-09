@@ -1,0 +1,41 @@
+ifndef::rootdir[]
+:rootdir: ../../..
+endif::[]
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Antonio Harata*#
+| [small]#Halfling Rogue#
+
+| image:{homedir}/assets/images/antonio_harata.webp[{homedir}/assets/images/antonio_harata.webp]
+
+|
+*Armor Class* x +
+*Hit Points* x +
+*Speed* x +
+*Proficiency* x +
+*Initiative* x +
+
+[%header,cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! STR       ^! DEX       ^! CON       ^! INT       ^! WIS       ^! CHA
+^! 18 (*+4*) ^! 14 (*+2*) ^! 15 (*+2*) ^! 12 (*+1*) ^! 10 (*+0*) ^! 08 (*-1*)
+!===
+
+| *Actions* | 
+
+| *Abilities* | 
+x
+| *Traits* |
+
+2+| *About* +
+Is a halfling rogue
+Was and is always the smallest.
+Likes stealing things and fooling people.
+Can ride Mario Harata as a mount.
+
+*Tags:* 
+|===

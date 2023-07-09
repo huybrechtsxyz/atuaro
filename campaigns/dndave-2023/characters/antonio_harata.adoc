@@ -1,0 +1,77 @@
+ifndef::rootdir[]
+:rootdir: ../../..
+endif::[]
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+= Antonio Harata the Halfling Rogue
+
+*as played by Giuseppe Tria*
+
+[align=center]
+image:{homedir}/assets/images/antonio_harata.webp[{homedir}/assets/images/antonio_harata.webp]
+
+include::{homedir}/statblocks/antonio_harata.adoc[]
+
+== Statistics
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+|===
+>| *Lineage* | Halfling
+>| *Height* | x ft
+>| *Walk* | x ft
+
+>| *Culture* |  
+>| *Weight* |  
+>| *Fly* | 0 ft
+
+>| *Background* |  
+>| *Eyes* |  
+>| *Swim* | 0 ft
+
+>|  | 
+>| *Skin* |  
+>| *Climb* | 0 ft
+
+>|  | 
+>| *Hair* |  
+>| *Burrow* | 0 ft
+|===
+
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Level progression"]
+|===
+^| Level | Class                | Subclass                       | Remark
+^|  0    | Expert               | -                              | As a child
+^|  1    | Rogue                | -                              | Adulthood
+|===
+
+== About Mario
+Is a halfling rogue
+Was and is always the smallest.
+Likes stealing things and fooling people.
+Can ride Mario Harata as a mount.o
+
+=== Personality Traits
+
+
+=== Ideals
+
+
+=== Bonds
+
+
+=== Flaws
+
+
+=== Character Story
+
+
+=== Allies
+
+
+=== Opponents
+
+
+=== Notes
+
