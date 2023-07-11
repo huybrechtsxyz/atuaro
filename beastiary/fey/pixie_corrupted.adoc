@@ -3,7 +3,7 @@ ifndef::rootdir[]
 endif::[]
 = Corrupted Pixie
 
-image:{rootdir}/assets/images/npc_pixie_corrupted.png[{rootdir}/assets/images/npc_pixie_corrupted.png]
+image::{rootdir}/assets/images/npc_pixie_corrupted.png[]
 
 == Statistics
 

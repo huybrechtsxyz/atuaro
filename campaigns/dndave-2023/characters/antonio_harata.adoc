@@ -14,7 +14,7 @@ endif::[]
 | [big]#*Antonio Harata*#
 | [small]#Halfling Rogue#
 
-| image:{homedir}/assets/images/antonio_harata.webp[{homedir}/assets/images/antonio_harata.webp]
+| image::{homedir}/assets/images/antonio_harata.webp[]
 
 |
 *Background:* Acolyte

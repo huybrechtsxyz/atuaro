@@ -14,7 +14,7 @@ endif::[]
 | [big]#*Mario Harata*#
 | [small]#Half-orc Fighter#
 
-| image:{homedir}/assets/images/mario_harata.webp[protagonist]
+| image::{homedir}/assets/images/mario_harata.webp[]
 
 |
 *Background* 

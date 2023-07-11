@@ -14,7 +14,7 @@ endif::[]
 | [big]#*Corgus Hikoga*#
 | [small]#Human Cleric#
 
-| image:{homedir}/assets/images/cornus_hikoga.png[{homedir}/assets/images/cornus_hikoga.png]
+| image::{homedir}/assets/images/cornus_hikoga.png[]
 
 |
 *Background* 

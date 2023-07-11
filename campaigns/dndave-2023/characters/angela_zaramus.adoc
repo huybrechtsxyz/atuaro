@@ -14,7 +14,7 @@ endif::[]
 | [big]#*Angela Zamarus*#
 | [small]#Human Cleric#
 
-| image:{homedir}/assets/images/angela_zaramus.jpeg[{homedir}/assets/images/angela_zaramus.jpeg]
+| image::{homedir}/assets/images/angela_zaramus.jpeg[]
 |
 *Background:* Acolyte
 

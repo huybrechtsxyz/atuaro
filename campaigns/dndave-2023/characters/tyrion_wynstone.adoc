@@ -14,7 +14,7 @@ endif::[]
 | [big]#*Tyrion Wynstone*#
 | [small]#Half-Elf Barbarian#
 
-| image:{homedir}/assets/images/tyrion_wynstone.webp[protagonist]
+| image::{homedir}/assets/images/tyrion_wynstone.webp[]
 
 |
 *Background*
