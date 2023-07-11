@@ -9,69 +9,50 @@ endif::[]
 
 *as played by Koen Braspenninckx*
 
-[align=center]
-image:{homedir}/assets/images/cornus_hikoga.png[{homedir}/assets/images/cornus_hikoga.png]
-
-include::{homedir}/statblocks/cornus_hikoga.adoc[]
-
-== Statistics
-
-[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+[cols="2a,4a",grid=rows]
 |===
->| *Lineage* | Helf-Elf
->| *Height* | x ft
->| *Walk* | x ft
+| [big]#*Corgus Hikoga*#
+| [small]#Human Cleric#
 
->| *Culture* |  
->| *Weight* |  
->| *Fly* | 0 ft
+| image:{homedir}/assets/images/cornus_hikoga.png[{homedir}/assets/images/cornus_hikoga.png]
 
->| *Background* |  
->| *Eyes* |  
->| *Swim* | 0 ft
+|
+*Background* 
 
->|  | 
->| *Skin* |  
->| *Climb* | 0 ft
+[%header,cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! STR       ^! DEX       ^! CON       ^! INT       ^! WIS       ^! CHA
+^!    (*+0*) ^!    (*+0*) ^!    (*+0*) ^!    (*+0*) ^!    (*+0*) ^!    (*+0*)
+!===
 
->|  | 
->| *Hair* |  
->| *Burrow* | 0 ft
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Levels"]
+!===
+^! Level ! Class                ! Subclass                       ! Remark
+^!  0    ! Diviner              ! -                              ! As a child
+^!  1    ! Druid                ! -                              ! Adulthood
+!===
+
+| *Strategy* | 
+
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+| *About* +
+
+*Tags:* 
 |===
 
-[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Level progression"]
-|===
-^| Level | Class                | Subclass                       | Remark
-^|  0    | Diviner              | -                              | As a child
-^|  1    | Druid               | -                              | Adulthood
-|===
+== Notes
 
-== About
+=== Backstory
+
 Is a half-elf druid
 Named after the Kornoei flower. Many years ago an elf passed through the village and stayed for some time and had fun with the local priest. She gave birth to a boy and the priest, more interested in his career then children gave it up to the orphanage. To keep his conscience quite he does fundraisers for the orphanage.
 Ms Witchling has her suspicions but keeps quit. The flowers of the orphanage front garden started growing, hence his name, Cornus.
-
-
-=== Personality Traits
-
-
-=== Ideals
-
-
-=== Bonds
-
-
-=== Flaws
-
-
-=== Character Story
-
-
-=== Allies
-
-
-=== Opponents
-
-
-=== Notes
-

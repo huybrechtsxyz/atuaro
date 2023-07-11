@@ -9,69 +9,51 @@ endif::[]
 
 *as played by Giuseppe Tria*
 
-[align=center]
-image:{homedir}/assets/images/antonio_harata.webp[{homedir}/assets/images/antonio_harata.webp]
-
-include::{homedir}/statblocks/antonio_harata.adoc[]
-
-== Statistics
-
-[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+[cols="2a,4a",grid=rows]
 |===
->| *Lineage* | Halfling
->| *Height* | x ft
->| *Walk* | x ft
+| [big]#*Antonio Harata*#
+| [small]#Halfling Rogue#
 
->| *Culture* |  
->| *Weight* |  
->| *Fly* | 0 ft
+| image:{homedir}/assets/images/antonio_harata.webp[{homedir}/assets/images/antonio_harata.webp]
 
->| *Background* |  
->| *Eyes* |  
->| *Swim* | 0 ft
+|
+*Background:* Acolyte
 
->|  | 
->| *Skin* |  
->| *Climb* | 0 ft
+[%header,cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! STR       ^! DEX       ^! CON       ^! INT       ^! WIS       ^! CHA
+^! 18 (*+4*) ^! 14 (*+2*) ^! 15 (*+2*) ^! 12 (*+1*) ^! 10 (*+0*) ^! 08 (*-1*)
+!===
 
->|  | 
->| *Hair* |  
->| *Burrow* | 0 ft
-|===
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Levels"]
+!===
+^! Level ! Class                ! Subclass                       ! Remark
+^!  0    ! Expert               ! -                              ! As a child
+^!  1    ! Rogue                ! -                              ! Adulthood
+!===
 
-[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Level progression"]
-|===
-^| Level | Class                | Subclass                       | Remark
-^|  0    | Expert               | -                              | As a child
-^|  1    | Rogue                | -                              | Adulthood
-|===
+| *Strategy* | 
 
-== About Mario
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+| *About* +
 Is a halfling rogue
 Was and is always the smallest.
 Likes stealing things and fooling people.
-Can ride Mario Harata as a mount.o
+Can ride Mario Harata as a mount.
 
-=== Personality Traits
+*Tags:* 
+|===
 
+== Notes
 
-=== Ideals
-
-
-=== Bonds
-
-
-=== Flaws
-
-
-=== Character Story
-
-
-=== Allies
-
-
-=== Opponents
-
-
-=== Notes
+=== Backstory
 

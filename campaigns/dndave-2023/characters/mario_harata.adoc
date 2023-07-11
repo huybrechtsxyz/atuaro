@@ -9,68 +9,55 @@ endif::[]
 
 *as played by Michael Vandenbergh*
 
-[align=center]
-image:{homedir}/assets/images/mario_harata.webp[{homedir}/assets/images/mario_harata.webp]
-
-include::{homedir}/statblocks/mario_harata.adoc[]
-
-== Statistics
-
-[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+[cols="2a,4a",grid=rows]
 |===
->| *Lineage* | Half-orc
->| *Height* | x ft
->| *Walk* | x ft
+| [big]#*Mario Harata*#
+| [small]#Half-orc Fighter#
 
->| *Culture* |  
->| *Weight* |  
->| *Fly* | 0 ft
+| image:{homedir}/assets/images/mario_harata.webp[protagonist]
 
->| *Background* |  
->| *Eyes* |  
->| *Swim* | 0 ft
+|
+*Background* 
 
->|  | 
->| *Skin* |  
->| *Climb* | 0 ft
+[%header,cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! STR       ^! DEX       ^! CON       ^! INT       ^! WIS       ^! CHA
+^! 18 (*+4*) ^! 14 (*+2*) ^! 15 (*+2*) ^! 12 (*+1*) ^! 10 (*+0*) ^! 08 (*-1*)
+!===
 
->|  | 
->| *Hair* |  
->| *Burrow* | 0 ft
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Levels"]
+!===
+^! Level ! Class                ! Subclass                       ! Remark
+^!  0    ! Warrior              ! -                              ! As a child
+^!  1    ! Fighter              ! -                              ! Adulthood
+!===
+
+| *Strategy* | 
+
+
+| *Actions* | 
+
+
+| *Abilities* | 
+Athletics +3 +
+Intimidation -1 +
+Perception +0 +
+Sleight of hand +2 +
+Stealth + 2
+
+| *Traits* |
+
+
+2+| *About* +
+Is a half-orc fighter. Was bullied a lot and spends all his time with Antonio Harata. Is used as a mount my Antonio
+
+*Tags:* 
 |===
 
-[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Level progression"]
-|===
-^| Level | Class                | Subclass                       | Remark
-^|  0    | Warrior              | -                              | As a child
-^|  1    | Fighter              | -                              | Adulthood
-|===
+== Notes
 
-== About Mario
+=== Backstory
+
 Is a half-orc fighter.
 Bullied a lot, spends all his time with Antonio Harata.
 Is used as a mount my Antonio
-
-=== Personality Traits
-
-
-=== Ideals
-
-
-=== Bonds
-
-
-=== Flaws
-
-
-=== Character Story
-
-
-=== Allies
-
-
-=== Opponents
-
-
-=== Notes
-

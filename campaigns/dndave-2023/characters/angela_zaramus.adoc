@@ -16,7 +16,7 @@ endif::[]
 
 | image:{homedir}/assets/images/angela_zaramus.jpeg[{homedir}/assets/images/angela_zaramus.jpeg]
 |
-Background: Acolyte
+*Background:* Acolyte
 
 [%header,cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
 !===
@@ -43,13 +43,13 @@ Background: Acolyte
 | *Traits* |
 
 
-2+| *Summary* +
+2+| *About* +
 Is the daughter of the bisshop of the local city. She is a spoiled brat and a teacher's pet. She mostly wants to please her father. She has a connection to her father. But having a daughter with divine powers would be bad for his career. She was raised very religiously from a very young age. Crusader type. The law is never wrong. 
 
 *Tags:* 
 |===
 
-== About
+== Notes
 
 === Backstory
 In Loukotokia city, Angela, daughter of the bishop, was imbued with a fervent passion for the ways of Ohm. Her father, holding a lofty position, could take great pride in his daughter, and she in turn worshipped him. Soon, she became a devout Custodi, wholly devoted to the church of the one true god Ohm. With little delay, she committed to memory many verses, prayers, and blessings, and like any priest, would recite them with fervour, joining her father in prayer.

@@ -9,67 +9,50 @@ endif::[]
 
 *as played by Dave*
 
-[align=center]
-image:{homedir}/assets/images/tyrion_wynstone.webp[{homedir}/assets/images/tyrion_wynstone.webp]
-
-include::{homedir}/statblocks/tyrion_wynstone.adoc[]
-
-== Statistics
-
-[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+[cols="2a,4a",grid=rows]
 |===
->| *Lineage* | Half-Elf
->| *Height* | x ft
->| *Walk* | x ft
+| [big]#*Tyrion Wynstone*#
+| [small]#Half-Elf Barbarian#
 
->| *Culture* |  
->| *Weight* |  
->| *Fly* | 0 ft
+| image:{homedir}/assets/images/tyrion_wynstone.webp[protagonist]
 
->| *Background* |  
->| *Eyes* |  
->| *Swim* | 0 ft
+|
+*Background*
 
->|  | 
->| *Skin* |  
->| *Climb* | 0 ft
+[%header,cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! STR       ^! DEX       ^! CON       ^! INT       ^! WIS       ^! CHA
+^! 18 (*+4*) ^! 14 (*+2*) ^! 15 (*+2*) ^! 12 (*+1*) ^! 10 (*+0*) ^! 08 (*-1*)
+!===
 
->|  | 
->| *Hair* |  
->| *Burrow* | 0 ft
-|===
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Levels"]
+!===
+^! Level ! Class                ! Subclass                       ! Remark
+^!  0    ! Warrior              ! -                              ! As a child
+^!  1    ! Barbarian            ! -                              ! Adulthood
+!===
 
-[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Level progression"]
-|===
-^| Level | Class                | Subclass                       | Remark
-^|  0    | Warrior              | -                              | As a child
-^|  1    | Barbarian            | -                              | Adulthood
-|===
+| *Strategy* | 
 
-== About 
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+| *About* +
 Is a half-elf barbarian
-He knew his mother but not his father. Was aised by his mother until the age of 6 until she died. She was single, and was pestered for it by others. He now hates arrogant people. Although he never knew his father, the mother wanted to him to know about it. Being a barbarian is cleaning of the typical Elf things
+He knew his mother but not his father. Was aised by his mother until the age of 6 until she died. She was single, and was pestered for it by others. He now hates arrogant people. Although he never knew his father, the mother wanted to him to know about it. Being a barbarian is cleaning of the typical Elf things.
 
-=== Personality Traits
+*Tags:* 
+|===
 
+== Notes
 
-=== Ideals
-
-
-=== Bonds
-
-
-=== Flaws
-
-
-=== Character Story
-
-
-=== Allies
-
-
-=== Opponents
-
-
-=== Notes
-
+=== Backstory
+Is a half-elf barbarian
+He knew his mother but not his father. Was aised by his mother until the age of 6 until she died. She was single, and was pestered for it by others. He now hates arrogant people. Although he never knew his father, the mother wanted to him to know about it. Being a barbarian is cleaning of the typical Elf things.
