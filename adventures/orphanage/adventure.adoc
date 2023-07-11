@@ -17,6 +17,8 @@ After talking about the social contract and their introduction to the world, the
 
 Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them. If they succees then they can go to the carnival. They not gonna fail right... right...
 
+While Hibiscus Tauwi (The Priest) comes to visit Ms Witchling, Aeria Jones (Weird) comes back inside and is not alone. She is surrounded by pixies. The pixies start fun and try to lure the children outside. They start harassing children if they do not comply. If no action is taken, the pixies will focus on a single child and lure / drag the child Timothy Butch (the sad one) or Gilad Shams (the bully) outside. Our heroes will need to defend the children.
+
 == To Do List
 * Make the hardcore rules more clear to start with.
 * Make the children 16 years old to start with?
@@ -110,6 +112,7 @@ Is there anything you would like to add?
 * A hobby, personal item from your past?
 
 == Basement Dwellings
+
 Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them.
 
 If they succees then they can go to the carnival. They not gonna fail right... right...
@@ -181,13 +184,13 @@ In order to take one of the blessings they will need to convince a�
 
 *Obstacles*
 
-1. The house has 5 flagons for this purpose. Every time you break one. That is 1 Bolts for all characters. 
-2. The basement is dark. Without the lantern found in the kitchen, they will not be able to see beyond the immediate vicinity of the stairs 5 ft.
-3. There are rats in the basement.
+. The house has 5 flagons for this purpose. Every time you break one. That is 1 Bolts for all characters. 
+. The basement is dark. Without the lantern found in the kitchen, they will not be able to see beyond the immediate vicinity of the stairs 5 ft.
+. There are rats in the basement.
     * Rats only attack if attacked first, the slightest provocation will do  
 	* Holding full flagon? Athletics check for not tripping on rats.
-4. Between room 2 and 3 there are cobwebs from spiders. The spiders are harmless. But if you get walk through them you become frightened and drop everything you are carrying. In room 5 on the right wall they can find an old broom to clear the cobwebs.
-5. Save the boy (Timmy) from the locked storage room. The child will be scared of the other children. Find at least two of his 'attributes' to get him to come with you.
+. Between room 2 and 3 there are cobwebs from spiders. The spiders are harmless. But if you get walk through them you become frightened and drop everything you are carrying. In room 5 on the right wall they can find an old broom to clear the cobwebs.
+. Save the boy (Timmy) from the locked storage room. The child will be scared of the other children. Find at least two of his 'attributes' to get him to come with you.
 	* Players can easily find the items (no check needed, just the right action)  
 	* His teddy can be found in room 2 (between some barrels)  
 	* His blanket can be found in room 5 (middle on the floor to room 6)  
@@ -197,19 +200,173 @@ In order to take one of the blessings they will need to convince a�
 
 image::{homedir}/assets/maps/orphanage_basement.png[align=center]
 
-=== Story Part / Area 1
-Lorem ipsum.
+=== Area 1 - Stairs [DC-10]
 
-> Spoken to players
+> A stone sturdy yet worn with time staircase leads you with each footstep deeper into the dark basement. The dim light filtering in from above casts a shadowy aura over the staircase.
 
-==== Blessings
-. Blessing1
-. Blessing2
-. Blessing3
+* You need to hold the flagon's with 2 hands on the stairs. DEX check or drop the flagon.
 
-===== Statblocks
-include::{homedir}/statblocks/monster.adoc[monster]
+=== Area 2 - KEGS [DC-10]
 
-===== Extra
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> A basement room filled with wooden kegs of various sizes stacked up against the walls. The room is dark with a little dim light from the stairs
 
+The children will need to use the spigots, which requires a strength check to open.
+
+* 1d4 rats appear from the moment they enter the room.
+* Timmy's teddy bear is between barrel 2 and 3.
+* How are they going to know what is wine and beer?
+
+Kegs 1 and 2 (3 leaves standing up image:{homedir}/assets/images/symbol_beer.jpg[beer,50,50]), contain beer [PIA]
+
+Kegs 3 and 4 (3 circles upside down image:{homedir}/assets/images/symbol_wine.jpg[beer,50,50]), contain wine [WAINA]
+
+Keg 5 (Circle with line, on/off symbol, image:{homedir}/assets/images/symbol_cider.jpg[beer,50,50]), contains apple cider [APORO]
+
+=== Area 3 - STORAGE [DC-10]
+
+> A dark storage area in the basement. The air is musty and damp, carrying with it the scent of old and forgotten things. Wooden crates and boxes are stacked haphazardly against the walls, leaving narrow aisles in between.
+
+Once someone is close to the door for room 4:
+
+> You hear a soft, pitiful whimper. A sound filled with fear, sadness, and desperation. The whimpering is constant but fluctuates in volume. You can see a shadowy figure sitting hunched on some boxes.
+
+If they succeed on a perception check:
+
+> You hear disorganised skittering and scrabbling of random and erratic movement of little paws.
+
+This room contains old and worn clothes and cheap items required to run the orphanage.
+
+* Entering the room they pass through cobwebs.
+
+    The spiders are harmless. But if you get walk through them you become frightened and drop everything you are carrying. In room 5 on the right wall they can find an old broom to clear the cobwebs. CON SAVE.
+  
+* Save the boy from the locked storage room.
+
+* Timmy's small tin soldier toy is in room 3 (just behind the wall on the left)
+
+=== AREA 4 - LOCKED ROOM [DC-11]
+
+The door of the room:
+
+> The door is sturdy and appears to be made of heavy wood. A wooden box is blocking the door from the outside.
+
+The room itself:
+
+> The storage room is small and cramped with a musty smell of dampness. The lack of light adds to the claustrophobic feel and increases the sense of being trapped.
+
+This room contains clothes, pottery for longer term storage and the more expensive items.
+
+* 1d4 rats are in the room (minimum 2)
+* Timmy will not really respond but ask for his stuff
+* Once Timmy has his stuff he will accompany the kids upstairs
+* In one of the boxes there are 2 wooden swords and a shield.
+
+=== AREA 5 - STORAGE [CD-10]
+
+> This area of the basement is located near the stairs and is partially illuminated by its light. The dim light makes it difficult to see clearly, but you can make out the shapes of cluttered boxes and sacks, stacked haphazardly against the walls.
+
+This room contains food, produce, grain. More expensive bottles of wine and beer. Candles.
+
+* There is a broom near the right wall that can be used for the cobwebs.
+
+=== AREA 6 - THE WELL [DC-11]
+
+> This section contain a well surrounded by a stone wall. It provides fresh water for the orphanage. A sturdy wooden lid covers the top of the well, and a rope and bucket hang down into the depths. The walls of the well are slick and slippery, and the water in the depths is dark and still. The well is deep and narrow, and there is no light at the bottom, making it difficult to see what lies below. 
+
+* They need to put the buck in, pull it up with water, and fill the flagon.
+
+=== Statblocks
+
+include::{rootdir}/statblocks/beasts/rat.adoc[]
+
+== The House Visit
+
+While Hibiscus Tauwi (The Priest) comes to visit Ms Witchling, Aeria Jones (Weird) comes back inside and is not alone. She is surrounded by pixies. The pixies start fun and try to lure the children outside. They start harassing children if they do not comply. If no action is taken, the pixies will focus on a single child and lure / drag the child Timothy Butch (the sad one) or Gilad Shams (the bully) outside. Our heroes will need to defend the children.
+
+=== Objectives
+
+*Goals*
+
+. The children may listen to the door to learn about the world.
+. Defend the orphanage and children against the pixies.
+
+*Blessings*
+
+. Knives in the kitchen.
+. Firepoke at the fireplace
+
+*Obstacles*
+
+. Pixies.
+
+=== Supporting Actors
+
+List actors (new vs prev chapter)
+
+=== Orphanage Maps
+
+image::{homedir}/assets/maps/orphanage_grounds.jpg[]
+
+image::{homedir}/assets/maps/orphanage_floor.jpg[]
+
+image::{homedir}/assets/maps/orphanage_Attic.jpg[]
+
+=== Lunch
+
+> It is noon and the priest presides lunch. +
+_Blessed Noon, children. +
+Let us begin with a moment of silence for everyone. +
+For those that refuse to work +
+For those who are not pure +
+For those who do not BELIEVE +  
+We keep those souls in our thoughts +
+It serves to remind us that Ohm should never be taken for granted +
+For evil never rests. It lurks beyond the veil waiting to strike +
+We must remain ever vigilant +
+Demons and false gods spring to mind, those who poison your soul +
+It takes many forms and takes from our flock +
+Those who have grappled with their maleficence before still struggle +
+You, brothers and sisters, join me in prayer that we might ward off these evil spirits +
+Only united we hope to keep its nefarious designs at bay on this sacred day +
+together now! +
+BEGONE DEVIL! We cast the out! +
+We drive you from us! Breaker of oaths! Invader of souls! +
+You shall hold no dominion here today +
+So declares Ohm_  
+
+At 12:00 AM the priests Hibiscus comes to vist Ms Witchling. He reads the prayer and joins in the food. Then they retreat to their private quarters and Krista brings them the drinks and comes out again to continue her neverending chores. Before the can listen to the door they will need to make a stealth check:
+
+* [DC5] they can make a 1 perception check
+* [DC10] they can make 2 perception checks
+* [DC15] they can make 3 perception checks
+
+If they listen to the door they will hear:
+
+* [DC5] Usual town gossip 
+* [DC7] Carnival is in town. On good behaviour they can go.
+* [DC9] Hear the guards found a 'treasure map' which is located in the guard tent at the carnival
+* [DC11] Hear the rumour about the affection of Cedric Oakheart to Ms Witchling
+* [DC13] Hear the priest talk about the Bisshop being at the carnival
+* [DC15] Hear the priest specifically ask about Cornus
+
+=== Pixie Attack
+
+> Aria Jones comes into the door startling the offspring that is listening to the door. "Ah ah ah snooty pooty. What would Ms Witchling say" she says coyly. +
++
+What is more peculier she seems is accompanied by a group of small, winged creatures. Surrounded by little flying creatures that seem to try to get her to go outside again. She wearisomely swats at them and says "Oh stop it. Bugger of. Find some other victim". Which they promptly do.
+
+The pixies will bother anyone who is arround and find victims in the orphanage to take outside. Once off the map, the child will be 'gone'.
+
+After they seem to win the fight they notice a pixie flying upstairs. If they follow it they will see the pixie turning into a hag.  
+If the buly or sad one are there, they will comment they expect great things from them.
+This pixie requires a DC20 to perceive. 
+
+* DC10 Perception check to see their true nature.
+
+include::{rootdir}/statblocks/fey/pixie.adoc[]
+
+include::{rootdir}/statblocks/fey/pixie_corrupted.adoc[]
+
+=== Uneventful Evening
+
+The rest of the evening is uneventful.
