@@ -4,13 +4,13 @@ endif::[]
 ifndef::homedir[]
 :homedir: .
 endif::[]
-
+ 
 = The House of Orphaned and Abandoned Offspring
 :toc:
 
 *Tags:* #orphanage
 
-image:{homedir}/assets/images/cover.png[{homedir}/assets/images/cover.png]
+image::{homedir}/assets/images/cover.png[]
 
 == Summary
 After talking about the social contract and their introduction to the world, the players create a character.
@@ -37,7 +37,7 @@ As mentioned in the Table Rules, I expect that you have a way of managing your c
 
 == Ineffable Games
 
-image:{homedir}/assets/images/ineffable_games.jpg[]
+image::{homedir}/assets/images/ineffable_games.jpg[align=center]
 
 The world was a vast and ancient place, shaped by the will of powerful beings beyond the comprehension of mortals. At the center of it all stood Mount Celstia, a towering peak that reached to the very heavens. It was there, atop that sacred mountain, that the Allfather gods Ranginui and Papatanuku resided. They were the creators of all that existed, the bringers of light and life to a world that would otherwise have remained forever in darkness.
 
@@ -71,38 +71,40 @@ Please create 3 characters in order and set their
 === Ability Scores
 The first order of business is to create your ability scores. Please use the Hardcore Mode to create your ability scores. For each ability score:
 
-> * In order from STRength to CHArisma
-> * Roll 3D6 ONCE in ORDER and note the result
-> * Keep track of the lowest die roll
-> * Calculate your standard modifier
-> * Subtract the lowest die role
+* In order from STRength to CHArisma
+* Roll 3D6 ONCE in ORDER and note the result
+* Keep track of the lowest die roll
+* Calculate your standard modifier
+* Subtract the lowest die role
 
 === Character Lineage
 Characters in the world belong to a lineage which includes certain biological characteristics and defines some aspects of their physical appearance. Other things, such as a character’s speed and size, are also derived from their lineage.
 
-> Choose one of the playable races from the Atuaro handbook
+Choose one of the playable races from the Atuaro handbook
 
 If you wish to add a race please talk to your GM.
 
 === Class Archetype
 Select one of the class archetypes.
 
-> * Martial, a character that martial prowess
-> * Diviner, a character that gets its power from the gods
-> * Mage, a character that uses arcane magic 
-> * Expert, a character with special expertise (what expertise?)
+* Martial, a character that martial prowess
+* Diviner, a character that gets its power from the gods
+* Mage, a character that uses arcane magic 
+* Expert, a character with special expertise (what expertise?)
 
 === Hit Points
 At level zero, your character has 1 D4 Hit Die. Later the die type is determined by your class. At each Level, roll your class Hit Die and add that to your MAX HP. No CON modifier applies, no re-rolls, no max outcomes.
 
 === Basic Information
 Please answer the following questions?
+
 * How long have you been at the Witchling House?
 * Were you brought here as a newly born?
 * Or yesterday by your parents or their servant?
 * Do you know why they brought you here?
 
 Is there anything you would like to add?
+
 * Personality traits
 * Ideals, bonds, flaws
 * A hobby, personal item from your past?
@@ -114,6 +116,7 @@ If they succees then they can go to the carnival. They not gonna fail right... r
 
 // SKIP THE STARS
 Kids with good behaviour get a Star. On the other hand if you mucked about you get a Bolt. Stars are awarded to the highest performing children. Any child who fails will receive a Bolt, without exception.
+
 * Earning eleven Bolts results in immediate expulsion. Unlike you, Ms Witchling does not muck about. 
 * A Star can be used to forgive a small trespassing if you play it off.
 * You can use 2 Stars to get rid of 1 Bolt.
@@ -147,6 +150,8 @@ The children get some lessons that learn them to read and write.
 
 === Supporting Actors
 
+* List here
+
 === Breakfast
 > The room is cramped and has a stale smell. You awaken from a restless sleep and realise that you are not the only one who has had a nightmare. The first bell rings at 6 AM and the assigned orphans rise from their beds, some still groggy, to wash up and get dressed. The girls are assigned to do the housekeeping tasks while the boys clean the fireplaces. 
 > 
@@ -160,18 +165,22 @@ Allow for players to roll-play this out if they want. Choose a player that has t
 
 > Ms. Witchling reminds everyone of the guests arriving later that day and warns them to behave appropriately, reminding them of the consequences faced by Kenneth James McCormick. She then instructs someone to fetch two flagons of ale and wine, and to also one of water. *wait 2 seconds* What are you waiting for? Get on with it! An older offspring passes by "You seem flustered? Well hurry, the area is dark and there are rats" and then quickly leaves them to handle the task alone.
 
-*Goal*
-1. Retrieve 3 flagons from the basement: 1 Beer, 1 wine, 1 water.
-2. **SECRET** Save the child Timmy that is locked in room 4 by the bully Gilad.
+=== Objectives
 
-*Blessings*
+*Goal*
+
+. Retrieve 3 flagons from the basement: 1 Beer, 1 wine, 1 water.
+. **SECRET** Save the child Timmy that is locked in room 4 by the bully Gilad.
+
+*Blessings* +
 In order to take one of the blessings they will need to convince a senior if they see them take it.
 
-1. There is a lantern in the hallway
-2. There are a big knife and meat cleaver in the kitchen
-3. In the common room near the fireplace is a firepoke
+. There is a lantern in the hallway
+. There are a big knife and meat cleaver in the kitchen
+. In the common room near the fireplace is a firepoke
 
 *Obstacles*
+
 1. The house has 5 flagons for this purpose. Every time you break one. That is 1 Bolts for all characters. 
 2. The basement is dark. Without the lantern found in the kitchen, they will not be able to see beyond the immediate vicinity of the stairs 5 ft.
 3. There are rats in the basement.
@@ -184,20 +193,12 @@ In order to take one of the blessings they will need to convince a�
 	* His blanket can be found in room 5 (middle on the floor to room 6)  
 	* His small tin soldier toy is in room 3 (just behind the wall on the left)
 
+=== Basement Map
 
-
-
-
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[align=center]
-image:./assets/images/heading.jpg[]
+image::{homedir}/assets/maps/orphanage_basement.png[align=center]
 
 === Story Part / Area 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum.
 
 > Spoken to players
 
@@ -211,15 +212,4 @@ include::{homedir}/statblocks/monster.adoc[monster]
 
 ===== Extra
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
-
-
-=== Breakfast
-
-
-
-=== It is not a request
-
 

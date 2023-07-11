@@ -7,7 +7,7 @@ endif::[]
 
 = D&Dave 2023 Session 4
 
-image:{homedir}/assets/images/heading.jpg[]
+image::{homedir}/assets/images/heading.jpg[]
 
 == To Do List
 * The pixie fight was to easy.

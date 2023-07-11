@@ -7,7 +7,7 @@ endif::[]
 
 = D&Dave 2023 Session 2
 
-image:{homedir}/assets/images/heading.jpg[]
+image::{homedir}/assets/images/heading.jpg[]
 
 == To Do List
 

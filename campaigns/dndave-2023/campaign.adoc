@@ -7,7 +7,7 @@ endif::[]
 
 = D&Dave 2023
 
-image:{homedir}/assets/images/cover.jpg[{homedir}/assets/images/cover.jpg]
+image::{homedir}/assets/images/cover.jpg[{homedir}/assets/images/cover.jpg]
 
 == About the campaign
 

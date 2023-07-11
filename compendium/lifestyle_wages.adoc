@@ -4,7 +4,7 @@ endif::[]
 
 = Lifestyle and Wages
 
-image:{rootdir}/assets/images/cover.jpg[{rootdir}/assets/images/cover.jpg]
+image::{rootdir}/assets/images/cover.jpg[]
 
 == About lifestyle and wages
 

@@ -7,7 +7,7 @@ endif::[]
 | [big]#*Goblin*#
 | [small]#humanoid (goblinoid), neutral evil#
 
-| image:{rootdir}/assets/ddb-images/npc-goblin.png[{assetdir}/ddb-images/npc-goblin.png]
+| image::{rootdir}/assets/ddb-images/npc-goblin.png[label,widht,height,properties]
 
 |
 *Armor Class* 15 (leather armor, shield) +

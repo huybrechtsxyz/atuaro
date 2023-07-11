@@ -7,7 +7,7 @@ endif::[]
 
 = CampaignName
 
-image:{homedir}/assets/images/cover.jpg[{homedir}/assets/images/cover.jpg]
+image::{homedir}/assets/images/cover.jpg[label,widht,height,properties]
 
 == About the campaign
 

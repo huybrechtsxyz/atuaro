@@ -5,7 +5,7 @@ endif::[]
 = Pixie
 :toc:
 
-image:{rootdir}/assets/ddb-images/npc-Pixie.png[{assetdir}/ddb-images/npc-Pixie.png]
+image::{rootdir}/assets/ddb-images/npc-Pixie.png[{assetdir}/ddb-images/npc-Pixie.png]
 
 include::{rootdir}/statblocks/fey/pixie.adoc[]
 

@@ -8,7 +8,7 @@ endif::[]
 == ActorName aka Xyz
 
 [align=center]
-image:{homedir}/assets/images/actor.jpg[{homedir}/assets/images/actor.jpg]
+image::{homedir}/assets/images/actor.jpg[{homedir}/assets/images/actor.jpg]
 
 include::{homedir}/statblocks/actor.adoc[]
 
