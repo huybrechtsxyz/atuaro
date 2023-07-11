@@ -5,70 +5,49 @@ ifndef::homedir[]
 :homedir: ..
 endif::[]
 
-= Character Name
+= CharacterName
 
-*as played by John Doe*
+*as played by PlayerName*
 
-[align=center]
-image:{homedir}/assets/images/character.png[{homedir}/assets/images/character.png]
-
-include::{homedir}/statblocks/character.adoc[]
-
-== Statistics
-
-[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+[cols="2a,4a",grid=rows]
 |===
->| *Lineage* | Orc
->| *Height* | x ft
->| *Walk* | x ft
+| [big]#*CharacterName*#
+| [small]#Lineage and Class#
 
->| *Culture* |  
->| *Weight* |  
->| *Fly* | 0 ft
+| image:{homedir}/assets/images/character.jpeg[{homedir}/assets/images/character.jpeg]
+|
+*Background:* Acolyte
 
->| *Background* |  
->| *Eyes* |  
->| *Swim* | 0 ft
+[%header,cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! STR       ^! DEX       ^! CON       ^! INT       ^! WIS       ^! CHA
+^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
 
->|  | 
->| *Skin* |  
->| *Climb* | 0 ft
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Levels"]
+!===
+^! Level ! Class                ! Subclass                       ! Remark
+^!  0    ! Diviner              ! -                              ! As a child
+!===
 
->|  | 
->| *Hair* |  
->| *Burrow* | 0 ft
+| *Strategy* | 
+
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+| *About* +
+
+
+*Tags:* 
 |===
 
-[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Level progression"]
-|===
-^| Level | Class                | Subclass                       | Remark
-^|  0    | Warrior              | -                              | As a child
-^|  1    | Fighter              | -                              | Adulthood
-|===
+== Notes
 
-== About Mario
-
-
-=== Personality Traits
-
-
-=== Ideals
-
-
-=== Bonds
-
-
-=== Flaws
-
-
-=== Character Story
-
-
-=== Allies
-
-
-=== Opponents
-
-
-=== Notes
-
+=== Backstory
