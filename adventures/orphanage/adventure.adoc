@@ -24,9 +24,11 @@ The 11th day of Mahea [11/03/365 AR] is a lucky day. The Imbolc Carnival is in t
 Each year during the spring carnival the town of Kainga has held an annual tournament open to the bravest and brightest. The premise is simple. Enter the dungeon and emerge with the most Chips of Valour at the greatest speed.
 
 *Extra Information*
+
 During the Dark Ages of Europe, which lasted from the 5th to the 10th century, the seasonal transition from winter to spring was often referred to as "Candlemas" or "Imbolc". Candlemas was celebrated on February 2nd and marked the halfway point between the winter solstice and the spring equinox. Imbolc was a Gaelic festival celebrated on the first day of February and marked the beginning of spring in Ireland and Scotland. Both of these festivals celebrated the end of winter and the beginning of the agricultural season.
 
 == To Do List
+
 * Make the hardcore rules more clear to start with.
 * Make the children 16 years old to start with?
 * The rats can be made more assertive so they attack quicker
@@ -40,6 +42,7 @@ During the Dark Ages of Europe, which lasted from the 5th to the 10th century, t
 Hi everyone and welcome to the session zero of your Atuaro adventure.
 
 Just a reminder that in the Player Handbook you can find a lot of interesting things like:
+
 * Basic Play
 * Table Rules
 * Game Rules
@@ -72,7 +75,8 @@ You head towards a notorious establishment on the outskirts of the village. Just
 
 To play in a role-playing game you will need a character. But as most players already did this plenty we are going to condense the information to what you need to know to play in Atuaro with links to relevant articles if you want to know more. As we are building a random generated character do not feel to fixated on your choices. People change with age.
 
-Please create 3 characters in order and set their
+Please create 3 characters in order and set their:
+
 * Ability Scores
 * Character Lineage
 * Class Archetype
@@ -80,6 +84,7 @@ Please create 3 characters in order and set their
 * Basic Information
 
 === Ability Scores
+
 The first order of business is to create your ability scores. Please use the Hardcore Mode to create your ability scores. For each ability score:
 
 * In order from STRength to CHArisma
@@ -89,6 +94,7 @@ The first order of business is to create your ability scores. Please use the Har
 * Subtract the lowest die role
 
 === Character Lineage
+
 Characters in the world belong to a lineage which includes certain biological characteristics and defines some aspects of their physical appearance. Other things, such as a character’s speed and size, are also derived from their lineage.
 
 Choose one of the playable races from the Atuaro handbook
@@ -96,6 +102,7 @@ Choose one of the playable races from the Atuaro handbook
 If you wish to add a race please talk to your GM.
 
 === Class Archetype
+
 Select one of the class archetypes.
 
 * Martial, a character that martial prowess
@@ -104,9 +111,11 @@ Select one of the class archetypes.
 * Expert, a character with special expertise (what expertise?)
 
 === Hit Points
+
 At level zero, your character has 1 D4 Hit Die. Later the die type is determined by your class. At each Level, roll your class Hit Die and add that to your MAX HP. No CON modifier applies, no re-rolls, no max outcomes.
 
 === Basic Information
+
 Please answer the following questions?
 
 * How long have you been at the Witchling House?
@@ -215,7 +224,7 @@ image::{homedir}/assets/maps/orphanage_basement.png[align=center]
 
 * You need to hold the flagon's with 2 hands on the stairs. DEX check or drop the flagon.
 
-=== Area 2 - KEGS [DC-10]
+=== Area 2 - Kegs [DC-10]
 
 > A basement room filled with wooden kegs of various sizes stacked up against the walls. The room is dark with a little dim light from the stairs
 
@@ -231,7 +240,7 @@ Kegs 3 and 4 (3 circles upside down image:{homedir}/assets/images/symbol_
 
 Keg 5 (Circle with line, on/off symbol, image:{homedir}/assets/images/symbol_cider.jpg[beer,50,50]), contains apple cider [APORO]
 
-=== Area 3 - STORAGE [DC-10]
+=== Area 3 - Storage West [DC-10]
 
 > A dark storage area in the basement. The air is musty and damp, carrying with it the scent of old and forgotten things. Wooden crates and boxes are stacked haphazardly against the walls, leaving narrow aisles in between.
 
@@ -253,7 +262,7 @@ This room contains old and worn clothes and cheap items required to 
 
 * Timmy's small tin soldier toy is in room 3 (just behind the wall on the left)
 
-=== Area 4 - LOCKED ROOM [DC-11]
+=== Area 4 - Locked Room [DC-11]
 
 The door of the room:
 
@@ -270,7 +279,7 @@ This room contains clothes, pottery for longer term storage and the m
 * Once Timmy has his stuff he will accompany the kids upstairs
 * In one of the boxes there are 2 wooden swords and a shield.
 
-=== Area 5 - STORAGE [DC-10]
+=== Area 5 - Storage North [DC-10]
 
 > This area of the basement is located near the stairs and is partially illuminated by its light. The dim light makes it difficult to see clearly, but you can make out the shapes of cluttered boxes and sacks, stacked haphazardly against the walls.
 
@@ -278,7 +287,7 @@ This room contains food, produce, grain. More expensive bottles of win
 
 * There is a broom near the right wall that can be used for the cobwebs.
 
-=== Area 6 - THE WELL [DC-11]
+=== Area 6 - The Well [DC-11]
 
 > This section contain a well surrounded by a stone wall. It provides fresh water for the orphanage. A sturdy wooden lid covers the top of the well, and a rope and bucket hang down into the depths. The walls of the well are slick and slippery, and the water in the depths is dark and still. The well is deep and narrow, and there is no light at the bottom, making it difficult to see what lies below. 
 
@@ -646,33 +655,9 @@ List actors (new vs prev chapters)
 
 === Token Tournament Maps
 
-image::{homedir}/assets/maps/carnival_tournament.png[]
+image::{homedir}/assets/maps/carnival_tournament.png[align=center]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 1 - Item Selection [DC12]
+=== Area 1 - Item Selection [DC12]
 
 > Gormack calls out **YourTeamName**. His voice seeming to come from everywhere. "Alright boys and girls, you're up! You did sign the waiver... right ... ? You sure you old enough ? Ah whatever ... Follow me and we'll get you started"
 > 
@@ -684,41 +669,27 @@ Gormack leads the party down the stairs to a room that is lined with shelves and
 
 * They may attempt to sneak an item past Wake with a slight of hand DC 12 (at your discretion if the item would be feasible to sneak). 
 
-| Items         | Items              | Items                | 
-| ------------- | ------------------ | -------------------- |
-| Garden shears | Short bow and ammo | Crossbow and ammo    |
-| Dagger        | Shield             | Long sword           |
-| Hand Axe      | Great Club         | Flask of holy water  |
-| Unlit torch   | Fishing Pole       | Bag of Ball Bearings |
-| Steel mirror  | Shovel             | 10-foot wooden pole  |
-| Crowbar       | One token of valor | 50-feet hempen rope  |
-| Multi-tool    | Lockpicks          | Hammer and spikes    |
+[%header]
+|===
+| Items         | Items              | Items               
+| Garden shears | Short bow and ammo | Crossbow and ammo   
+| Dagger        | Shield             | Long sword          
+| Hand Axe      | Great Club         | Flask of holy water 
+| Unlit torch   | Fishing Pole       | Bag of Ball Bearings
+| Steel mirror  | Shovel             | 10-foot wooden pole 
+| Crowbar       | One token of valor | 50-feet hempen rope 
+| Multi-tool    | Lockpicks          | Hammer and spikes   
+|===
 
-## 2 - Clockwork Soldiers [DC10]
-
-![](./../assets/tokens/clockwork_soldier.png)
+=== Area 2 - Clockwork Soldiers [DC-10]
 
 > After entering the room, Gormack closes the iron door behind you. You're standing in a rectangular room. Much like the past room it looks like it is carved out of stone. There are torches lining the wall. Lighting up the room as well as a chandelier hanging from the vaulted ceiling. There are two long tables going down the center of the room.
 > 
 > Standing at either side of a large bronze door in the far wall is a 6-foot-tall soldier made entirely out of metal and gears. You see steam poring out of their backs every few seconds through vents. They each hold a metal shield as well as a long-sword. They are currently stranding in a defensive positions, though not acknowledging you.
 
-*Clockwork Soldier* 
-AC: 10  
-Hit Points: 10 (3d8+3)  
-Speed: 30 ft.
-Longsword
-Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
-Hit: 1d4 slashing damage
+*todo: clockwork soldier**
 
-	STR        DEX       CON      INT     WIS      CHA
-	16 (+3)  14 (+2)  16 (+3)  4 (-3)  10 (+0)  3 (-4)
-
-This room has the potential to be the first combat encounter the party has. 
-* The clockwork soldiers will only attack if they are touched.
-* There is one Chip of Valour in the hanging chandelier 15 feet above the ground (perception check to discover it)
-* There is one chip in the chest of the clockwork soldier on the left (perception/investigation check to discover it and sleight of hand check to grab through the spinning gears without touching the soldier, waking it up)
-
-## 3 - Dragon Forest [DC11]
+=== Area 3 - Dragon Forest [DC-11]
 
 ![](./../assets/tokens/medusa_token.png)
 
@@ -737,7 +708,7 @@ This room of the dungeon has been made to look like a small forest. The door is 
 
 The door is locked (DC lock-picking to open or using a key to open). The medusa has a necklace around her neck, but it is turned to stone and a part of the statue. Let your players get creative with how they get the key. Perhaps they show the medusa her own reflection in a mirror or the pond water below which you can choose to animate the full medusa, or just the key. Maybe they carefully chisel the necklace away from the statue and use the key while it’s stone. This is a chance for your players to get creative.
 
-## 4 - Portcullis Puzzle [DC10]
+=== Area 4 - Portcullis Puzzle [DC10]
 
 ![](./../assets/tokens/clockwork_spider.png)
 
@@ -752,7 +723,7 @@ On the other side of the portcullis there are wooden barrels and crates in the f
 
 * There is one chip in the boxes. Players will need to search through or break the boxes. If they search through each box and barrel, it will take some time (roll a 1d20 to determine how many minutes, with the number rolled being the number of minutes). If they smash open the boxes, have them roll a perception or investigation check to search the debris for the chip.
 
-## 5 - Rest and Relaxation
+=== Area 5 - Rest and Relaxation
 
 >As the door swings open you are greeted by the smell of sweets as you see a room with plush chairs scattered around next to tables that are filled with all manner of juice and cookies taking up the majority of the tables. You see a banner that says "Rest and Relaxation Room".
 >You hear the voice of Gormack fill the room "This is the rest and relaxation room. If you wish to rest up in the room you may, but remember your time will continue!"
@@ -761,14 +732,14 @@ Here the party has the choice to take a short rest (adding 30 minutes to their t
 
 * There is one chip in the hourglass. If the players break it open, they’re able to find it easily.
 
-## 6 - Individual Trials [DC11]
+=== Area 6 - Individual Trials [DC11]
 
 > Straight ahead of you are six doors. Above each door is a word. From left to right you read: Strength, Finesse, Intellect, Bravery, Character, Devotion.
 > A booming voice echoes throughout the walls. "You must each now make a choice. You will each get to choose one door. One door only!"
 
 The players are presented with a choice. Each player must choose one door and one door only. The options are Strength, Finesse, Intellect, Bravery, Character, Devotion. If there are more than 5 players, the extra players may choose to instead go through a side door along the wall that does not have a word above the door. It leads straight to area 7 and offers no chips. Above each door has a quote under the one-word description. These quotes are at the start of their read-aloud text boxes. There is a key near the exit to one of the rooms (you choose one that a character chooses to place it) that has the chip of valour symbol on it. Above the key reads “The key to your success.”. This key can be used in the final boss fight.
 
-### 6-1 Strength
+*Area 6-1 Strength*
 
 > Above the door reads "Might can be measured in more ways then one." There doesn't appear to be anyway to open this door until you look down and see that there are fingerholds at the bottom as you need to be able to lift the door before even trying your trial.
 
@@ -776,7 +747,7 @@ Once a character opens up this door (Athletics check) they find themselves in an
 
 > In the center of this otherwise bare room is a strange contraption mounted on top of a box with a thick glass box. It looks like a clockwork arm stuck in an arm-wrestling position. Inside the reinforced glass box you see a single chip of valour. On the far end of the hall you see another door.
 
-### 6-2 Finesse
+*Area 6-2 Finesse*
 
 > Above the door reads "Everything has a weight to it. Not until you learn to control your own will you be able to control others". Inside this room you see a series of stone platforms that are raised above the ground stretching the full length of this corridor. At the end you see a pedestal with what looks like a chip of valour placed atop it. The pedestal is on a platform that leads to a doorway.
 
@@ -788,7 +759,7 @@ There are several checks to be made in this room.
 
 * They will need to replace the chip with something of similar weight (5 pounds or less) or else arrows will shoot out from small holes in the wall, causing a dexterity saving throw with 1d6 piercing damage if they fail.
 
-### 6-3 Intellect
+*Area 6-3 Intellect*
 
 >Above the door reads "To solve this room, you must be brighter than half of everyone.". Inside this room you see a table with a stack of 12 chips of valour on the table. Also, on the table is s scale with 2 arms and trays commonly used to balance food and money at a grocer. There are 3 vertical tally marks currently glowing blue in front of the scale.
 >
@@ -800,7 +771,7 @@ If they’re not able to solve the puzzle and just choose a chip at random, then
 
 One sample solution would be to split the chips into 3 stacks of 4. Place a stack of 4 on either side of the scale. If they balance out, then you know that the heavier chip is in the pile which is not weighed. You can then place 2 chips on both scales from the group that has yet to be weighed for your second use of the scale. Whichever side is heavier, take those two and weigh them against each other. The heavier chip is the true chip of valour. There is an exit door at the end of the corridor.
 
-### 6-4 Bravery
+*Area 6-4 Bravery*
 
 > Above the door reads "Monsters, demons, dragons, and the undead. None of these hold a candle to what lies behind this door."
 
@@ -810,7 +781,7 @@ The torches then go out, leaving just the lit candle and making it too dark to s
 
 This spell hides the chip as long as there is any source of light in the room. Once the character reaches the end of the hallway, they will find a door leading to the exit.
 
-### 6-5 Character
+*Area 6-5 Character*
 
 > Above the door reads "Charisma is such a versatile tool. Through fear or friendship, being charismatic can leave a lasting memory of a person." The inside of this corridor is remarkably bare. It is a straight passage to a door on the far end. Flanking the door on either side are clockwork soldiers.
 
@@ -822,14 +793,14 @@ Alternatives:
 * Use the classic one guard always lies and one always tells the truth. If they’re able to find out which statue is telling the truth, then they will give the character a chip.
 * The statues get awfully bored down here and love stories. If your character tells them an entertaining story (performance check) then they will gift the player a chip.
 
-### 6-6 Devotion
+*Area 6-6 Devotion*
 
 > Above the door reads "How much would you give to prove your devotion? Would you give it all?"
 > The inside of this corridor is divided by walls of hot blue flames spaced evenly until the back wall. There does not appear to be a way around the flames.
 
 This puzzle is meant to test the character’s faith and devotion. Every wall of flames they walk through will cut them down by half of their current health (so each wall of flames will do progressively less damage but still get them very close to zero). Make sure to describe the intense burning and pain as they walk through each wall of magical fire. Once they walk through the fifth wall of fire, they will fall unconscious briefly, landing in a pool of cleansing water just in front of the exit. This will reinvigorate them and bring them back to full health (even if they were lower than full at the start of this room). There is also a single chip of valour in the 5-foot-deep pool of water.
 
-## 7. Monty Hall Puzzle
+=== Area 7 - Monty Hall Puzzle
 
 After all of the players have completed their tasks and have exited their rooms, they find themselves in a hallway with one single iron door across from them all.
 
@@ -849,7 +820,7 @@ After the characters have made their final choice and have finished with their d
 
 > Above the door exiting this room inscribed in blue arcane letters is the message "A good adventurer knows there is always more to lose."
 
-## 8 Clockwork Dragon [DC12]
+=== Area 8 - Clockwork Dragon [DC-12]
 
 ![](./../assets/tokens/clockwork_dragon.png)
 
@@ -879,38 +850,53 @@ The clockwork dragon is meant to be a challenging fight that has the opportunity
 * The dragon’s body has a total of 5 chips on its body. These chips have the same illusion that the bravery trial used, which means they will need the room to be darkened to find them or use a detect magic spell. Consider leaving out the illusion mechanic if no one used the bravery door as they would then have no way of knowing.
 * There are two chips at the bottom of the fire. It will most likely need to be extinguished for them to be visible or for them to be picked up
 
-## 9 - Waiting room
+=== Area 9 - Waiting room
 The below read-aloud text is structured as if the characters are the first team to enter the dungeon. It will need some adjustments if there have been other teams that have completed. There will be other adventurers lounging on the couches and the score board in the center will be updated accordingly.
 
 > You are greeted by a large circular room that has couches lining the walls. In the center of the room is a Scoreboard with 10 slots in it. Gormack is the only on in the room lounging on the couches when you all enter. He says. Congratulations on completing the dungeon! Looks you all all even survived and in one piece! How many chips did you all manage to gather?
 
-THE REFUNDABLES (RIGHT)
+*THE REFUNDABLES (RIGHT)*
 * MERLIN A human male warlock. Merlin is a barber by trade and always has time to give a quick haircut (for a price).
 * ULTREX Ultex is a warforged paladin that was created to defend Faerun from Illithid invaders. He is also deathly afraid of spiders. 
 * CLYDE REEMERSTAT Clyde the goliath barbarian spent most of his life on a small farm dreaming of becoming a blacksmith. With the winnings from the competition he will be able to afford an apprenticeship. 
 * UBO Ubo is a tortle artificer that loves all things technological. He can make almost anything, and some of his inventions actually work.
 
-THE FUNKY FOUR 
+*THE FUNKY FOUR*
 * MINLEY Minley is a 70-year-old high elf warlock. She dresses in pale white robes and has bright white hair. She has worked hard to gain the attention of her patron and to gain control of her powers.
 * CLAIRE RUNEFORGE Claire is a young dwarven barbarian. She has red curly loose hair and thick muscled arms. She is does not speak often and instead opts to let her strength and axe do the talking.
 * QUICKNESS OF TURTLE Quickness of Turtle is a tabaxi artificer that resembles a calico cat. They are obsessed with technology and anything shiny.
 * UTHUR Uthor is a silver dragonborn paladin. He takes his oaths seriously. His role in the group is to mostly stop them from having too much fun.
 
-## Conclusion
+=== Conclusion
 Gormack will collect all of the chips and take note on their clipboard. They’ll then grab a plank that has the party’s team name on it and slot it into the corresponding slot (first place if they’re the first team back). To determine the results of the competition, consult the table below. Feel free to fudge things in favor of the party if you think everyone would have a better time if they had won! That’s what this is all about isn’t it? Having fun!
 
-| Team Name                     | Result |
-| ----------------------------- | ------ |
-| The Refundables               | 25     |
-| The Funky Four                | 23     |
-| The World’s Worst Houseguests | 18     |
-| The D Team                    | 17     |
-| Crappy Cowboys                | 17     |
-| The Majestic Geese            | 12     |
-| The Moondogs                  | 12     |
-| The Shiny Boys                | 10     |
-| The Foxy Irregulars           | 6      |
+[%header]
+|===
+| Team Name                     | Result
+| The Refundables               | 25    
+| The Funky Four                | 23    
+| The World’s Worst Houseguests | 18    
+| The D Team                    | 17    
+| Crappy Cowboys                | 17    
+| The Majestic Geese            | 12    
+| The Moondogs                  | 12    
+| The Shiny Boys                | 10    
+| The Foxy Irregulars           | 6     
+|===
 
 You have quite a few options for the rewards for this dungeon. As the DM, you’ll know the currency of your campaign more than anyone. One suggestion would be to have the first-place prize be 100 GP, second-place 50 GP and third-place 25 GP. As for a magical item for the grand prize winners, you could either have a magic item you would like your players to have and use this as a chance for them to earn it or you could roll on the table of common magic items below. You could give your party one item or an item per player.
 
-Magic Item D20 Result Alchemy Jug 1-10 Bag of Holding 11-20 Boots of Elvenkind 21-30 Bracers of Archery 31-40 Cloak of Protection 41-50 Goggles of Night 51-60 Robe of Useful Items 61-70 Sending Stones 71-80 Wand of Magic Missiles 81-90 Ring of Mind Shielding 91-100
+[%header]
+|===
+|Magic Item | D20 Result 
+|Alchemy Jug | 1-10
+|Bag of Holding | 11-20
+|Boots of Elvenkind | 21-30
+|Bracers of Archery | 31-40
+|Cloak of Protection | 41-50
+|Goggles of Night | 51-60
+|Robe of Useful Items | 61-70
+|Sending Stones | 71-80
+|Wand of Magic Missiles | 81-90
+|Ring of Mind Shielding | 91-100
+|===
