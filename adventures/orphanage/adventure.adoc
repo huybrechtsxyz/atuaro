@@ -39,6 +39,7 @@ During the Dark Ages of Europe, which lasted from the 5th to the 10th century, t
 * Magician Trick: Rework act and possible reward
 
 == Introduction and Welcome
+
 Hi everyone and welcome to the session zero of your Atuaro adventure.
 
 Just a reminder that in the Player Handbook you can find a lot of interesting things like:
