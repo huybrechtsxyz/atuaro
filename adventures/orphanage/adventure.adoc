@@ -19,6 +19,13 @@ Ms Witchling will ask the characters to go in the basement to get refreshments f
 
 While Hibiscus Tauwi (The Priest) comes to visit Ms Witchling, Aeria Jones (Weird) comes back inside and is not alone. She is surrounded by pixies. The pixies start fun and try to lure the children outside. They start harassing children if they do not comply. If no action is taken, the pixies will focus on a single child and lure / drag the child Timothy Butch (the sad one) or Gilad Shams (the bully) outside. Our heroes will need to defend the children.
 
+The 11th day of Mahea [11/03/365 AR] is a lucky day. The Imbolc Carnival is in town. Ms Witchling made arrangements that allow the children to visit the carnival. The children heard from the older ones the exotic fruit is very special, but that Ms Witchling did not arrange a tasting. The children can go and visit the carnival, play the games, and maybe steal some of that fruit? They have to find a treasury map that leads to the next encounter.
+
+Each year during the spring carnival the town of Kainga has held an annual tournament open to the bravest and brightest. The premise is simple. Enter the dungeon and emerge with the most Chips of Valour at the greatest speed.
+
+*Extra Information*
+During the Dark Ages of Europe, which lasted from the 5th to the 10th century, the seasonal transition from winter to spring was often referred to as "Candlemas" or "Imbolc". Candlemas was celebrated on February 2nd and marked the halfway point between the winter solstice and the spring equinox. Imbolc was a Gaelic festival celebrated on the first day of February and marked the beginning of spring in Ireland and Scotland. Both of these festivals celebrated the end of winter and the beginning of the agricultural season.
+
 == To Do List
 * Make the hardcore rules more clear to start with.
 * Make the children 16 years old to start with?
@@ -26,6 +33,8 @@ While Hibiscus Tauwi (The Priest) comes to visit Ms Witchling, Aeria Jones (Weir
 * Pixies can be more aggressive, strong, and do more damage
 * Have fun at the carnival: make the tricks better
 * Take a look at the tournament: make it more obvious what it is.
+* Clown School: Flesh out Willie the clown and a possible reward
+* Magician Trick: Rework act and possible reward
 
 == Introduction and Welcome
 Hi everyone and welcome to the session zero of your Atuaro adventure.
@@ -244,7 +253,7 @@ This room contains old and worn clothes and cheap items required to 
 
 * Timmy's small tin soldier toy is in room 3 (just behind the wall on the left)
 
-=== AREA 4 - LOCKED ROOM [DC-11]
+=== Area 4 - LOCKED ROOM [DC-11]
 
 The door of the room:
 
@@ -261,7 +270,7 @@ This room contains clothes, pottery for longer term storage and the m
 * Once Timmy has his stuff he will accompany the kids upstairs
 * In one of the boxes there are 2 wooden swords and a shield.
 
-=== AREA 5 - STORAGE [CD-10]
+=== Area 5 - STORAGE [DC-10]
 
 > This area of the basement is located near the stairs and is partially illuminated by its light. The dim light makes it difficult to see clearly, but you can make out the shapes of cluttered boxes and sacks, stacked haphazardly against the walls.
 
@@ -269,7 +278,7 @@ This room contains food, produce, grain. More expensive bottles of win
 
 * There is a broom near the right wall that can be used for the cobwebs.
 
-=== AREA 6 - THE WELL [DC-11]
+=== Area 6 - THE WELL [DC-11]
 
 > This section contain a well surrounded by a stone wall. It provides fresh water for the orphanage. A sturdy wooden lid covers the top of the well, and a rope and bucket hang down into the depths. The walls of the well are slick and slippery, and the water in the depths is dark and still. The well is deep and narrow, and there is no light at the bottom, making it difficult to see what lies below. 
 
@@ -370,3 +379,538 @@ include::{rootdir}/statblocks/fey/pixie_corrupted.adoc[]
 === Uneventful Evening
 
 The rest of the evening is uneventful.
+
+== The Imbolc Carnival
+> The carnival is loud and boisterous, with music blaring, vendors shouting to attract customers, and carnival games being played. Musicians, dancers, and performers fill the streets, providing entertainment for the crowds that have gathered. Vendors sell an array of tasty treats, such as roasted meats, stews, bread, and sweet pastries. Children play games like tag, hopscotch, and leapfrog, while adults engage in games of chance and skill, such as archery, horseshoes, and chess.
+
+=== Objectives
+
+*Goals*
+
+. Have fun at the carnival and try some of the games
+. Try to steal the treasure map
+. Run through the maze
+
+*Blessings*
+
+. At the welcome you receive 10 chips that allow you to participate or buy 1 single unit / item
+. NPC Mentor for druids: Willow Greenleaf (Herbalist)
+. NPC Mentor for warriors: Constable Emeric (police)
+. NPC Mentor for rogues: Magnifico the Magnificent (magician)
+. NPC Mentor for diviners of Ohm: Hibiscus Tauwi (Priest)
+
+*Obstacles*
+
+. There are 4 guards walking a beat, known as Tythingman. (~ local city guard for towns)
+
+    * Constable Emeric (mentor for fighter and barbarian)
+    * Tythingman Erevan (entrance)
+    * Tythingman Kaelen (rounds)
+    * Tythingman Aldric (sleeping)
+
+. One of the cages contains a bloody lot of young goblin minions
+
+[%header]
+|===
+| STR     | DEX      | CON     | INT     | WIS    | CHA    |
+| ------- | -------- | ------- | ------- | ------ | ------ |
+| 8 (−1)  | 13 (+1)  | 10 (+0) | 10 (+0) | 8 (−1) | 8 (−1) |
+|===
+
+do 1 damage. If they take any damaged, they die.
+
+=== Supporting Actors
+
+List actors (new vs prev chapters)
+
+=== Carnival Maps
+
+image::{homedir}/assets/maps/carnival_map.jpg[]
+
+image::{homedir}/assets/maps/carnival_maze.png[]
+
+=== Area 1 - Welcome [DC-10]
+
+> The carnival entrance is marked by a grand archway, decorated with brightly coloured ribbons, flowers, and streamers. The archway towers over the entrance.
+
+> Ms Witchling gathers the offspring and gives them each some tokens. "Have fun. It will be a while before something like this happens again. But I wanted to give you something as you have been behaving very well the last couple of months. Keep it up!" pointing to Gilad and a player "I told the guards about you! DO NOT LET ME DOWN!".
+
+Let the player make a deception check to see how well they can keep a straight face. Gilad the bully does without a hitch.
+
+Tythingman Erevan is standing guard, salutes Ms Witchling and does not thrust the children.
+
+If they stay instead of running in they will hear the tythingman telling Ms Witchling about the confiscated treasury map in the guards tent.
+
+=== Area 2 - Clown School [DC-14]
+
+> The walls of the tent are covered in colorful posters advertising different circus acts, and there are several small groups of people gathered around the different stations, watching the performers and practicing their own tricks. The air is filled with the sound of laughter and chatter as people share their successes and failures with each other.
+
+There is a clown performing some basic acrobatic tricks which he is willing to learn to the audience.
+
+*NPC: Weary Willie* +
+Willie is a clown.
+
+*DEX CHECK : Juggling*
+
+    You juggle with 2 cones for [DC=8]
+    Add 1 cone (3) for [DC=10]
+    Add 1 cone (4) for [DC=12]
+    Add 1 cone (5) for [DC=14] (Win 1 token)
+    The clown lights them on fire for [DC=16] (Win 2 tokens)
+    Failure to keep them up results in 1d4 fire/singe damage
+
+    Winning the game: [TODO: Add 1 to your dex score] 
+
+=== Area 3 - Token Tournament
+
+See <<_token_tournament>>.
+
+> Welcome everyone! It is the day we here look forward to above all other days! We have quite the lineup for today's event with a lot of the town and wider surroundings very best and favorits returning to try their hand for another victory! We're about to start but if you'd like to throw your hat in the ring feel free to come on up and give your team name! 
+> 
+> *hushed*  "oh and sign the waiver...."
+
+Once registered the party might choose to do other things at the carnival. Once they are ready and no other party is going through the dungeon they can start the adventure. See #1.
+
+*NPC: Gormack Labirini*
+
+The tournament runner is a lanky, unkempt man in his mid-twenties. His shaggy brown hair falls haphazardly over his forehead, and he has a scruffy beard that looks like it hasn't been properly groomed in weeks. He wears a stained and tattered green tunic that hangs loosely on his thin frame, and his baggy trousers are held up by a frayed rope belt.
+
+=== AREA 4 - Magic Show
+
+> As the players approach the tent, they see a sign that reads "The Amazing Magnifico - Master of Magic!" Inside the tent, they see a middle-aged man wearing a top hat and cape, performing various magic tricks using various implements. The tent is brightly colored, with colorful streamers and posters of his magic tricks lining the walls. The atmosphere is lively, with people laughing and applauding as they watch his performance.
+
+If they inspire the magician, he can tell them about the treasury map.
+
+*WIS CHECK DC16*
+
+> Once the are alone with them in a tent he says. Mmh. Maybe one of you is smart enough to figure it out? Yes? I will give you three time to do so.
+
+3 tries to find the way he does it.
+
+Magnifico performs a trick where he shuffles a ball under three cups, and the players must guess which cup the ball is under. After several attempts, the players realize that Magnifico is using slight of hand to manipulate the cups and ball, and they manage to catch him in the act. Impressed by their skills, Magnifico decides to teach them the trick and a few other slight of hand techniques. He reveals that he used to be a thief, but he gave up his life of crime after discovering the joy of entertaining people with his magic tricks.
+
+*NPC: Magnifico the Magnificent - Mentor Thief*
+
+Magnifico himself is a charming and flamboyant character, with a big personality and a love for entertaining people. He is always looking for new tricks to perform and new audiences to amaze. He greets them with a big smile and introduces himself as Magnifico. He offers to teach them one of his tricks for a small fee. However, the catch is that they must figure out how he did it themselves.
+
+=== Area 5 - Pie eating contest
+
+> A stage is set up for the presenter to entertain the crowd and the area is lined with tables and chairs where contestants sit and wait for the signal to start. The pies are lined up in front of them, steaming hot and smelling delicious. "Welcome, welcome, one and all to the grandest pie eating contest in all the land!" Barnaby announces, his voice booming across the area. "We've got pies, we've got contestants, and we've got the best audience in the world!" 
+
+*CON CHECK*
+
+Exceeding CON checks +2 until there are no more participants. Start with [DC6].
+Winner gets to add 1 to their CON score.
+
+> As the contestants prepare to start, Barnaby continues to hype up the crowd. "These brave souls are about to put their stomachs to the test!" he exclaims. "Who will emerge victorious and claim the title of Pie Eating Champion? Only time will tell!"
+
+> Throughout the contest, Barnaby continues to provide colorful commentary and witty remarks. "That's it, folks, we've got a real slobberknocker on our hands!" he shouts as two contestants go head to head. "Who will be the first to succumb to the pie-induced food coma?"
+
+> At the end of the contest, Barnaby crowns the winner with a grand flourish. "Ladies and gentlemen, we have a winner!" he declares. "Let's give it up for the newest member of the Pie Eating Hall of Fame!"
+
+*NPC: Barnaby*
+
+The presenter, a flamboyant and enthusiastic man named Barnaby, is dressed in a colorful suit and top hat. He speaks into a microphone and addresses the crowd, building up excitement for the contest.
+
+=== Area 6 - Displacer Beast Ride
+
+> The displacer beast is a magical creature resembling a large, sleek panther with six legs and two tentacles protruding from its shoulders. The ring is a large, circular enclosure made of rough-hewn wood, with high walls to keep the bull contained.
+
+> As the bull riding contest begins, Bofur pumps up the crowd with his booming voice, shouting out quotes like:
+>  
+>    "Are you ready for the ride of your life? This ain't no pony ride, folks!"  
+>    "This bull's got more moves than a drunken dwarf on a dance floor!"  
+>    "Let's see if our riders have what it takes to tame the beast!"  
+>    "Hang on tight, folks, it's gonna be a bumpy ride!"  
+>    "Who will be the last one standing? The bull or the brave dwarves who dare to ride it?"  
+
+*STR CHECK*
+
+Keep making an DC14 strenght check to stay on the bull.  
+If you fall of make a DC10 strength check to make certain you do not get damaged [1 Damage].  
+Stay on the bull the longest? Add 1 to your STR score.
+
+*NPC: Bofur*
+
+He is loud and boisterous dwarf. He wears a bright red vest with gold buttons and a black bowler hat that sits atop his curly red hair. He carries a whip and a megaphone as he struts around the ring, announcing the upcoming riders and revving up the crowd.
+
+=== Area 7 - Open Podium [DC10]
+> The open podium allows everyone can join and perform to be star!
+
+*CHAR CHECK*
+
+A contest to win the hearts of the people. Either against each other or alone.  
+Beat a 10 and keep the score going higher. The moment you fail the DC people boo you.  
+Otherwise, drop the score to low and the people will just leave or another person will try to push you of the stage to get their turn.  
+Winner gets 1 extra CHR score point to distribute and a coin for an attraction.  
+
+Some bad jokes the other NPC can give
+- Difference between hurricane and marriage. At first there is a lot of sucking and blowing, and then you loose the house!
+- Why did the scarecrow win an award? Because he was outstanding in his field!
+- What do you call a fake noodle? An impasta!
+- Singing a silly song about a talking dog who loves to dance
+- "I met a man who told me he had a job pouring cream into tiny cups. I said, 'Is that all you do?' He said, 'No, but I'm a whisk taker.'"
+- "Why don't alchemists trust atoms? Because they make up everything!"
+- "Knock knock." "Who's there?" "Boo." "Boo who?" "Don't cry, it's just a joke!"
+- "I have a joke about construction, but I'm still working on that one."
+- "Why was the math book sad? Because it had too many problems."
+- Singing a silly song about a farmer who grows giant vegetables, but can't seem to find a market for them.
+- "Why did the tomato turn red? Because it saw the salad dressing!"
+- "How do you recognize a homo owl? Yoohoo"
+- verschil sneeuwman en vrouw. sneeuwballen.
+
+=== Area 8 - Animal Exhibit
+
+> The cage full of young goblins is a smaller, more cramped enclosure. The goblins are squabbling and bickering amongst themselves, and occasionally snatching food from one another. Despite their small size and seemingly harmless demeanour, goblins are notoriously vicious and cunning creatures, and many have fallen victim to their ambushes and traps.
+>
+> The second cage in the tent of animals at the carnival contains a fierce and ferocious displacer beast, a powerful feline predator with six tentacle-like appendages that protrude from its shoulders.
+>
+>The cage of the owlbear is a large, sturdy wooden structure with thick metal bars. The bars are spaced closely together to prevent the owlbear from squeezing through, and the door is secured with a heavy padlock. Inside the cage, there is a large pile of straw for the owlbear to sleep on, and a shallow bowl of water in the corner. The owlbear itself is a fearsome creature with sharp claws and a powerful beak, and it paces back and forth restlessly in its cage, occasionally letting out a menacing growl.
+
+If they are pleasent to him and can guess the number of goblins, he will share the secret of the treasury map.
+He heard the guards talking to each other.
+
+If they come to close the animal will try to bite attack for 1 damage.
+
+*MAZE*
+
+> Next to the animal exhibit is the entrance of the maze made of haystacks is marked by two tall, imposing columns, each topped with a fake stuffed horse head. The columns are connected by a wooden arch, with the words "Hunt a Goblin" painted in bold, bright letters. The archway is draped with a garland of brightly colored flowers and ribbons, creating a festive and inviting atmosphere.
+
+> Looking better as you step closer to the entrance, you notice that the hay bales making up the walls of the maze have been badly arranged and not as stable as it should be.
+
+Te moment they enter the maze the goblins escape. Yes: it was Galid but he made sure nobody knows. Some of the goblins come to hide in the maze. Will attack when they feel threathened.
+
+Goblins have 1 HP and deal 1 DMG when they attack.
+
+*INT CHECK*
+
+Guess how many goblins are in the cage.  
+Throw higher then 18 you know the exact number. The highest number wins.  
+Winner gets 1 extra INT score point.
+
+=== Area 9 - Guard Room [DC12]
+
+> The Tythingman's tent is a functional and utilitarian space, designed to provide a base of operations. It is made of durable canvas and supported by wooden poles. Inside the tent, there is a simple wooden table with a few chairs, where the Tythingman and his assistants can sit and keep an eye on the comings and goings of the carnival. There is also a small bedroll in one corner of the tent, where the Tythingman can rest during his long shifts. There seems to be a map on the table that looks like a treasure map.
+
+One of the Tythingman is sleeping on the bedrol. Fail a stealthcheck to awaken him. If other guards see you enter they will call out to leave the place alone. Inside there is a short sword, shield, dagger, and a spear. And a set of cloth armor.  
+The treasury map is on the table.
+
+=== Area 10 - Central Market square [DC10]
+
+> The center of the carnival is a bustling marketplace where vendors have set up colourful stalls to sell their wares. The stalls are arranged in neat rows, each one adorned with bright banners and flags that flap in the breeze. The smell of cooking food wafts through the air, mingling with the sounds of laughter, music, and chatter. The vendors are a diverse group, selling everything from fresh produce to handmade crafts, clothing, and trinkets. Their wares are displayed in colourful arrays, catching the eye of passersby with their vibrant hues and intricate designs.
+
+Their are various vendors who work on the small market.
+
+    Herbalist - Willow Greenleaf --> Can be mentor for a druid
+
+    Baker - Roland Crust
+    Jeweler - Aria Gemstone
+    Blacksmith - Magnus Ironheart
+    Cloth Merchant - Felicity Silkweaver
+    Potion Maker - Ambrosia Nightshade
+    Leatherworker - Gideon Tannery
+    Book Seller - Edgar Tomekeeper
+    Toy Maker - Gwendolyn Playful
+    Wine Merchant - Luciano Vino
+
+== Token Tournament
+
+From <<_area_3_token_tournament>>.
+
+> Welcome everyone! It is the day we here look forward to above all other days! We have quite the lineup for today's event with a lot of the town and wider surroundings very best and favorits returning to try their hand for another victory! We're about to start but if you'd like to throw your hat in the ring feel free to come on up and give your team name! 
+> 
+> *hushed*  "oh and sign the waiver...."
+
+Once registered the party might choose to do other things at the carnival. Once they are ready and no other party is going through the dungeon they can start the adventure. See #1.
+
+*NPC: Gormack Labirini*
+The tournament runner is a lanky, unkempt man in his mid-twenties. His shaggy brown hair falls haphazardly over his forehead, and he has a scruffy beard that looks like it hasn't been properly groomed in weeks. He wears a stained and tattered green tunic that hangs loosely on his thin frame, and his baggy trousers are held up by a frayed rope belt.
+
+=== Objectives
+
+*Goals*
+
+. Survive the tournament and get the most chips of valor.
+
+*Blessings*
+
+. You get to choose one item (if Gormack is not paying attention you can have more).
+
+*Obstacles*
+
+. All the rooms in the dungeon have a challange.
+
+=== Supporting Actors
+
+List actors (new vs prev chapters)
+
+=== Token Tournament Maps
+
+image::{homedir}/assets/maps/carnival_tournament.png[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 1 - Item Selection [DC12]
+
+> Gormack calls out **YourTeamName**. His voice seeming to come from everywhere. "Alright boys and girls, you're up! You did sign the waiver... right ... ? You sure you old enough ? Ah whatever ... Follow me and we'll get you started"
+> 
+> Gormack leads you through the first doors and through a stone pathway lit by torches on either side. He opens up a set of wooden double doors at the end and lets you in.
+> 
+> Inside you see a small square room with shelves lining the walls with various items. "You can pick one and only one item from the wall."
+
+Gormack leads the party down the stairs to a room that is lined with shelves and items on the walls. There is a set of iron doors to the north. They will each get to choose one item from the list below. After they have each selected their final item, Gormack wishes them good luck and opens the iron doors to the north before closing them behind the party.
+
+* They may attempt to sneak an item past Wake with a slight of hand DC 12 (at your discretion if the item would be feasible to sneak). 
+
+| Items         | Items              | Items                | 
+| ------------- | ------------------ | -------------------- |
+| Garden shears | Short bow and ammo | Crossbow and ammo    |
+| Dagger        | Shield             | Long sword           |
+| Hand Axe      | Great Club         | Flask of holy water  |
+| Unlit torch   | Fishing Pole       | Bag of Ball Bearings |
+| Steel mirror  | Shovel             | 10-foot wooden pole  |
+| Crowbar       | One token of valor | 50-feet hempen rope  |
+| Multi-tool    | Lockpicks          | Hammer and spikes    |
+
+## 2 - Clockwork Soldiers [DC10]
+
+![](./../assets/tokens/clockwork_soldier.png)
+
+> After entering the room, Gormack closes the iron door behind you. You're standing in a rectangular room. Much like the past room it looks like it is carved out of stone. There are torches lining the wall. Lighting up the room as well as a chandelier hanging from the vaulted ceiling. There are two long tables going down the center of the room.
+> 
+> Standing at either side of a large bronze door in the far wall is a 6-foot-tall soldier made entirely out of metal and gears. You see steam poring out of their backs every few seconds through vents. They each hold a metal shield as well as a long-sword. They are currently stranding in a defensive positions, though not acknowledging you.
+
+*Clockwork Soldier* 
+AC: 10  
+Hit Points: 10 (3d8+3)  
+Speed: 30 ft.
+Longsword
+Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+Hit: 1d4 slashing damage
+
+	STR        DEX       CON      INT     WIS      CHA
+	16 (+3)  14 (+2)  16 (+3)  4 (-3)  10 (+0)  3 (-4)
+
+This room has the potential to be the first combat encounter the party has. 
+* The clockwork soldiers will only attack if they are touched.
+* There is one Chip of Valour in the hanging chandelier 15 feet above the ground (perception check to discover it)
+* There is one chip in the chest of the clockwork soldier on the left (perception/investigation check to discover it and sleight of hand check to grab through the spinning gears without touching the soldier, waking it up)
+
+## 3 - Dragon Forest [DC11]
+
+![](./../assets/tokens/medusa_token.png)
+
+> As you swing the door open you see something that actually takes your brain a moment to comprehend. It looks as if you're in the middle of a forest. The "room" seems huge, there are a few trees scattered around and the're about 20 feet tall. And even as mall pond. Looking up you do not see a ceiling. But walls on the far end making up a 100 by 100 square room. Straight ahead from the door you see a 30 foot high stone wall that has been smoothed down with a ledge atop of it. You can't make out what's up there form this angle.
+
+This room of the dungeon has been made to look like a small forest. The door is on the ledge in the northeast corner of the room, high up on the ledge. The party will need to get up to the top of the ledge and then solve a puzzle to get the key which opens the locked door (unless they have another way to open the door such as a lock-pick).
+
+* There is one chip in the pond (perception check to discover it, advantage if they jump in the pond) 
+* There is one chip in the top of the tree nearest to the cliff (perception check to discover)
+
+ Once your party manages to make it to the top of the cliff one way or another, read the below text.
+ 
+> Up here you can see that it is a smooth flat surface of stone much like the wall below. There is a large iron door against the far wall to the east. 
+> 
+> There is also a life-sized stone statue of a medusa planted between you and the door.
+
+The door is locked (DC lock-picking to open or using a key to open). The medusa has a necklace around her neck, but it is turned to stone and a part of the statue. Let your players get creative with how they get the key. Perhaps they show the medusa her own reflection in a mirror or the pond water below which you can choose to animate the full medusa, or just the key. Maybe they carefully chisel the necklace away from the statue and use the key while it’s stone. This is a chance for your players to get creative.
+
+## 4 - Portcullis Puzzle [DC10]
+
+![](./../assets/tokens/clockwork_spider.png)
+
+> As you walk through the iron door, you see a rectangular room with wooden floors. The room is split in half by a portcullis directly in front of the door with narrow walls on either side. Through the bars you can make out a door on the far end and a few wooden boxes and barrels on the other side.
+
+This room is a mix of combat and puzzle. For your party to find a way to open the portcullis, they will first need to find two pressure plates on the floor (DC investigation or perception). Once they step on both of the pressure plates and hear the clicks (at least 30 pounds is needed to trigger), the portcullis raises up. 
+
+* If they remove pressure from the plates, then the gate closes (DC athletics/acrobatics check +2 difficulty to make it through before it closes). 
+* Start with 2 spiders and add when needed
+
+On the other side of the portcullis there are wooden barrels and crates in the far back corners of the room. Hiding behind the crates is a clockwork spider currently rolled into a metallic ball, on either side; for a total of two spiders. Once a player approaches within 5 feet of a box, they will unroll and begin to attack. During the combat, the party will most likely be split while two of the party are at the entrance holding open the portcullis.
+
+* There is one chip in the boxes. Players will need to search through or break the boxes. If they search through each box and barrel, it will take some time (roll a 1d20 to determine how many minutes, with the number rolled being the number of minutes). If they smash open the boxes, have them roll a perception or investigation check to search the debris for the chip.
+
+## 5 - Rest and Relaxation
+
+>As the door swings open you are greeted by the smell of sweets as you see a room with plush chairs scattered around next to tables that are filled with all manner of juice and cookies taking up the majority of the tables. You see a banner that says "Rest and Relaxation Room".
+>You hear the voice of Gormack fill the room "This is the rest and relaxation room. If you wish to rest up in the room you may, but remember your time will continue!"
+
+Here the party has the choice to take a short rest (adding 30 minutes to their timer) or to continue on without resting.
+
+* There is one chip in the hourglass. If the players break it open, they’re able to find it easily.
+
+## 6 - Individual Trials [DC11]
+
+> Straight ahead of you are six doors. Above each door is a word. From left to right you read: Strength, Finesse, Intellect, Bravery, Character, Devotion.
+> A booming voice echoes throughout the walls. "You must each now make a choice. You will each get to choose one door. One door only!"
+
+The players are presented with a choice. Each player must choose one door and one door only. The options are Strength, Finesse, Intellect, Bravery, Character, Devotion. If there are more than 5 players, the extra players may choose to instead go through a side door along the wall that does not have a word above the door. It leads straight to area 7 and offers no chips. Above each door has a quote under the one-word description. These quotes are at the start of their read-aloud text boxes. There is a key near the exit to one of the rooms (you choose one that a character chooses to place it) that has the chip of valour symbol on it. Above the key reads “The key to your success.”. This key can be used in the final boss fight.
+
+### 6-1 Strength
+
+> Above the door reads "Might can be measured in more ways then one." There doesn't appear to be anyway to open this door until you look down and see that there are fingerholds at the bottom as you need to be able to lift the door before even trying your trial.
+
+Once a character opens up this door (Athletics check) they find themselves in an empty room save for an arm-wrestling machine at the center of the room. Underneath the machine is a box with reinforced glass where a coin of valour can be seen. If the character beats the arm-wrestling machine (Athletics check) then the top folds over on a hinge and allows the players to retrieve the chip. A character may also attempt to break the glass with an athletics check (+2 difficulty). After completing the challenge (win or lose) they will be able to go through the door at the far end of the room and meet back up with the others.
+
+> In the center of this otherwise bare room is a strange contraption mounted on top of a box with a thick glass box. It looks like a clockwork arm stuck in an arm-wrestling position. Inside the reinforced glass box you see a single chip of valour. On the far end of the hall you see another door.
+
+### 6-2 Finesse
+
+> Above the door reads "Everything has a weight to it. Not until you learn to control your own will you be able to control others". Inside this room you see a series of stone platforms that are raised above the ground stretching the full length of this corridor. At the end you see a pedestal with what looks like a chip of valour placed atop it. The pedestal is on a platform that leads to a doorway.
+
+There are several checks to be made in this room. 
+
+* The first is acrobatics to jump from platform to platform (one check should suffice here unless you’d like to add more). If a player fails a check, they will fall 10 feet to the solid floor below taking 1d6 bludgeoning damage.
+  
+	There is a ladder built into the wall on the entrance side for them to climb up and attempt again. Once they get to the pedestal, there will be an investigation or perception check to notice the weight-sensitive tile that the chip is currently resting on. 
+
+* They will need to replace the chip with something of similar weight (5 pounds or less) or else arrows will shoot out from small holes in the wall, causing a dexterity saving throw with 1d6 piercing damage if they fail.
+
+### 6-3 Intellect
+
+>Above the door reads "To solve this room, you must be brighter than half of everyone.". Inside this room you see a table with a stack of 12 chips of valour on the table. Also, on the table is s scale with 2 arms and trays commonly used to balance food and money at a grocer. There are 3 vertical tally marks currently glowing blue in front of the scale.
+>
+>Written on a scroll next to the scale it says: "before you are 12 chips of valour. Only one is true, the other 11, worthless. The 11 imposters are the same wight while the true chip is slightly heavier.  You may use the scale only three times to try to discover the one true chip of valour. If you leave the room with more than 1 chip, you will be penalised."
+
+This is a common logic puzzle with a few solutions. You may want to research all of the various solutions prior to running this section, or you can just reason out if the character’s plan would indeed work or not.
+
+If they’re not able to solve the puzzle and just choose a chip at random, then roll a 1d12. If you hit 12, then they chose the correct chip. If they’re able to narrow down the chip to a smaller group, then roll the die closest to that amount. If the die lands on its max value, then they have chosen the correct chip. 
+
+One sample solution would be to split the chips into 3 stacks of 4. Place a stack of 4 on either side of the scale. If they balance out, then you know that the heavier chip is in the pile which is not weighed. You can then place 2 chips on both scales from the group that has yet to be weighed for your second use of the scale. Whichever side is heavier, take those two and weigh them against each other. The heavier chip is the true chip of valour. There is an exit door at the end of the corridor.
+
+### 6-4 Bravery
+
+> Above the door reads "Monsters, demons, dragons, and the undead. None of these hold a candle to what lies behind this door."
+
+Inside the hallway the room is well lit by torches lining the wall with a small table with a single lit candle on top of it. When the character first walks in they get a quick glimpse of something they fear at the end of the hallway (if you’re not sure what your player’s character would fear, you could always consider a lich or a mind- flayer).
+
+The torches then go out, leaving just the lit candle and making it too dark to see the end of the hallway where the creature was. The goal of this corridor is that they character is meant to blow out the candle, casting the room into total darkness. There is a chip of valour underneath the table where the candle was resting, but it is concealed by a modified illusion spell. 
+
+This spell hides the chip as long as there is any source of light in the room. Once the character reaches the end of the hallway, they will find a door leading to the exit.
+
+### 6-5 Character
+
+> Above the door reads "Charisma is such a versatile tool. Through fear or friendship, being charismatic can leave a lasting memory of a person." The inside of this corridor is remarkably bare. It is a straight passage to a door on the far end. Flanking the door on either side are clockwork soldiers.
+
+* The statue on the left (Stix) has two Chips of Valour. The statue on the right (Sox) none. I think it’s only fair that they share the chips. Let your player come up with a compromise to try to get one of the chips (or both) themselves. Have a persuasion, deception, or intimidation check depending on their method.
+
+This corridor is meant to be a role-play puzzle. The statues are able to move from the waist up with their feet forming out of the ground. They are 10 feet apart with the door right in the middle. The statues are sentient and able to speak. They very much enjoy their life and are best friends. They love this time of year because it’s the only time they get to interact with anyone other than themselves. Have fun with this encounter. Choose any of the below options for the character to win over a chip of valour (or 2!). 
+
+Alternatives:
+* Use the classic one guard always lies and one always tells the truth. If they’re able to find out which statue is telling the truth, then they will give the character a chip.
+* The statues get awfully bored down here and love stories. If your character tells them an entertaining story (performance check) then they will gift the player a chip.
+
+### 6-6 Devotion
+
+> Above the door reads "How much would you give to prove your devotion? Would you give it all?"
+> The inside of this corridor is divided by walls of hot blue flames spaced evenly until the back wall. There does not appear to be a way around the flames.
+
+This puzzle is meant to test the character’s faith and devotion. Every wall of flames they walk through will cut them down by half of their current health (so each wall of flames will do progressively less damage but still get them very close to zero). Make sure to describe the intense burning and pain as they walk through each wall of magical fire. Once they walk through the fifth wall of fire, they will fall unconscious briefly, landing in a pool of cleansing water just in front of the exit. This will reinvigorate them and bring them back to full health (even if they were lower than full at the start of this room). There is also a single chip of valour in the 5-foot-deep pool of water.
+
+## 7. Monty Hall Puzzle
+
+After all of the players have completed their tasks and have exited their rooms, they find themselves in a hallway with one single iron door across from them all.
+
+> This next room has bright blue and orange carpeted floors and three large purple doors set in the back of the room. One labelled with 1 , one with a 2, one with a 3.  On the wall to the left is a plain iron door.
+>
+> You hear the voice of Gormack amplified in the room "You've got to know when to risk it and when to play it safe while you're out in the world. Will you wager 5 chips of valour to see what is behind one of these 3 doors? Or will you save your chips and continue on your path?"
+
+This is the classic Monty Hall puzzle. Once the players choose a door, Gormack’s voice will respond “Very good choice! Now, if we remove door, would you reconsider your choice and choose the other door or would you stick with door?”
+
+Whichever door is chosen, the players will need to slide 5 chips into a slot in the center of the door to open it.
+
+1. Behind door 1 is a mimic chest that attacks once they attempt to open it.
+2. Behind door 2 are 10 Chips of Valour
+3. Behind door 3 is a Potion of Superior Healing
+
+After the characters have made their final choice and have finished with their door, they may head to the final room of the dungeon.
+
+> Above the door exiting this room inscribed in blue arcane letters is the message "A good adventurer knows there is always more to lose."
+
+## 8 Clockwork Dragon [DC12]
+
+![](./../assets/tokens/clockwork_dragon.png)
+
+> You enter into this next room that looks to be a massive cave. The ceiling has to over 100 feet high and from wall to wall is nearly as far. There are large stalagmites and stalactites all around the room, some growing to be over 15 feet tall. You see what looks like a crumpled pile of scrap metal in the center of the room, taking up a huge portion of the cave. Near the pile is a roaring bonfire reaching fifteen feet high. There is a door on the far wall with a lare orange letters that reads Exit.
+>  
+> You hear a booming voice of Gormack say "What would a dungeon be without a dragon!"
+>  
+> At that moment you see steam start to pour out from the pile of scrap in the center of the room. As parts start to hiss and whir and clank together you see the form begin to take shape as aa massive clockwork dragon slowly begins to take to its feet, staring down at you. The whole room is lit by only the massive brazier behind the dragon.
+
+*NPC: Clockwork Dragon*
+Medium construct, neutral
+Armor Class 12
+Hit Points 24 (6d10 + 18)
+Speed 30 ft, fly 60 ft.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15
+(2d10 +4) piercing damage.
+
+	STR     DEX     CON     INT     WIS     CHA
+	14 (+2) 10 (+0) 12 (+1) 10 (+0) 11 (+0) 10 (+0)
+
+* While the clockwork dragon remains motionless, it is indistinguishable from a pile of scrap metal.
+* Steam Breath (Recharge 5-6). The clockwork dragon exhales steam in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
+
+The clockwork dragon is meant to be a challenging fight that has the opportunity for the party to flee instead of finishing the fight (the door on the far end of the room has a large exit sign and is unlocked). If they are able to kill the dragon, they will be rewarded with quite a few chips.  
+
+* The chest of the dragon requires the key that one of the characters should have picked up from their trial room. The dragon’s stat block will explain how this can be used.There are a few chips in this area:
+* The dragon’s body has a total of 5 chips on its body. These chips have the same illusion that the bravery trial used, which means they will need the room to be darkened to find them or use a detect magic spell. Consider leaving out the illusion mechanic if no one used the bravery door as they would then have no way of knowing.
+* There are two chips at the bottom of the fire. It will most likely need to be extinguished for them to be visible or for them to be picked up
+
+## 9 - Waiting room
+The below read-aloud text is structured as if the characters are the first team to enter the dungeon. It will need some adjustments if there have been other teams that have completed. There will be other adventurers lounging on the couches and the score board in the center will be updated accordingly.
+
+> You are greeted by a large circular room that has couches lining the walls. In the center of the room is a Scoreboard with 10 slots in it. Gormack is the only on in the room lounging on the couches when you all enter. He says. Congratulations on completing the dungeon! Looks you all all even survived and in one piece! How many chips did you all manage to gather?
+
+THE REFUNDABLES (RIGHT)
+* MERLIN A human male warlock. Merlin is a barber by trade and always has time to give a quick haircut (for a price).
+* ULTREX Ultex is a warforged paladin that was created to defend Faerun from Illithid invaders. He is also deathly afraid of spiders. 
+* CLYDE REEMERSTAT Clyde the goliath barbarian spent most of his life on a small farm dreaming of becoming a blacksmith. With the winnings from the competition he will be able to afford an apprenticeship. 
+* UBO Ubo is a tortle artificer that loves all things technological. He can make almost anything, and some of his inventions actually work.
+
+THE FUNKY FOUR 
+* MINLEY Minley is a 70-year-old high elf warlock. She dresses in pale white robes and has bright white hair. She has worked hard to gain the attention of her patron and to gain control of her powers.
+* CLAIRE RUNEFORGE Claire is a young dwarven barbarian. She has red curly loose hair and thick muscled arms. She is does not speak often and instead opts to let her strength and axe do the talking.
+* QUICKNESS OF TURTLE Quickness of Turtle is a tabaxi artificer that resembles a calico cat. They are obsessed with technology and anything shiny.
+* UTHUR Uthor is a silver dragonborn paladin. He takes his oaths seriously. His role in the group is to mostly stop them from having too much fun.
+
+## Conclusion
+Gormack will collect all of the chips and take note on their clipboard. They’ll then grab a plank that has the party’s team name on it and slot it into the corresponding slot (first place if they’re the first team back). To determine the results of the competition, consult the table below. Feel free to fudge things in favor of the party if you think everyone would have a better time if they had won! That’s what this is all about isn’t it? Having fun!
+
+| Team Name                     | Result |
+| ----------------------------- | ------ |
+| The Refundables               | 25     |
+| The Funky Four                | 23     |
+| The World’s Worst Houseguests | 18     |
+| The D Team                    | 17     |
+| Crappy Cowboys                | 17     |
+| The Majestic Geese            | 12     |
+| The Moondogs                  | 12     |
+| The Shiny Boys                | 10     |
+| The Foxy Irregulars           | 6      |
+
+You have quite a few options for the rewards for this dungeon. As the DM, you’ll know the currency of your campaign more than anyone. One suggestion would be to have the first-place prize be 100 GP, second-place 50 GP and third-place 25 GP. As for a magical item for the grand prize winners, you could either have a magic item you would like your players to have and use this as a chance for them to earn it or you could roll on the table of common magic items below. You could give your party one item or an item per player.
+
+Magic Item D20 Result Alchemy Jug 1-10 Bag of Holding 11-20 Boots of Elvenkind 21-30 Bracers of Archery 31-40 Cloak of Protection 41-50 Goggles of Night 51-60 Robe of Useful Items 61-70 Sending Stones 71-80 Wand of Magic Missiles 81-90 Ring of Mind Shielding 91-100
