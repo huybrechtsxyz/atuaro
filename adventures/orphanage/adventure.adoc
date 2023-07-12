@@ -172,7 +172,7 @@ The children get some lessons that learn them to read and write.
 
 === Supporting Actors
 
-* List here
+* Aeria Jones, The Weird One, link:{rootdir}/compendium/actors/aeria_jones.adoc[Link]
 
 === Breakfast
 > The room is cramped and has a stale smell. You awaken from a restless sleep and realise that you are not the only one who has had a nightmare. The first bell rings at 6 AM and the assigned orphans rise from their beds, some still groggy, to wash up and get dressed. The girls are assigned to do the housekeeping tasks while the boys clean the fireplaces. 

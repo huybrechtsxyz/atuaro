@@ -1,0 +1,74 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Aeria Jones*#
+| [small]#The Weird One \| Human Commoner#
+
+| *Roleplay*
+|
+*Eccentric Personality*: +
+Aeria has an eccentric personality that often makes her behave in strange and unpredictable ways.
+
+*Keen Senses*: +
+Aeria has keen senses, which can make her aware of things that others might miss.
+
+*Aloof*: +
+Aeria tends to keep to herself and is often aloof, which can sometimes make others uncomfortable around her.
+
+| image::{rootdir}/assets/images/actors/aeria_jones.jpg[]
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  8 (*-2*) ^!  7 (*-3*) ^!  9 (*-1*) ^! 11 (*+1*) ^!  9 (*-1*) ^!  8 (*-2*)
+!===
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+!===
+>! *Creature* ! Human
+>! *Height* ! _
+>! *Walk* ! _ ft
+
+>! *Class* ! Commoner
+>! *Weight* ! _
+>! *Fly* ! _ ft
+
+>! *Size* ! Normal
+>! *Eyes* ! _
+>! *Swim* ! _ ft
+
+>! *Alignment* ! Chaotic Neutral
+>! *Skin* ! _
+>! *Climb* ! _ ft
+
+>! *Age* ! 9
+>! *Hair* ! _
+>! *Burrow* ! _ ft
+!===
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+|
+*Common Items*
+
+* Usually some weird common item on her person
+* A partial deck of tarrot cards
+
+*About*
+
+Aeria Jones is 9 years old and considered "weird" by the other children in the orphanage. They carry around unusual or seemingly random items with her such as a rocks or sticks. They carry a partial deck of tarot cards. She uses them to tell the future. And many children swear she has a pet rat. She could also have mannerisms that set her apart, such as talking to herself, muttering under her breath, or constantly fidgeting with her hands. These behaviors might make the other children uncomfortable and avoid her, further isolating Aeria and reinforcing her unusual behavior.
+
+Aeria was always a little bit different from the other children in the orphanage. Her behavior often made others uncomfortable, and as a result, she was often avoided. Despite this, Aeria is a curious and intelligent child who has a love for the strange and unusual.
+
+*Environment* Orphanage Kainga +
+*Tags*
+|===

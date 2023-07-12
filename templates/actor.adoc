@@ -1,44 +1,63 @@
 ifndef::rootdir[]
 :rootdir: ../..
 endif::[]
-ifndef::homedir[]
-:homedir: .
-endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Actor Name*#
+| [small]#Nickname \| Lineage Class#
 
-== ActorName aka Xyz
+| *Roleplay*
+|
 
-[align=center]
-image::{homedir}/assets/images/actor.jpg[{homedir}/assets/images/actor.jpg]
 
-include::{homedir}/statblocks/actor.adoc[]
-
-=== About
+| image::{rootdir}/assets/images/actors/actor_name.jpg[]
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  8 (*-2*) ^!  7 (*-3*) ^!  9 (*-1*) ^! 11 (*+1*) ^!  9 (*-1*) ^!  8 (*-2*)
+!===
 
 [cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+!===
+>! *Creature* ! Human
+>! *Height* ! _
+>! *Walk* ! _ ft
+
+>! *Class* ! Commoner
+>! *Weight* ! _
+>! *Fly* ! _ ft
+
+>! *Size* ! Normal
+>! *Eyes* ! _
+>! *Swim* ! _ ft
+
+>! *Alignment* ! Chaotic Neutral
+>! *Skin* ! _
+>! *Climb* ! _ ft
+
+>! *Age* ! 9
+>! *Hair* ! _
+>! *Burrow* ! _ ft
+!===
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+|
+*Common Items*
+
+*
+
+*About*
+
+
+*Environment*  +
+*Tags*
 |===
->| *Creature* | <Select>
->| *Height* | <Select>
->| *Walk* | x ft
-
->| *Class* | <Select>
->| *Weight* | <Select>
->| *Fly* | x ft
-
->| *Size* | 
->| *Eyes* | <Select>
->| *Swim* | x ft
-
->| *Alignment* | 
->| *Skin* | <Select>
->| *Climb* | x ft
-
->| *Age* | 
->| *Hair* | <Select>
->| *Burrow* | x ft
-|===
-
-=== Roleplay Hints
-
-
-=== Special Abilities
-
