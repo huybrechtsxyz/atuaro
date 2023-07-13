@@ -13,7 +13,7 @@ endif::[]
 image::{homedir}/assets/images/cover.png[]
 
 == Summary
-After talking about the social contract and their introduction to the world, the players create a character.
+After talking about the social contract and their introduction to the world, the players create a character and the game can start.
 
 Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them. If they succees then they can go to the carnival. They not gonna fail right... right...
 
@@ -30,11 +30,11 @@ During the Dark Ages of Europe, which lasted from the 5th to the 10th century, t
 == To Do List
 
 * Make the hardcore rules more clear to start with.
-* Make the children 16 years old to start with?
+* Make the children older to start with (now they are 8)?
 * The rats can be made more assertive so they attack quicker
-* Pixies can be more aggressive, strong, and do more damage
-* Have fun at the carnival: make the tricks better
+* Pixies can be more aggressive, stronger, and do more damage / or more pixies
 * Take a look at the tournament: make it more obvious what it is.
+* Have fun at the carnival: make the tricks better
 * Clown School: Flesh out Willie the clown and a possible reward
 * Magician Trick: Rework act and possible reward
 
@@ -50,7 +50,7 @@ Just a reminder that in the Player Handbook you can find a lot of interesting th
 
 As mentioned in the Table Rules, I expect that you have a way of managing your character. The obvious ways is using a form fillable PDF or one of the many character apps that are available. A few examples are the Standard Character Sheet or the alternate sheet found in the public sheets folder. My personal preference is that you no longer use D&D Beyond in light of the O.G.L. controversy. An editable PDF, World Anvil, VTT has a good player character manager my preference would be one of these.
 
-== Ineffable Games
+=== Ineffable Games
 
 image::{homedir}/assets/images/ineffable_games.jpg[align=center]
 
@@ -173,6 +173,9 @@ The children get some lessons that learn them to read and write.
 === Supporting Actors
 
 * Aeria Jones, The Weird One, link:{rootdir}/compendium/actors/aeria_jones.adoc[Link]
+* Claude Duval, The Mothers Boy, link:{rootdir}/compendium/actors/claude_duval.adoc[Link]
+* Gilad Shams, The Bully, link:{rootdir}/compendium/actors/gilad_shams.adoc[Link]
+* Krista Martell, The Supervisor, link:{rootdir}/compendium/actors/krista_martell.adoc[Link]
 
 === Breakfast
 > The room is cramped and has a stale smell. You awaken from a restless sleep and realise that you are not the only one who has had a nightmare. The first bell rings at 6 AM and the assigned orphans rise from their beds, some still groggy, to wash up and get dressed. The girls are assigned to do the housekeeping tasks while the boys clean the fireplaces. 
@@ -320,7 +323,7 @@ While Hibiscus Tauwi (The Priest) comes to visit Ms Witchling, Aeria Jones (Weir
 
 === Supporting Actors
 
-List actors (new vs prev chapter)
+* Hibiscus Tauwi, The priest of Kainga, link:{rootdir}/compendium/actors/hibiscus_tauwi.adoc[Link]
 
 === Orphanage Maps
 
