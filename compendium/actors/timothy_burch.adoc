@@ -1,0 +1,77 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Timothy Burch*#
+| [small]#The Sad One \| Human Commoner#
+
+| *Roleplay*
+|
+*Timid Nature:* +
+Timothy is naturally shy and tends to be reserved in unfamiliar or challenging situations.
+
+*Creative Imagination:* +
+Timothy has a vivid imagination and enjoys engaging in creative activities like storytelling, drawing, or inventing imaginary worlds.
+
+*Quick Reflexes:* +
+Although physically weak, Timothy's reflexes are surprisingly swift, allowing him to dodge or react swiftly in moments of danger.
+
+| image::{rootdir}/assets/images/actor_timothy_burch.png[]
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  6 (*-3*) ^! 11 (*+1*) ^!  8 (*-2*) ^! 10 (*+0*) ^!  8 (*-2*) ^!  7 (*-3*)
+!===
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+!===
+>! *Creature* ! Human
+>! *Height* ! _
+>! *Walk* ! _ ft
+
+>! *Class* ! Commoner
+>! *Weight* ! _
+>! *Fly* ! _ ft
+
+>! *Size* ! Normal
+>! *Eyes* ! _
+>! *Swim* ! _ ft
+
+>! *Alignment* ! Lawfull Good
+>! *Skin* ! _
+>! *Climb* ! _ ft
+
+>! *Age* ! 7
+>! *Hair* ! _
+>! *Burrow* ! _ ft
+!===
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+|
+*Common Items*
+
+* 
+
+*About*
+
+Timothy Burch, the sad child of the House of Orphaned and Abandoned Offspring, is a 7-year-old human commoner who faces constant bullying and struggles with his self-esteem. He is known for his meekness and lack of physical strength. Despite these challenges, Timothy possesses a kind heart and looks up to anyone who extends even the smallest act of kindness towards him.
+
+* Nervous gestures: Timothy often fidgets with his hands or tugs on his clothes when feeling anxious or unsure.
+* Soft-spoken and polite: Timothy speaks in a gentle and polite manner, using words like "please" and "thank you" frequently.
+* Avoids conflict: Timothy tries to avoid confrontation and conflict, often finding ways to defuse tense situations or seeking help from others.
+* Reliance on others: Timothy looks up to and seeks guidance from those he considers mentors or friends, often deferring to their judgment or assistance.
+* Genuine appreciation: Timothy shows immense gratitude and appreciation for even the smallest acts of kindness, often expressing it through words or small gestures.
+
+*Environment* Orphanage Kainga +
+*Tags*
+|===
