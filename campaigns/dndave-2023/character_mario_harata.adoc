@@ -1,8 +1,8 @@
 ifndef::rootdir[]
-:rootdir: ../../..
+:rootdir: ../..
 endif::[]
 ifndef::homedir[]
-:homedir: ..
+:homedir: .
 endif::[]
 
 = Mario Harata
