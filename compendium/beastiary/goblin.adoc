@@ -1,12 +1,12 @@
 ifndef::rootdir[]
-:rootdir: ../../..
+:rootdir: ../..
 endif::[]
 
 # Goblin
 
 image::{rootdir}/assets/ddb-images/npc-Goblin.png[]
 
-include::{rootdir}/statblocks/humanoids/goblin.adoc[]
+include::{rootdir}/statblocks/goblin.adoc[]
 
 == About Goblins 
 Related

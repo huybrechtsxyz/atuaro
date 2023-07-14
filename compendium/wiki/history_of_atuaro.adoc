@@ -1,5 +1,5 @@
 ifndef::assetdir[]
-:assetdir: ../assets
+:assetdir: ../../assets
 endif::[]
 
 # History of Atuaro

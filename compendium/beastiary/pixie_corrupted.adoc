@@ -1,5 +1,5 @@
 ifndef::rootdir[]
-:rootdir: ../../..
+:rootdir: ../..
 endif::[]
 = Corrupted Pixie
 
@@ -7,7 +7,7 @@ image::{rootdir}/assets/images/npc_pixie_corrupted.png[]
 
 == Statistics
 
-include::{rootdir}/statblocks/fey/pixie_corrupted.adoc[]
+include::{rootdir}/statblocks/pixie_corrupted.adoc[]
 
 == About Corrupted Pixies
 Corrupted pixies are fey turned fiends who savor violence.

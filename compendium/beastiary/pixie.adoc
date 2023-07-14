@@ -1,5 +1,5 @@
 ifndef::rootdir[]
-:rootdir: ../../..
+:rootdir: ../..
 endif::[]
 
 = Pixie
@@ -7,7 +7,7 @@ endif::[]
 
 image::{rootdir}/assets/ddb-images/npc-Pixie.png[{assetdir}/ddb-images/npc-Pixie.png]
 
-include::{rootdir}/statblocks/fey/pixie.adoc[]
+include::{rootdir}/statblocks/pixie.adoc[]
 
 == About Pixies 
 Related

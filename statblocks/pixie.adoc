@@ -1,5 +1,5 @@
 ifndef::rootdir[]
-:rootdir: ../..
+:rootdir: ..
 endif::[]
 [cols="2a,4a",grid=rows]
 |===
