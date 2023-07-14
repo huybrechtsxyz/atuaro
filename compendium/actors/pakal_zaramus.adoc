@@ -1,0 +1,84 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Pakal Zamarus*#
+| [small]#The bisshop of Loukotokia \| Priest (Cleric)#
+
+| *Roleplay*
+|
+
+*Divine Guidance:* +
+Bishop Pakal Zamarus can call upon divine guidance to help him provide advice and counsel to those who seek his aid. Once per day, he can choose one creature within 30 feet of him and grant them advantage on the next Wisdom (Insight) check they make within the next 10 minutes.
+
+*Inspiring Presence:* +
+Bishop Pakal Zamarus's charisma and leadership inspires those around him to greater heights. Whenever he successfully persuades a creature to take a specific course of action or makes a convincing argument in a debate, any creature who can hear him gains advantage on their next ability check or attack roll within the next minute.
+
+*Turn Undead:* +
+As a cleric of his deity, Bishop Pakal Zamarus can channel divine energy to turn undead creatures. When he presents his holy symbol and speaks a prayer, any undead within 30 feet of him must make a Wisdom saving throw (DC 16). If they fail, they must move as far away from him as possible and cannot take any actions for 1 minute.
+
+*Divine Strike:* + 
+When Bishop Pakal Zamarus hits a creature with a melee weapon attack, he can expend one use of his Channel Divinity to deal an extra 20 radiant damage to the target. If the target is an undead or fiend, the damage is doubled to 40.
+
+| image::{rootdir}/assets/images/actor_pakal_zaramus.jpg[]
+|
+Insight +8
+Persuasion +7
+Religion +8
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 12 (*+1*) ^! 10 (*+0*) ^! 14 (*+2*) ^! 12 (*+2*) ^! 18 (*+4*) ^! 16 (*+3*)
+!===
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+!===
+>! *Creature* ! Human
+>! *Height* ! _
+>! *Walk* ! _ ft
+
+>! *Class* ! Priest (Cleric)
+>! *Weight* ! _
+>! *Fly* ! _ ft
+
+>! *Size* ! Normal
+>! *Eyes* ! _
+>! *Swim* ! _ ft
+
+>! *Alignment* ! Lawful Neutral
+>! *Skin* ! _
+>! *Climb* ! _ ft
+
+>! *Age* ! Middle 40's
+>! *Hair* ! _
+>! *Burrow* ! _ ft
+!===
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+|
+*Common Items*
+
+* Holy symbol of his deity
+* Fine clothes
+* Prayer book
+* Pouch containing 1d100 gold pieces
+
+*About*
+
+Pakal Zamarus is a charismatic and ambitious cleric who has risen through the ranks of the church through his exceptional religious devotion and his cunning political maneuvering. He has always been passionate about serving his deity and guiding his congregation, but he is equally driven by a desire for power, influence, and wealth. Though he publicly presents himself as a humble servant of the faith, he is willing to do whatever it takes to advance his own interests, whether that means making shady deals, compromising his principles, or exploiting the weaknesses of others.
+
+Bishop Pakal Zamarus is a master of manipulation and charm, able to win over even his staunchest critics with his honeyed words and persuasive arguments. He presents himself as a man of great faith and piety, always eager to listen to the concerns of his flock and offer guidance and support. However, behind closed doors, he is a cunning and ruthless schemer, willing to use any means necessary to achieve his goals. He is not above lying, cheating, or even murder to get what he wants, and he will stop at nothing to maintain his grip on power.
+
+*Environment* Loukotokia, Orphanage Kainga +
+*Tags*
+|===

@@ -434,7 +434,7 @@ do 1 damage. If they take any damaged, they die.
 
 === Supporting Actors
 
-List actors (new vs prev chapters)
+* Pakal Zaramus, The Bisshopt of Loukotokia, link:{rootdir}/compendium/actors/pakal_zaramus.adoc[]
 
 === Carnival Maps
 
