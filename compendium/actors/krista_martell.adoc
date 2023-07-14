@@ -18,7 +18,7 @@ A deep understanding of other people's feelings and emotions and can easily conn
 *Wisdom*: +
 Wise beyond their years and has a good understanding of right and wrong.
 
-| image::{rootdir}/assets/images/actors/krista_martell.png[]
+| image::{rootdir}/assets/images/actor_krista_martell.png[]
 |
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
 !===

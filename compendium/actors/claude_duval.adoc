@@ -12,7 +12,7 @@ endif::[]
 
 *Orderly*: Claude likes things to be neat and organized, which can be a helpful trait when completing tasks, but can also be a hindrance when facing unexpected situations.
 
-| image::{rootdir}/assets/images/actors/claude_duval.jpg[]
+| image::{rootdir}/assets/images/actor_claude_duval.jpg[]
 |
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
 !===

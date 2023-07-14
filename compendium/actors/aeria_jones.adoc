@@ -17,7 +17,7 @@ Aeria has keen senses, which can make her aware of things that others might miss
 *Aloof*: +
 Aeria tends to keep to herself and is often aloof, which can sometimes make others uncomfortable around her.
 
-| image::{rootdir}/assets/images/actors/aeria_jones.jpg[]
+| image::{rootdir}/assets/images/actor_aeria_jones.jpg[]
 |
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
 !===

@@ -18,7 +18,7 @@ Father Tauwi's spiritual leadership inspires those around him to greater heights
 *Repent! Confess!*: + 
 People feel feel compelled to confess any small secrets or misdeeds they have committed. While this ability does not force a creature to reveal major secrets or information they wish to keep hidden, Father Hibiscus does know how to use the information he learns from confessions to his advantage. Mostly to advance his carreer.
 
-| image::{rootdir}/assets/images/actors/hibiscus_tauwi.jpg[]
+| image::{rootdir}/assets/images/actor_hibiscus_tauwi.jpg[]
 |
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
 !===

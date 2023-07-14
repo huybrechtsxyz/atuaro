@@ -14,7 +14,7 @@ A brute who is not afraid to use force to get what they wants.
 *Fear-monger*: +
 Gilad is a skilled intimidator, and uses fear to control and anipulate others.
 
-| image::{rootdir}/assets/images/actors/gilad_shams.jpg[]
+| image::{rootdir}/assets/images/actor_gilad_shams.jpg[]
 |
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
 !===
