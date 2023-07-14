@@ -3,7 +3,7 @@ ifndef::rootdir[]
 endif::[]
 [cols="2a,4a",grid=rows]
 |===
-| [big]#*Claude Duval*#
+| [big]#*Gilad Shams*#
 | [small]#The Bully \| Human Commoner#
 
 | *Roleplay*
