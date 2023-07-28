@@ -176,6 +176,10 @@ The children get some lessons that learn them to read and write.
 * Claude Duval, The Mothers Boy, link:{rootdir}/compendium/actors/claude_duval.adoc[Link]
 * Gilad Shams, The Bully, link:{rootdir}/compendium/actors/gilad_shams.adoc[Link]
 * Krista Martell, The Supervisor, link:{rootdir}/compendium/actors/krista_martell.adoc[Link]
+* Pasha Lebedev, The Slacker, link:{rootdir}/compendium/actors/pasha_lebedev.adoc[Link]
+* Rufina Lo Duca, The Beauty, link:{rootdir}/compendium/actors/rufina_lo_duca.adoc[Link]
+* Timothy Burch, The Sad One, link:{rootdir}/compendium/actors/timothy_burch.adoc[Link]
+* Witchling, The Head Mistress, link:{rootdir}/compendium/actors/witchling.adoc[Link]
 
 === Breakfast
 > The room is cramped and has a stale smell. You awaken from a restless sleep and realise that you are not the only one who has had a nightmare. The first bell rings at 6 AM and the assigned orphans rise from their beds, some still groggy, to wash up and get dressed. The girls are assigned to do the housekeeping tasks while the boys clean the fireplaces. 
@@ -238,11 +242,11 @@ The children will need to use the spigots, which requires a strength�
 * Timmy's teddy bear is between barrel 2 and 3.
 * How are they going to know what is wine and beer?
 
-Kegs 1 and 2 (3 leaves standing up image:{homedir}/assets/images/symbol_beer.jpg[beer,50,50]), contain beer [PIA]
+Kegs 1 and 2 (3 leaves standing up image:{rootdir}/assets/images/symbol_beer.jpg[beer,50,50]), contain beer [PIA]
 
-Kegs 3 and 4 (3 circles upside down image:{homedir}/assets/images/symbol_wine.jpg[beer,50,50]), contain wine [WAINA]
+Kegs 3 and 4 (3 circles upside down image:{rootdir}/assets/images/symbol_wine.jpg[beer,50,50]), contain wine [WAINA]
 
-Keg 5 (Circle with line, on/off symbol, image:{homedir}/assets/images/symbol_cider.jpg[beer,50,50]), contains apple cider [APORO]
+Keg 5 (Circle with line, on/off symbol, image:{rootdir}/assets/images/symbol_cider.jpg[beer,50,50]), contains apple cider [APORO]
 
 === Area 3 - Storage West [DC-10]
 
@@ -299,7 +303,7 @@ This room contains food, produce, grain. More expensive bottles of win
 
 === Statblocks
 
-include::{rootdir}/statblocks/beasts/rat.adoc[]
+include::{rootdir}/statblocks/rat.adoc[]
 
 == The House Visit
 
@@ -323,7 +327,15 @@ While Hibiscus Tauwi (The Priest) comes to visit Ms Witchling, Aeria Jones (Weir
 
 === Supporting Actors
 
-* Hibiscus Tauwi, The priest of Kainga, link:{rootdir}/compendium/actors/hibiscus_tauwi.adoc[Link]
+* Aeria Jones, The Weird One, link:{rootdir}/compendium/actors/aeria_jones.adoc[Link]
+* Claude Duval, The Mothers Boy, link:{rootdir}/compendium/actors/claude_duval.adoc[Link]
+* Gilad Shams, The Bully, link:{rootdir}/compendium/actors/gilad_shams.adoc[Link]
+* Krista Martell, The Supervisor, link:{rootdir}/compendium/actors/krista_martell.adoc[Link]
+* Pasha Lebedev, The Slacker, link:{rootdir}/compendium/actors/pasha_lebedev.adoc[Link]
+* Rufina Lo Duca, The Beauty, link:{rootdir}/compendium/actors/rufina_lo_duca.adoc[Link]
+* Timothy Burch, The Sad One, link:{rootdir}/compendium/actors/timothy_burch.adoc[Link]
+* Witchling, The Head Mistress, link:{rootdir}/compendium/actors/witchling.adoc[Link]
+* *Hibiscus Tauwi*, The priest of Kainga, link:{rootdir}/compendium/actors/hibiscus_tauwi.adoc[Link]
 
 === Orphanage Maps
 
@@ -385,9 +397,9 @@ This pixie requires a DC20 to perceive.
 
 * DC10 Perception check to see their true nature.
 
-include::{rootdir}/statblocks/fey/pixie.adoc[]
+include::{rootdir}/statblocks/pixie.adoc[]
 
-include::{rootdir}/statblocks/fey/pixie_corrupted.adoc[]
+include::{rootdir}/statblocks/pixie_corrupted.adoc[]
 
 === Uneventful Evening
 
@@ -416,25 +428,25 @@ The rest of the evening is uneventful.
 
 . There are 4 guards walking a beat, known as Tythingman. (~ local city guard for towns)
 
-    * Constable Emeric (mentor for fighter and barbarian)
+    * Constable Emeric (rounds)
     * Tythingman Erevan (entrance)
     * Tythingman Kaelen (rounds)
     * Tythingman Aldric (sleeping)
 
 . One of the cages contains a bloody lot of young goblin minions
 
-[%header]
-|===
-| STR     | DEX      | CON     | INT     | WIS    | CHA    |
-| ------- | -------- | ------- | ------- | ------ | ------ |
-| 8 (−1)  | 13 (+1)  | 10 (+0) | 10 (+0) | 8 (−1) | 8 (−1) |
-|===
-
-do 1 damage. If they take any damaged, they die.
-
 === Supporting Actors
 
-* Pakal Zaramus, The Bisshopt of Loukotokia, link:{rootdir}/compendium/actors/pakal_zaramus.adoc[]
+* Aeria Jones, The Weird One, link:{rootdir}/compendium/actors/aeria_jones.adoc[Link]
+* Claude Duval, The Mothers Boy, link:{rootdir}/compendium/actors/claude_duval.adoc[Link]
+* Gilad Shams, The Bully, link:{rootdir}/compendium/actors/gilad_shams.adoc[Link]
+* Krista Martell, The Supervisor, link:{rootdir}/compendium/actors/krista_martell.adoc[Link]
+* Pasha Lebedev, The Slacker, link:{rootdir}/compendium/actors/pasha_lebedev.adoc[Link]
+* Rufina Lo Duca, The Beauty, link:{rootdir}/compendium/actors/rufina_lo_duca.adoc[Link]
+* Timothy Burch, The Sad One, link:{rootdir}/compendium/actors/timothy_burch.adoc[Link]
+* Witchling, The Head Mistress, link:{rootdir}/compendium/actors/witchling.adoc[Link]
+* Hibiscus Tauwi, The priest of Kainga, link:{rootdir}/compendium/actors/hibiscus_tauwi.adoc[Link]
+* *Pakal Zaramus*, The Bisshop of Loukotokia, link:{rootdir}/compendium/actors/pakal_zaramus.adoc[Link]
 
 === Carnival Maps
 
@@ -446,11 +458,11 @@ image::{homedir}/assets/maps/carnival_maze.png[]
 
 > The carnival entrance is marked by a grand archway, decorated with brightly coloured ribbons, flowers, and streamers. The archway towers over the entrance.
 
-> Ms Witchling gathers the offspring and gives them each some tokens. "Have fun. It will be a while before something like this happens again. But I wanted to give you something as you have been behaving very well the last couple of months. Keep it up!" pointing to Gilad and a player "I told the guards about you! DO NOT LET ME DOWN!".
+> Ms Witchling gathers the offspring and gives them each some tokens. "Have fun. It will be a while before something like this happens again. But I wanted to give you something as you have been behaving very well the last couple of months. Keep it up!" pointing to Gilad and [random player] "I told the guards about you! DO NOT LET ME DOWN!".
 
-Let the player make a deception check to see how well they can keep a straight face. Gilad the bully does without a hitch.
+Let the player make a deception check to see how well they can keep a straight face. Gilad the bully does so without a hitch.
 
-Tythingman Erevan is standing guard, salutes Ms Witchling and does not thrust the children.
+Tythingman Erevan is standing guard, salutes Ms Witchling but looks wearily at the children.
 
 If they stay instead of running in they will hear the tythingman telling Ms Witchling about the confiscated treasury map in the guards tent.
 
@@ -460,19 +472,33 @@ If they stay instead of running in they will hear the tythingman telling Ms Witc
 
 There is a clown performing some basic acrobatic tricks which he is willing to learn to the audience.
 
-*NPC: Weary Willie* +
-Willie is a clown.
+[cols="2a,4a",grid=rows,frame=none]
+|===
+| [big]#*Weary Willie*#
+| [small]#Clown, Unaligned#
 
-*DEX CHECK : Juggling*
+| image::{homedir}/assets/tokens/weary_willie.jpg[]
 
-    You juggle with 2 cones for [DC=8]
-    Add 1 cone (3) for [DC=10]
-    Add 1 cone (4) for [DC=12]
-    Add 1 cone (5) for [DC=14] (Win 1 token)
-    The clown lights them on fire for [DC=16] (Win 2 tokens)
-    Failure to keep them up results in 1d4 fire/singe damage
+|
+*Armor Class* 10 +
+*Hit Points* 10 (3d8+3) +
+*Speed* 30 ft. +
 
-    Winning the game: [TODO: Add 1 to your dex score] 
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
+
+| *Juggling Game [DEX]* | 
+You juggle with 2 cones for [DC=8] +
+Add 1 cone (3) for [DC=10] +
+Add 1 cone (4) for [DC=12] +
+Add 1 cone (5) for [DC=14] (Win 1 token) +
+The clown lights them on fire for [DC=16] (Win 2 tokens) +
+Failure to keep them up results in 1d4 fire/singe damage +
+Winning the game: [TODO: Add 1 to your dex score] 
+|===
 
 === Area 3 - Token Tournament
 
@@ -484,9 +510,26 @@ See <<_token_tournament>>.
 
 Once registered the party might choose to do other things at the carnival. Once they are ready and no other party is going through the dungeon they can start the adventure. See #1.
 
-*NPC: Gormack Labirini*
+[cols="2a,4a",grid=rows,frame=none]
+|===
+| [big]#*Gormack Labirini*#
+| [small]#Human, Unaligned#
+
+| image::{homedir}/assets/tokens/gormack_labirini.png[]
+
+|
+*Armor Class* 10 +
+*Hit Points* 10 (3d8+3) +
+*Speed* 30 ft. +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
 
 The tournament runner is a lanky, unkempt man in his mid-twenties. His shaggy brown hair falls haphazardly over his forehead, and he has a scruffy beard that looks like it hasn't been properly groomed in weeks. He wears a stained and tattered green tunic that hangs loosely on his thin frame, and his baggy trousers are held up by a frayed rope belt.
+|===
 
 === AREA 4 - Magic Show
 
@@ -494,17 +537,33 @@ The tournament runner is a lanky, unkempt man in his mid-twenties. His shaggy br
 
 If they inspire the magician, he can tell them about the treasury map.
 
-*WIS CHECK DC16*
+[cols="2a,4a",grid=rows,frame=none]
+|===
+| [big]#*Magnifico the Magnificent*#
+| [small]#Human, Unaligned, Mentor Thief#
 
-> Once the are alone with them in a tent he says. Mmh. Maybe one of you is smart enough to figure it out? Yes? I will give you three time to do so.
+| image::{homedir}/assets/tokens/magnifico_the_magnificent.jpg[creature,150]
 
-3 tries to find the way he does it.
+|
+*Armor Class* 10 +
+*Hit Points* 10 (3d8+3) +
+*Speed* 30 ft. +
 
-Magnifico performs a trick where he shuffles a ball under three cups, and the players must guess which cup the ball is under. After several attempts, the players realize that Magnifico is using slight of hand to manipulate the cups and ball, and they manage to catch him in the act. Impressed by their skills, Magnifico decides to teach them the trick and a few other slight of hand techniques. He reveals that he used to be a thief, but he gave up his life of crime after discovering the joy of entertaining people with his magic tricks.
-
-*NPC: Magnifico the Magnificent - Mentor Thief*
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
 
 Magnifico himself is a charming and flamboyant character, with a big personality and a love for entertaining people. He is always looking for new tricks to perform and new audiences to amaze. He greets them with a big smile and introduces himself as Magnifico. He offers to teach them one of his tricks for a small fee. However, the catch is that they must figure out how he did it themselves.
+
+| *Three Cups Game [DEX DC16]* | 
+> Once the are alone with them in a tent he says. Mmh. Maybe one of you is smart enough to figure it out? Yes? I will give you three time to do so.
+
+3 tries to find the way he does it. Magnifico performs a trick where he shuffles a ball under three cups, and the players must guess which cup the ball is under. After several attempts, the players realize that Magnifico is using slight of hand to manipulate the cups and ball, and they manage to catch him in the act. +
+
+Impressed by their skills, Magnifico decides to teach them the trick and a few other slight of hand techniques. He reveals that he used to be a thief, but he gave up his life of crime after discovering the joy of entertaining people with his magic tricks.
+|===
 
 === Area 5 - Pie eating contest
 
@@ -691,7 +750,34 @@ Gormack leads the party down the stairs to a room that is lined with shelves and
 > 
 > Standing at either side of a large bronze door in the far wall is a 6-foot-tall soldier made entirely out of metal and gears. You see steam poring out of their backs every few seconds through vents. They each hold a metal shield as well as a long-sword. They are currently stranding in a defensive positions, though not acknowledging you.
 
-*todo: clockwork soldier**
+This room has the potential to be the first combat encounter the party has. 
+* The clockwork soldiers will only attack if they are touched.
+* There is one Chip of Valour in the hanging chandelier 15 feet above the ground (perception check to discover it)
+* There is one chip in the chest of the clockwork soldier on the left (perception/investigation check to discover it and sleight of hand check to grab through the spinning gears without touching the soldier, waking it up)
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Clockwork Soldier*#
+| [small]#Construct, Unaligned#
+
+| image::{homedir}/assets/tokens/clockwork_soldier.png[]
+
+|
+*Armor Class* 10 +
+*Hit Points* 10 (3d8+3) +
+*Speed* 30 ft. +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 16 (*+3*) ^! 14 (*+2*) ^! 16 (*+3*) ^!  4 (*-3*) ^!  4 (*-3*) ^!  4 (*-3*)
+!===
+
+| *Actions* | 
+*Longsword.* +
+Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1d4 slashing damage.
+
+|===
 
 === Area 3 - Dragon Forest [DC-11]
 

@@ -1,0 +1,44 @@
+ifndef::rootdir[]
+:rootdir: ..
+endif::[]
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Young Goblin Minion*#
+| [small]#humanoid (goblinoid) minion, neutral evil#
+
+| 
+
+|
+*Armor Class* 9 +
+*Hit Points* 1 (1d4) +
+*Speed* 20 ft. +
+*Proficiency* +0 +
+*Initiative* +0 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  8 (*-1*) ^! 12 (*+1*) ^!  9 (*-1*) ^!  9 (*-1*) ^!  8 (*-1*) ^!  8 (*-1*)
+!===
+
+| *Actions* | 
+*Bite.* +
+Melee Weapon Attack: -1 to hit, reach 5 ft., one target. +
+Hit: 1 (1d4 - 1) slashing damage. +
+
+| *Abilities* | 
+Stealth +2 +
+Languages: Goblin +
+darkvision 30 ft., passive Perception 6 +
+
+| *Traits* |
+*Nimble Escape.* +
+The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+
+2+| *About* + 
+Goblins are small, black-hearted humanoids that lair in despoiled dungeons and other dismal settings. Individually weak, they gather in large numbers to torment other creatures.
+
+*Environment:* Forest,Grassland,Hill,Underdark  +
+*Tags:* Goblinoid, Minion
+|===
