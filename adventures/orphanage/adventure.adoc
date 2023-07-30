@@ -270,7 +270,7 @@ This room contains old and worn clothes and cheap items required to 
 
 * Timmy's small tin soldier toy is in room 3 (just behind the wall on the left)
 
-=== Area 4 - Locked Room [DC-11]
+=== Area 4 - Locked Room
 
 The door of the room:
 
@@ -435,6 +435,19 @@ The rest of the evening is uneventful.
 
 . One of the cages contains a bloody lot of young goblin minions
 
+*Carnival Games*
+
+* <<_area_1_welcome>>
+* <<_area_2_clown_school>>
+* <<_area_3_token_tournament>>
+* <<_area_4_magic_show>>
+* <<_area_5_pie_eating_contest>>
+* <<_area_6_displacer_beast_ride>>
+* <<_area_7_open_podium>>
+* <<_area_8_animal_exhibit>>
+* <<_area_9_guard Room>>
+* <<_area_10_central_market_square>>
+
 === Supporting Actors
 
 * Aeria Jones, The Weird One, link:{rootdir}/compendium/actors/aeria_jones.adoc[Link]
@@ -454,7 +467,8 @@ image::{homedir}/assets/maps/carnival_map.jpg[]
 
 image::{homedir}/assets/maps/carnival_maze.png[]
 
-=== Area 1 - Welcome [DC-10]
+=== Area 1 - Welcome
+*DC of 10*
 
 > The carnival entrance is marked by a grand archway, decorated with brightly coloured ribbons, flowers, and streamers. The archway towers over the entrance.
 
@@ -466,7 +480,7 @@ Tythingman Erevan is standing guard, salutes Ms Witchling but looks wearily at t
 
 If they stay instead of running in they will hear the tythingman telling Ms Witchling about the confiscated treasury map in the guards tent.
 
-=== Area 2 - Clown School [DC-14]
+=== Area 2 - Clown School
 
 > The walls of the tent are covered in colorful posters advertising different circus acts, and there are several small groups of people gathered around the different stations, watching the performers and practicing their own tricks. The air is filled with the sound of laughter and chatter as people share their successes and failures with each other.
 
@@ -475,13 +489,13 @@ There is a clown performing some basic acrobatic tricks which he is willing to l
 [cols="2a,4a",grid=rows,frame=none]
 |===
 | [big]#*Weary Willie*#
-| [small]#Clown, Unaligned#
+| [small]#Human Clown, Unaligned#
 
-| image::{homedir}/assets/tokens/weary_willie.jpg[]
+| image::{homedir}/assets/tokens/weary_willie.jpg[creature,150]
 
 |
 *Armor Class* 10 +
-*Hit Points* 10 (3d8+3) +
+*Hit Points* 3 (1d4) +
 *Speed* 30 ft. +
 
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
@@ -490,7 +504,7 @@ There is a clown performing some basic acrobatic tricks which he is willing to l
 ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
 !===
 
-| *Juggling Game [DEX]* | 
+| *Juggling Game [DEX DC+2]* | 
 You juggle with 2 cones for [DC=8] +
 Add 1 cone (3) for [DC=10] +
 Add 1 cone (4) for [DC=12] +
@@ -508,7 +522,7 @@ See <<_token_tournament>>.
 > 
 > *hushed*  "oh and sign the waiver...."
 
-Once registered the party might choose to do other things at the carnival. Once they are ready and no other party is going through the dungeon they can start the adventure. See #1.
+Once registered the party might choose to do other things at the carnival. Once they are ready and no other party is going through the dungeon they can start the adventure.
 
 [cols="2a,4a",grid=rows,frame=none]
 |===
@@ -519,7 +533,7 @@ Once registered the party might choose to do other things at the carnival. Once 
 
 |
 *Armor Class* 10 +
-*Hit Points* 10 (3d8+3) +
+*Hit Points* 7 (1d12) +
 *Speed* 30 ft. +
 
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
@@ -546,7 +560,7 @@ If they inspire the magician, he can tell them about the treasury map.
 
 |
 *Armor Class* 10 +
-*Hit Points* 10 (3d8+3) +
+*Hit Points* 4 (1d4) +
 *Speed* 30 ft. +
 
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
@@ -569,7 +583,28 @@ Impressed by their skills, Magnifico decides to teach them the trick and a few o
 
 > A stage is set up for the presenter to entertain the crowd and the area is lined with tables and chairs where contestants sit and wait for the signal to start. The pies are lined up in front of them, steaming hot and smelling delicious. "Welcome, welcome, one and all to the grandest pie eating contest in all the land!" Barnaby announces, his voice booming across the area. "We've got pies, we've got contestants, and we've got the best audience in the world!" 
 
-*CON CHECK*
+[cols="2a,4a",grid=rows,frame=none]
+|===
+| [big]#*Barnaby*#
+| [small]#Human, Unaligned#
+
+| image::{homedir}/assets/tokens/barnaby_pies.jpg[creature]
+
+|
+*Armor Class* 10 +
+*Hit Points* 5 (1d8) +
+*Speed* 30 ft. +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
+
+The presenter, a flamboyant and enthusiastic man named Barnaby, is dressed in a colorful suit and top hat. He speaks into a megaphone and addresses the crowd, building up excitement for the contest.
+
+| *Pie Eating Game [CON DC+2]* | 
+> Once the are alone with them in a tent he says. Mmh. Maybe one of you is smart enough to figure it out? Yes? I will give you three time to do so.
 
 Exceeding CON checks +2 until there are no more participants. Start with [DC6].
 Winner gets to add 1 to their CON score.
@@ -579,37 +614,49 @@ Winner gets to add 1 to their CON score.
 > Throughout the contest, Barnaby continues to provide colorful commentary and witty remarks. "That's it, folks, we've got a real slobberknocker on our hands!" he shouts as two contestants go head to head. "Who will be the first to succumb to the pie-induced food coma?"
 
 > At the end of the contest, Barnaby crowns the winner with a grand flourish. "Ladies and gentlemen, we have a winner!" he declares. "Let's give it up for the newest member of the Pie Eating Hall of Fame!"
-
-*NPC: Barnaby*
-
-The presenter, a flamboyant and enthusiastic man named Barnaby, is dressed in a colorful suit and top hat. He speaks into a microphone and addresses the crowd, building up excitement for the contest.
+|===
 
 === Area 6 - Displacer Beast Ride
 
 > The displacer beast is a magical creature resembling a large, sleek panther with six legs and two tentacles protruding from its shoulders. The ring is a large, circular enclosure made of rough-hewn wood, with high walls to keep the bull contained.
 
-> As the bull riding contest begins, Bofur pumps up the crowd with his booming voice, shouting out quotes like:
->  
->    "Are you ready for the ride of your life? This ain't no pony ride, folks!"  
->    "This bull's got more moves than a drunken dwarf on a dance floor!"  
->    "Let's see if our riders have what it takes to tame the beast!"  
->    "Hang on tight, folks, it's gonna be a bumpy ride!"  
->    "Who will be the last one standing? The bull or the brave dwarves who dare to ride it?"  
+[cols="2a,4a",grid=rows,frame=none]
+|===
+| [big]#*Bofur*#
+| [small]#Dwarf, Unaligned#
 
-*STR CHECK*
+| image::{homedir}/assets/tokens/bofur_beast_ride.jpg[creature]
 
-Keep making an DC14 strenght check to stay on the bull.  
-If you fall of make a DC10 strength check to make certain you do not get damaged [1 Damage].  
-Stay on the bull the longest? Add 1 to your STR score.
+|
+*Armor Class* 10 +
+*Hit Points* 10 (2d6) +
+*Speed* 30 ft. +
 
-*NPC: Bofur*
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
 
 He is loud and boisterous dwarf. He wears a bright red vest with gold buttons and a black bowler hat that sits atop his curly red hair. He carries a whip and a megaphone as he struts around the ring, announcing the upcoming riders and revving up the crowd.
 
-=== Area 7 - Open Podium [DC10]
-> The open podium allows everyone can join and perform to be star!
+| *Displacer Beast Game [STR DC+2]* | 
+Keep making an DC14 strenght check to stay on the bull. If you fall of make a DC10 strength check to make certain you do not get damaged [1 Damage]. Stay on the bull the longest? Add 1 to your STR score.
 
+> As the bull riding contest begins, Bofur pumps up the crowd with his booming voice, shouting out quotes like:
+>  
+> "Are you ready for the ride of your life? This ain't no pony ride, folks!"  +
+> "This bull's got more moves than a drunken dwarf on a dance floor!"  +
+> "Let's see if our riders have what it takes to tame the beast!"  +
+> "Hang on tight, folks, it's gonna be a bumpy ride!"  +
+> "Who will be the last one standing? The bull or the brave dwarves who dare to ride it?"
+
+|===
+
+=== Area 7 - Open Podium
 *CHAR CHECK*
+
+> The open podium allows everyone can join and perform to be star!
 
 A contest to win the hearts of the people. Either against each other or alone.  
 Beat a 10 and keep the score going higher. The moment you fail the DC people boo you.  
@@ -621,18 +668,40 @@ Some bad jokes the other NPC can give
 - Why did the scarecrow win an award? Because he was outstanding in his field!
 - What do you call a fake noodle? An impasta!
 - Singing a silly song about a talking dog who loves to dance
-- "I met a man who told me he had a job pouring cream into tiny cups. I said, 'Is that all you do?' He said, 'No, but I'm a whisk taker.'"
-- "Why don't alchemists trust atoms? Because they make up everything!"
-- "Knock knock." "Who's there?" "Boo." "Boo who?" "Don't cry, it's just a joke!"
-- "I have a joke about construction, but I'm still working on that one."
-- "Why was the math book sad? Because it had too many problems."
+- I met a man who told me he had a job pouring cream into tiny cups. I said, 'Is that all you do?' He said, 'No, but I'm a whisk taker.'
+- Why don't alchemists trust atoms? Because they make up everything!
+- "Knock knock." "Who's there?" "Boo." "Boo who?" "Don't cry, it's just a joke!
+- I have a joke about construction, but I'm still working on that one.
+- Why was the math book sad? Because it had too many problems.
 - Singing a silly song about a farmer who grows giant vegetables, but can't seem to find a market for them.
-- "Why did the tomato turn red? Because it saw the salad dressing!"
-- "How do you recognize a homo owl? Yoohoo"
-- verschil sneeuwman en vrouw. sneeuwballen.
+- Why did the tomato turn red? Because it saw the salad dressing!
+- How do you recognize a homo owl? Yoohoo
+- What is the difference between a snow man and snow woman? Snowballs!
 
 === Area 8 - Animal Exhibit
 
+[cols="2a,4a",grid=rows,frame=none]
+|===
+| [big]#*Zephyrion Nightshade*#
+| [small]#Human, Lawful Neutral#
+
+| image::{homedir}/assets/tokens/zephyrion_nightshade.jpg[creature]
+
+|
+*Armor Class* 10 +
+*Hit Points* 4 (1d4) +
+*Speed* 30 ft. +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
+
+x
+
+2+|
+*Guess the number of goblins?* +
 > The cage full of young goblins is a smaller, more cramped enclosure. The goblins are squabbling and bickering amongst themselves, and occasionally snatching food from one another. Despite their small size and seemingly harmless demeanour, goblins are notoriously vicious and cunning creatures, and many have fallen victim to their ambushes and traps.
 >
 > The second cage in the tent of animals at the carnival contains a fierce and ferocious displacer beast, a powerful feline predator with six tentacle-like appendages that protrude from its shoulders.
@@ -644,8 +713,14 @@ He heard the guards talking to each other.
 
 If they come to close the animal will try to bite attack for 1 damage.
 
-*MAZE*
+*INT CHECK*
 
+Guess how many goblins are in the cage.  
+Throw higher then 18 you know the exact number. The highest number wins.  
+Winner gets 1 extra INT score point.
+
+2+|
+*Goblin Maze* +
 > Next to the animal exhibit is the entrance of the maze made of haystacks is marked by two tall, imposing columns, each topped with a fake stuffed horse head. The columns are connected by a wooden arch, with the words "Hunt a Goblin" painted in bold, bright letters. The archway is draped with a garland of brightly colored flowers and ribbons, creating a festive and inviting atmosphere.
 
 > Looking better as you step closer to the entrance, you notice that the hay bales making up the walls of the maze have been badly arranged and not as stable as it should be.
@@ -654,36 +729,55 @@ Te moment they enter the maze the goblins escape. Yes: it was Galid but he made 
 
 Goblins have 1 HP and deal 1 DMG when they attack.
 
-*INT CHECK*
+|===
 
-Guess how many goblins are in the cage.  
-Throw higher then 18 you know the exact number. The highest number wins.  
-Winner gets 1 extra INT score point.
-
-=== Area 9 - Guard Room [DC12]
+=== Area 9 - Guard Room
+*DC of 12*
 
 > The Tythingman's tent is a functional and utilitarian space, designed to provide a base of operations. It is made of durable canvas and supported by wooden poles. Inside the tent, there is a simple wooden table with a few chairs, where the Tythingman and his assistants can sit and keep an eye on the comings and goings of the carnival. There is also a small bedroll in one corner of the tent, where the Tythingman can rest during his long shifts. There seems to be a map on the table that looks like a treasure map.
 
-One of the Tythingman is sleeping on the bedrol. Fail a stealthcheck to awaken him. If other guards see you enter they will call out to leave the place alone. Inside there is a short sword, shield, dagger, and a spear. And a set of cloth armor.  
+Erevan, one of the Tythingman is sleeping on the bedrol. Fail a stealthcheck to awaken him. If other guards see you enter they will call out to leave the place alone. Inside there is a short sword, shield, dagger, and a spear. And a set of cloth armor.  
 The treasury map is on the table.
 
-=== Area 10 - Central Market square [DC10]
+[cols="2a,4a",grid=rows,frame=none]
+|===
+| [big]#*Erevan, a tythingman*#
+| [small]#Human, Lawful Neutral#
+
+| image::{homedir}/assets/tokens/city_guard.jpg[creature,150]
+
+|
+*Armor Class* 10 +
+*Hit Points* 4 (1d4) +
+*Speed* 30 ft. +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
+
+|===
+
+=== Area 10 - Central Market square
+*DC of 10*
 
 > The center of the carnival is a bustling marketplace where vendors have set up colourful stalls to sell their wares. The stalls are arranged in neat rows, each one adorned with bright banners and flags that flap in the breeze. The smell of cooking food wafts through the air, mingling with the sounds of laughter, music, and chatter. The vendors are a diverse group, selling everything from fresh produce to handmade crafts, clothing, and trinkets. Their wares are displayed in colourful arrays, catching the eye of passersby with their vibrant hues and intricate designs.
 
 Their are various vendors who work on the small market.
 
-    Herbalist - Willow Greenleaf --> Can be mentor for a druid
+* Herbalist - Willow Greenleaf -> Can be mentor for a druid
+* Baker - Roland Crust
+* Jeweler - Aria Gemstone
+* Blacksmith - Magnus Ironheart
+* Cloth Merchant - Felicity Silkweaver
+* Potion Maker - Ambrosia Nightshade
+* Leatherworker - Gideon Tannery
+* Book Seller - Edgar Tomekeeper
+* Toy Maker - Gwendolyn Playful
+* Wine Merchant - Luciano Vino
 
-    Baker - Roland Crust
-    Jeweler - Aria Gemstone
-    Blacksmith - Magnus Ironheart
-    Cloth Merchant - Felicity Silkweaver
-    Potion Maker - Ambrosia Nightshade
-    Leatherworker - Gideon Tannery
-    Book Seller - Edgar Tomekeeper
-    Toy Maker - Gwendolyn Playful
-    Wine Merchant - Luciano Vino
+include::{rootdir}/compendium/actors/willow_greenleaf.adoc[]
 
 == Token Tournament
 
@@ -714,7 +808,7 @@ The tournament runner is a lanky, unkempt man in his mid-twenties. His shaggy br
 
 === Supporting Actors
 
-List actors (new vs prev chapters)
+None.
 
 === Token Tournament Maps
 
