@@ -545,7 +545,7 @@ Once registered the party might choose to do other things at the carnival. Once 
 The tournament runner is a lanky, unkempt man in his mid-twenties. His shaggy brown hair falls haphazardly over his forehead, and he has a scruffy beard that looks like it hasn't been properly groomed in weeks. He wears a stained and tattered green tunic that hangs loosely on his thin frame, and his baggy trousers are held up by a frayed rope belt.
 |===
 
-=== AREA 4 - Magic Show
+=== Area 4 - Magic Show
 
 > As the players approach the tent, they see a sign that reads "The Amazing Magnifico - Master of Magic!" Inside the tent, they see a middle-aged man wearing a top hat and cape, performing various magic tricks using various implements. The tent is brightly colored, with colorful streamers and posters of his magic tricks lining the walls. The atmosphere is lively, with people laughing and applauding as they watch his performance.
 
@@ -820,7 +820,7 @@ image::{homedir}/assets/maps/carnival_tournament.png[align=center]
 > 
 > Gormack leads you through the first doors and through a stone pathway lit by torches on either side. He opens up a set of wooden double doors at the end and lets you in.
 > 
-> Inside you see a small square room with shelves lining the walls with various items. "You can pick one and only one item from the wall."
+> Inside you see a small square room with shelves lining the walls with various items. "You can pick one and only one item from the wall.". He is suddenly distracted by someone that is in the hallway and moves to the door.
 
 Gormack leads the party down the stairs to a room that is lined with shelves and items on the walls. There is a set of iron doors to the north. They will each get to choose one item from the list below. After they have each selected their final item, Gormack wishes them good luck and opens the iron doors to the north before closing them behind the party.
 
@@ -845,37 +845,12 @@ Gormack leads the party down the stairs to a room that is lined with shelves and
 > Standing at either side of a large bronze door in the far wall is a 6-foot-tall soldier made entirely out of metal and gears. You see steam poring out of their backs every few seconds through vents. They each hold a metal shield as well as a long-sword. They are currently stranding in a defensive positions, though not acknowledging you.
 
 This room has the potential to be the first combat encounter the party has. 
+
 * The clockwork soldiers will only attack if they are touched.
 * There is one Chip of Valour in the hanging chandelier 15 feet above the ground (perception check to discover it)
 * There is one chip in the chest of the clockwork soldier on the left (perception/investigation check to discover it and sleight of hand check to grab through the spinning gears without touching the soldier, waking it up)
 
-[cols="2a,4a",grid=rows]
-|===
-| [big]#*Clockwork Soldier*#
-| [small]#Construct, Unaligned#
-
-| image::{homedir}/assets/tokens/clockwork_soldier.png[]
-
-|
-*Armor Class* 10 +
-*Hit Points* 10 (3d8+3) +
-*Speed* 30 ft. +
-
-[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
-!===
-^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
-^! 16 (*+3*) ^! 14 (*+2*) ^! 16 (*+3*) ^!  4 (*-3*) ^!  4 (*-3*) ^!  4 (*-3*)
-!===
-
-| *Actions* | 
-*Longsword.* +
-Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1d4 slashing damage.
-
-|===
-
 === Area 3 - Dragon Forest [DC-11]
-
-![](./../assets/tokens/medusa_token.png)
 
 > As you swing the door open you see something that actually takes your brain a moment to comprehend. It looks as if you're in the middle of a forest. The "room" seems huge, there are a few trees scattered around and the're about 20 feet tall. And even as mall pond. Looking up you do not see a ceiling. But walls on the far end making up a 100 by 100 square room. Straight ahead from the door you see a 30 foot high stone wall that has been smoothed down with a ledge atop of it. You can't make out what's up there form this angle.
 
@@ -892,10 +867,19 @@ This room of the dungeon has been made to look like a small forest. The door is 
 
 The door is locked (DC lock-picking to open or using a key to open). The medusa has a necklace around her neck, but it is turned to stone and a part of the statue. Let your players get creative with how they get the key. Perhaps they show the medusa her own reflection in a mirror or the pond water below which you can choose to animate the full medusa, or just the key. Maybe they carefully chisel the necklace away from the statue and use the key while it’s stone. This is a chance for your players to get creative.
 
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Medusa*#
+| [small]#Statue, Unaligned#
+
+| image::{homedir}/assets/tokens/medusa.png[creature,200]
+
+|
+*Armor Class* 10 +
+*Hit Points* 10 +
+|===
+
 === Area 4 - Portcullis Puzzle [DC10]
-
-![](./../assets/tokens/clockwork_spider.png)
-
 > As you walk through the iron door, you see a rectangular room with wooden floors. The room is split in half by a portcullis directly in front of the door with narrow walls on either side. Through the bars you can make out a door on the far end and a few wooden boxes and barrels on the other side.
 
 This room is a mix of combat and puzzle. For your party to find a way to open the portcullis, they will first need to find two pressure plates on the floor (DC investigation or perception). Once they step on both of the pressure plates and hear the clicks (at least 30 pounds is needed to trigger), the portcullis raises up. 
@@ -906,6 +890,43 @@ This room is a mix of combat and puzzle. For your party to find a way to open th
 On the other side of the portcullis there are wooden barrels and crates in the far back corners of the room. Hiding behind the crates is a clockwork spider currently rolled into a metallic ball, on either side; for a total of two spiders. Once a player approaches within 5 feet of a box, they will unroll and begin to attack. During the combat, the party will most likely be split while two of the party are at the entrance holding open the portcullis.
 
 * There is one chip in the boxes. Players will need to search through or break the boxes. If they search through each box and barrel, it will take some time (roll a 1d20 to determine how many minutes, with the number rolled being the number of minutes). If they smash open the boxes, have them roll a perception or investigation check to search the debris for the chip.
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Clockwork Spider*#
+| [small]#Large construct, Unaligned#
+
+| image::{homedir}/assets/tokens/clockwork_spider.png[Creature]
+
+|
+*Armor Class* 16 +
+*Hit Points* 16 (3d8+3) +
+*Speed* 30 ft. +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 14 (*+2*) ^! 16 (*+3*) ^! 12 (*+1*) ^!  2 (*-4*) ^!  4 (*-3*) ^!  4 (*-3*)
+!===
+
+Skills: Stealth +5 +
+Damage Immunities:  Poision, Psychic +
+Condition Immunities: Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned +
+Senses Blindsight 60 ft., Darkvision 60 ft., Passive Perception 10 ft.
+
+| *Actions* | 
+*Bite.* +
+Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. +
+Hit: 7 (2d6) piercing damage. +
+*Bolt.* +
+Ranged Weapon Attack: +3 to hit, range 30/60 ft., one creature. +
+Hit: The target takes 1d8 lightning damage
+
+2+ |
+*Spider Climb* +
+The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability 
+check
+|===
 
 === Area 5 - Rest and Relaxation
 
@@ -923,7 +944,7 @@ Here the party has the choice to take a short rest (adding 30 minutes to their t
 
 The players are presented with a choice. Each player must choose one door and one door only. The options are Strength, Finesse, Intellect, Bravery, Character, Devotion. If there are more than 5 players, the extra players may choose to instead go through a side door along the wall that does not have a word above the door. It leads straight to area 7 and offers no chips. Above each door has a quote under the one-word description. These quotes are at the start of their read-aloud text boxes. There is a key near the exit to one of the rooms (you choose one that a character chooses to place it) that has the chip of valour symbol on it. Above the key reads “The key to your success.”. This key can be used in the final boss fight.
 
-*Area 6-1 Strength*
+==== Area 6-1 Strength
 
 > Above the door reads "Might can be measured in more ways then one." There doesn't appear to be anyway to open this door until you look down and see that there are fingerholds at the bottom as you need to be able to lift the door before even trying your trial.
 
@@ -931,7 +952,7 @@ Once a character opens up this door (Athletics check) they find themselves in an
 
 > In the center of this otherwise bare room is a strange contraption mounted on top of a box with a thick glass box. It looks like a clockwork arm stuck in an arm-wrestling position. Inside the reinforced glass box you see a single chip of valour. On the far end of the hall you see another door.
 
-*Area 6-2 Finesse*
+==== Area 6-2 Finesse
 
 > Above the door reads "Everything has a weight to it. Not until you learn to control your own will you be able to control others". Inside this room you see a series of stone platforms that are raised above the ground stretching the full length of this corridor. At the end you see a pedestal with what looks like a chip of valour placed atop it. The pedestal is on a platform that leads to a doorway.
 
@@ -943,7 +964,7 @@ There are several checks to be made in this room.
 
 * They will need to replace the chip with something of similar weight (5 pounds or less) or else arrows will shoot out from small holes in the wall, causing a dexterity saving throw with 1d6 piercing damage if they fail.
 
-*Area 6-3 Intellect*
+==== Area 6-3 Intellect
 
 >Above the door reads "To solve this room, you must be brighter than half of everyone.". Inside this room you see a table with a stack of 12 chips of valour on the table. Also, on the table is s scale with 2 arms and trays commonly used to balance food and money at a grocer. There are 3 vertical tally marks currently glowing blue in front of the scale.
 >
@@ -955,7 +976,7 @@ If they’re not able to solve the puzzle and just choose a chip at random, then
 
 One sample solution would be to split the chips into 3 stacks of 4. Place a stack of 4 on either side of the scale. If they balance out, then you know that the heavier chip is in the pile which is not weighed. You can then place 2 chips on both scales from the group that has yet to be weighed for your second use of the scale. Whichever side is heavier, take those two and weigh them against each other. The heavier chip is the true chip of valour. There is an exit door at the end of the corridor.
 
-*Area 6-4 Bravery*
+==== Area 6-4 Bravery
 
 > Above the door reads "Monsters, demons, dragons, and the undead. None of these hold a candle to what lies behind this door."
 
@@ -965,7 +986,7 @@ The torches then go out, leaving just the lit candle and making it too dark to s
 
 This spell hides the chip as long as there is any source of light in the room. Once the character reaches the end of the hallway, they will find a door leading to the exit.
 
-*Area 6-5 Character*
+==== Area 6-5 Character
 
 > Above the door reads "Charisma is such a versatile tool. Through fear or friendship, being charismatic can leave a lasting memory of a person." The inside of this corridor is remarkably bare. It is a straight passage to a door on the far end. Flanking the door on either side are clockwork soldiers.
 
@@ -977,7 +998,7 @@ Alternatives:
 * Use the classic one guard always lies and one always tells the truth. If they’re able to find out which statue is telling the truth, then they will give the character a chip.
 * The statues get awfully bored down here and love stories. If your character tells them an entertaining story (performance check) then they will gift the player a chip.
 
-*Area 6-6 Devotion*
+==== Area 6-6 Devotion
 
 > Above the door reads "How much would you give to prove your devotion? Would you give it all?"
 > The inside of this corridor is divided by walls of hot blue flames spaced evenly until the back wall. There does not appear to be a way around the flames.
@@ -1004,9 +1025,45 @@ After the characters have made their final choice and have finished with their d
 
 > Above the door exiting this room inscribed in blue arcane letters is the message "A good adventurer knows there is always more to lose."
 
-=== Area 8 - Clockwork Dragon [DC-12]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Mimic*#
+| [small]#Medium Monstrosity (shapechanger), neutral (CR 2 for 450 XP)#
 
-![](./../assets/tokens/clockwork_dragon.png)
+| image::{homedir}/assets/tokens/mimic.png[Creature]
+
+|
+*Armor Class* 12 +
+*Hit Points* 58 (9d8+18) +
+*Speed* 15 ft. +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 17 (*+3*) ^! 12 (*+1*) ^! 15 (*+2*) ^!  5 (*-3*) ^! 13 (*+1*) ^!  8 (*-1*)
+!===
+Skills: Stealth +5
+Damage Immunities: Acid 
+Condition Immunities: Prone 
+Senses Darkvision 60 ft., Passive Perception 11 
+
+| *Actions* | 
+*Pseudopod* +
+Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait. +
+*Bite.* + 
+Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
+
+2+|
+*Shapechanger.* + 
+The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. +
+*Adhesive (object form only).* +
+The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage. +
+*False Appearance (object form only)* +
+While the mimic remains motionless, it is indistinguishable from an ordinary object. The mimic has advantage on attack rolls against any creature grappled by it.
+|===
+
+=== Area 8 - Clockwork Dragon
+*DC of 12*
 
 > You enter into this next room that looks to be a massive cave. The ceiling has to over 100 feet high and from wall to wall is nearly as far. There are large stalagmites and stalactites all around the room, some growing to be over 15 feet tall. You see what looks like a crumpled pile of scrap metal in the center of the room, taking up a huge portion of the cave. Near the pile is a roaring bonfire reaching fifteen feet high. There is a door on the far wall with a lare orange letters that reads Exit.
 >  
@@ -1014,44 +1071,70 @@ After the characters have made their final choice and have finished with their d
 >  
 > At that moment you see steam start to pour out from the pile of scrap in the center of the room. As parts start to hiss and whir and clank together you see the form begin to take shape as aa massive clockwork dragon slowly begins to take to its feet, staring down at you. The whole room is lit by only the massive brazier behind the dragon.
 
-*NPC: Clockwork Dragon*
-Medium construct, neutral
-Armor Class 12
-Hit Points 24 (6d10 + 18)
-Speed 30 ft, fly 60 ft.
-Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15
-(2d10 +4) piercing damage.
-
-	STR     DEX     CON     INT     WIS     CHA
-	14 (+2) 10 (+0) 12 (+1) 10 (+0) 11 (+0) 10 (+0)
-
-* While the clockwork dragon remains motionless, it is indistinguishable from a pile of scrap metal.
-* Steam Breath (Recharge 5-6). The clockwork dragon exhales steam in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
-
-The clockwork dragon is meant to be a challenging fight that has the opportunity for the party to flee instead of finishing the fight (the door on the far end of the room has a large exit sign and is unlocked). If they are able to kill the dragon, they will be rewarded with quite a few chips.  
-
 * The chest of the dragon requires the key that one of the characters should have picked up from their trial room. The dragon’s stat block will explain how this can be used.There are a few chips in this area:
 * The dragon’s body has a total of 5 chips on its body. These chips have the same illusion that the bravery trial used, which means they will need the room to be darkened to find them or use a detect magic spell. Consider leaving out the illusion mechanic if no one used the bravery door as they would then have no way of knowing.
 * There are two chips at the bottom of the fire. It will most likely need to be extinguished for them to be visible or for them to be picked up
 
+The clockwork dragon is meant to be a challenging fight that has the opportunity for the party to flee instead of finishing the fight (the door on the far end of the room has a large exit sign and is unlocked). If they are able to kill the dragon, they will be rewarded with quite a few chips.
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Clockwork Dragon*#
+| [small]#Medium Construct, unalligned (CR 2 for 450 XP)#
+
+| image::{homedir}/assets/tokens/clockwork_dragon.png[Creature]
+
+|
+*Armor Class* 16 +
+*Hit Points* 51 (6d10+18) +
+*Speed* 30 ft., fly 60 ft. +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 14 (*+2*) ^! 10 (*+0*) ^! 12 (*+1*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
+
+Skills: Acrobatics +2, Perception +4 
+Damage Immunities: Poison, Psychic 
+Condition Immunities: Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned 
+Senses: Blindsight 60 ft., Darkvision 60 ft., Passive Perception 14 
+Languages: Common, Draconic
+
+| *Actions* | 
+*Bite* +
+Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (2d10 +4) piercing damage. +
+*Steam Breath (Recharge 5-6).* +
+The clockwork dragon exhales steam in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
+
+2+|
+*False Appearance* +
+While the clockwork dragon remains motionless, it is indistinguishable from a pile of scrap metal.
+
+|===
+
 === Area 9 - Waiting room
+
 The below read-aloud text is structured as if the characters are the first team to enter the dungeon. It will need some adjustments if there have been other teams that have completed. There will be other adventurers lounging on the couches and the score board in the center will be updated accordingly.
 
 > You are greeted by a large circular room that has couches lining the walls. In the center of the room is a Scoreboard with 10 slots in it. Gormack is the only on in the room lounging on the couches when you all enter. He says. Congratulations on completing the dungeon! Looks you all all even survived and in one piece! How many chips did you all manage to gather?
 
 *THE REFUNDABLES (RIGHT)*
+
 * MERLIN A human male warlock. Merlin is a barber by trade and always has time to give a quick haircut (for a price).
 * ULTREX Ultex is a warforged paladin that was created to defend Faerun from Illithid invaders. He is also deathly afraid of spiders. 
 * CLYDE REEMERSTAT Clyde the goliath barbarian spent most of his life on a small farm dreaming of becoming a blacksmith. With the winnings from the competition he will be able to afford an apprenticeship. 
 * UBO Ubo is a tortle artificer that loves all things technological. He can make almost anything, and some of his inventions actually work.
 
 *THE FUNKY FOUR*
+
 * MINLEY Minley is a 70-year-old high elf warlock. She dresses in pale white robes and has bright white hair. She has worked hard to gain the attention of her patron and to gain control of her powers.
 * CLAIRE RUNEFORGE Claire is a young dwarven barbarian. She has red curly loose hair and thick muscled arms. She is does not speak often and instead opts to let her strength and axe do the talking.
 * QUICKNESS OF TURTLE Quickness of Turtle is a tabaxi artificer that resembles a calico cat. They are obsessed with technology and anything shiny.
 * UTHUR Uthor is a silver dragonborn paladin. He takes his oaths seriously. His role in the group is to mostly stop them from having too much fun.
 
 === Conclusion
+
 Gormack will collect all of the chips and take note on their clipboard. They’ll then grab a plank that has the party’s team name on it and slot it into the corresponding slot (first place if they’re the first team back). To determine the results of the competition, consult the table below. Feel free to fudge things in favor of the party if you think everyone would have a better time if they had won! That’s what this is all about isn’t it? Having fun!
 
 [%header]
