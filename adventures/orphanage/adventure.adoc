@@ -27,6 +27,10 @@ Each year during the spring carnival the town of Kainga has held an annual tourn
 
 During the Dark Ages of Europe, which lasted from the 5th to the 10th century, the seasonal transition from winter to spring was often referred to as "Candlemas" or "Imbolc". Candlemas was celebrated on February 2nd and marked the halfway point between the winter solstice and the spring equinox. Imbolc was a Gaelic festival celebrated on the first day of February and marked the beginning of spring in Ireland and Scotland. Both of these festivals celebrated the end of winter and the beginning of the agricultural season.
 
+*Resources*
+
+* Token tournament by Adam DeWees link:{rootdir}/assets/resources/tournament_of_tokens.pdf[PDF]
+
 == To Do List
 
 * Make the hardcore rules more clear to start with.
