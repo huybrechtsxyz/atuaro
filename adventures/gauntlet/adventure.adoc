@@ -1,0 +1,19 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= Picking up the Guantlet
+:toc:
+
+*Tags:* #gauntlet
+
+image::{homedir}/assets/images/cover.png[]
+
+== Summary
+
+
+== To Do List
+

@@ -6,7 +6,7 @@ endif::[]
 | [big]#*Rat*#
 | [small]#Tiny Beast, Unaligned (CR 0 for 10 XP)#
 
-| image::{rootdir}/assets/ddb-images/npc-token-Rat.jpeg[]
+| image::{rootdir}/assets/tokens/npc-token-rat.jpeg[]
 
 |
 *Armor Class* 10 +

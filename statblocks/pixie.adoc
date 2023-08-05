@@ -6,7 +6,7 @@ endif::[]
 | [big]#*link:{rootdir}/compendium/beastiary/fey/pixie.adoc[Pixie]*#
 | [small]#Tiny fey, neutral good (CR 1/4 for 50 XP)#
 
-| image::{rootdir}/assets/ddb-images/npc-token-Pixie.jpeg[]
+| image::{rootdir}/assets/tokens/npc-token-pixie.jpeg[]
 
 |
 *Armor Class* 15 +

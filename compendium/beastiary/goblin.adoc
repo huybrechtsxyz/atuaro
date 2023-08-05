@@ -4,7 +4,7 @@ endif::[]
 
 # Goblin
 
-image::{rootdir}/assets/ddb-images/npc-Goblin.png[]
+image::{rootdir}/assets/images/npc_goblin.png[]
 
 include::{rootdir}/statblocks/goblin.adoc[]
 
