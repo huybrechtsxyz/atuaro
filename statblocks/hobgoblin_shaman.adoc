@@ -1,0 +1,60 @@
+ifndef::rootdir[]
+:rootdir: ..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+ifdef::ParameterName[]
+| [big]#*{ParameterName} The Hobgoblin Shaman*#
+endif::[]
+ifndef::ParameterName[]
+| [big]#*Hobgoblin Shaman*#
+endif::[]
+
+| [small]#Medium humanoid (hobgoblin), lawful evil (CR 3 for 700 XP)#
+
+| image::{rootdir}/assets/tokens/npc_hobgoblin_shaman.jpg[]
+
+|
+*Armor Class* 16 (breastplate) +
+*Hit Points* 32 (5d8 + 10) +
+*Speed* 30 ft. +
+*Proficiency* +2 +
+*Initiative* +1 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 15 (*+2*) ^! 14 (*+2*) ^! 15 (*+2*) ^!  8 (*-1*) ^! 15 (*+2*) ^! 10 (*+0*)
+!===
+
+| *Actions* | 
+*Longsword.* +
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
+
+*Light Crossbow.* +
+Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+
+| *Spells* | 
+The hobgoblin has the following cleric spells prepared:
+ 
+* Cantrips (at will): mending, resistance, sacred flame
+* 1st level (4 slots): bless, detect magic, divine favor, shield of faith
+* 2nd level (3 slots): aid, hold person, spiritual weapon
+
+| *Abilities* | 
+Skills Deception +4, Persuasion +4, Religion +1 +
+Senses darkvision 60 ft., passive Perception 12 +
+Languages Common, Goblin
+
+| *Traits* |
+*Martial Advantage.* +
+Once per turn, the hobgoblin shaman can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn’t incapacitated.
+
+*Spellcasting.* +
+The hobgoblin shaman is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks).
+
+2+|
+
+*Environment* +
+*Tags* Misc Creature
+|===

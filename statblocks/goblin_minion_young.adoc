@@ -7,7 +7,7 @@ endif::[]
 | [big]#*Young Goblin Minion*#
 | [small]#humanoid (goblinoid) minion, neutral evil#
 
-| 
+| image::{rootdir}/assets/tokens/npc_goblin.jpeg[]
 
 |
 *Armor Class* 9 +

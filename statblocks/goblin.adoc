@@ -4,10 +4,16 @@ endif::[]
 
 [cols="2a,4a",grid=rows]
 |===
+ifdef::ParameterName[]
+| [big]#*{ParameterName} The Goblin*#
+endif::[]
+ifndef::ParameterName[]
 | [big]#*Goblin*#
+endif::[]
+
 | [small]#humanoid (goblinoid), neutral evil#
 
-| image::{rootdir}/assets/images/npc_goblin.png[]
+| image::{rootdir}/assets/tokens/npc_goblin.jpeg[]
 
 |
 *Armor Class* 15 (leather armor, shield) +
