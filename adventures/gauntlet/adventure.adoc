@@ -21,10 +21,12 @@ Our heroes return after 10 years to Kainga and notice that things are changed. T
 . Create a treasury map puzzle
 . What if they skip the patrol? Does it trigger an attack if the team rests in the tomb?
 
-== The Delian Tomb
+== Welcome Back
+
 Welcome back to Kainga, now save the blacksmith's daughter or figure out the treasury map.
 
 === On the road
+
 > As you make your way through the winding path that leads to the village, you find yourself surrounded by tall trees on either side. The dense branches overhead form a canopy that blocks out much of the sunlight, casting shadows across the forest floor. The ground beneath your feet is soft and silent, covered in a layer of leaves and moss. As you move deeper through the woods, the air grows cooler, and the sounds of the outside world fade away. The only sounds you can hear are the rustling of leaves and the occasional chirping of birds. The path itself is wide enough to support wagons and horses, but it's twisting and winding, and it's easy to get lost if you stray too far from it. 
 
 Each player (or group of players) walk through the forest and have an event. Roll 2d6.
@@ -422,7 +424,7 @@ Assemblages of bones animated by dark magic, skeletons heed the summons of those
 
 |===
 
-[cols="2a,4a",grid=rows,frame=none]
+[cols="2a,4a",grid=none,frame=none]
 |===
 | [big]#*Magic Items and Treasure*#
 | [small]#The items appearing in the adventure are listed here.#
@@ -460,3 +462,56 @@ Properties: Versatile (1d10) + 1d6 to Goblinoids +
 Weight: 3 lb#
 
 |===
+
+== The Silverspine Watch
+
+=== Introduction
+
+After returning the girl Bess to her village our rat catchers are hailed as heroes. The merchant they saved proposes they protect the cargo to Loukotokia and to the Gudruns estate there. They will pass the Silverpine Watch gate where everthing is not as it should. If they solve the problems of the watch, they will arrive at the Gudruns estate. From which you can continue to the next adventure.
+
+=== Back in Kainga
+
+The adventurers come back into town after their ordeal with the delian tomb and the deathpit.
+
+* Give the players time to act on their new knowledge.
+* Previous misdemeanors are forgiven if they save Bess Lebedev.
+
+Afterwards they meet with Gudrun in the Stonehill Inn who offers them a job guarding Gudrun back to town. If the players ask about what sort of dangers they might face or if there is anything specific the merchant is worried about
+
+> Traveling is becoming more dangerous by the day. Even on the kings roads. No one travels without a weapon and no one travels alone if they can afford not to. Some lords try to keep the roads clear. There are watchtowers and fortresses protecting important routes. But bandits and robbers are a constant threat. There is an influx in dangerous monsters attacking travelers as well.
+
+*About the money.* +
+Gudrun is offering each hero 5 gold pieces for seeing them safely to the city of Loukotokia. 
+
+* This is good pay for a group of inexperienced adventurers staying fairly close to civilized lands. Most commoners earn about a silver piece a day and, given the length of the trip, Gudrun is paying the heroes about five times that.
+* If the players decide that is not enough and want to try for a better deal, which players will sometimes do on principle, he will increase the pay to 6 gold pieces “and not a copper more.” The negotiation will diminish Gudrun's disposition toward the party.
+
+*Making Travel Preparations.* +
+Point out that each hero has a ten-day supply of trail rations and a waterskin they can refill from the many springs, creeks, and ponds they will pass.
+
+*About the Goods.* +
+Gudrun has a haphazard mix of goods in his cart. He has some bolts of wool and canvas, a few pots and pans, some casks of mead and wine, cut wooden staves, a few iron ingots, a few inexpensive trinkets, and mining equipment. As it is early spring, there is no fruit or vegetables, but there are a few sacks of rye, some pickled fish in a barrel, and some salted pork. It is exactly the sort of stuff a peddler like her would have in his cart. This was bought in the towns general store.
+
+> You are gathered on the townsquare. It is just after dawn; the weather is gloomy. The merchant is getting his cart ready. The dwarf’s cart is half-full of bundles, barrels, crates, and sacks. Two shaggy, miniature horses are harnessed to the cart already. One is solid gray while the other has dark spots over a light coat: Dapple and Mist. He hops up onto the bench at the front of the cart and snaps the reigns and spurs Dapple and Mist, her horses, to a walk. The cart trundles through the gate.
+
+=== The Forest Road
+
+image::{homedir}/assets/maps/silverpine_2_road_combat.png[align=center]
+
+*Travel Order.*
+
+> It has been five days since you left Kainga. It is a mid-spring morning and the sky is gray. The weather is breezy and chilly as it is early spring. The narrow dirt road winds back and forth between roll-ing, forested hills. Gundren is driving Mist and Dapple at a comfortable pace.
+
+> GM: Where are the characters in relation to the cart and the party during travel? There is room in the back of the cart for one person to ride and that would be a good place for the bard or wizard or even the rogue as it gives them a high, but protected, vantage point. Everyone else will have to walk along with the cart.
+
+> GM: How are you traveling? What is the mood? What are you doing?
+
+> GM: Prepare me an appropriate active (or passive) perception check.
+
+*About Silverpine Forest* +
+Silverpine Forest is a heavy, mixed-growth forest covering the Aster river valley and the foothills of upper Asternia north-west of Loukotokia. In the lowlands, the forest is thick with broadleaf trees like willows, alders, poplars, and oaks interspersed with evergreen spruces and the whitebark pines from which the forest gets its name. In the uplands, where most of this part of the adventure takes place, the terrain consists of rough, forested hills. There are fewer shrubs and ground cover here, fewer broadleaf trees, and more evergreens.
+
+The Silverpine Road is a narrow, dirt track. In a few places, there are just a pair of furrows left by the passage of countless carts in the weeds. The road winds back and forth, following the contours of the land. In the uplands, it climbs gradually upward, winding between steep hills, sometimes following steep bluffs or sheer, bare rock faces.
+
+It is springtime. The broadleaf trees are bare or budding. The road is muddy from rain and snow melt. The party pass-es streams and rivulets frequently. The forest’s natural fauna is active, but skittish and Gundren's cart is noisy. The party might see robins, sparrows, or finch-es in the trees or hear a woodpecker tapping away. They might startle a rabbit or pheasant or catch sight of a red deer darting away between the trees. At night, they might hear the cries of owls or night thrushes or the distant howls of wolves.
+
