@@ -257,7 +257,7 @@ include::{rootdir}/statblocks/zombie.adoc[]
 
 == The Delian Tomb
 
-image::{homedir}/assets/maps/gauntlet_tomb.png[]
+image::{homedir}/assets/maps/gauntlet_tomb.png[align=center]
 
 === Area 1 - Goblin Patrol
 
@@ -313,3 +313,150 @@ As the Player Characters approach the guards, it would be a good idea to ask the
 > As you approach the entrance of the Delian Tomb, you can see the weathered stone archway standing before you, its surface covered in patches of moss and tangled vines. The touch of time has left cracks and worn edges on the stone, giving it a rough texture under your fingertips.
 
 include::{rootdir}/statblocks/goblin.adoc[]
+
+=== Area 4 - Offering Room
+*DC of 13*
+
+*Show the map once they get to the entrance.*
+> It's very dark as you move down the steps and into the tomb, the musty air cools by the step. You can hear faint, rhythmic chatter echoing up from the heart of the structure. Suddenly a high pitch scream.
+
+Once the goblins are dealt with, take a moment to describe the room.
+
+> The brazier at the center of this room gently illuminates the walls. On one side, a detailed carving depicts a company of knights fighting back a torrent of goblins! On the other wall, there is an inscription, it reads: "I swear to fight chaos in all of its forms, to uphold order, by honor of my word"
+
+*In the room:*
+
+* The number of goblins in this room should be equal to 1+ the number of Player Characters.
+* Sneak past the patrol? Add 2 extra goblins after round 1.
+
+The goblins have begun their ritual, the distant chatter is the chanting of a goblin shaman. At the bottom of the stairs, a dim light illuminates a large room littered with moldy bedrolls and goblins! Additionally, if the players managed to sneak past the goblin patrol without ever alerting them, they too will join the fight after the first round of combat. If the players have managed to deal with both the patrol and the guards, without allowing them to retreat into the tomb to warn the others — the players have the opportunity to catch these goblins by surprise. If, on the other hand, both sides are aware of the other, be prepared for the players to try some out of the box thinking. They may not want to venture into a den of goblins, they may instead try to flush them out. Be prepared for anything. Let the players experiment. In fact, encourage it!
+
+=== Area 5 - Pressure Plate Trap
+*DC of 12*
+
+The next room lies beyond a twisting corridor that fades into darkness beyond the light of of brazier. Halfway down the corridor, just before the turn, there lies a pressure plate trap.
+
+A character who succeeds on a DC 12 Wisdom (Perception) check will notice the trap, the faint light of the brazier just barely catching the raised bit of floor. If a character then succeeds on a DC 10 Dexterity check using thieves' tools, they can disable the trap without triggering it. This can also be attempted with any bladed weapon, but the check is made at disadvantage.
+
+Additionally, if there are any Small sized Player Characters (Halfings, Gnomes) they won't trigger the trap. Any other creature who steps on the pressure plate will trigger the trap, causing a scythe to sweep down from the ceiling. The character who triggered the trap must succeed a on a DC 15 Dexterity saving throw or suffer 1d8 slashing damage. Once the trap has either been disabled, or triggered it is exhausted and will not be triggered again.
+
+=== Area 6 - Hall of the Oathkeeper
+
+> Dominated by a giant stone statue of a knight, raised up on a dais, standing tall with their sword point down between their feet. A thick haze billows up from a makeshift altar in the center of the room where a goblin adorned with jewelery and warpaint chants rhythmically while they rock back and forth. Behind the goblin, a young girl quietly whimpers, head in her hands, from a small cage near the foot of the statue.
+
+After the fight, when investigating the statue:
+> If you are to keep this, you must first give it to me.
+
+*In the room*
+* The makeshift altar is covered with bits of charcoal, cork, sulfur, and other spellcasting materials. Amidst these accoutrements there are two potions of healing.
+* Near the cage where Bess was being held a few dozen gold pieces and gemstones worth 2d20 + 10 gp.
+
+*Information* +
+What was once the sacred chamber consecrated by the Delian Order on behalf of Lord Delius has been desecrated by the goblins. Along with the goblin shaman the leader of this band of miscreants resides here, a bugbear. This is the first time the players have encountered a clever enemy, the bugbear is not driven by fear like his goblin toadies. It will fight tactically, it might even have a potion of healing!
+
+Once the monsters have been slain, and Bess has been helped out from the cage, the players will likely wish to search the room. The makeshift altar is covered with bits of charcoal, cork, sulfur, and other spellcasting materials. Amidst these accoutrements there are two potions of healing. Near the cage where Bess was being held, there is a large nest of blankets where the bugbear slept. The nest is littered with a few dozen gold pieces and gemstones worth 2d20 + 10 gp.
+
+The statue of Delius has an inscription at the base, it reads: If you are to keep this, you must first give it to me. If any character speaks, "I give my word" — or anything in the spirit of that — the secret door leading to the tomb will open!
+
+[cols="2a,4a",grid=rows,frame=none]
+|===
+| [big]#*Bess Lebedev*#
+| [small]#A human child, daughter of the blacksmith#
+
+| image::{homedir}/assets/images/actor_bess_lebedev.png[creature]
+
+|
+*Armor Class* 8 +
+*Hit Points* 2 (1d4) +
+*Speed* 20 ft. +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
+
+|===
+
+=== Area 7 - Tomb of the Delian Order
+
+The true resting place of the Delian Order, hidden away behind the Hall of the Oathkeeper. Inside, there are six sarcophagi bearing the resemblances of their knights they hold. As well as a much larger, more elaborately carved sarcophagus at the center, bearing the form of Lord Delius. Each of the sarcophagi have the names of their occupants etched at their feet. There is a journal, mostly rotted away, laying atop Delius' sarcophagus. It is written in Common, and what can be read explains the origin of the Delian Order and their purpose. There are also a number of potions of healing scattered about the tomb, left as offerings to the Order long ago.
+
+If any character attempts to open a sarcophagi, they will disturb the spirits of the Delian Order. Righteous skeletons will emerge from the sarcophagi, eager to expel the desecrators from their tomb. One exception being, in the event that the character who attempts to open a sarcophagi is a Paladin who has sworn the Delian Oath, for they are a member of the Delian Order. The treasures are theirs by holy right! Each sarcophagi holds chainmail, as well as a longsword, and a shield bearing the Coat of Arms of the Delian Order. Delius' sarcophagus hold chainmail, and a shield bearing the Delian crest, as well as the Golbin Slayer Longsword.
+
+
+[cols="2a,4a",grid=rows,frame=none]
+|===
+| [big]#*Skeleton*#
+| [small]#Medium undead, lawful evil (CR 1/4 for 50 XP)#
+
+| image::{homedir}/assets/tokens/npc_skeleton.jpeg[creature]
+
+|
+*Armor Class* 13 (armor scraps) +
+*Hit Points* 13 +
+*Speed* 30 ft. +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 14 (*+2*) ^! 15 (*+2*) ^!  6 (*-2*) ^!  8 (*-1*) ^!  5 (*-3*)
+!===
+
+Damage Vulnerabilities bludgeoning
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 60 ft.
+Languages understands languages it knew in life but cannot speak
+
+| *Actions*
+|
+*Shortsword.* +
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 piercing damage.
+
+*Shortbow.* + 
+Ranged Weapon Attack: +4 to hit, range 80ft./320 ft., one target. Hit: 5 piercing damage
+
+2+|*About* +
+Assemblages of bones animated by dark magic, skeletons heed the summons of those who create them or rise of their own accord in places saturated with deathly magic.
+
+|===
+
+[cols="2a,4a",grid=rows,frame=none]
+|===
+| [big]#*Magic Items and Treasure*#
+| [small]#The items appearing in the adventure are listed here.#
+
+| *Weapons*
+| 
+*Longsword* (Weapon, Uncommon) + 
+The preferred weapon of a martial swordsman. The longsword offers versatility in combat, benefiting from either two-handed fighting or the use of a shield. +
+[small]#Damage: 1d8 Slashing +
+Properties: Versatile (1d10) +
+Weight: 3 lb.#
+
+| *Armor*
+| 
+*Chain Mail* (Armor, uncommon) +
+Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
+[small]#Armor Class: 16 +
+Stealth: Disadvantage +
+Weight: 55 lb.#
+
+*Shield* (Armor, uncommon) +
+A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
+[small]#Armor Class: +2 +
+Weight: 6 lb.#
+
+| *Magic items*
+|
+*Potion of Healing* (Potion, common) +
+When you drink this potion, you regain 2d4 + 2 hit points.
+
+*Goblin Slayer Longsword* (Magic weapon, rare) +
+This is the weapon of Lord Delius, founder of the Delian Order. His weapon is blessed with a righteous fire that burns the flesh of Maglubiyet's children. Goblinoids are goblins, hobgoblins, and bugbears!
+[small]#Damage: 1d8 Slashing + 1d6 to Goblinoids +
+Properties: Versatile (1d10) + 1d6 to Goblinoids +
+Weight: 3 lb#
+
+|===
