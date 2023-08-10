@@ -496,11 +496,69 @@ Gudrun has a haphazard mix of goods in his cart. He has some bolts of wool and c
 
 === The Forest Road
 
+> Silverpine Forest is a heavy, mixed-growth forest covering the Aster river valley and the foothills of upper Asternia north-west of Loukotokia. In the lowlands, the forest is thick with broadleaf trees like willows, alders, poplars, and oaks interspersed with evergreen spruces and the whitebark pines from which the forest gets its name. In the uplands, where most of this part of the adventure takes place, the terrain consists of rough, forested hills. There are fewer shrubs and ground cover here, fewer broadleaf trees, and more evergreens.
+
+> It is springtime. The broadleaf trees are bare or budding. The road is muddy from rain and snow melt. The party passes streams and rivulets frequently. The forest’s natural fauna is active, but skittish and Gundren's cart is noisy. The party might see robins, sparrows, or finch-es in the trees or hear a woodpecker tapping away. They might startle a rabbit or pheasant or catch sight of a red deer darting away between the trees. At night, they might hear the cries of owls or night thrushes or the distant howls of wolves.
+
+> The Silverpine Road is a narrow, dirt track. In a few places, there are just a pair of furrows left by the passage of countless carts in the weeds. The road winds back and forth, following the contours of the land. In the uplands, it climbs gradually upward, winding between steep hills, sometimes following steep bluffs or sheer, bare rock faces.
+
+> It has been two days since you left Kainga. It is a mid-spring morning and the sky is gray. The weather is breezy and chilly as it is early spring. The narrow dirt road winds back and forth between roll-ing, forested hills. Gundren is driving Mist and Dapple at a comfortable pace. Gundren is sociable, easy to laugh, and good at small-talk. He talks about finding the fabled Echo caves. In fact it is really only what he talks about. He knows all the stories.
+
+*About the Echo Caves*
+
+More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. The mine had great deposits of mineral wealth. Times were good, and the nearby human town of Phandalin (pronounced fan-duh-lin) prospered as well. But then disaster struck when orcs swept through the
+North and laid waste to all in their path and the location of Wave Echo Cave was lost. For centuries, rumors of buried riches have attracted treasure seekers and opportunists to the area around Phandalin, but no one has ever succeeded in locating the lost mine.
+
+=== The Roadblock
+
+> As Gundren is talking about the cave, you round a bend in the road and find your way blocked by a fallen tree. The dense forest and rough terrain make it impossible to drive the cart around the roadblock. Gundren asks one of you to move the dead tree. He has an axe if needed.
+
+*Clearing the dead fall DC15*
+Strength Check (with advantage: if multiple adventurers work together) to drag the dead fall off the road. +
+Success: 
+Failure: The dead fall is too heavy for that hero to move on their own.
+
+include::{rootdir}/compendium/weapons/handaxe.adoc[]
+
+
+
+
+
+
+
+
+
+
+
+>If they cannot, they will have to find other ways to remove the dead fall. If they cannot think of anything, Oona will give them an axe and ask them to 
+break up the dead fall. Once the roadblock is cleared, the heroes get back into position before the party moves on.In this encounter, you will explain how the game uses ability scores and ability checks to resolve the heroes’ actions. You might also have to explain how to roll with advantage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 image::{homedir}/assets/maps/silverpine_2_road_combat.png[align=center]
 
 *Travel Order.*
 
-> It has been five days since you left Kainga. It is a mid-spring morning and the sky is gray. The weather is breezy and chilly as it is early spring. The narrow dirt road winds back and forth between roll-ing, forested hills. Gundren is driving Mist and Dapple at a comfortable pace.
+
 
 > GM: Where are the characters in relation to the cart and the party during travel? There is room in the back of the cart for one person to ride and that would be a good place for the bard or wizard or even the rogue as it gives them a high, but protected, vantage point. Everyone else will have to walk along with the cart.
 
@@ -508,10 +566,74 @@ image::{homedir}/assets/maps/silverpine_2_road_combat.png[align=center]
 
 > GM: Prepare me an appropriate active (or passive) perception check.
 
-*About Silverpine Forest* +
-Silverpine Forest is a heavy, mixed-growth forest covering the Aster river valley and the foothills of upper Asternia north-west of Loukotokia. In the lowlands, the forest is thick with broadleaf trees like willows, alders, poplars, and oaks interspersed with evergreen spruces and the whitebark pines from which the forest gets its name. In the uplands, where most of this part of the adventure takes place, the terrain consists of rough, forested hills. There are fewer shrubs and ground cover here, fewer broadleaf trees, and more evergreens.
 
-The Silverpine Road is a narrow, dirt track. In a few places, there are just a pair of furrows left by the passage of countless carts in the weeds. The road winds back and forth, following the contours of the land. In the uplands, it climbs gradually upward, winding between steep hills, sometimes following steep bluffs or sheer, bare rock faces.
 
-It is springtime. The broadleaf trees are bare or budding. The road is muddy from rain and snow melt. The party pass-es streams and rivulets frequently. The forest’s natural fauna is active, but skittish and Gundren's cart is noisy. The party might see robins, sparrows, or finch-es in the trees or hear a woodpecker tapping away. They might startle a rabbit or pheasant or catch sight of a red deer darting away between the trees. At night, they might hear the cries of owls or night thrushes or the distant howls of wolves.
+=== On the way
+
+> It has been two days since you left Kainga. Gundrun Oona addresses each of the players in turn, asking questions to strike up a conversation. Once you have interacted with several of the heroes or if the players seem bored by the interaction, the 
+encounter is over.
+=== The Roadblock
+[DC of 15]
+
+> As Gundren gently manages the cart, you round a bend in the road and find your way blocked by a fallen tree. The dense forest and rough terrain make  it  impossible  to  drive  the  cart  around  the  roadblock.  
+
+The  heroes  must  move  the  dead  fall.  If  they  cannot,  they  
+will have to find other ways to remove the dead fall. If they cannot think of anything, Oona will give them an axe and ask them to 
+break up the dead fall. Once the roadblock is cleared, the heroes get back into position before the party moves on.In this encounter, you will explain how the game uses ability scores and ability checks to resolve the heroes’ actions. You might also have to explain how to roll with advantage
+
+
+
+
+
+
+
+
+
+
+
+
+There is a roadblock. When they try to remove the roadblock they will be attacked by a snake. (or the horse which would be worse).
+
+
+A common adder was basking in the road. The heroes overlooked it due to its camouflage and the horses nearly stepped on it. The snake is still there, staying quite still, waiting for the threat to pass. The snake is afraid of the party, so it will not attack unless a hero gets too close and startles it.The snake is two feet long, two inches thick. It’s pebbly skin is mottled gray and brown.
+
+
+
+include::{rootdir}/statblocks/snake_poisonous.adoc[]
+
+
+
+include::{rootdir}/statblocks/wolf.adoc[]
+
+
+
+
+
+
+
+
+
+
+
+* *Wisdom (Perception)* «Passive» DC 18 The hero spots the motionless,  gray-and-brown  snake  in  the  road.
+* *Intelligence  (Nature)*  «No  Action»  DC  12  The  snake  is  a  common  adder.  It  was  probably  just  trying  to  warm  itself  when  the  horses  nearly  stepped  on.
+
+The snake is easily driven off, but if a hero gets too close it, the snake will strike before slithering away. If the heroes fail to spot the snake, the next hero who moves in the road — to tend the horses or see to Oona for example — gets caught by surprise and bitten by the snake.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
