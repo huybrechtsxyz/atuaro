@@ -5,7 +5,7 @@ ifndef::homedir[]
 :homedir: .
 endif::[]
 
-= Picking up the Guantlet
+= Picking up the Gauntlet
 :toc:
 
 *Tags:* #gauntlet
@@ -52,9 +52,9 @@ include::{rootdir}/statblocks/rat.adoc[]
 === Stonehill Inn
 > As you approach the village, the trees start to thin out, and you can see patches of farmland and grazing animals in the distance. The path becomes wider and more defined. You emerge from the woods and see the village in front of you, nestled in a valley with the surrounding countryside in the background. You make your way to the village and the Inn.
 > 
-> 10 years have passed when you return to Kainga. In the center of the town stands a large roadhouse of field stone and rough-hew timbers. Dusk falls and several people come to the Stonehill Inn for food, warmth, and a place to rest. The common room is filled with locals nursing their mugs of ale, wine, or cider. All of them eyeing you with curiosity. One day is much the same as another in this outcrop of civilisation. But, looking at you, something tells these people something will be different today. You seat yourself at one of the tables.
+> 10 years have passed when you return to Kainga. In the center of the town stands a large roadhouse of field stone and rough-hew timbers. Dusk falls and several people come to the Stonehill Inn for food, warmth, and a place to rest. The common room is filled with locals nursing their mugs of ale, wine, or cider. All of them eyeing you with curiosity. One day is much the same as another in this outcrop of civilization. But, looking at you, something tells these people something will be different today. You seat yourself at one of the tables.
 
-The proprietor is a short, friendly young human male named *Toblen Stonehill*. Toblen is a native of the town to the east. He came to Kainga to chop wood, but soon realised that he knew a lot more about running an inn than he did about wood. He has  his wife and children.
+The proprietor is a short, friendly young human male named *Toblen Stonehill*. Toblen is a native of the town to the east. He came to Kainga to chop wood, but soon realized that he knew a lot more about running an inn than he did about wood. He has  his wife and children.
 
 The characters' other alternative for lodging is to camp outside the town, or to persuade a farmer such as Daran Edermath or Qelline Alderleaf to let them sleep in a hayloft.
 
@@ -102,7 +102,7 @@ Goblins have kidnapped the Blacksmith's daughter!
 
 The characters know about Pasha Lebedev but lost contact with him during their years out of town. He is now the towns blacksmith. The villagers all know Pasha, he's well-loved hard working man, but none of them are equipped to face the challenge of hunting down goblins.
 
-Pasha will recognise the band of rat catchers as quickly as anyone, and he won't hesitate to approach his earlier friends to ask for their help. If your players aren't motivated, simply by their sense of justice and duty, you can have Lars point out that their is a standing bounty for goblin ears by order of the mayor. Pasha married Rufina and have a daughter named Bess.
+Pasha will recognize the band of rat catchers as quickly as anyone, and he won't hesitate to approach his earlier friends to ask for their help. If your players aren't motivated, simply by their sense of justice and duty, you can have Lars point out that their is a standing bounty for goblin ears by order of the mayor. Pasha married Rufina and have a daughter named Bess.
 
 _Pasha_  
 > I do not know where they took her. As he walks the towns dirt road back to his smithy he pleads for your help.  
@@ -115,7 +115,7 @@ Pasha doesn't know where the goblins took his daughter, but he's confident that 
 You can even have Pasha nudge them and ask, "do you see any tracks?". Here is your first opportunity to ask the player searching for tracks to make a Ability Check.
 
 * The tracks are plentiful, and easy to spot.
-* DC 10 Wisdom (Survival) check recognises that at least two goblins dragged something north, into the forest. It was resisting.
+* DC 10 Wisdom (Survival) check recognizes that at least two goblins dragged something north, into the forest. It was resisting.
 
 === The Woods
 
@@ -159,7 +159,7 @@ image::{homedir}/assets/maps/death_pit.jpg[]
 
 > As you open your eyes, you find yourself in an eery cavern. The interior is dimly lit by the sunlight shining through the hole in the ceiling. You feel sharp pain in your head as memory of recent events snapped back into your mind.
 >
->The ceiling has a 30ft high staltite covered ceiling. The area is dimly lig by the sunlight coming in from the sinkhole.
+>The ceiling has a 30ft high stalactite covered ceiling. The area is dimly lig by the sunlight coming in from the sinkhole.
 >
 >As you investigated the area, the ground beneath you crumbled, throwing you underground, and upon hitting the rocky floor, you blacked out for unknown amount of time. Now that you've regained consciousness, you find yourself in a manmade cavern with an upturned wagon to your side and beyond it stood a heavy wooden door.
 >
@@ -238,10 +238,10 @@ As long as they are not in the cult leader's field of view they are undetected. 
 >He flips the lever to his left down and the door to the exit slides down. He then pulls up a green skull talisman out his robe. The zombies resting in the depression of the cave wall starts to stir. 
 
 * 2 Goblins will charge to attack.
-* 6 Zombie goblins use the smae initiative as Crassus. Crassus uses a talisman to command them.
+* 6 Zombie goblins use the same initiative as Crassus. Crassus uses a talisman to command them.
 
 *Treasure* +
-* Crassus has a jewelled gold ring with the symbol of Whirotepua worth 20 GP. The gold ring has a negative aura surrounding it 5ft. The ring will try to pollute the brain of who is carrying the ring. You have to make a nightly constituion save DC10 to have a good nights rest.
+* Crassus has a jewelled gold ring with the symbol of Whirotepua worth 20 GP. The gold ring has a negative aura surrounding it 5ft. The ring will try to pollute the brain of who is carrying the ring. You have to make a nightly constitution save DC10 to have a good nights rest.
 * There is a silver dagger under the alter worth 100 GP.
 
 *Exit* +
@@ -285,7 +285,7 @@ If any of the adventurers are spotted, the goblins will ready their bows and wil
 
 === Area 2 - Arrival at the Tomb
 
-Long ago, when the Helvetican empire ruled, a knight by the name of Delius founded the Delian Order and together they devoted their lives to the fight against Whirotepua (chief deity of the golinoids / orc pantheon). This is their resting place, long forgotten. Today, the goblins who have infested the tomb are preparing to desecrate the site with a human sacrifice. It is their intent to consecrate the tomb in the name of Whirotepua.
+Long ago, when the Helvetican empire ruled, a knight by the name of Delius founded the Delian Order and together they devoted their lives to the fight against Whirotepua (chief deity of the goblinoids / orc pantheon). This is their resting place, long forgotten. Today, the goblins who have infested the tomb are preparing to desecrate the site with a human sacrifice. It is their intent to consecrate the tomb in the name of Whirotepua.
 
 Whirotepua is depicted as a powerful and ruthless warrior, with the head of a great black-furred wolf and the body of a muscular goblinoid. He is known as the Mighty One and the High Chieftain, and is worshipped by his followers as a god of war, conquest, and domination. Whirotepua is typically worshipped through blood sacrifices and acts of violence, and his followers often seek to expand their territories and conquer new lands.
 
@@ -340,11 +340,11 @@ The next room lies beyond a twisting corridor that fades into darkness beyond th
 
 A character who succeeds on a DC 12 Wisdom (Perception) check will notice the trap, the faint light of the brazier just barely catching the raised bit of floor. If a character then succeeds on a DC 10 Dexterity check using thieves' tools, they can disable the trap without triggering it. This can also be attempted with any bladed weapon, but the check is made at disadvantage.
 
-Additionally, if there are any Small sized Player Characters (Halfings, Gnomes) they won't trigger the trap. Any other creature who steps on the pressure plate will trigger the trap, causing a scythe to sweep down from the ceiling. The character who triggered the trap must succeed a on a DC 15 Dexterity saving throw or suffer 1d8 slashing damage. Once the trap has either been disabled, or triggered it is exhausted and will not be triggered again.
+Additionally, if there are any Small sized Player Characters (Halflings, Gnomes) they won't trigger the trap. Any other creature who steps on the pressure plate will trigger the trap, causing a scythe to sweep down from the ceiling. The character who triggered the trap must succeed a on a DC 15 Dexterity saving throw or suffer 1d8 slashing damage. Once the trap has either been disabled, or triggered it is exhausted and will not be triggered again.
 
 === Area 6 - Hall of the Oathkeeper
 
-> Dominated by a giant stone statue of a knight, raised up on a dais, standing tall with their sword point down between their feet. A thick haze billows up from a makeshift altar in the center of the room where a goblin adorned with jewelery and warpaint chants rhythmically while they rock back and forth. Behind the goblin, a young girl quietly whimpers, head in her hands, from a small cage near the foot of the statue.
+> Dominated by a giant stone statue of a knight, raised up on a dais, standing tall with their sword point down between their feet. A thick haze billows up from a makeshift altar in the center of the room where a goblin adorned with jewelry and warpaint chants rhythmically while they rock back and forth. Behind the goblin, a young girl quietly whimpers, head in her hands, from a small cage near the foot of the statue.
 
 After the fight, when investigating the statue:
 > If you are to keep this, you must first give it to me.
@@ -509,36 +509,34 @@ Gudrun has a haphazard mix of goods in his cart. He has some bolts of wool and c
 More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. The mine had great deposits of mineral wealth. Times were good, and the nearby human town of Phandalin (pronounced fan-duh-lin) prospered as well. But then disaster struck when orcs swept through the
 North and laid waste to all in their path and the location of Wave Echo Cave was lost. For centuries, rumors of buried riches have attracted treasure seekers and opportunists to the area around Phandalin, but no one has ever succeeded in locating the lost mine.
 
-=== The Roadblock
+=== The Accident
 
-> As Gundren is talking about the cave, you round a bend in the road and find your way blocked by a fallen tree. The dense forest and rough terrain make it impossible to drive the cart around the roadblock. Gundren asks one of you to move the dead tree. He has an axe if needed.
-
-*Clearing the dead fall DC15*
-Strength Check (with advantage: if multiple adventurers work together) to drag the dead fall off the road. +
-Success: 
-Failure: The dead fall is too heavy for that hero to move on their own.
-
-include::{rootdir}/compendium/weapons/handaxe.adoc[]
+> It is mid-afternoon. The weather is gray and chilly and the road muddy. As Gundren is talking about the Echo cave, you round a bend in the road when Dapple and Mist give a frightened whinnies and rear up. The cart lurches as the veer sharply for the side of the road. Gundren is thrown of the cart and strikes his head and falls unconscious.
 
 
 
 
 
+Based on the travel order, decide which way the cart lurches 
+such that it threatens to strike at least one hero. It is most 
+likely to strike heroes walking alongside it, but if there is no 
+one beside the cart, it hits a hero ahead of it. Heroes struck 
+can dodge the cart with the following saving throw:
+Dexterity Saving Throw DC 11 The hero narrowly avoids 
+being struck. Failure: The hero is clipped by the cart and 
+takes 1d4 bludgeoning damage.
+The cart stops suddenly when its wheel becomes stuck in a 
+muddy rut at the side of the road. Dapple and Mist scream 
+and struggle against the cart.
 
+ and the party is stopped when Dapple and Mist panic at the sight of a snake sunning itself in the road. In their panic, they run the cart off the edge of the road where it becomes stuck. 
 
+*Resolve The Accident*
 
-
-
-
->If they cannot, they will have to find other ways to remove the dead fall. If they cannot think of anything, Oona will give them an axe and ask them to 
-break up the dead fall. Once the roadblock is cleared, the heroes get back into position before the party moves on.In this encounter, you will explain how the game uses ability scores and ability checks to resolve the heroes’ actions. You might also have to explain how to roll with advantage.
-
-
-
-
-
-
-
+* Gundren and any hero riding on the cart are thrown off
+* Any hero riding on the cart is thrown from the cart as well.
+* 
+They suffer 1d4 bludgeoning damage.
 
 
 
@@ -547,6 +545,189 @@ break up the dead fall. Once the roadblock is cleared, the heroes get back into 
 
 
 
+-> Free the cart
+After the accident, the heroes will have to deal with several issues to get the party moving again. 
+First, there is the matter of the unseen snake, which might bite one of the heroes before it slithers away in fright. 
+The heroes will have to calm the horses and tend to Oona. Crafty heroes might search the cart for something to help them. 
+
+They will also have to free the cart from the mud. Some of those actions will involve the hero’s proficiencies, giving you the chance to explain how they work. This encounter will be easier to run if you know what skills and tools the heroes are proficient with.
+
+Set the Scene
+» 
+» The road through Silverpine Forest is muddy here.
+» Add at least one flavorful detail about Silverpine forest, 
+such as a startled red deer bounding away from the party.
+» Oona is driving Mist and Dapple at a comfortable walking 
+pace.
+» Quickly remind the players of the travel order, noting 
+which hero is where in relation to the cart.
+
+Resolve the Accident
+Oona 
+
+
+Call for Action
+» Dapple and Mist are struggling against their harnesses; 
+the cart is creaking and groaning. If they are not calmed 
+quickly, they might break the harnesses or hurt themselves.
+» Oona is laying motionless in the road. Blood is pooling 
+around her head. She might have a serious injury and will 
+need help quickly.
+» There is no obvious sign of anything that might have panicked the horses.
+» The cart’s wheel is stuck in a muddy rut at the edge of the 
+road. Until it is freed, there is no going anywhere.
+Both the unconscious halfling and the panicked horses are 
+emergencies. The heroes should not ignore them. If the heroes seem unsure of what to do, if they are slow to act, or if 
+they ignore either problem, describe how the horse’s struggles are damaging the cart or how Oona is not moving and 
+she is getting paler by the moment.
+If the players are truly struggling with what to do, offer them 
+some help. The rogue and the ranger both know how to take 
+care of animals. The cleric and the wizard both know how to 
+treat the injured. If the players are doing everything right, 
+but keep failing at their checks, suggest the players try doing something to improve their chances. They can use magical spells or look around the scene for tools to help them.
+
+Simultaneous Actions
+In this encounter — and any encounter that does not involve 
+a strict turn-order — several heroes can take actions at the 
+same time. Each can deal with a different problem or they 
+can help each other.
+
+After you call for action, wait for one of the players to describe their hero’s action. Do not resolve the action right 
+away. Instead, repeat it to the party. Then ask the other 
+players what they would like to do at the same time. “Alice’s 
+character is tending to Oona. Bob, does your character do 
+something while she’s doing that?” Note what each hero is 
+doing. Once everyone is doing something, or they have declined to take action, resolve each player’s action in turn. 
+Then, ask for a new round of actions.
+
+The Snake
+A common adder was basking in the road. The heroes overlooked it due to its camouflage and the horses nearly stepped 
+on it. The snake is still there, staying quite still, waiting for 
+the threat to pass. The snake is afraid of the party, so it will 
+not attack unless a hero gets too close and startles it.
+The snake is two feet long, two inches thick. It’s pebbly skin 
+is mottled gray and brown.
+If a hero looks around carefully, they might spot the snake:
+Wisdom (Perception) «Passive» DC 18 The hero spots the 
+motionless, gray-and-brown snake in the road. The hero 
+can call the party’s attention to the snake, so they all know 
+where it is.
+
+A proficient hero who sees the snake might identify it. The 
+snake is a beast and qualifies as the ranger’s a favored enemy. Grant the ranger advantage on the check to identify it.
+Intelligence (Nature) «No Action» DC 12 The snake is a 
+common adder. It was probably just trying to warm itself 
+when the horses nearly stepped on. It is unlikely to strike 
+unless someone gets too close to it. The snake is venomous, 
+but not deadly to humanoids. A loud noise or a thrown object will likely frighten it off.
+The snake is easily driven off, but if a hero gets too close it, 
+the snake will strike before slithering away.
+If the heroes fail to spot the snake, the next hero who moves 
+in the road — to tend the horses or see to Oona for example 
+— gets caught by surprise and bitten by the snake.
+If one of the heroes tries to kill the snake, you can let them 
+kill the snake without issue. The snake is not a dangerous 
+combatant.
+
+The Snake’s Bite
+If the snake strikes at one of the heroes, they take 1 piercing 
+damage and might be damaged by the snake’s venom:
+Constitution Saving Throw DC 11 The hero resists the 
+snake’s venom. Failure: The hero succumbs and suffers 
+1d4 poison damage.
+If a hero examines the wound from the snake’s bite, they can 
+determine the following:
+Wisdom (Medicine) «Requires Proficiency» DC 11 The 
+bite is swollen and painful, but not life threatening. The 
+swelling should go down soon, and the bitten hero will not 
+suffer any long-term effects.
+
+Calming the Horses
+Dapple and Mist are panicking. Their struggles threaten to 
+break their harness, damage the cart, or injure them. If the 
+heroes ignore the horses, describe the creaks and groans 
+coming from the cart. Make it seem like an emergency.
+If Oona is conscious, she can calm Dapple and Mist automatically. No ability check is needed. Anyone else can attempt to soothe the horses:
+Wisdom (Animal Handling) «Advantage: Offering Horse 
+Apple or Other Food» «Disadvantage: The Snake Has 
+not Been Driven Off» DC 10 Dapple and Mist stop struggling and calm down. Failure The horses continue to thrash 
+and struggle.
+
+The heroes can try repeatedly to calm the horses. Each time 
+a hero fails, though, describe the strain on the harness or 
+cart. Make it seem as if something is going to break at any 
+moment. If this were not a tutorial encounter, there would 
+be long-lasting consequences for failure.
+If the players come up with any clever ideas to help calm the 
+horses, grant advantage on the ability check.
+
+Tending to Oona
+Oona struck her head as she fell from the cart. She is unconscious and bleeding from a cut in her head. Anyone next to 
+her can tell that much.
+Once one of the heroes has checked on Oona, roll a d20 
+where the players cannot see the result, make a grim face, 
+and make a note on your scratch paper. Pretend Oona is 
+making death saving throws and use the opportunity to explain how death saves work. Do not actually keep track of 
+the results, though. Since this is a tutorial encounter, Oona 
+cannot actually die.
+After you have made a death saving throw for Oona, make 
+another one each time the party takes a round of actions. 
+Keep track of how many saving throws you have made. After 
+Oona makes five death saving throws, she stabilizes on her 
+own.
+
+Anyone can treat Oona’s wound and stop the bleeding:
+Wisdom (Medicine) «Automatic Success: Healer’s Kit» 
+DC 10 Oona is stabilized. She stops bleeding and no longer 
+makes death saving throws.
+Stabilizing Oona does not return her to consciousness. Tell 
+the hero stabilizing her that Oona will probably regain consciousness in an hour or two.
+If one of the players asks about using a healing spell—the 
+cleric has cure wounds and the bard can cast healing word—
+explain how spellcasting works if you have not already, then 
+let them do so. Any healing restores Oona to consciousness.
+Searching the Cart
+It might occur to the heroes to root through Oona’s cart and 
+look for something to help them deal with the situation.
+Wisdom (Perception) DC 10 The hero turns up either a 
+small bag of lumpy green horse apples or a healer’s kit. Determine which randomly unless the hero specified they were 
+looking for medical supplies or feed for the horses. A second 
+search will yield the other item if successful.
+The heroes can keep the healer’s kit. If the heroes ask Oona 
+about it, she will gladly let them have it. It contains enough 
+salves, poultices, and bandages to stabilize a dying character 
+automatically nine more times. But, make a note if the party 
+keeps the kit without mentioning it to Oona.
+Freeing the Cart
+The cart’s wheel is stuck in a muddy ditch at the side of the 
+road.
+One or more of the heroes can push the cart free:
+Strength «Advantage: Multiple Heroes Work Together» 
+«Disadvantage: The Horses Are Still Panicked» DC 20
+The cart’s wheel is freed from the muddy rut.
+If the horses are calm, they can pull the cart free:
+Charisma (Handle Animal) «Advantage: Offered Horse 
+Apple or Similar Food» DC 10 The horse’s pull the cart 
+free of the muddy rut.
+Move On
+When the horses are calm, Oona is stable or conscious, and 
+the cart is free, the encounter is over. If Oona is unconscious, suggest that the party take a short a rest to recover 
+themselves and to allow Oona to regain consciousness.
+If Oona is conscious, she will suggest the party rest for an 
+hour. She is still shaken from her fall.
+If the players agree to rest, move on to B4 A Short Rest.
+If the players do not want to rest, do not force them too. 
+They might want to lay Oona’s unconscious body in the cart 
+and drive it themselves. Or they might refuse Oona’s orders 
+to rest, in which case she will grudgingly carry on but her 
+disposition toward the party will suffer.
+If the party does not rest, wait until the first time they have a 
+battle in Part C Silverpine Watch to teach them about short 
+rests. Skip ahead to B5 Feral Dogs. Note of who is driving 
+the cart if Oona is unconscious.
+
+A Short Rest
+xxx
 
 
 
@@ -554,32 +735,6 @@ break up the dead fall. Once the roadblock is cleared, the heroes get back into 
 
 
 
-image::{homedir}/assets/maps/silverpine_2_road_combat.png[align=center]
-
-*Travel Order.*
-
-
-
-> GM: Where are the characters in relation to the cart and the party during travel? There is room in the back of the cart for one person to ride and that would be a good place for the bard or wizard or even the rogue as it gives them a high, but protected, vantage point. Everyone else will have to walk along with the cart.
-
-> GM: How are you traveling? What is the mood? What are you doing?
-
-> GM: Prepare me an appropriate active (or passive) perception check.
-
-
-
-=== On the way
-
-> It has been two days since you left Kainga. Gundrun Oona addresses each of the players in turn, asking questions to strike up a conversation. Once you have interacted with several of the heroes or if the players seem bored by the interaction, the 
-encounter is over.
-=== The Roadblock
-[DC of 15]
-
-> As Gundren gently manages the cart, you round a bend in the road and find your way blocked by a fallen tree. The dense forest and rough terrain make  it  impossible  to  drive  the  cart  around  the  roadblock.  
-
-The  heroes  must  move  the  dead  fall.  If  they  cannot,  they  
-will have to find other ways to remove the dead fall. If they cannot think of anything, Oona will give them an axe and ask them to 
-break up the dead fall. Once the roadblock is cleared, the heroes get back into position before the party moves on.In this encounter, you will explain how the game uses ability scores and ability checks to resolve the heroes’ actions. You might also have to explain how to roll with advantage
 
 
 
@@ -592,7 +747,12 @@ break up the dead fall. Once the roadblock is cleared, the heroes get back into 
 
 
 
-There is a roadblock. When they try to remove the roadblock they will be attacked by a snake. (or the horse which would be worse).
+
+
+
+
+
+
 
 
 A common adder was basking in the road. The heroes overlooked it due to its camouflage and the horses nearly stepped on it. The snake is still there, staying quite still, waiting for the threat to pass. The snake is afraid of the party, so it will not attack unless a hero gets too close and startles it.The snake is two feet long, two inches thick. It’s pebbly skin is mottled gray and brown.
