@@ -16,7 +16,7 @@ Hibiscus is a devout cleric of his deity and believes the words of his god and c
 Father Tauwi's spiritual leadership inspires those around him to greater heights. Whenever he successfully persuades a creature to take a specific course of action or makes a convincing argument in a debate, you follow what he said even after leaving his aura. It takes longer to find your own opinion afterwards.
 
 *Repent! Confess!*: + 
-People feel feel compelled to confess any small secrets or misdeeds they have committed. While this ability does not force a creature to reveal major secrets or information they wish to keep hidden, Father Hibiscus does know how to use the information he learns from confessions to his advantage. Mostly to advance his carreer.
+People feel feel compelled to confess any small secrets or misdeeds they have committed. While this ability does not force a creature to reveal major secrets or information they wish to keep hidden, Father Hibiscus does know how to use the information he learns from confessions to his advantage. Mostly to advance his career.
 
 | image::{rootdir}/assets/images/actor_hibiscus_tauwi.jpg[]
 |

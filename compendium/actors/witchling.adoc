@@ -74,7 +74,7 @@ Speed: 30 ft
 
 She is a thiefling woman in her early forties, who takes care of the children who are not taken care of by nature. She rules the orphanage with an iron hand, believing that she can save the children from themselves. She is described as old-fashioned and is known to delegate more housekeeping-related tasks to the girls. Despite her strict demeanor, she only cares that the tasks are completed.
 
-    She wlways speaks in a firm and stern tone
+    She always speaks in a firm and stern tone
     Constantly checks for cleanliness and order
     Uses a ruler or other implement to enforce her rules
     Quickly walks away from situations or individuals she deems beneath her

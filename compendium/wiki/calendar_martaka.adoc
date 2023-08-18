@@ -41,7 +41,7 @@ Each day off the month is given a name.
 | 6   | Hato   | The sixth day. A brave day.               
 | 7   | Wiko   | The seventh day. A healed day.            
 | 8   | Okeo   | The eight day. A waxing moon.             
-| 9   | Noto   | The nineth day. A pieceful day.           
+| 9   | Noto   | The ninth day. A peaceful day.           
 | 10  | Teko   | The tenth day. A loving day.              
 | 11  | Temiro | The eleventh day. A lucky day.            
 | 12  | Teturo | The twelfth day. A blessed day.           

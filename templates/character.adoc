@@ -14,7 +14,7 @@ endif::[]
 | [big]#*CharacterName*#
 | [small]#Lineage and Class#
 
-| image::{homedir}/assets/images/character.jpeg[label,widht,height,properties]
+| image::{homedir}/assets/images/character.jpeg[label,width,height,properties]
 |
 *Background:* Acolyte
 

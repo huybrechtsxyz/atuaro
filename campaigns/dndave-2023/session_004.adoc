@@ -45,9 +45,9 @@ You learned your craft from who? Are you part of an thief guild?
 OPTIONAL. You could have learned your craft from : Magnifico the Magnificent (traveling magician) Feel free to make up your own mind!
 
 Kornus (Nature)
-Druid spells can be changed during a long rest by communining with nature for 1 hour.
+Druid spells can be changed during a long rest by communing with nature for 1 hour.
 Magic spells from nature are kept how? What or how do you keep your spells. (Voynich manuscript?)
-Nature magic is devine not arcane. The god-father and mother gave you the power.
+Nature magic is divine not arcane. The god-father and mother gave you the power.
 OPTIONAL. You could have learned your craft from : Willow Greenleaf (traveling 'herbalist') Feel free to make up your own mind!
 
 Mario (Fighter)
@@ -98,7 +98,7 @@ Look for some basic stuff to make it work.
 
 
 === Plot Ideas
-* Fathers of Angela and Cornus do not like each other? Or hibisucs sucks up to pakal.
+* Fathers of Angela and Cornus do not like each other? Or Hibiscus sucks up to Pakal.
 * Glasstaff is the sad boy
 * Nezrra is the bully
 * Return of the carnival? After failing the Adventure Tournament, they want revenge.

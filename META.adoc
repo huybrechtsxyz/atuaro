@@ -105,7 +105,7 @@ Does your world have magic or altered gravity, midichlorians or psionics? Are th
 > 
 > *Note.* Artificers and the like talk to the DM, you will need to use aether.
 
-> *Gods Oversee the World.* The gods are real and embody a variety of beliefs, with each god claiming dominion over an aspect of the world. Gods exert influence over the world by granting divine magic to their followers and sending signs and portents to guide them. The follower of a god serves as an agent of that god in the world. The agent seeks to further the ideals of that god and defeat its rivals. While some folk might refuse to honor the gods, none can deny their existence. Gods can't manifest themselves directly as they are incorporeal. Celestials (angels and demons) are the most used and known 'super'-agents for a diety. The more Faith a god receives the more powerfull his divitity and plentyfull celestials.
+> *Gods Oversee the World.* The gods are real and embody a variety of beliefs, with each god claiming dominion over an aspect of the world. Gods exert influence over the world by granting divine magic to their followers and sending signs and portents to guide them. The follower of a god serves as an agent of that god in the world. The agent seeks to further the ideals of that god and defeat its rivals. While some folk might refuse to honour the gods, none can deny their existence. Gods can't manifest themselves directly as they are incorporeal. Celestials (angels and demons) are the most used and known 'super'-agents for a deity. The more Faith a god receives the more powerfull his divinity and plentyfull celestials.
 
 > *Source of magic.* The power granted to you by your patron (cleric, warlock) is not equal to being able to manipulate the weave or what is granted to you by the primal forces. Divine is religion, the weave is arcane, and primal are the forces of nature.
 
@@ -118,12 +118,12 @@ The dominant religion, The Children of the Suns, believes that the world is the 
 > 
 > The dominant religion, The Faith of Ohm, believes that all creation - from the multiverse as a whole to the tiniest pebble or grain of sand - is a mysterious and beautiful sign pointing to Ohm's divine power. We are in the cradle and are the origin and most perfect of all its creations.
 > 
-> * Who knew humans could be so self-centered
+> * Who knew humans could be so self-centered?
 
 === World Geography
 What does the geography of your world look like?  Does your Geography have any special properties or features? This should be a generic vision of your geography. Is your world full of volcanoes and lava flows or floating islands? Is it an ice planet, or a desert waste? Is it a planet-city like Coruscant? Is it bio-diverse or all the same?
 
-From winters which last decades (Game of Thrones, G.R.R. Martin) to moons which throw destructive spores (World of Pern, Anne MacCaffery ), extraordinary geographical features can add character and challenges to your world. What are the fundamental truths of the physical geography of your world?
+From winters which last decades (Game of Thrones, G.R.R. Martin) to moons which throw destructive spores (World of Pern, Anne MacCaffery), extraordinary geographical features can add character and challenges to your world. What are the fundamental truths of the physical geography of your world?
 
 Remember to refer back to your genre, tone and motifs in your Foundation! They’ll give you a tonne of inspiration for this.
 

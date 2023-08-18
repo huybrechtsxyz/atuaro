@@ -15,7 +15,7 @@ image::{homedir}/assets/images/cover.png[]
 == Summary
 After talking about the social contract and their introduction to the world, the players create a character and the game can start.
 
-Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them. If they succees then they can go to the carnival. They not gonna fail right... right...
+Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them. If they success then they can go to the carnival. They not gonna fail right... right...
 
 While Hibiscus Tauwi (The Priest) comes to visit Ms Witchling, Aeria Jones (Weird) comes back inside and is not alone. She is surrounded by pixies. The pixies start fun and try to lure the children outside. They start harassing children if they do not comply. If no action is taken, the pixies will focus on a single child and lure / drag the child Timothy Butch (the sad one) or Gilad Shams (the bully) outside. Our heroes will need to defend the children.
 
@@ -58,11 +58,11 @@ As mentioned in the Table Rules, I expect that you have a way of managing your c
 
 image::{homedir}/assets/images/ineffable_games.jpg[align=center]
 
-The world was a vast and ancient place, shaped by the will of powerful beings beyond the comprehension of mortals. At the center of it all stood Mount Celstia, a towering peak that reached to the very heavens. It was there, atop that sacred mountain, that the Allfather gods Ranginui and Papatanuku resided. They were the creators of all that existed, the bringers of light and life to a world that would otherwise have remained forever in darkness.
+The world was a vast and ancient place, shaped by the will of powerful beings beyond the comprehension of mortals. At the center of it all stood Mount Celstia, a towering peak that reached to the very heavens. It was there, atop that sacred mountain, that the Allfather gods Ranginui and Papatuanuku resided. They were the creators of all that existed, the bringers of light and life to a world that would otherwise have remained forever in darkness.
 
 Gods play games with the fates of men. The game they play is somewhere between Dungeons and Dragons, Risk and Chess, with Diplomacy, Monopoly and Battleships thrown in for good measure along the way. Don't think the game is complicated though; gods don't have the patience for complex games. They prefer games that are short and violent. The game is played on a map of the world that is, on closer inspection, the world itself. If you look closely enough at the tiny pin that is Mount Celestia in the middle of the board, you can see the gods on top of it in their home playing the game. If you look closer still, you can see the board with a tiny Mount Celestia.
 
-A youthful deity is competing against all the other gods. Ranginui and Papatanuku observe the spectacle with a mixture of amusement, shame, and confusion. Ohm, their newest, is unique in that they are only a few thousand years old. Trusted upon them by the new arrivals on Atuaro. Ohm has resulted in upheaval both in the world and in the established traditions and customs of the gods themselved. Ohm glares at the game board, frustrated. "I was winning!". "What went wrong in the last few centuries?" Ohm stares at the board once more, hoping to find an edge ...
+A youthful deity is competing against all the other gods. Ranginui and Papatuanuku observe the spectacle with a mixture of amusement, shame, and confusion. Ohm, their newest, is unique in that they are only a few thousand years old. Trusted upon them by the new arrivals on Atuaro. Ohm has resulted in upheaval both in the world and in the established traditions and customs of the gods themselves. Ohm glares at the game board, frustrated. "I was winning!". "What went wrong in the last few centuries?" Ohm stares at the board once more, hoping to find an edge ...
 
 It's 5 AM on a early freezing spring morning. The window and heavy dark green curtains do little to keep out the cold. You try to snuggle under the blanket for warmth, but no matter how you arrange it, you can't seem to get comfortable. "I'm only 8 years old," you think. "This blanket nonsense has got to stop. I just need it to be longer." Suddenly, you sit up and open your eyes. You find yourself floating in a void of blackness and silence, and the cold is biting. No matter how you try to move, there is no resistance. You are suspended in the darkness, frozen in place.
 
@@ -138,10 +138,10 @@ Is there anything you would like to add?
 
 Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them.
 
-If they succees then they can go to the carnival. They not gonna fail right... right...
+If they succeed then they can go to the carnival. They not gonna fail right... right...
 
 // SKIP THE STARS
-Kids with good behaviour get a Star. On the other hand if you mucked about you get a Bolt. Stars are awarded to the highest performing children. Any child who fails will receive a Bolt, without exception.
+Kids with good behavior get a Star. On the other hand if you mucked about you get a Bolt. Stars are awarded to the highest performing children. Any child who fails will receive a Bolt, without exception.
 
 * Earning eleven Bolts results in immediate expulsion. Unlike you, Ms Witchling does not muck about. 
 * A Star can be used to forgive a small trespassing if you play it off.
@@ -262,7 +262,7 @@ Once someone is close to the door for room 4:
 
 If they succeed on a perception check:
 
-> You hear disorganised skittering and scrabbling of random and erratic movement of little paws.
+> You hear disorganized skittering and scrabbling of random and erratic movement of little paws.
 
 This room contains old and worn clothes and cheap items required to run the orphanage.
 
@@ -381,7 +381,7 @@ At 12:00 AM the priests Hibiscus comes to vist Ms Witchling. He reads the prayer
 If they listen to the door they will hear:
 
 * [DC5] Usual town gossip 
-* [DC7] Carnival is in town. On good behaviour they can go.
+* [DC7] Carnival is in town. On good behavior they can go.
 * [DC9] Hear the guards found a 'treasure map' which is located in the guard tent at the carnival
 * [DC11] Hear the rumour about the affection of Cedric Oakheart to Ms Witchling
 * [DC13] Hear the priest talk about the Bisshop being at the carnival
@@ -391,9 +391,9 @@ If they listen to the door they will hear:
 
 > Aria Jones comes into the door startling the offspring that is listening to the door. "Ah ah ah snooty pooty. What would Ms Witchling say" she says coyly. +
 +
-What is more peculier she seems is accompanied by a group of small, winged creatures. Surrounded by little flying creatures that seem to try to get her to go outside again. She wearisomely swats at them and says "Oh stop it. Bugger of. Find some other victim". Which they promptly do.
+What is more peculiar she seems is accompanied by a group of small, winged creatures. Surrounded by little flying creatures that seem to try to get her to go outside again. She wearisomely swats at them and says "Oh stop it. Bugger of. Find some other victim". Which they promptly do.
 
-The pixies will bother anyone who is arround and find victims in the orphanage to take outside. Once off the map, the child will be 'gone'.
+The pixies will bother anyone who is around and find victims in the orphanage to take outside. Once off the map, the child will be 'gone'.
 
 After they seem to win the fight they notice a pixie flying upstairs. If they follow it they will see the pixie turning into a hag.  
 If the buly or sad one are there, they will comment they expect great things from them.
@@ -645,7 +645,7 @@ Winner gets to add 1 to their CON score.
 He is loud and boisterous dwarf. He wears a bright red vest with gold buttons and a black bowler hat that sits atop his curly red hair. He carries a whip and a megaphone as he struts around the ring, announcing the upcoming riders and revving up the crowd.
 
 | *Displacer Beast Game [STR DC+2]* | 
-Keep making an DC14 strenght check to stay on the bull. If you fall of make a DC10 strength check to make certain you do not get damaged [1 Damage]. Stay on the bull the longest? Add 1 to your STR score.
+Keep making an DC14 strength check to stay on the bull. If you fall of make a DC10 strength check to make certain you do not get damaged [1 Damage]. Stay on the bull the longest? Add 1 to your STR score.
 
 > As the bull riding contest begins, Bofur pumps up the crowd with his booming voice, shouting out quotes like:
 >  
@@ -766,7 +766,7 @@ The treasury map is on the table.
 === Area 10 - Central Market square
 *DC of 10*
 
-> The center of the carnival is a bustling marketplace where vendors have set up colourful stalls to sell their wares. The stalls are arranged in neat rows, each one adorned with bright banners and flags that flap in the breeze. The smell of cooking food wafts through the air, mingling with the sounds of laughter, music, and chatter. The vendors are a diverse group, selling everything from fresh produce to handmade crafts, clothing, and trinkets. Their wares are displayed in colourful arrays, catching the eye of passersby with their vibrant hues and intricate designs.
+> The center of the carnival is a bustling marketplace where vendors have set up colorful stalls to sell their wares. The stalls are arranged in neat rows, each one adorned with bright banners and flags that flap in the breeze. The smell of cooking food wafts through the air, mingling with the sounds of laughter, music, and chatter. The vendors are a diverse group, selling everything from fresh produce to handmade crafts, clothing, and trinkets. Their wares are displayed in colorful arrays, catching the eye of passersby with their vibrant hues and intricate designs.
 
 Their are various vendors who work on the small market.
 
@@ -808,7 +808,7 @@ The tournament runner is a lanky, unkempt man in his mid-twenties. His shaggy br
 
 *Obstacles*
 
-. All the rooms in the dungeon have a challange.
+. All the rooms in the dungeon have a challenge.
 
 === Supporting Actors
 

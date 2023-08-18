@@ -3,7 +3,7 @@ ifndef::rootdir[]
 endif::[]
 [cols="2a,4a",grid=rows]
 |===
-| [big]#*link:{rootdir}/compendium/beastiary/fey/pixie.adoc[Pixie]*#
+| [big]#*link:{rootdir}/compendium/bestiary/fey/pixie.adoc[Pixie]*#
 | [small]#Tiny fey, neutral good (CR 1/4 for 50 XP)#
 
 | image::{rootdir}/assets/tokens/npc_pixie.jpeg[]

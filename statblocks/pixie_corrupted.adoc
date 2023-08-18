@@ -3,7 +3,7 @@ ifndef::rootdir[]
 endif::[]
 [cols="2a,4a",grid=rows]
 |===
-| [big]#*link:../../compendium/beastiary/fey/pixie_corrupted.adoc[Corrupted Pixie]*#
+| [big]#*link:../../compendium/bestiary/fey/pixie_corrupted.adoc[Corrupted Pixie]*#
 | [small]#Tiny fiend, chaotic evil (CR 1/2 for 100 XP)#
 
 | image::{rootdir}/assets/images/npc_pixie_corrupted.png[]

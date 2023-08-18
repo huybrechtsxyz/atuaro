@@ -12,7 +12,7 @@ endif::[]
 A brute who is not afraid to use force to get what they wants.
 
 *Fear-monger*: +
-Gilad is a skilled intimidator, and uses fear to control and anipulate others.
+Gilad is a skilled intimidator, and uses fear to control and manipulate others.
 
 | image::{rootdir}/assets/images/actor_gilad_shams.jpg[]
 |
@@ -67,7 +67,7 @@ Gilad Shams was abandoned at the orphanage at age 7, and since then, he has stru
 
 Gilad often wears rough and worn clothes, with holes and stains that are evidence of his tough life at the orphanage. He doesn't care much about his appearance and just wants to be comfortable.
 
-Despite his reputation as a bully, Gilad is deeply unhappy and resentful of the situation he finds himself in. He uses bullying as a way to assert control over others and make himself feel powerful. However, deep down, he is unhappy and longs for the love and acceptance that he never received as a child and the abondonment by his parents Ahmed and Farida Shams.
+Despite his reputation as a bully, Gilad is deeply unhappy and resentful of the situation he finds himself in. He uses bullying as a way to assert control over others and make himself feel powerful. However, deep down, he is unhappy and longs for the love and acceptance that he never received as a child and the abandonment by his parents Ahmed and Farida Shams.
 
     Gilad has a tendency to slouch and look down when he walks, giving off a 'I do not care' demeanor.
 

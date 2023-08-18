@@ -7,13 +7,13 @@ endif::[]
 image::{assetdir}/images/history_heading.jpg[]
 
 == About the history of Atuaro
-The known history of Atuaro spans for thousands of years. In the beginning Ranginui (the sky) and Papatūānuku (earth) were joined together, and their children were born between them in darkness. After they sundered the world in the Age of Dawn, the children decided to separate their parents. To allow light to come into the world. The children then became gods of the world.
+The known history of Atuaro spans for thousands of years. In the beginning Ranginui (the sky) and Papatuanuku (earth) were joined together, and their children were born between them in darkness. After they sundered the world in the Age of Dawn, the children decided to separate their parents. To allow light to come into the world. The children then became gods of the world.
 
 === Age of Dawn
 
 image::{assetdir}/images/history_age_of_dawn.jpg[]
 
-Tens of thousands of years ago, empires of reptilian, amphibian, and avian peoples- known in Elvish as Jqua'Tel'Quessir, the creator races- dominated the world. They built great cities of stone and glass, carved paths through the wilderness, tamed the great lizards, worked mighty magics, shaped the world around them, and warred upon each other. Those were the Days of Thunder. Their civilisations came to a sudden end some hundred thousand years ago. Perhaps their wars reached a terrible and inevitable crescendo, or they tampered with forbidden forces. For whatever reason, the world changed, and their vast empires vanished. All that remains of them are ruins and the scattered lizard folk, bullywug, aarakocra, and various tribes of barbaric descendants of hose who once ruled the world.
+Tens of thousands of years ago, empires of reptilian, amphibian, and avian peoples- known in Elvish as Jqua'Tel'Quessir, the creator races- dominated the world. They built great cities of stone and glass, carved paths through the wilderness, tamed the great lizards, worked mighty magics, shaped the world around them, and warred upon each other. Those were the Days of Thunder. Their civilizations came to a sudden end some hundred thousand years ago. Perhaps their wars reached a terrible and inevitable crescendo, or they tampered with forbidden forces. For whatever reason, the world changed, and their vast empires vanished. All that remains of them are ruins and the scattered lizard folk, bullywug, aarakocra, and various tribes of barbaric descendants of hose who once ruled the world.
 
 ==== The rise and fall of Akkadia
 
@@ -51,7 +51,7 @@ The Rupture of Arcanum was a High Magic ritual cast by the greatest of high mage
 
 image::{assetdir}/images/history_age_of_humanity.jpg[]
 
-The Age of Humanity began with the decline of the ancient empires and the flourishing and the first settlers. Expansion of the human (and humanoid) empires around the world. In a time when the many dragons and giants were long overthrown and the world ending wars no longer loomed over everyone as a threat, the humanoid civilisations began to rise. For millennia the ancient nations stagnated and began a log slow decline. In the centuries following the collapse many cities took in refugees and new settlements were founded
+The Age of Humanity began with the decline of the ancient empires and the flourishing and the first settlers. Expansion of the human (and humanoid) empires around the world. In a time when the many dragons and giants were long overthrown and the world ending wars no longer loomed over everyone as a threat, the humanoid civilizations began to rise. For millennia the ancient nations stagnated and began a log slow decline. In the centuries following the collapse many cities took in refugees and new settlements were founded
 
 ==== The rise and fall of Helvetica
 
@@ -69,7 +69,7 @@ The Scourge of Pestilence started a period of civil unrest and invasions that st
 
 image::{assetdir}/images/history_scourge_of_pestilence.webp[]
 
-The Scourge of Pestilence was a civilisation ruining widespread disease that killed large populations. Some exposed groups developed immuneties others ... changed.
+The Scourge of Pestilence was a civilization ruining widespread disease that killed large populations. Some exposed groups developed immuneties others ... changed.
 
 === Age of Reckoning
 
@@ -79,4 +79,4 @@ Age of Reckoning was the time period that started in the year of the reckoning a
 
 The remains of humanity fell apart into different kingdoms, empires, and city states.
 
-The story start at the Kingdom of Takangi
+The story starts at the Kingdom of Takangi.

@@ -46,7 +46,7 @@ endif::[]
 
 2+| *About* +
 Is a half-elf barbarian
-He knew his mother but not his father. Was aised by his mother until the age of 6 until she died. She was single, and was pestered for it by others. He now hates arrogant people. Although he never knew his father, the mother wanted to him to know about it. Being a barbarian is cleaning of the typical Elf things.
+He knew his mother but not his father. Was aided by his mother until the age of 6 until she died. She was single, and was pestered for it by others. He now hates arrogant people. Although he never knew his father, the mother wanted to him to know about it. Being a barbarian is cleaning of the typical Elf things.
 
 *Tags:* 
 |===
@@ -55,4 +55,4 @@ He knew his mother but not his father. Was aised by his mother until the age of 
 
 === Backstory
 Is a half-elf barbarian
-He knew his mother but not his father. Was aised by his mother until the age of 6 until she died. She was single, and was pestered for it by others. He now hates arrogant people. Although he never knew his father, the mother wanted to him to know about it. Being a barbarian is cleaning of the typical Elf things.
+He knew his mother but not his father. Was aided by his mother until the age of 6 until she died. She was single, and was pestered for it by others. He now hates arrogant people. Although he never knew his father, the mother wanted to him to know about it. Being a barbarian is cleaning of the typical Elf things.
