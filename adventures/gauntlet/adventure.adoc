@@ -511,123 +511,50 @@ North and laid waste to all in their path and the location of Wave Echo Cave was
 
 === The Accident
 
-> It is mid-afternoon. The weather is gray and chilly and the road muddy. As Gundren is talking about the Echo cave, you round a bend in the road when Dapple and Mist give a frightened whinnies and rear up. The cart lurches as the veer sharply for the side of the road. Gundren is thrown of the cart and strikes his head and falls unconscious.
+> It is mid-afternoon. The weather is gray and chilly and the road muddy. Gundren is driving Mist and Dapple at a comfortable walking 
+pace and keeps talking about Echo Cave. When you round a bend in the road and Dapple and Mist give a frightened whinnies and rear up. The cart lurches as the veer sharply for the side of the road. The cart stops suddenly when its wheel becomes stuck in a muddy rut at the side of the road. Dapple and Mist scream and struggle against the cart. Gundren is thrown of the cart and strikes his head and falls unconscious.
+
+Based on the travel order, decide which way the cart lurches such that it threatens to strike at least one hero. It is most likely to strike heroes walking alongside it, but if there is no one beside the cart, it hits a hero ahead of it. 
+
+Both the unconscious halfling and the panicked horses are emergencies. The heroes should not ignore them. If the heroes seem unsure of what to do, if they are slow to act, or if they ignore either problem, describe how the horse’s struggles are damaging the cart or how Gundren is not moving and she is getting paler by the moment.
+
+****
 
 
+TIP: [small]#After you call for action, wait for one of the players to describe their hero’s action. Do not resolve the action right away. Instead, repeat it to the party. Then ask the other players what they would like to do at the same time. “Alice’s character is tending to Oona. Bob, does your character do something while she’s doing that?” Note what each hero is doing. Once everyone is doing something, or they have declined to take action, resolve each player’s action in turn. Then, ask for a new round of actions.#
 
+****
 
+*Call for action*
 
-Based on the travel order, decide which way the cart lurches 
-such that it threatens to strike at least one hero. It is most 
-likely to strike heroes walking alongside it, but if there is no 
-one beside the cart, it hits a hero ahead of it. Heroes struck 
-can dodge the cart with the following saving throw:
-Dexterity Saving Throw DC 11 The hero narrowly avoids 
-being struck. Failure: The hero is clipped by the cart and 
-takes 1d4 bludgeoning damage.
-The cart stops suddenly when its wheel becomes stuck in a 
-muddy rut at the side of the road. Dapple and Mist scream 
-and struggle against the cart.
+* *EMERGENCY* Avoid being struck
+* *EMERGENCY* Gundren is laying motionless in the road. Blood is pooling around her head. She might have a serious injury and will need help quickly.
+* *EMERGENCY* Dapple and Mist are struggling against their harnesses; the cart is creaking and groaning. If they are not calmed quickly, they might break the harnesses or hurt themselves.
 
- and the party is stopped when Dapple and Mist panic at the sight of a snake sunning itself in the road. In their panic, they run the cart off the edge of the road where it becomes stuck. 
+* The snake? There is no obvious sign of anything that might have panicked the horses.
+* The cart’s wheel is stuck in a muddy rut at the edge of the road. Until it is freed, there is no going anywhere.
 
-*Resolve The Accident*
+*Avoid being struck DC-11*
 
 * Gundren and any hero riding on the cart are thrown off
 * Any hero riding on the cart is thrown from the cart as well.
-* 
-They suffer 1d4 bludgeoning damage.
+
+Heroes struck can dodge the cart Dexterity Saving Throw DC 11. +
+Failure: The hero is clipped by the cart and takes 1d4 bludgeoning damage.
+
+*The Snake*
 
 
 
+A common adder was basking in the road. The heroes overlooked it due to its camouflage and the horses nearly stepped on it. The snake is still there, staying quite still, waiting for the threat to pass. The snake is afraid of the party, so it will not attack unless a hero gets too close and startles it. The snake is two feet long, two inches thick. It’s pebbly skin is mottled gray and brown. If a hero looks around carefully, they might spot the snake: 
 
+Wisdom (Perception) «Passive» DC 18 The hero spots the motionless, gray-and-brown snake in the road. The hero can call the party’s attention to the snake, so they all know where it is.
 
+A proficient hero who sees the snake might identify it. Grant rangers or druids advantage on the check to identify it.
 
+Intelligence (Nature) «No Action» DC 12 The snake is a common adder. It was probably just trying to warm itself when the horses nearly stepped on. It is unlikely to strike unless someone gets too close to it. The snake is venomous, but not deadly to humanoids. A loud noise or a thrown object will likely frighten it off. The snake is easily driven off, but if a hero gets too close it, the snake will strike before slithering away. 
 
-
--> Free the cart
-After the accident, the heroes will have to deal with several issues to get the party moving again. 
-First, there is the matter of the unseen snake, which might bite one of the heroes before it slithers away in fright. 
-The heroes will have to calm the horses and tend to Oona. Crafty heroes might search the cart for something to help them. 
-
-They will also have to free the cart from the mud. Some of those actions will involve the hero’s proficiencies, giving you the chance to explain how they work. This encounter will be easier to run if you know what skills and tools the heroes are proficient with.
-
-Set the Scene
-» 
-» The road through Silverpine Forest is muddy here.
-» Add at least one flavorful detail about Silverpine forest, 
-such as a startled red deer bounding away from the party.
-» Oona is driving Mist and Dapple at a comfortable walking 
-pace.
-» Quickly remind the players of the travel order, noting 
-which hero is where in relation to the cart.
-
-Resolve the Accident
-Oona 
-
-
-Call for Action
-» Dapple and Mist are struggling against their harnesses; 
-the cart is creaking and groaning. If they are not calmed 
-quickly, they might break the harnesses or hurt themselves.
-» Oona is laying motionless in the road. Blood is pooling 
-around her head. She might have a serious injury and will 
-need help quickly.
-» There is no obvious sign of anything that might have panicked the horses.
-» The cart’s wheel is stuck in a muddy rut at the edge of the 
-road. Until it is freed, there is no going anywhere.
-Both the unconscious halfling and the panicked horses are 
-emergencies. The heroes should not ignore them. If the heroes seem unsure of what to do, if they are slow to act, or if 
-they ignore either problem, describe how the horse’s struggles are damaging the cart or how Oona is not moving and 
-she is getting paler by the moment.
-If the players are truly struggling with what to do, offer them 
-some help. The rogue and the ranger both know how to take 
-care of animals. The cleric and the wizard both know how to 
-treat the injured. If the players are doing everything right, 
-but keep failing at their checks, suggest the players try doing something to improve their chances. They can use magical spells or look around the scene for tools to help them.
-
-Simultaneous Actions
-In this encounter — and any encounter that does not involve 
-a strict turn-order — several heroes can take actions at the 
-same time. Each can deal with a different problem or they 
-can help each other.
-
-After you call for action, wait for one of the players to describe their hero’s action. Do not resolve the action right 
-away. Instead, repeat it to the party. Then ask the other 
-players what they would like to do at the same time. “Alice’s 
-character is tending to Oona. Bob, does your character do 
-something while she’s doing that?” Note what each hero is 
-doing. Once everyone is doing something, or they have declined to take action, resolve each player’s action in turn. 
-Then, ask for a new round of actions.
-
-The Snake
-A common adder was basking in the road. The heroes overlooked it due to its camouflage and the horses nearly stepped 
-on it. The snake is still there, staying quite still, waiting for 
-the threat to pass. The snake is afraid of the party, so it will 
-not attack unless a hero gets too close and startles it.
-The snake is two feet long, two inches thick. It’s pebbly skin 
-is mottled gray and brown.
-If a hero looks around carefully, they might spot the snake:
-Wisdom (Perception) «Passive» DC 18 The hero spots the 
-motionless, gray-and-brown snake in the road. The hero 
-can call the party’s attention to the snake, so they all know 
-where it is.
-
-A proficient hero who sees the snake might identify it. The 
-snake is a beast and qualifies as the ranger’s a favored enemy. Grant the ranger advantage on the check to identify it.
-Intelligence (Nature) «No Action» DC 12 The snake is a 
-common adder. It was probably just trying to warm itself 
-when the horses nearly stepped on. It is unlikely to strike 
-unless someone gets too close to it. The snake is venomous, 
-but not deadly to humanoids. A loud noise or a thrown object will likely frighten it off.
-The snake is easily driven off, but if a hero gets too close it, 
-the snake will strike before slithering away.
-If the heroes fail to spot the snake, the next hero who moves 
-in the road — to tend the horses or see to Oona for example 
-— gets caught by surprise and bitten by the snake.
-If one of the heroes tries to kill the snake, you can let them 
-kill the snake without issue. The snake is not a dangerous 
-combatant.
+If the heroes fail to spot the snake, the next hero who moves in the road — to tend the horses or see to Oona for example — gets caught by surprise and bitten by the snake. If one of the heroes tries to kill the snake, you can let them kill the snake without issue. The snake is not a dangerous combatant.
 
 The Snake’s Bite
 If the snake strikes at one of the heroes, they take 1 piercing 
@@ -641,6 +568,9 @@ Wisdom (Medicine) «Requires Proficiency» DC 11 The
 bite is swollen and painful, but not life threatening. The 
 swelling should go down soon, and the bitten hero will not 
 suffer any long-term effects.
+
+
+
 
 Calming the Horses
 Dapple and Mist are panicking. Their struggles threaten to 
