@@ -33,11 +33,11 @@ Each player (or group of players) walk through the forest and have an event. Rol
 
 [%header]
 |===
-| Roll  | Effect                                
-| 02-03 | Nothing happens                       
-| 04-05 | You meet an old lady                  
-| 06-07 | You are attacked by a wild boar        
-| 08-09 | You are attacked by a goblin patrol   
+| Roll  | Effect 
+| 02-03 | Nothing happens 
+| 04-05 | You meet an old lady 
+| 06-07 | You are attacked by a wild boar 
+| 08-09 | You are attacked by a goblin patrol 
 | 10-11 | You see a green dragon flying overhead
 | 12-12 | You see a green dragon flying overhead
 |===
@@ -54,7 +54,7 @@ include::{rootdir}/statblocks/rat.adoc[]
 > 
 > 10 years have passed when you return to Kainga. In the center of the town stands a large roadhouse of field stone and rough-hew timbers. Dusk falls and several people come to the Stonehill Inn for food, warmth, and a place to rest. The common room is filled with locals nursing their mugs of ale, wine, or cider. All of them eyeing you with curiosity. One day is much the same as another in this outcrop of civilization. But, looking at you, something tells these people something will be different today. You seat yourself at one of the tables.
 
-The proprietor is a short, friendly young human male named *Toblen Stonehill*. Toblen is a native of the town to the east. He came to Kainga to chop wood, but soon realized that he knew a lot more about running an inn than he did about wood. He has  his wife and children.
+The proprietor is a short, friendly young human male named *Toblen Stonehill*. Toblen is a native of the town to the east. He came to Kainga to chop wood, but soon realized that he knew a lot more about running an inn than he did about wood. He has his wife and children.
 
 The characters' other alternative for lodging is to camp outside the town, or to persuade a farmer such as Daran Edermath or Qelline Alderleaf to let them sleep in a hayloft.
 
@@ -62,7 +62,7 @@ The characters' other alternative for lodging is to camp outside the town, or to
 Describe in-character what they did as profession. + 
 How they look. +
 
-> A man is approaching the table. He has a spring in his step and has short hair parted on one side styled in a somewhat messy styled fashion. He has gruff beard. He seems purposeful and confident in the way he walks.  
+> A man is approaching the table. He has a spring in his step and has short hair parted on one side styled in a somewhat messy styled fashion. He has gruff beard. He seems purposeful and confident in the way he walks. 
 > Hi. I'm Mat. Can I get you anything to drink? to eat?
 > Not many rat catchers coming through Kainga these days.
 
@@ -104,10 +104,10 @@ The characters know about Pasha Lebedev but lost contact with him during their y
 
 Pasha will recognize the band of rat catchers as quickly as anyone, and he won't hesitate to approach his earlier friends to ask for their help. If your players aren't motivated, simply by their sense of justice and duty, you can have Lars point out that their is a standing bounty for goblin ears by order of the mayor. Pasha married Rufina and have a daughter named Bess.
 
-_Pasha_  
-> I do not know where they took her. As he walks the towns dirt road back to his smithy he pleads for your help.  
+_Pasha_ 
+> I do not know where they took her. As he walks the towns dirt road back to his smithy he pleads for your help. 
 
-_DM_  
+_DM_ 
 > "What do you do?". 
 
 Pasha doesn't know where the goblins took his daughter, but he's confident that a competent adventurer can find tracks in the area around his house. While Lars can offer this information to the players if they seem to be feeling stuck, you should give them the chance to propose searching the crime scene on their own. You can simply narrate the journey from the Stonehill Inn to the' Smithy, describing the dirt road and the trees that dot the path. 
@@ -121,7 +121,7 @@ You can even have Pasha nudge them and ask, "do you see any tracks?". Here is yo
 
 ==== A. Treasury map
 
-> As you make your way into the dense forest trying to keep the map synchronized with the path. The map depicts the forest, showing various landmarks and obstacles in the area.  The darkness has become too great to navigate or see in the forest any further. You find a small clearing and set up camp.
+> As you make your way into the dense forest trying to keep the map synchronized with the path. The map depicts the forest, showing various landmarks and obstacles in the area. The darkness has become too great to navigate or see in the forest any further. You find a small clearing and set up camp.
 
 ==== B. Blacksmith's Daughter
 
@@ -231,9 +231,9 @@ include::{rootdir}/statblocks/goblin.adoc[]
 
 As long as they are not in the cult leader's field of view they are undetected. As soon as the PC's come into view:
 
->In the center of this cavernous room, between a stone altar and a cracked statue of a demonic entity, you can see a decrepit man in gold threaded cloak, flanked by two watchful goblins. On the altar is a dissected cadaver that he gleefully stuffs  with green glowing slime. 
+>In the center of this cavernous room, between a stone altar and a cracked statue of a demonic entity, you can see a decrepit man in gold threaded cloak, flanked by two watchful goblins. On the altar is a dissected cadaver that he gleefully stuffs with green glowing slime. 
 >
->As he notices your presence, he looks up, points his finger at you and says "Can't wait to become Whirotepua's followers, do you? Come, let me reward  your enthusiasm!"  
+>As he notices your presence, he looks up, points his finger at you and says "Can't wait to become Whirotepua's followers, do you? Come, let me reward your enthusiasm!" 
 >
 >He flips the lever to his left down and the door to the exit slides down. He then pulls up a green skull talisman out his robe. The zombies resting in the depression of the cave wall starts to stir. 
 
@@ -374,7 +374,7 @@ The statue of Delius has an inscription at the base, it reads: If you are to kee
 
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
 !===
-^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! *STR* ^! *DEX* ^! *CON* ^! *INT* ^! *WIS* ^! *CHA*
 ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
 !===
 
@@ -385,7 +385,6 @@ The statue of Delius has an inscription at the base, it reads: If you are to kee
 The true resting place of the Delian Order, hidden away behind the Hall of the Oathkeeper. Inside, there are six sarcophagi bearing the resemblances of their knights they hold. As well as a much larger, more elaborately carved sarcophagus at the center, bearing the form of Lord Delius. Each of the sarcophagi have the names of their occupants etched at their feet. There is a journal, mostly rotted away, laying atop Delius' sarcophagus. It is written in Common, and what can be read explains the origin of the Delian Order and their purpose. There are also a number of potions of healing scattered about the tomb, left as offerings to the Order long ago.
 
 If any character attempts to open a sarcophagi, they will disturb the spirits of the Delian Order. Righteous skeletons will emerge from the sarcophagi, eager to expel the desecrators from their tomb. One exception being, in the event that the character who attempts to open a sarcophagi is a Paladin who has sworn the Delian Oath, for they are a member of the Delian Order. The treasures are theirs by holy right! Each sarcophagi holds chainmail, as well as a longsword, and a shield bearing the Coat of Arms of the Delian Order. Delius' sarcophagus hold chainmail, and a shield bearing the Delian crest, as well as the Golbin Slayer Longsword.
-
 
 [cols="2a,4a",grid=rows,frame=none]
 |===
@@ -401,8 +400,8 @@ If any character attempts to open a sarcophagi, they will disturb the spirits of
 
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
 !===
-^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
-^! 10 (*+0*) ^! 14 (*+2*) ^! 15 (*+2*) ^!  6 (*-2*) ^!  8 (*-1*) ^!  5 (*-3*)
+^! *STR* ^! *DEX* ^! *CON* ^! *INT* ^! *WIS* ^! *CHA*
+^! 10 (*+0*) ^! 14 (*+2*) ^! 15 (*+2*) ^! 6 (*-2*) ^! 8 (*-1*) ^! 5 (*-3*)
 !===
 
 Damage Vulnerabilities bludgeoning
@@ -496,6 +495,8 @@ Gudrun has a haphazard mix of goods in his cart. He has some bolts of wool and c
 
 === The Forest Road
 
+image::{homedir}/assets/maps/silverpine_2_road_combat_custom.png[align=center]
+
 > Silverpine Forest is a heavy, mixed-growth forest covering the Aster river valley and the foothills of upper Asternia north-west of Loukotokia. In the lowlands, the forest is thick with broadleaf trees like willows, alders, poplars, and oaks interspersed with evergreen spruces and the whitebark pines from which the forest gets its name. In the uplands, where most of this part of the adventure takes place, the terrain consists of rough, forested hills. There are fewer shrubs and ground cover here, fewer broadleaf trees, and more evergreens.
 
 > It is springtime. The broadleaf trees are bare or budding. The road is muddy from rain and snow melt. The party passes streams and rivulets frequently. The forest’s natural fauna is active, but skittish and Gundren's cart is noisy. The party might see robins, sparrows, or finch-es in the trees or hear a woodpecker tapping away. They might startle a rabbit or pheasant or catch sight of a red deer darting away between the trees. At night, they might hear the cries of owls or night thrushes or the distant howls of wolves.
@@ -512,29 +513,26 @@ North and laid waste to all in their path and the location of Wave Echo Cave was
 === The Accident
 
 > It is mid-afternoon. The weather is gray and chilly and the road muddy. Gundren is driving Mist and Dapple at a comfortable walking 
-pace and keeps talking about Echo Cave. When you round a bend in the road and Dapple and Mist give a frightened whinnies and rear up. The cart lurches as the veer sharply for the side of the road. The cart stops suddenly when its wheel becomes stuck in a muddy rut at the side of the road. Dapple and Mist scream and struggle against the cart. Gundren is thrown of the cart and strikes his head and falls unconscious.
+pace and keeps talking about Echo Cave. When you round a bend in the road Dapple and Mist suddenly give a frightened whinnies and rear up. The cart lurches as the veer sharply for the side of the road. The cart suddenly stops when its wheel becomes stuck in a muddy rut at the side of the road. Dapple and Mist scream and struggle against the cart. Gundren were thrown of the cart and strikes his head and falls unconscious. 
+
+*When the horses are calm, Gundren is stable or conscious, and the cart is free, the encounter is over.*
 
 Based on the travel order, decide which way the cart lurches such that it threatens to strike at least one hero. It is most likely to strike heroes walking alongside it, but if there is no one beside the cart, it hits a hero ahead of it. 
 
 Both the unconscious halfling and the panicked horses are emergencies. The heroes should not ignore them. If the heroes seem unsure of what to do, if they are slow to act, or if they ignore either problem, describe how the horse’s struggles are damaging the cart or how Gundren is not moving and she is getting paler by the moment.
 
-****
-
-
 TIP: [small]#After you call for action, wait for one of the players to describe their hero’s action. Do not resolve the action right away. Instead, repeat it to the party. Then ask the other players what they would like to do at the same time. “Alice’s character is tending to Oona. Bob, does your character do something while she’s doing that?” Note what each hero is doing. Once everyone is doing something, or they have declined to take action, resolve each player’s action in turn. Then, ask for a new round of actions.#
 
-****
+==== Call for action
 
-*Call for action*
-
-* *EMERGENCY* Avoid being struck
-* *EMERGENCY* Gundren is laying motionless in the road. Blood is pooling around her head. She might have a serious injury and will need help quickly.
-* *EMERGENCY* Dapple and Mist are struggling against their harnesses; the cart is creaking and groaning. If they are not calmed quickly, they might break the harnesses or hurt themselves.
-
+* _EMERGENCY_: Avoid being struck
+* _EMERGENCY_: Gundren is laying motionless in the road. Blood is pooling around her head. She might have a serious injury and will need help quickly.
+* _EMERGENCY_: Dapple and Mist are struggling against their harnesses; the cart is creaking and groaning. If they are not calmed quickly, they might break the harnesses or hurt themselves.
 * The snake? There is no obvious sign of anything that might have panicked the horses.
 * The cart’s wheel is stuck in a muddy rut at the edge of the road. Until it is freed, there is no going anywhere.
 
-*Avoid being struck DC-11*
+==== Avoid being struck
+*DC of 11*
 
 * Gundren and any hero riding on the cart are thrown off
 * Any hero riding on the cart is thrown from the cart as well.
@@ -542,173 +540,110 @@ TIP: [small]#After you call for action, wait for one of the players to describe
 Heroes struck can dodge the cart Dexterity Saving Throw DC 11. +
 Failure: The hero is clipped by the cart and takes 1d4 bludgeoning damage.
 
-*The Snake*
+==== The Snake
 
+A common adder was basking in the road. The heroes overlooked it due to its camouflage and the horses nearly stepped on it. The snake is afraid of the party and easily driven off, so it will not attack unless a hero gets too close without seeing it and startles it. Then the snake will strike before slithering away. The snake is not a dangerous combatant, they can kill the snake without issue.
 
+* *Wisdom (Perception)* «Passive» DC of 18 The hero spots the motionless, gray-and-brown snake in the road.
+* *Intelligence (Nature)* «No Action» DC of 12 The snake is a common adder. The snake is two feet long, two inches thick. It’s pebbly skin is mottled gray and brown. It was probably just trying to warm itself when the horses nearly stepped on. The snake is venomous, but not deadly to humanoids.
 
-A common adder was basking in the road. The heroes overlooked it due to its camouflage and the horses nearly stepped on it. The snake is still there, staying quite still, waiting for the threat to pass. The snake is afraid of the party, so it will not attack unless a hero gets too close and startles it. The snake is two feet long, two inches thick. It’s pebbly skin is mottled gray and brown. If a hero looks around carefully, they might spot the snake: 
+TIP: Grant rangers or druids advantage on the check to identify it.
 
-Wisdom (Perception) «Passive» DC 18 The hero spots the motionless, gray-and-brown snake in the road. The hero can call the party’s attention to the snake, so they all know where it is.
-
-A proficient hero who sees the snake might identify it. Grant rangers or druids advantage on the check to identify it.
-
-Intelligence (Nature) «No Action» DC 12 The snake is a common adder. It was probably just trying to warm itself when the horses nearly stepped on. It is unlikely to strike unless someone gets too close to it. The snake is venomous, but not deadly to humanoids. A loud noise or a thrown object will likely frighten it off. The snake is easily driven off, but if a hero gets too close it, the snake will strike before slithering away. 
-
-If the heroes fail to spot the snake, the next hero who moves in the road — to tend the horses or see to Oona for example — gets caught by surprise and bitten by the snake. If one of the heroes tries to kill the snake, you can let them kill the snake without issue. The snake is not a dangerous combatant.
-
-The Snake’s Bite
-If the snake strikes at one of the heroes, they take 1 piercing 
-damage and might be damaged by the snake’s venom:
-Constitution Saving Throw DC 11 The hero resists the 
-snake’s venom. Failure: The hero succumbs and suffers 
-1d4 poison damage.
-If a hero examines the wound from the snake’s bite, they can 
-determine the following:
-Wisdom (Medicine) «Requires Proficiency» DC 11 The 
-bite is swollen and painful, but not life threatening. The 
-swelling should go down soon, and the bitten hero will not 
-suffer any long-term effects.
-
-
-
-
-Calming the Horses
-Dapple and Mist are panicking. Their struggles threaten to 
-break their harness, damage the cart, or injure them. If the 
-heroes ignore the horses, describe the creaks and groans 
-coming from the cart. Make it seem like an emergency.
-If Oona is conscious, she can calm Dapple and Mist automatically. No ability check is needed. Anyone else can attempt to soothe the horses:
-Wisdom (Animal Handling) «Advantage: Offering Horse 
-Apple or Other Food» «Disadvantage: The Snake Has 
-not Been Driven Off» DC 10 Dapple and Mist stop struggling and calm down. Failure The horses continue to thrash 
-and struggle.
-
-The heroes can try repeatedly to calm the horses. Each time 
-a hero fails, though, describe the strain on the harness or 
-cart. Make it seem as if something is going to break at any 
-moment. If this were not a tutorial encounter, there would 
-be long-lasting consequences for failure.
-If the players come up with any clever ideas to help calm the 
-horses, grant advantage on the ability check.
-
-Tending to Oona
-Oona struck her head as she fell from the cart. She is unconscious and bleeding from a cut in her head. Anyone next to 
-her can tell that much.
-Once one of the heroes has checked on Oona, roll a d20 
-where the players cannot see the result, make a grim face, 
-and make a note on your scratch paper. Pretend Oona is 
-making death saving throws and use the opportunity to explain how death saves work. Do not actually keep track of 
-the results, though. Since this is a tutorial encounter, Oona 
-cannot actually die.
-After you have made a death saving throw for Oona, make 
-another one each time the party takes a round of actions. 
-Keep track of how many saving throws you have made. After 
-Oona makes five death saving throws, she stabilizes on her 
-own.
-
-Anyone can treat Oona’s wound and stop the bleeding:
-Wisdom (Medicine) «Automatic Success: Healer’s Kit» 
-DC 10 Oona is stabilized. She stops bleeding and no longer 
-makes death saving throws.
-Stabilizing Oona does not return her to consciousness. Tell 
-the hero stabilizing her that Oona will probably regain consciousness in an hour or two.
-If one of the players asks about using a healing spell—the 
-cleric has cure wounds and the bard can cast healing word—
-explain how spellcasting works if you have not already, then 
-let them do so. Any healing restores Oona to consciousness.
-Searching the Cart
-It might occur to the heroes to root through Oona’s cart and 
-look for something to help them deal with the situation.
-Wisdom (Perception) DC 10 The hero turns up either a 
-small bag of lumpy green horse apples or a healer’s kit. Determine which randomly unless the hero specified they were 
-looking for medical supplies or feed for the horses. A second 
-search will yield the other item if successful.
-The heroes can keep the healer’s kit. If the heroes ask Oona 
-about it, she will gladly let them have it. It contains enough 
-salves, poultices, and bandages to stabilize a dying character 
-automatically nine more times. But, make a note if the party 
-keeps the kit without mentioning it to Oona.
-Freeing the Cart
-The cart’s wheel is stuck in a muddy ditch at the side of the 
-road.
-One or more of the heroes can push the cart free:
-Strength «Advantage: Multiple Heroes Work Together» 
-«Disadvantage: The Horses Are Still Panicked» DC 20
-The cart’s wheel is freed from the muddy rut.
-If the horses are calm, they can pull the cart free:
-Charisma (Handle Animal) «Advantage: Offered Horse 
-Apple or Similar Food» DC 10 The horse’s pull the cart 
-free of the muddy rut.
-Move On
-When the horses are calm, Oona is stable or conscious, and 
-the cart is free, the encounter is over. If Oona is unconscious, suggest that the party take a short a rest to recover 
-themselves and to allow Oona to regain consciousness.
-If Oona is conscious, she will suggest the party rest for an 
-hour. She is still shaken from her fall.
-If the players agree to rest, move on to B4 A Short Rest.
-If the players do not want to rest, do not force them too. 
-They might want to lay Oona’s unconscious body in the cart 
-and drive it themselves. Or they might refuse Oona’s orders 
-to rest, in which case she will grudgingly carry on but her 
-disposition toward the party will suffer.
-If the party does not rest, wait until the first time they have a 
-battle in Part C Silverpine Watch to teach them about short 
-rests. Skip ahead to B5 Feral Dogs. Note of who is driving 
-the cart if Oona is unconscious.
-
-A Short Rest
-xxx
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A common adder was basking in the road. The heroes overlooked it due to its camouflage and the horses nearly stepped on it. The snake is still there, staying quite still, waiting for the threat to pass. The snake is afraid of the party, so it will not attack unless a hero gets too close and startles it.The snake is two feet long, two inches thick. It’s pebbly skin is mottled gray and brown.
-
-
+If a hero examines the wound from the snake’s bite, they can determine the following: Wisdom (Medicine) «Requires Proficiency» DC 11 the bite is swollen and painful, but not life threatening. The swelling should go down soon, and the bitten hero will not suffer any long-term effects.
 
 include::{rootdir}/statblocks/snake_poisonous.adoc[]
 
+==== Calming the horses
+
+Dapple and Mist are panicking. Their struggles threaten to break their harness, damage the cart, or injure them. If the heroes ignore the horses, describe the creaks and groans coming from the cart. Make it seem like an emergency.
+
+If Gundren is conscious, he can calm Dapple and Mist automatically. No ability check is needed.
+
+* *Wisdom (Animal Handling)* +
+«Advantage: offering the horses an apple or other food» +
+«Disadvantage: The Snake has not Been Driven Off» +
+DC 10 Dapple and Mist stop struggling and calm down. +
+Failure The horses continue to thrash and struggle.
+
+Each time the heroes fail describe the increased strain on the harness or cart. After 3 failed attempts they brake the equipment and escape in the forest. Easy Skill Challenge: 4 Successes over 3 failures allowed.
+
+====
+
+Objective:
+
+    This represents their efforts in finding and calming down their horses in the forest.
+    Success: they lose a few hours but can continue their journey.
+    Failure: they lose the horses and must leave the cart.
+
+Rules:
+
+    The heroes can't use the same skill twice in a row.
+    The heroes can't use the same skill that another hero has just used.
+    The heroes need to accumulate 4 Successes over 3 failures allowed.
+
+Sample Skill Checks:
+
+    Survival: The heroes track the hoofprints and signs of their horses through the underbrush.
+    Nature: The heroes recognize signs of horse behavior in the forest and can predict their likely paths.
+    Animal Handling: The heroes successfully calm a frightened forest animal, which in turn reveals the direction the horses headed.
+    Perception: The heroes spot a glint of sunlight on a horse's tack deep within the forest.
+    Investigation: The heroes discover broken branches and disturbances indicating a path the horses might have taken.
+    Acrobatics: The heroes navigate through tricky terrain to reach a clearing where they may be able to spot their horses.
+    Persuasion: The heroes find a local hermit who claims to have seen the horses and provides information on their whereabouts.
+    Arcana: The heroes sense a magical disturbance in the forest and surmise that their horses were drawn to it.
+    Stealth: The heroes move silently through the forest, avoiding spooking the horses while searching.
+    Medicine: The heroes come across a hurt animal and, by tending to it, gain its trust, leading it to reveal the horses' location.
+
+include::{rootdir}/compendium/wiki/difficulty_check_chart.adoc[]
+
+====
+
+==== Tending to Gundren
+
+If a hero goes to tend to Gundren wounds
+> Gundren struck his head as he fell from the cart. He is unconscious and bleeding from a cut on his head. 
+
+* *Wisdom (Medicine)* +
+«Automatic Success: Healer’s Kit» +
+DC 10 and Gundren is stabilized and stops bleeding and no longer makes death saving throws. +
+Stabilizing Oona does not return her to consciousness! Throw a 1d4 to see when Gundren regains consciousness.
+
+Once one of the heroes has checked on Gundren, roll a d20 where the players cannot see the result, make a grim face, and make a note on your scratch paper. Gundren is making death saving throws. Make another one each time the party takes a round of actions. After Gundren makes five death saving throws, he dies.
+
+Do not actually keep track of the results, though. Since this is a tutorial encounter, Oona cannot actually die.After you have made a death saving throw for Oona,  Keep track of how many saving throws you have made. 
+
+==== Searching the Cart
+
+It might occur to the heroes to root through Gundren's cart and look for something to help them deal with the situation.
+
+*Wisdom (Perception) DC 10* +
+The hero turns up either a small bag of lumpy green horse apples or a healer’s kit. Determine which randomly unless the hero specified they were looking for medical supplies or feed for the horses. A second search will yield the other item if successful.
+
+The heroes can keep the healer’s kit. If the heroes ask Gundren about it, she will gladly let them have it. +
+But, make a note if the party keeps the kit without mentioning it to Gundren.
+
+==== Freeing the Cart
+
+The cart’s wheel is stuck in a muddy ditch at the side of the road. One or more of the heroes can push the cart free:
+
+*Strength* +
+«Advantage: Multiple Heroes Work Together» +
+«Disadvantage: The Horses Are Still Panicked» DC 20 +
+The cart’s wheel is freed from the muddy rut. If the horses are calm, they can pull the cart free:
+
+*Charisma (Handle Animal)* +
+«Advantage: Offered Horse Apple or Similar Food» DC 10 The horse’s pull the cart free of the muddy rut.
+
+==== Move On
+
+*When the horses are calm, Gundren is stable or conscious, and the cart is free, the encounter is over.*
+
+If Gundren is conscious, he suggests the party rest for an hour.  +
+If the party does not rest, note of who is driving the cart if Gundren is unconscious.
+
+=== A Short Rest
 
 
-include::{rootdir}/statblocks/wolf.adoc[]
-
-
-
-
-
-
-
-
-
-
-
-* *Wisdom (Perception)* «Passive» DC 18 The hero spots the motionless,  gray-and-brown  snake  in  the  road.
-* *Intelligence  (Nature)*  «No  Action»  DC  12  The  snake  is  a  common  adder.  It  was  probably  just  trying  to  warm  itself  when  the  horses  nearly  stepped  on.
-
-The snake is easily driven off, but if a hero gets too close it, the snake will strike before slithering away. If the heroes fail to spot the snake, the next hero who moves in the road — to tend the horses or see to Oona for example — gets caught by surprise and bitten by the snake.
 
 
 
@@ -727,3 +662,34 @@ The snake is easily driven off, but if a hero gets too close it, the snake will 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TIP]
+It's possible to use Unicode glyphs as admonition icons.
+
+The rendered style of an admonition is determined by the assigned type (i.e., name). The AsciiDoc language provides five admonition types represented by the following labels: +
+ NOTE +
+ TIP +
+ IMPORTANT +
+ CAUTION +
+ WARNING +
