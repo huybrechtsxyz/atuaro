@@ -610,7 +610,7 @@ Stabilizing Oona does not return her to consciousness! Throw a 1d4 to see when G
 
 Once one of the heroes has checked on Gundren, roll a d20 where the players cannot see the result, make a grim face, and make a note on your scratch paper. Gundren is making death saving throws. Make another one each time the party takes a round of actions. After Gundren makes five death saving throws, he dies.
 
-Do not actually keep track of the results, though. Since this is a tutorial encounter, Oona cannot actually die.After you have made a death saving throw for Oona,  Keep track of how many saving throws you have made. 
+Do not actually keep track of the results, though. Since this is a tutorial encounter, Oona cannot actually die.After you have made a death saving throw for Oona, Keep track of how many saving throws you have made. 
 
 ==== Searching the Cart
 
@@ -638,12 +638,97 @@ The cart’s wheel is freed from the muddy rut. If the horses are calm, they can
 
 *When the horses are calm, Gundren is stable or conscious, and the cart is free, the encounter is over.*
 
-If Gundren is conscious, he suggests the party rest for an hour.  +
+If Gundren is conscious, he suggests the party rest for an hour. +
 If the party does not rest, note of who is driving the cart if Gundren is unconscious.
 
-=== A Short Rest
+=== A Short Rest?
+*Optional*
+
+After being thrown from the cart, Gundren is either unconscious or shaken and several of the heroes might be hurt. 
+
+* If a hero was bitten by the snake, remind them about the painful, swollen wound.
+* If a hero was thrown from or struck by the cart, remind them of their bumps and bruises.
+* Remind the party of Gundren status; is she fully healed, conscious, or unconscious.
+* The horses are browsing in the roadside brush; they look around nervously?
+
+*Nervous Horses*
+The horses are still shaken from their panic, but they are also aware of the pack of feral dogs stalking through the un-derbrush nearby. As you set the scene and describe the short rest, mention their nervousness a couple of times in pass-ing. Subtle repetition of important details is a helpful way of foreshadowing current events.If a hero tries to soothe the horses, resolve the action with an ability check. If the players decide to look around, skip the short rest and move on to B5 Feral Dogs.
+
+*Short Rest*
+
+====
+A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
+
+A character can spend one or more Hit Dice at the end of a short rest, up to the character’s maximum number of Hit Dice, which is equal to the character’s level. For each Hit Die spent in this way, the player rolls the die and adds the character’s Constitution modifier to it. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a long rest, as explained below.
+
+Player’s Handbook, pg. 186 
+====
+
+If Oona is conscious, interact with the heroes and try to start a conversation while everyone is resting. If no one wants to talk, stretch out the rest with some narration. Describe the forest scene, describe the characters tending their wounds or eating rations, the horses being nervous, that sort of thing.
+
+*Move On*
+
+After the party completes the short rest, Gundren climbs into the back of the cart to check her goods before the party resumes their travels. The heroes take up their positions in the travel order. If the party claimed the healer’s kit in The Accident,  he notices that it is gone. She does not say anything, but her disposition toward the party is diminished. After checking her goods, Oona climbs onto the cart’s bench and snaps the reigns, but Dapple and Mist just whinny nervously.
+
+TIP: There is an art to foreshadowing. If you want the players to notice something, say it thrice
+
+=== Feral Dogs
+
+While the party tries to get moving, a pack of hungry, feral dogs emerge from the underbrush ahead of the party. The desperate dogs attack.
+Gundren keeps the horses under control. If Gundren is unconscious, some-one else will have to keep the horses from panicking.
+ Remind the players that Gundren is either on the cart’s bench or unconscious in the cart » Remind each player of their hero’s location in the travel order.
 
 
+, allowing you to teach the players how combat is resolved. After you call for action, ask the players to roll for initiative while you roll once for the entire pack of dogs.You can use the Map 2 Silverpine Road Combat Map in Appendix C to run this encounter, you can create your own map on 
+an erasable mat or grid, or you can run the fight narratively without visual aids.W
+
+hile the heroes are fighting the feral dogs in the road,  After the heroes defeat or drive off the dogs, the encounter is resolved.
+Set the Scene » This encounter follows immediately from B4 A Short Rest »
+
+Call for Action » Up the road, the underbrush rustles. » Three dogs emerge from the brush; they are large, but skinny, mangy, and scarred. » The dogs waste no time and begin advancing on the party. » Intelligence (Nature) «No Action» «Proficiency Required» DC 10 The dogs look like hunting dogs gone feral. Their master must have died or abandoned them, and they have been struggling to survive in the wild. They are not powerful, but they’re desperate enough to attack the party.
+The Feral DogsThe three feral dogs, whose statistics are found in 
+Appendix A, attack relentlessly. They are starving and mad 
+and will fight to the death.
+The dogs emerge onto the road 30 feet ahead of the heroes.If you are not comfortable with the idea of the heroes killing starving dogs, keep the dogs alive at 0 hit points and have 
+them flee.
+The dogs are no longer domesticated; they have gone feral. They are starving, and they attack immediately. They are not likely to respond to attempts to calm them. However, if one of the players comes up with a clever plan to calm the dogs or drive them off, resolve it using your own best judgment.
+The feral dogs focus all their attention on the heroes. Unless 
+the heroes ignore them completely, they will not go after Gundren or the horses.
+The RoadThe road is a dirt track overgrown with weeds here. It is about 10 feet wide. Scattered trees by the roadside can pro-vide cover. Thick underbrush grows between the trees which 
+constitutes difficult terrain.
+You can use Map 2 Silverpine Forest Combat Map in 
+Appendix C to represent the battlefield.
+GundrenDo not roll initiative for Gundren. Instead, assume he acts last every round. Gundren uses her turn in combat to keep Dapple and Mist from panicking.
+The HorsesThe feral dogs frighten Gundren’s horses, Dapple and Mist. Someone must keep Dapple and Mist under control, or else the horses will bolt.If no one tries to keep the horses under control or the at-tempt to control them fails, the horses panic. When the horses panic, describe their attempts to break free and run as you did in B3 The Accident. Make it seem like the har-nesses are going to break any moment, or the horses are go-ing to bolt, or one of the horses is going to get hurt. Make it seem urgent. But do not actually have anything happen unless you want to.If Gundren is conscious, he uses her action each turn to control the horses. No ability check is needed.
+f Gundren is unconscious, any hero can use an action on their turn to keep the horses from panicking that round:
+Charisma (Handle Animal) DC 10 The horses are kept from panicking for one round. Failure: The horses panic.If the players are ignoring the horses and you feel up to im-provising, have the horses bolt, trampling the heroes and 
+the dogs on the road ahead. Use Dexterity saving throws 
+to see who can dodge out of the way and apply appropri-ate damage to anyone who does not. If one of the heroes 
+gives chase, they can catch up to the cart. Use ability checks 
+to see if they can jump onto the cart and regain control as appropriate. If the heroes do not catch the cart themselves, Dapple and Mist eventually calm down and come to a stop further up the road.
+Move OnOnce the last dog is dead or driven off, silence falls over the road. Although it is only mid-afternoon, the shadow of the forest hangs over the road. A frustrated Gundren suggests that the party just make camp for the night and start fresh in the morning and he will brook no argument this time. When the party is ready to rest for the night, move on to 
+B6 Making Camp.Feral DogMedium beast, unaligned
+Armor Class 12
+Hit Points 18 (4d8)
+Speed 30 ft.
+STR
+10 (+0)
+DEX
+14 (+2)
+CON
+10 (+0)
+INT
+3 (-4)
+WIS
+12 (+1)
+CHA
+7 (-2)
+Skills Perception +3
+Senses passive Perception 13
+Languages —
+Challenge 1/8 (25 XP)
+Keen Hearing and Smell. The feral dogs has advantage on Wisdom (Perception) rolls that rely on hearing or smell.
+ActionsBite. Melee Weapon Attack: +2 to hit, reach 5 ft., one tar-get. Hit: 4 (1d4 + 2) piercing damage.In the medieval world, dogs were ubiquitous. Mer-chants and travelers kept dogs with them to protect them on the road and guard their camp. Families kept dogs to guard their homes. And even though most monasteries and convents forbade the prac-tice, monks and nuns frequently kept dogs. Dogs provided security, helped people hunt, and even helped control pests. And in the 13th Century, it even became the vogue among noblewoman to keep small, ornamental dogs.Dogs were prized for their loyalty above all other qualities. But life in the medieval world was nas-ty, brutish, and short. When a dog's owner died, it had no choice but to fend for itself. Feral dogs often formed packs and became a danger to travelers
 
 
 
