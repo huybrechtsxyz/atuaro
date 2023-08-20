@@ -11,6 +11,9 @@
             "url": "https://github.com/huybrechtsxyz/"
         }
     ],
+    "url": "https://github.com/huybrechtsxyz/atuaro",
+    "bugs": "https://github.com/huybrechtsxyz/atuaro/issues",
+    "allowBugReporter": true,
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "9",
     "compatibility": {
