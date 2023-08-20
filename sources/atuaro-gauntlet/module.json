@@ -1,0 +1,90 @@
+{
+    "id": "atuaro-gauntlet",
+    "name": "atuaro-gauntlet",
+    "title": "Atuaro: Picking up the Gauntlet",
+    "description": "Our heroes return after 10 years to Kainga and notice that things are changed. The orphanage burned down and there is no sight of Ms Witchling or the offspring. Recently, there has been an in influx of goblins in the region and some of the foul creatures have even begun attacking the farms in the outskirts of the village of Kainga.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Vincent Huybrechts",
+            "discord": "FatherPrime",
+            "url": "https://github.com/huybrechtsxyz/"
+        }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "0.8.6",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "module-actors",
+            "label": "Atuaro Actors",
+            "path": "./packs/actors.db",
+            "entity": "Actor",
+            "type": "Actor",
+            "system": "dnd5e"
+        },
+        {
+            "name": "module-creatures",
+            "label": "Atuaro Creatures",
+            "path": "./packs/creatures.db",
+            "entity": "Actor",
+            "type": "Actor",
+            "system": "dnd5e"
+        },
+        {
+            "name": "module-items",
+            "label": "Atuaro Items",
+            "path": "./packs/items.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "module-scenes",
+            "label": "Atuaro Scenes",
+            "path": "./packs/scenes.db",
+            "entity": "Scene",
+            "type": "Scene"
+        },
+        {
+            "name": "module-journal-entries",
+            "label": "Atuaro Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "module-macros",
+            "label": "Atuaro Macros",
+            "path": "./packs/macros.db",
+            "entity": "Macro",
+            "type": "Macro"
+        },
+        {
+            "name": "module-roll-tables",
+            "label": "Atuaro Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "entity": "RollTable",
+            "type": "RollTable"
+        },
+        {
+            "name": "module-playlists",
+            "label": "Atuaro Playlists",
+            "path": "./packs/playlists.db",
+            "entity": "Playlist",
+            "type": "Playlist"
+        },
+        {
+            "name": "module-adventures",
+            "label": "Atuaro Adventures",
+            "path": "./packs/adventures.db",
+            "entity": "Adventure",
+            "type": "Adventure"
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/huybrechtsxyz/atuaro/main/sources/atuaro-gauntlet/module.json",
+    "download": "https://raw.githubusercontent.com/huybrechtsxyz/atuaro/main/sources/atuaro-gauntlet/atuaro-gauntlet.zip"
+  }
