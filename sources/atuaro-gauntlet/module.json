@@ -20,7 +20,7 @@
     "packs": [
         {
             "name": "module-actors",
-            "label": "Atuaro Actors",
+            "label": "Gauntlet Actors",
             "path": "./packs/actors.db",
             "entity": "Actor",
             "type": "Actor",
@@ -28,7 +28,7 @@
         },
         {
             "name": "module-creatures",
-            "label": "Atuaro Creatures",
+            "label": "Gauntlet Creatures",
             "path": "./packs/creatures.db",
             "entity": "Actor",
             "type": "Actor",
@@ -36,7 +36,7 @@
         },
         {
             "name": "module-items",
-            "label": "Atuaro Items",
+            "label": "Gauntlet Items",
             "path": "./packs/items.db",
             "entity": "Item",
             "type": "Item",
@@ -44,42 +44,42 @@
         },
         {
             "name": "module-scenes",
-            "label": "Atuaro Scenes",
+            "label": "Gauntlet Scenes",
             "path": "./packs/scenes.db",
             "entity": "Scene",
             "type": "Scene"
         },
         {
             "name": "module-journal-entries",
-            "label": "Atuaro Journal Entries",
+            "label": "Gauntlet Journal Entries",
             "path": "./packs/journal-entries.db",
             "entity": "JournalEntry",
             "type": "JournalEntry"
         },
         {
             "name": "module-macros",
-            "label": "Atuaro Macros",
+            "label": "Gauntlet Macros",
             "path": "./packs/macros.db",
             "entity": "Macro",
             "type": "Macro"
         },
         {
             "name": "module-roll-tables",
-            "label": "Atuaro Roll Tables",
+            "label": "Gauntlet Roll Tables",
             "path": "./packs/roll-tables.db",
             "entity": "RollTable",
             "type": "RollTable"
         },
         {
             "name": "module-playlists",
-            "label": "Atuaro Playlists",
+            "label": "Gauntlet Playlists",
             "path": "./packs/playlists.db",
             "entity": "Playlist",
             "type": "Playlist"
         },
         {
             "name": "module-adventures",
-            "label": "Atuaro Adventures",
+            "label": "Gauntlet Adventures",
             "path": "./packs/adventures.db",
             "entity": "Adventure",
             "type": "Adventure"
