@@ -1,0 +1,76 @@
+ifndef::homedir[]
+:homedir: .
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Sir Einrik Arpaad’s Ghost*#
+| [small]#Medium undead, chaotic evil (CR 2 for 450 XP)#
+
+| *Roleplay*
+|
+*Portraying the Ghost*: +
+Unless the party decides to talk to the ghost when they confront it in Area 25 Sir Arpaad’s Room, you do not have to do much to portray the ghost. But you can make the ghost a more complex character if you wish, extending the encounter in C1 Entry Hall or adding periodic encounters with it.
+
+While portraying the ghost, remember that it thinks it is Sir Arpaad, but it is not. It does not remember Arpaad’s life in detail. It barely remembers the events that led to Arpaad’s death and it is deeply ashamed of them. And it is confused about everything. The ghost cannot give any straight answers and is only concerned with two things: its guilt over Arpaad’s crimes and its fear that Arpaad’s proud family name will be dishonored by his terrible acts.
+
+*The Ghost’s Presence:* +
+Ghosts exude an aura of cold and darkness. Consequently, whenever the ghost is nearby, the heroes feel a noticeable chill in the air and any light sources they are using, including light spells, are slightly diminished. The effect is small, but noticeable and has no effect on the rules.
+
+All the rooms of Sir Arpaad’s suite (Area 22 Sir Arpaad’s Solar, C23 Sir Arpaad’s Study, and Area 24 Sir Arpaad's Room) are chilly and dark as a result of the ghost’s presence in the knight’s room. After the ghost has been destroyed or put to rest, the effect ends.If you have raised the stakes as described below and the ghost is wandering the Watch, use the sudden temperature and lighting changes to foreshadow the ghost’s arrival.
+
+| image::{homedir}/assets/tokens/npc_sir_arpaad.png[]
+
+|
+*Armor Class* 12 +
+*Hit Points* 44 (8d8+8) +
+*Speed* 0 ft., fly 40 ft. (hover) +
+*Proficiency* +0 +
+*Initiative* +0 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  1 (*-5*) ^! 14 (*+2*) ^! 11 (*+1*) ^! 10 (*+0*) ^! 11 (*+0*) ^! 16 (*+3*)
+!===
+
+Senses darkvision 60 ft., passive Perception 10 +
+Languages Common, Sund
+
+| *Actions* | 
+*Grave Touch.* +
+Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) necrotic damage.
+
+*Telekinetic Barrage (Recharge 5 - 6).* +
+The ghost launches a barrage of objects, debris, and furniture before it. Each creature in a 15-foot cube originating from the ghost 
+must make a Constitution saving throw (DC 13), taking 10 (3d6) bludgeoning damage on a failed save and half as much on a successful one. Creatures that fail their saving throw are also pushed 10 feet away from the ghost.
+
+*Shriek (Recharges after Short or Long Rest).* +
+The ghost issues an unearthly howl of pain and rage. All creatures within 60 feet that can hear the ghost must succeed on a Wisdom saving throw (DC 13) or take 7 (2d6) psychic damage and become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+| *Abilities* | 
+
+* Damage Vulnerabilities force
+* Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+* Damage Immunities necrotic, poison
+* Condition Immunities grappled, poisoned, prone, restrained
+
+| *Traits* |
+*Incorporeal Movement.* +
+The ghost can move through creatures and objects as if they were difficult terrain. If it ends its turn inside an object or creature, it takes 5 (1d10) force damage.
+
+2+| *About Einrik Arpaad* + 
+In life, Einrik Arpaad was just, honorable, and fair. He came from a proud family and valued his family’s honor and reputation highly. Sir Arpaad was not warm or friendly. His men respected him, but they did not particularly like him.
+
+*About the curse* +
+When Sir Arpaad handled the serpentine dagger, the curse that had claimed Berengar the Backstabber centuries ago took hold. He stove the priest’s head in, claimed the dagger, and hid Wulfram’s body in his room. Arpaad was wracked with guilt after the incident. He did not know why he had done what he had done. He was afraid that someone would find out and use it to strip him of his knighthood and dishonor his family. When Marshall Brask confronted Arpaad about the priest’s disappearance, Arpaad’s paranoia got the better of him. He killed Brask and then concluded that everyone in the Watch was in league with him.
+
+He killed his entire garrison, but took a fatal wound when fighting the Watch’s blacksmith, Bartoz in the forge. Having dragged himself back to his room, Arpaad became lucid in his dying moments. He was utterly confused about his actions, ashamed beyond measure, and terrified that his family would be ruined.
+
+*About the spirit* +
+The ghost is not actually Arpaad. It is not his soul. Rather, it is a spirit born of the negative emotions he was feeling when he died, mixed with some of his memories. Consequently, the ghost feels confused over Arpaad’s actions, ashamed of his terrible crimes, and afraid for Arpaad’s family reputation. The ghost is afraid that it might kill again, but also knows it might have to keep Arpaad’s crimes secret.
+
+When the heroes first meet the ghost, it just wants to frighten them away. It does not want them to explore the Watch, but it also does not want to hurt them. And, because it is afraid of hurting anyone, it then retreats to Arpaad’s room. If the heroes never bother the ghost, the ghost will not seek them out. However, if the heroes confront and threaten the ghost, it will turn violent, driven by its fear that Arpaad’s crimes will be exposed and by its own dim sense of self-preservation.
+
+*Environment:* Silverpine Watch  +
+*Tags:* Undead
+|===
