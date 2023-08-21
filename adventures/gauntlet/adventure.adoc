@@ -893,6 +893,26 @@ he warns the players that if the Watch is truly abandoned, it is probably dark i
 
 When one of the heroes pushes open the reinforced wooden door, it groans open. Sunlight spills into the darkness of the Watch interior...
 
+== The Silverpine Watch
+
+image::{homedir}/assets/maps/silverpine_5_watch_main.png[align=center]
+
+=== Area 1 - Entry Hall
+
+The heroes enter Silverpine Watch through the only entrance, a door in the western tower’s main level. They find it dark, deserted, smelling of blood, and unnaturally cold. As the heroes file into the hall, the ghost of the Watch’s commander, Sir Einrik Arpaad appears. Afraid the heroes will discover that Arpaad murdered his garrison and afraid that it will end up hurting the heroes as well, the spirit commands them to leave before vanishing from the room. After the encounter, if the heroes cannot open the locked door in the eastern wall, they will have to descend the stairs to the lower level.
+
+> The room is dark; There is a heavy door in the interior tower wall to the east. A flight of wooden stairs leads down from a doorway at the southern end of the hall.
+
+Once all the players commit to entering the hall, describe the spirit’s sudden appearance. If they act upon it, move to <<The_Spirit>>.
+
+
+
+==== The Spirit
+
+
+
+
+include::{homedir}/npc_einrik_arpaad.adoc[]
 
 
 
@@ -901,6 +921,85 @@ When one of the heroes pushes open the reinforced wooden door, it groans open. S
 
 
 
+the heroes need a light source to see.
+» It is cold and light is dimmed in the ghost’s presence.
+» 
+» 
+
+
+Call for Action
+
+» The spirit is a colorless, translucent human figure that 
+hangs in the air in front of the door
+» The figure is dressed in heavy knight’s armor. The armor’s 
+breastplate is visibly caved in.
+» The spirit’s face is contorted with fear and despair
+» Intelligence (Religion) «No Action» «Proficiency 
+Required» DC 10 The figure appears to be a ghost. It is 
+an undead spirit formed from the torment, guilt, despair, 
+or unfulfilled purpose of someone who died suddenly or 
+tragically.
+» Intelligence (History) «No Action» «Proficiency 
+Required» DC 15 The figure’s armor, the falcon insignia 
+on his ruined breastplate, and the knotted cord holding 
+his cloak suggest a knight or a military officer of rank.
+
+Ask the players what they do in response to the spirit’s appearance. If they do nothing, the spirit hangs in the air, still 
+and silent, until the players act. If they take any other action, 
+be it approaching, talking, or even preparing to attack, the 
+spirit points to the tower’s exit and warns the heroes, “you’ll 
+find only death here; begone!” and uses a limited version 
+of its shriek attack to induce momentary fear in the heroes. 
+Each hero must make a Wisdom saving throw.
+Wisdom Saving Throw DC 13 to resist. Failure: The hero 
+is momentarily frightened and involuntarily backs toward 
+the door before recovering.
+
+Wisdom (Insight) DC 13 «Passive» Despite the commanding tone, something in the spirit’s voice suggests that it is 
+not threatening the heroes. It is warning them.
+After the spirit warns the heroes off, it drifts backward 
+through the solid door. The heroes can hear the clunk of the 
+lock mechanism as the ghost telekinetically locks the door.
+
+Raising the Stakes
+You can turn this into a full encounter with Sir Arpaad’s spirit 
+if you want. Resolve the player’s actions normally. Arpaad’s 
+spirit is willing to speak to the heroes, but its goal is to get 
+the heroes to leave. It does not want the heroes to discover 
+that Arpaad murdered the garrison, but it also does not want 
+to cause any more bloodshed by hurting the heroes. Use the 
+statistics for Sir Arpaad’s Ghost in Appendix A. If the players force a confrontation, Arpaad’s spirit uses its shriek to 
+scare off whoever it can and then retreats through the wall 
+and return to C24 Sir Arpaad’s Room.
+The Locked Door
+The eastern door is a thick oak door with heavy iron bands 
+and an iron-framed keyhole. The door is locked. The heroes 
+can try to force it open or pick the lock or they can unlock it 
+with the key found in C2 Mess Hall.
+Strength «Advantage: Crowbar or Similar Tool» DC 20
+to force the door open.
+Dexterity (Thieves’ Tools) «Requires Proficiency» DC 18
+to pick the lock.
+Move On
+The party can reach C6 Gathering Hall through the eastern door if they get it open. Otherwise, the creaky flight of 
+wooden stairs leads down to C2 Mess Hall in the western 
+tower’s lower level.
+
+
+
+
+
+=== Area 6 Gathering Hall
+
+
+
+
+=== Area 15 Common Room
+
+
+
+
+=== Area 16 Armory
 
 
 

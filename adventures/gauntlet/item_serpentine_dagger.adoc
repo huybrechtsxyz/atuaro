@@ -1,0 +1,22 @@
+ifndef::rootdir[]
+:rootdir: ..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*The Serpentine Dagger*#
+| [small]#Simple Melee Weapon, Cursed Magic Weapon#
+
+| 
+
+|
+[cols="1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *Damage*     ^! *Cost* ^! *Weight* ^! *Properties*
+^! 1d6 slashing ^! 5 gp   ^! 2 lbs    ^!  Light, Thrown (range 20/60)
+!===
+
+2+|
+x
+
+*Tags:* Damage, Combat, Cursed, Magic
+|===
