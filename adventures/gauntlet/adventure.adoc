@@ -480,7 +480,7 @@ Afterwards they meet with Gudrun in the Stonehill Inn who offers them a job guar
 > Traveling is becoming more dangerous by the day. Even on the kings roads. No one travels without a weapon and no one travels alone if they can afford not to. Some lords try to keep the roads clear. There are watchtowers and fortresses protecting important routes. But bandits and robbers are a constant threat. There is an influx in dangerous monsters attacking travelers as well.
 
 *About Gundren* +
-As DM keep track of Gundren's disposition towards the party. Gundren is so far really fond of the adventurers as they saved him. But that does not mean he has to keep liking the heroes. During the adventure, the heroes might do things to sour his opinion of them. Adjust your portrayal of Gundren to match his opinion of the heroes. He will not sabotage the heroes, but she will act impatient, short-tempered, brusque, grumpy, or even with-hold information from them.
+As DM keep track of Gundren's disposition towards the party. Gundren is so far really fond of the adventurers as they saved him. But that does not mean he has to keep liking the heroes. During the adventure, the heroes might do things to sour his opinion of them. Adjust your portrayal of Gundren to match his opinion of the heroes. He will not sabotage the heroes, but he will act impatient, short-tempered, brusque, grumpy, or even with-hold information from them.
 
 *About the money.* +
 Gudrun is offering each hero 5 gold pieces for seeing them safely to the city of Loukotokia. 
@@ -510,8 +510,7 @@ image::{homedir}/assets/maps/silverpine_2_road_combat_custom.png[align=center]
 
 *About the Echo Caves*
 
-More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. The mine had great deposits of mineral wealth. Times were good, and the nearby human town of Phandalin (pronounced fan-duh-lin) prospered as well. But then disaster struck when orcs swept through the
-North and laid waste to all in their path and the location of Wave Echo Cave was lost. For centuries, rumors of buried riches have attracted treasure seekers and opportunists to the area around Phandalin, but no one has ever succeeded in locating the lost mine.
+More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. The mine had great deposits of mineral wealth. Times were good, and the nearby human town of Phandalin (pronounced fan-duh-lin) prospered as well. But then disaster struck when orcs swept through the North and laid waste to all in their path and the location of Wave Echo Cave was lost. For centuries, rumors of buried riches have attracted treasure seekers and opportunists to the area around Phandalin, but no one has ever succeeded in locating the lost mine.
 
 === The Accident
 
@@ -525,7 +524,7 @@ Based on the travel order, decide which way the cart lurches such that it threat
 
 Both the unconscious halfling and the panicked horses are emergencies. The heroes should not ignore them. If the heroes seem unsure of what to do, if they are slow to act, or if they ignore either problem, describe how the horse’s struggles are damaging the cart or how Gundren is not moving and she is getting paler by the moment.
 
-TIP: [small]#After you call for action, wait for one of the players to describe their hero’s action. Do not resolve the action right away. Instead, repeat it to the party. Then ask the other players what they would like to do at the same time. “Alice’s character is tending to Oona. Bob, does your character do something while she’s doing that?” Note what each hero is doing. Once everyone is doing something, or they have declined to take action, resolve each player’s action in turn. Then, ask for a new round of actions.#
+TIP: [small]#After you call for action, wait for one of the players to describe their hero’s action. Do not resolve the action right away. Instead, repeat it to the party. Then ask the other players what they would like to do at the same time. “Alice’s character is tending to Gundren. Bob, does your character do something while she’s doing that?” Note what each hero is doing. Once everyone is doing something, or they have declined to take action, resolve each player’s action in turn. Then, ask for a new round of actions.#
 
 ==== Call for action
 
@@ -610,11 +609,11 @@ If a hero goes to tend to Gundren wounds
 * *Wisdom (Medicine)* +
 «Automatic Success: Healer’s Kit» +
 DC 10 and Gundren is stabilized and stops bleeding and no longer makes death saving throws. +
-Stabilizing Oona does not return her to consciousness! Throw a 1d4 to see when Gundren regains consciousness.
+Stabilizing Gundren does not return her to consciousness! Throw a 1d4 to see when Gundren regains consciousness.
 
 Once one of the heroes has checked on Gundren, roll a d20 where the players cannot see the result, make a grim face, and make a note on your scratch paper. Gundren is making death saving throws. Make another one each time the party takes a round of actions. After Gundren makes five death saving throws, he dies.
 
-Do not actually keep track of the results, though. Since this is a tutorial encounter, Oona cannot actually die.After you have made a death saving throw for Oona, Keep track of how many saving throws you have made. 
+Do not actually keep track of the results, though. Since this is a tutorial encounter, Gundren cannot actually die. After you have made a death saving throw for Gundren, Keep track of how many saving throws you have made. 
 
 ==== Searching the Cart
 
@@ -668,11 +667,11 @@ A character can spend one or more Hit Dice at the end of a short rest, up to the
 Player’s Handbook, pg. 186 
 ====
 
-If Oona is conscious, interact with the heroes and try to start a conversation while everyone is resting. If no one wants to talk, stretch out the rest with some narration. Describe the forest scene, describe the characters tending their wounds or eating rations, the horses being nervous, that sort of thing.
+If Gundren is conscious, interact with the heroes and try to start a conversation while everyone is resting. If no one wants to talk, stretch out the rest with some narration. Describe the forest scene, describe the characters tending their wounds or eating rations, the horses being nervous, that sort of thing.
 
 *Move On*
 
-After the party completes the short rest, Gundren climbs into the back of the cart to check her goods before the party resumes their travels. The heroes take up their positions in the travel order. If the party claimed the healer’s kit in The Accident,  he notices that it is gone. She does not say anything, but her disposition toward the party is diminished. After checking her goods, Oona climbs onto the cart’s bench and snaps the reigns, but Dapple and Mist just whinny nervously.
+After the party completes the short rest, Gundren climbs into the back of the cart to check her goods before the party resumes their travels. The heroes take up their positions in the travel order. If the party claimed the healer’s kit in The Accident,  he notices that it is gone. He does not say anything, but her disposition toward the party is diminished. After checking her goods, Gundren climbs onto the cart’s bench and snaps the reigns, but Dapple and Mist just whinny nervously.
 
 TIP: There is an art to foreshadowing. If you want the players to notice something, say it thrice +
 Ask for perception roles or if the players want to check out why the horses are nervous?
@@ -690,6 +689,8 @@ Ask for perception roles or if the players want to check out why the horses are 
 «No Action» «Proficiency Required» +
 DC 10 The dogs look like hunting dogs gone feral. +
 Their master must have died or abandoned them, and they have been struggling to survive in the wild. They are not powerful, but they’re desperate enough to attack the party. 
+
+include::{rootdir}/statblocks/dog_feral.adoc[]
 
 ==== The Horses
 The feral dogs frighten Gundren’s horses, Dapple and Mist. Someone must keep Dapple and Mist under control, or else the horses will bolt.If no one tries to keep the horses under control or the at-tempt to control them fails, the horses panic. When the horses panic, describe their attempts to break free and run as you did in The Accident. Make it seem like the harnesses are going to break any moment, or the horses are going to bolt, or one of the horses is going to get hurt. Make it seem urgent. But do not actually have anything happen unless you want to.If Gundren is conscious, he uses her action each turn to control the horses. No ability check is needed.
