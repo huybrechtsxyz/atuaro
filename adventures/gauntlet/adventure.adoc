@@ -20,6 +20,7 @@ Our heroes return after 10 years to Kainga and notice that things are changed. T
 
 . Create a treasury map puzzle
 . What if they skip the patrol? Does it trigger an attack if the team rests in the tomb?
+. Make the silverpine road a more encouter based system with rounds
 
 == Welcome Back
 
@@ -462,20 +463,32 @@ Weight: 3 lb#
 
 |===
 
-== The Silverspine Roads
-
-=== Introduction
-
-After returning the girl Bess to her village our rat catchers are hailed as heroes. The merchant they saved proposes they protect the cargo to Loukotokia and to the Gundren's estate there. They will pass the Silverpine Watch gate where everthing is not as it should. If they solve the problems of the watch, they will arrive at the Gundren's estate. From which you can continue to the next adventure.
-
-=== Back in Kainga
+=== Area 8 - Back in Kainga
 
 The adventurers come back into town after their ordeal with the delian tomb and the deathpit.
 
 * Give the players time to act on their new knowledge.
 * Previous misdemeanors are forgiven if they save Bess Lebedev.
 
-Afterwards they meet with Gudrun in the Stonehill Inn who offers them a job guarding Gudrun back to town. If the players ask about what sort of dangers they might face or if there is anything specific the merchant is worried about
+After returning to Kainga our rat catchers will be avoided by the people of the town. Unless they the found and looked after the girl Bess. She will convince that the heroes saved her from the evil goblins.
+
+* Bess is the daughter of Pacal Lebedev (Slacker, The Blacksmith) and Rufina Lo Duca (The Beauty).
+* Rufina Lo Duca went to Loukotokia with Pacal, but came back where Pacal took over the smithy.
+* Pacal will, only after they ask, give them eternal gratitude for saving his daughter (and max 10 GP) 
+* Pacal will propose to sell them weapons based on cost
+* Gundren disposition to the party will diminish if he knows they asked for gold
+
+If the heroes save Bess, the town will wilcome them as heroes. They will be allowed to stay in the inn for free that night, including board and food.
+
+== The Silverspine Roads
+
+=== Introduction
+
+After returning the girl Bess to her village our rat catchers are hailed as heroes. The merchant they saved proposes they protect the cargo to Loukotokia and to the Gundren's estate there. They will pass the Silverpine Watch gate where everthing is not as it should. If they solve the problems of the watch, they will arrive at the Gundren's estate. From which you can continue to the next adventure.
+
+=== On the road again
+
+Afterwards they meet with Gudrun in the Stonehill Inn who offers them a job guarding Gudrun back to town. If the players ask about what sort of dangers they might face or if there is anything specific the merchant is worried about:
 
 > Traveling is becoming more dangerous by the day. Even on the kings roads. No one travels without a weapon and no one travels alone if they can afford not to. Some lords try to keep the roads clear. There are watchtowers and fortresses protecting important routes. But bandits and robbers are a constant threat. There is an influx in dangerous monsters attacking travelers as well.
 
@@ -502,11 +515,11 @@ image::{homedir}/assets/maps/silverpine_2_road_combat_custom.png[align=center]
 
 > Silverpine Forest is a heavy, mixed-growth forest covering the Aster river valley and the foothills of upper Asternia north-west of Loukotokia. In the lowlands, the forest is thick with broadleaf trees like willows, alders, poplars, and oaks interspersed with evergreen spruces and the whitebark pines from which the forest gets its name. In the uplands, where most of this part of the adventure takes place, the terrain consists of rough, forested hills. There are fewer shrubs and ground cover here, fewer broadleaf trees, and more evergreens.
 
-> It is springtime. The broadleaf trees are bare or budding. The road is muddy from rain and snow melt. The party passes streams and rivulets frequently. The forest’s natural fauna is active, but skittish and Gundren's cart is noisy. The party might see robins, sparrows, or finch-es in the trees or hear a woodpecker tapping away. They might startle a rabbit or pheasant or catch sight of a red deer darting away between the trees. At night, they might hear the cries of owls or night thrushes or the distant howls of wolves.
+> It is springtime. The evergreen trees are bare or budding. The road is muddy from rain and snow melt. The party passes streams and rivulets frequently. The forest’s natural fauna is active, but skittish and Gundren's cart is noisy. The party might see robins, sparrows, or finch-es in the trees or hear a woodpecker tapping away. They might startle a rabbit or pheasant or catch sight of a red deer darting away between the trees. At night, they might hear the cries of owls or night thrushes or the distant howls of wolves.
 
 > The Silverpine Road is a narrow, dirt track. In a few places, there are just a pair of furrows left by the passage of countless carts in the weeds. The road winds back and forth, following the contours of the land. In the uplands, it climbs gradually upward, winding between steep hills, sometimes following steep bluffs or sheer, bare rock faces.
 
-> It has been two days since you left Kainga. It is a mid-spring morning and the sky is gray. The weather is breezy and chilly as it is early spring. The narrow dirt road winds back and forth between roll-ing, forested hills. Gundren is driving Mist and Dapple at a comfortable pace. Gundren is sociable, easy to laugh, and good at small-talk. He talks about finding the fabled Echo caves. In fact it is really only what he talks about. He knows all the stories.
+> It has been two days since you left Kainga. It is a mid-spring morning and the sky is gray. The weather is breezy and chilly as it is early spring. The narrow dirt road winds back and forth between rolling, forested hills. Gundren is driving Mist and Dapple at a comfortable pace. Gundren is sociable, easy to laugh, and good at small-talk. He talks about finding the fabled Echo caves. In fact it is really only what he talks about. He knows all the stories.
 
 *About the Echo Caves*
 
@@ -524,7 +537,7 @@ Based on the travel order, decide which way the cart lurches such that it threat
 
 Both the unconscious halfling and the panicked horses are emergencies. The heroes should not ignore them. If the heroes seem unsure of what to do, if they are slow to act, or if they ignore either problem, describe how the horse’s struggles are damaging the cart or how Gundren is not moving and she is getting paler by the moment.
 
-TIP: [small]#After you call for action, wait for one of the players to describe their hero’s action. Do not resolve the action right away. Instead, repeat it to the party. Then ask the other players what they would like to do at the same time. “Alice’s character is tending to Gundren. Bob, does your character do something while she’s doing that?” Note what each hero is doing. Once everyone is doing something, or they have declined to take action, resolve each player’s action in turn. Then, ask for a new round of actions.#
+TIP: [small]#After you call for action, wait for one of the players to describe their hero’s action. Do not resolve the action right away. Instead, repeat it to the party. Then ask the other players what they would like to do at the same time. “Alice’s character is tending to Gundren. Bob, does your character do something while she’s doing that?” Note what each hero is doing. Once everyone is doing something, or they have declined to take action, resolve each player’s action in turn. Then, ask for a new round of actions.#
 
 ==== Call for action
 
