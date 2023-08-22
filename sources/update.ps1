@@ -4,6 +4,6 @@ function Update-Foundry-Module {
     $ModuleName = $ModuleJson.id;
     Write-Output "Updating module... $ModuleName" 
     Write-Output "Updating module... Compressing..." 
-    Compress-Archive -Path ./* -Force -DestinationPath "$ModuleName.zip" -Exclude "$ModuleName.zip" , "*.ps1" -CompressionLevel Optimal
+    Compress-Archive -Path ./* -Force -DestinationPath "$ModuleName.zip" -CompressionLevel Optimal
     Write-Output "Updating module... Done"
 }

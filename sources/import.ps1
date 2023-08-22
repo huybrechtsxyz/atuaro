@@ -7,6 +7,6 @@ function Import-Foundry-Module {
     $LocalPath = "C:\Users\" + $Env:UserName.ToLower() + "\AppData\Local\FoundryVTT\Data\modules\" + $ModuleName + "\packs"
     Copy-Item -Path "$LocalPath/*" -Destination ./packs
     Write-Output "Importing module... Compressing..." 
-    Compress-Archive -Path ./* -Force -DestinationPath "$ModuleName.zip" -Exclude "$ModuleName.zip" , "*.ps1" -CompressionLevel Optimal 
+    Compress-Archive -Path ./* -Force -DestinationPath "$ModuleName.zip" -CompressionLevel Optimal 
     Write-Output "Importing module... Done"
 }
