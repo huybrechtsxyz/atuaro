@@ -1,122 +1,134 @@
-function Get-Local-Foundry-Path {
+function Get-LocalFoundryPath {
     param (
         [string]$ModuleName
     )
-    return "C:\Users\" + $Env:UserName.ToLower() + "\AppData\Local\FoundryVTT\Data\modules\" + $ModuleName
+    return "C:/Users/" + $Env:UserName.ToLower() + "/AppData/Local/FoundryVTT/Data/modules/" + $ModuleName
+}
+
+function Copy-DirectoryItems {
+    param (
+        [string]$Section,
+        [string]$FromPath,
+        [string]$ToPath
+    )
+    
+    $FromPath = $FromPath + "/" + $Section
+    $ToPath = $ToPath + "/" + $Section
+    Write-Output "Upgrading Module... -> Copying from '$FromPath' to '$ToPath'"
+
+    if ( -NOT ( Test-Path -LiteralPath $FromPath -PathType Container ) ) { 
+        Write-Output "Upgrading Module...    -> no target for $ToPath"
+        return
+    }
+    if ( Test-Path -LiteralPath $ToPath -PathType Container ) { 
+        Write-Output "Upgrading Module...    -> cleaning target $ToPath"
+        Remove-Item -LiteralPath $ToPath -Force -Recurse
+    }
+    else {
+        Write-Output "Upgrading Module...    -> creating target $ModuleTargetPath"
+        New-Item $ModuleTargetPath -ItemType "directory"
+    }
+    Write-Output "Upgrading Module...    -> copying to target $ToPath"
+    Copy-Item -Path $FromPath -Destination $ToPath -Recurse
+}
+
+function Copy-WorkspaceToSource {
+    param (
+        [string]$WorkspacePath,
+        [string]$SourcePath
+    )
+    $WorkspacePath = $WorkspacePath + "/assets"
+    Copy-DirectoryItems -Section "artwork" -FromPath $WorkspacePath -ToPath $SourcePath
+    Copy-DirectoryItems -Section "audio" -FromPath $WorkspacePath -ToPath $SourcePath
+    Copy-DirectoryItems -Section "handouts" -FromPath $WorkspacePath -ToPath $SourcePath
+    Copy-DirectoryItems -Section "images" -FromPath $WorkspacePath -ToPath $SourcePath
+    Copy-DirectoryItems -Section "maps" -FromPath $WorkspacePath -ToPath $SourcePath
+    Copy-DirectoryItems -Section "tiles" -FromPath $WorkspacePath -ToPath $SourcePath
+    Copy-DirectoryItems -Section "tokens" -FromPath $WorkspacePath -ToPath $SourcePath
+}
+
+function Copy-DataToSource {
+    param (
+        [string]$ModuleName,
+        [string]$SourcePath
+    )
+    
+    $DataPath = Get-LocalFoundryPath -ModuleName $ModuleName
+
+    Copy-DirectoryItems -Section "packs" -FromPath $DataPath -ToPath $SourcePath
 }
 
 function Compress-Module {
     param (
-        [string]$ModuleName
+        [string]$ModuleName,
+        [string]$SourcePath
     )
-    Write-Output "Upgrading Module... Compressing..."
-    Compress-Archive -Path ./* -Force -DestinationPath "$ModuleName.zip" -CompressionLevel Optimal
+    Write-Output "Upgrading Module... -> Compressing..."
+    $Source = $SourcePath + "/*"
+    $Destination = $SourcePath + "/$ModuleName.zip"
+    Compress-Archive -Path $Source -Force -DestinationPath $Destination -CompressionLevel Optimal
 }
 
-function Copy-Directory-Items {
+function Copy-SourceToData {
     param (
-        [string] $LocalSourcePath,
-        [string] $ModuleTargetPath
-    )
-    
-    Write-Output "Upgrading Module... From '$LocalSourcePath' to '$ModuleTargetPath'" 
-
-    if ( -NOT ( Test-Path -LiteralPath $LocalSourcePath -PathType Container ) ) { 
-        return
-    }
-    if ( Test-Path -LiteralPath $ModuleTargetPath -PathType Container ) { 
-        Write-Output "Upgrading Module... cleaning target $ModuleTargetPath"
-        Remove-Item -LiteralPath $ModuleTargetPath -Force -Recurse
-    }
-    else {
-        Write-Output "Upgrading Module... creating target $ModuleTargetPath"
-        New-Item $ModuleTargetPath -ItemType "directory"
-    }
-    Write-Output "Upgrading Module... copying to target $ModuleTargetPath"
-    Copy-Item -Path $LocalSourcePath -Destination $ModuleTargetPath -Recurse
-}
-
-function Copy-Workspace-To-Source {
-    param (
-        [string]$WorkspacePath
-    )
-    if ( ($WorkspacePath) -AND (Test-Path -LiteralPath $WorkspacePath -PathType Container) ) { 
-        # HANDOUTS
-        $LocalPath = $WorkspacePath + "\assets\handouts"
-        $ModulePath = ".\handouts"
-        Copy-Directory-Items -LocalSourcePath $LocalPath -ModuleTargetPath $ModulePath
-        # IMAGES
-        $LocalPath = $WorkspacePath + "\assets\images"
-        $ModulePath = ".\images"
-        Copy-Directory-Items -LocalSourcePath $LocalPath -ModuleTargetPath $ModulePath
-        # MAPS
-        $LocalPath = $WorkspacePath + "\assets\maps"
-        $ModulePath = ".\maps"
-        Copy-Directory-Items -LocalSourcePath $LocalPath -ModuleTargetPath $ModulePath
-        # TOKENS
-        $LocalPath = $WorkspacePath + "\assets\tokens"
-        $ModulePath = ".\tokens"
-        Copy-Directory-Items -LocalSourcePath $LocalPath -ModuleTargetPath $ModulePath
-    }
-}
-
-function Copy-Source-To-Foundry {
-    param (
-        [string]$ModuleName
-    )
-    Write-Output "Upgrading Module... Local data..."
-    $LocalPath = Get-Local-Foundry-Path -ModuleName $ModuleName
-    if ( Test-Path -LiteralPath $LocalPath -PathType Container ) { 
-        Remove-Item -LiteralPath $LocalPath -Force -Recurse
-    }
-    Copy-Item -Path . -Destination $LocalPath -Exclude "$ModuleName.zip" , "*.ps1" -Recurse
-}
-
-function Copy-Foundry-Packs-To-Source {
-    param (
-        [string]$ModuleName
+        [string]$ModuleName,
+        [string]$SourcePath
     )
 
-    $LocalPath = Get-Local-Foundry-Path -ModuleName $ModuleName
-    $LocalPath = $LocalPath + "\packs"
-    Copy-Item -Path "$LocalPath/*" -Destination ./packs
+    $DataPath = Get-LocalFoundryPath -ModuleName $ModuleName
+
+    Write-Output "Upgrading Module... -> Copying from '$SourcePath' to '$DataPath'"  
+    Write-Output "Upgrading Module...    -> copying to target $DataPath"
+    Copy-Item -Path $SourcePath -Destination $LocalPath -Exclude "$ModuleName.zip" , "*.ps1" -Recurse
 }
 
-function Upgrade-Foundry-Module {
+function Update-FoundryModule 
+{
     param (
-        [string]$SourcePath,
-        [string]$WorkspacePath
+        [string]$WorkspacePath,
+        [string]$SourcePath
     )
 
     Write-Output "Upgrading Module..."
 
-    if ( ($SourcePath) -AND -NOT (Test-Path -LiteralPath $SourcePath -PathType Container) ) { 
-        Write-Output "Upgrading Module...Invalid Source $SourcePath"
-        return
-    }
-    
     if ( ($WorkspacePath) -AND -NOT (Test-Path -LiteralPath $WorkspacePath -PathType Container) ) { 
         Write-Output "Upgrading Module...Invalid Workspace $WorkspacePath"
         return
     }
 
+    if ( -NOT (Test-Path -LiteralPath $SourcePath -PathType Container) ) { 
+        Write-Output "Upgrading Module...Invalid Source $SourcePath"
+        return
+    }
+    
+    # Get the module name from the 
     $ModuleJson = Get-Content $SourcePath\module.json -Raw | ConvertFrom-Json 
     $ModuleName = $ModuleJson.id;
-    Write-Output "Upgrading Module... $ModuleName"
-    
-    # Copy files from the workspace to the source (new images, tokens, maps, ...)
-    #Copy-Workspace-To-Source -WorkspacePath $WorkspacePath
+    $ModuleVersion = $ModuleJson.version;
+    Write-Output "Upgrading Module... $ModuleName ($ModuleVersion)"
 
-    # Copy files from the source to the local appdata folder of foundry
-    #Copy-Source-To-Foundry -ModuleName $ModuleName
-    # TODO PROBLEM THAT THE PREV STATEMENT COPIES ALL !
+    # Auto increment build version
+    $Major,$Minor,$Build = $ModuleVersion.Split('.')
+    $Build = 1 + $Build
+    $NewVersion = $Major,$Minor,$Build -join '.'
+    $ModuleJson.version = $NewVersion
+    Write-Output "Upgrading Module... Incrementing version to '$NewVersion'"
 
-    # Copy foundry packs to source directory
-    #Copy-Foundry-Packs-To-Source -ModuleName $ModuleName
-    # TODO PROBLEM THAT THE PREV STATEMENT COPIES ALL !
+    # Copy all information from the Workpath to the Sourcepath
+    if ( ($WorkspacePath) {
+        Write-Output "Upgrading Module... COPY WORKSPACE TO SOURCE"
+        Copy-WorkspaceToSource -WorkspacePath $WorkspacePath -SourcePath $SourcePath
+    }
 
-    # Create a new archive file
-    #Compress-Module -ModuleName $ModuleName
+    # Copy pack informatin from dataPath to sourcePath
+    Write-Output "Upgrading Module... COPY MODULEDATA TO SOURCE"
+    Copy-DataToSource -ModuleName $ModuleName -SourcePath $SourcePath
 
-    Write-Output "Upgrading module... Done"
+    # Compress the new module file
+    Write-Output "Upgrading Module... COMPRESSING NEW MODULE ZIP"
+    Compress-Module -ModuleName $ModuleName -SourcePath $SourcePath
+
+    # Update all module information
+    Write-Output "Upgrading Module... COPY SOURCE TO MODULEDATA"
+    Copy-SourceToData -ModuleName $ModuleName -SourcePath $SourcePath
 }
