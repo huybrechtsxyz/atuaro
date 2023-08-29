@@ -1,3 +1,3 @@
 . ./sources/upgrade.ps1
 
-Upgrade-FoundryModule -WorkspacePath "./adventures/gauntlet" -SourcePath "./sources/atuaro-gauntlet"
+Update-FoundryModule -WorkspacePath "./adventures/gauntlet" -SourcePath "./sources/atuaro-gauntlet"

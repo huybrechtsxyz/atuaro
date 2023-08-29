@@ -92,7 +92,7 @@ function Copy-SourceToData {
     Copy-Item -Path $SourcePath -Destination $DataPath -Exclude "$ModuleName.zip" , "*.ps1" -Recurse
 }
 
-function Upgrade-FoundryModule 
+function Update-FoundryModule 
 {
     param (
         [string]$WorkspacePath,
