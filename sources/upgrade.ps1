@@ -110,27 +110,25 @@ function Update-FoundryModule
 
     # Auto increment build version
     $Major,$Minor,$Build = $ModuleVersion.Split('.')
-    if($Increment -eq "Build")
-    {
+    if($Increment -eq "Build") {
         $Build = 1 + $Build
     }
-    if($Increment -eq "Minor")
-    {
+    if($Increment -eq "Minor") {
         $Minor = 1 + $Minor
         $Build = 1
     }
-    if($Increment -eq "Major")
-    {
+    if($Increment -eq "Major") {
         $Major = 1 + $Major
         $Minor = 1
         $Build = 1
     }
+
     $NewVersion = $Major,$Minor,$Build -join '.'
     $ModuleJson.version = $NewVersion
     Write-Output "Upgrading Module... Incrementing version to '$NewVersion'"
 
     # Copy all information from the Workpath to the Sourcepath
-    if ( ($WorkspacePath) {
+    if ( ($WorkspacePath) ) {
         Write-Output "Upgrading Module... COPY WORKSPACE TO SOURCE"
         Copy-WorkspaceToSource -WorkspacePath $WorkspacePath -SourcePath $SourcePath
     }
