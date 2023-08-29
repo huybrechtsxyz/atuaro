@@ -86,7 +86,8 @@ function Update-FoundryModule
 {
     param (
         [string]$WorkspacePath,
-        [string]$SourcePath
+        [string]$SourcePath,
+        [string, ValidateSet("Major","Minor","Build")]$Increment="Build"
     )
 
     Write-Output "Upgrading Module..."
@@ -109,7 +110,21 @@ function Update-FoundryModule
 
     # Auto increment build version
     $Major,$Minor,$Build = $ModuleVersion.Split('.')
-    $Build = 1 + $Build
+    if($Increment -eq "Build")
+    {
+        $Build = 1 + $Build
+    }
+    if($Increment -eq "Minor")
+    {
+        $Minor = 1 + $Minor
+        $Build = 1
+    }
+    if($Increment -eq "Major")
+    {
+        $Major = 1 + $Major
+        $Minor = 1
+        $Build = 1
+    }
     $NewVersion = $Major,$Minor,$Build -join '.'
     $ModuleJson.version = $NewVersion
     Write-Output "Upgrading Module... Incrementing version to '$NewVersion'"
