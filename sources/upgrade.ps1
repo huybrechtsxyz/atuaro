@@ -2,7 +2,7 @@ function Get-LocalFoundryPath {
     param (
         [string]$ModuleName
     )
-    return "C:/Users/" + $Env:UserName.ToLower() + "/AppData/Local/FoundryVTT/Data/modules/" + $ModuleName
+    return ( "C:/Users/" + $Env:UserName.ToLower() + "/AppData/Local/FoundryVTT/Data/modules/" + $ModuleName )
 }
 
 function Copy-DirectoryItems {
@@ -66,6 +66,7 @@ function Compress-Module {
     Write-Output "Upgrading Module... -> Compressing..."
     $Source = $SourcePath + "/*"
     $Destination = $SourcePath + "/$ModuleName.zip"
+    Write-Output "Upgrading Module... -> Compressing... '$Source' to 'Destination'"
     Compress-Archive -Path $Source -Force -DestinationPath $Destination -CompressionLevel Optimal
 }
 
@@ -77,17 +78,26 @@ function Copy-SourceToData {
 
     $DataPath = Get-LocalFoundryPath -ModuleName $ModuleName
 
-    Write-Output "Upgrading Module... -> Copying from '$SourcePath' to '$DataPath'"  
+    Write-Output "Upgrading Module... -> Copying from '$SourcePath' to '$DataPath'"
+
+    if ( -NOT $SourcePath ) {
+        Write-Output "Upgrading Module...    -> No path to copy"
+        Return
+    }
+    if ( (Test-Path -LiteralPath $DataPath -PathType Container) ) { 
+        Write-Output "Upgrading Module...    -> Cleaning target $DataPath"
+        Remove-Item -LiteralPath $DataPath -Force -Recurse
+    }
     Write-Output "Upgrading Module...    -> copying to target $DataPath"
-    Copy-Item -Path $SourcePath -Destination $LocalPath -Exclude "$ModuleName.zip" , "*.ps1" -Recurse
+    Copy-Item -Path $SourcePath -Destination $DataPath -Exclude "$ModuleName.zip" , "*.ps1" -Recurse
 }
 
-function Update-FoundryModule 
+function Upgrade-FoundryModule 
 {
     param (
         [string]$WorkspacePath,
         [string]$SourcePath,
-        [string, ValidateSet("Major","Minor","Build")]$Increment="Build"
+        [string][ValidateSet("Major","Minor","Build","None")]$Increment="Build"
     )
 
     Write-Output "Upgrading Module..."
@@ -101,15 +111,15 @@ function Update-FoundryModule
         Write-Output "Upgrading Module...Invalid Source $SourcePath"
         return
     }
-    
-    # Get the module name from the 
+
+    # Get the module name from the configuration
     $ModuleJson = Get-Content $SourcePath\module.json -Raw | ConvertFrom-Json 
     $ModuleName = $ModuleJson.id;
     $ModuleVersion = $ModuleJson.version;
     Write-Output "Upgrading Module... $ModuleName ($ModuleVersion)"
 
     # Auto increment build version
-    $Major,$Minor,$Build = $ModuleVersion.Split('.')
+    $Major,$Minor,$Build = $ModuleJson.version.Split('.')
     if($Increment -eq "Build") {
         $Build = 1 + $Build
     }
@@ -122,10 +132,12 @@ function Update-FoundryModule
         $Minor = 1
         $Build = 1
     }
-
-    $NewVersion = $Major,$Minor,$Build -join '.'
-    $ModuleJson.version = $NewVersion
-    Write-Output "Upgrading Module... Incrementing version to '$NewVersion'"
+    if($Increment -ne "None") {
+        $NewVersion = $Major,$Minor,$Build -join '.'
+        $ModuleJson.version = $NewVersion
+        $ModuleJson | ConvertTo-Json | Out-File $SourcePath/module.json
+        Write-Output "Upgrading Module... Incrementing version to '$NewVersion'"
+    }
 
     # Copy all information from the Workpath to the Sourcepath
     if ( ($WorkspacePath) ) {
