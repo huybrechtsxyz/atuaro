@@ -1,0 +1,54 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Zombie Soldier*#
+| [small]#Medium undead, neutral evil (CR 1/4 for 50 XP)#
+
+| image::{rootdir}/assets/tokens/npc_zombie.jpeg[]
+
+|
+*Armor Class* 9 +
+*Hit Points* 26 (2d6+8) +
+*Speed* 20 ft. +
+*Proficiency* +0 +
+*Initiative* +0 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 12 (*+1*) ^!  8 (*-1*) ^! 15 (*+2*) ^!  3 (*-4*) ^!  6 (*-2*) ^!  5 (*-3*)
+!===
+
+Saving Throws Wis +0
+Damage Vulnerabilities fire, radiant
+Damage Resistances necrotic
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 8 +
+Languages:
+
+| *Actions* | 
+*Overpower.* +
+Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage, and the 
+target is grappled (escape DC 11).
+
+*Bite.*
+Melee Weapon Attack: +3 to hit, reach 5 ft., one grappled target. Hit: 6 (2d4 + 1) piercing damage.
+
+| *Abilities* | 
+
+*Rise Again.* +
+If a zombie is reduced to 0 hit points by an attack that isn’t a critical hit or doesn’t deal fire or radiant damage, it falls prone and becomes incapacitated, apparently destroyed. At the start of its next turn, it must make a Constitution saving throw (DC 13). If it succeeds, it recovers 1 hit point. Otherwise, it dies. As an action, a character can destroy an incapacitated zombie before it rises again.
+
+| *Traits* |
+
+2+| 
+
+*Environment:* Silverpine Watch  +
+*Tags:* Undead
+|===

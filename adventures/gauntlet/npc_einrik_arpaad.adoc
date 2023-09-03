@@ -41,8 +41,7 @@ Languages Common, Sund
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) necrotic damage.
 
 *Telekinetic Barrage (Recharge 5 - 6).* +
-The ghost launches a barrage of objects, debris, and furniture before it. Each creature in a 15-foot cube originating from the ghost 
-must make a Constitution saving throw (DC 13), taking 10 (3d6) bludgeoning damage on a failed save and half as much on a successful one. Creatures that fail their saving throw are also pushed 10 feet away from the ghost.
+The ghost launches a barrage of objects, debris, and furniture before it. Each creature in a 15-foot cube originating from the ghost must make a Constitution saving throw (DC 13), taking 10 (3d6) bludgeoning damage on a failed save and half as much on a successful one. Creatures that fail their saving throw are also pushed 10 feet away from the ghost.
 
 *Shriek (Recharges after Short or Long Rest).* +
 The ghost issues an unearthly howl of pain and rage. All creatures within 60 feet that can hear the ghost must succeed on a Wisdom saving throw (DC 13) or take 7 (2d6) psychic damage and become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

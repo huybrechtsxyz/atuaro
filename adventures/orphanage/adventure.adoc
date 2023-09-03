@@ -33,6 +33,7 @@ During the Dark Ages of Europe, which lasted from the 5th to the 10th century, t
 
 == To Do List
 
+* Create an introduction chapter about this adventure
 * Make the hardcore rules more clear to start with.
 * Make the children older to start with (now they are 8)?
 * The rats can be made more assertive so they attack quicker
