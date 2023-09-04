@@ -18,6 +18,7 @@ Our heroes return after 10 years to Kainga and notice that things are changed. T
 
 == To Do List
 
+. Create an introduction chapter that explains what is going on in this adventure.
 . Create a treasury map puzzle
 . What if they skip the patrol? Does it trigger an attack if the team rests in the tomb?
 . Make the silverpine road a more encouter based system with rounds
@@ -87,15 +88,12 @@ Either they have a treasury map you can use this hook.
 Otherwise the goblins will kidnap the blacksmith's daughter.
 
 === The inciting incident
-
 _If the adventurers have a treasury map follow The Treasury Map, otherwise follow the alternative The Backsmith's Daughter path._
 
 ==== A. The Treasury Map 
-
 The players think they have found out about the treasury map during some drinks and deside to go about to find the treasure.
 
 ==== B. The Blacksmith's Daughter 
-
 > A large man, wearing a black leather apron over linen shirt and woollen pants bursts in the door. He smells of sulfur and carries a heavy hammer.
 > "They got Bess", he says, "they got my girl!"
 
@@ -121,11 +119,9 @@ You can even have Pasha nudge them and ask, "do you see any tracks?". Here is yo
 === The Woods
 
 ==== A. Treasury map
-
 > As you make your way into the dense forest trying to keep the map synchronized with the path. The map depicts the forest, showing various landmarks and obstacles in the area. The darkness has become too great to navigate or see in the forest any further. You find a small clearing and set up camp.
 
 ==== B. Blacksmith's Daughter
-
 > You travel deep into the woods, tracking the trail left by the goblins long in the night. The darkness has become too great to navigate or see in the forest any further. You find a small clearing and set up camp.
 
 The woods are a large expanse of forest. The locals hunt here frequently, and it is free of goblins. If the goblins went this way, they must have a hideout somewhere. The journey to the other side of the forest is going to take a bit longer than what they can cover in a single day, the adventurers will be required to spend the night. This is a great opportunity to remind the players that the wilderness is a dangerous place, your goal here is to make the players take watch in middle of the forest and feel wary, wondering if something is going to attack them in the middle of the night!
@@ -151,13 +147,11 @@ include::{rootdir}/statblocks/goblin.adoc[]
 :ParameterName:
 
 == Death Pith of Whirotepua
-
 If the players fail to traverse the woods, they might 'detect' the Death Pith of Whirotepua.
 
 image::{homedir}/assets/maps/death_pit.jpg[]
 
 === Area 1 - The Sink Cavern
-
 > As you open your eyes, you find yourself in an eery cavern. The interior is dimly lit by the sunlight shining through the hole in the ceiling. You feel sharp pain in your head as memory of recent events snapped back into your mind.
 >
 >The ceiling has a 30ft high stalactite covered ceiling. The area is dimly lig by the sunlight coming in from the sinkhole.
@@ -177,7 +171,6 @@ A locked heavy wooden door to the south that can be opened by thieves tools or b
 See 2: Cultist guard room
 
 === Area 2 - Cultist guard room
-
 There are 4 cultists in this room, they behave differently depending on the scenario. The goblins in this room (and all others) wear a dark robe.
 
 * If the players inspect the robe they can see an even darker symbol on the robe [DC10].
@@ -213,7 +206,6 @@ Chest contains
 include::{rootdir}/statblocks/goblin.adoc[]
 
 === Area 3 - Goblin's Den
-
 As soon as the PC's enter the room 4 goblins that are resting jump up to attack them. Two will charge the players while the other two will jump into the mud pit and shoot arrows.
 
 * Players within 5 feet of or in the mud must make a single DC11 con check or attack with disadvantage until save.
@@ -229,7 +221,6 @@ The pile of bones contains:toc:
 include::{rootdir}/statblocks/goblin.adoc[]
 
 === Area 4 - The Ritual Hall
-
 As long as they are not in the cult leader's field of view they are undetected. As soon as the PC's come into view:
 
 >In the center of this cavernous room, between a stone altar and a cracked statue of a demonic entity, you can see a decrepit man in gold threaded cloak, flanked by two watchful goblins. On the altar is a dissected cadaver that he gleefully stuffs with green glowing slime. 
@@ -263,7 +254,6 @@ include::{rootdir}/statblocks/zombie.adoc[]
 image::{homedir}/assets/maps/gauntlet_tomb.png[align=center]
 
 === Area 1 - Goblin Patrol
-
 >Just beyond the reach of the woods a clearing stretches out before low sprawling hills. In the distance the stonework of a tomb is just barely visible between the sparse trees and rolling hills. You briefly spot a small form moving about the hilltop ahead of you.
 
 > DM: "Are you trying to avoid being seen?"
@@ -285,7 +275,6 @@ Determining Surprise Before you begin a combat encounter, you must first determi
 If any of the adventurers are spotted, the goblins will ready their bows and will not be surprised when the combat begins. After the first round, every time a goblin takes a turn, check to see if they have taken any damage. If they have taken damage, or their buddy was slain, the goblin will retreat to warn its brethren inside the tomb. Until the goblin is either dead, or inside, they will spend their movement retreating and their action firing arrows back at the adventurers. If the goblin patrol survives long enough, you might have him shout a warning to the goblins guarding the entrance of the tomb. If this happens, the Player Characters are in range to see that the guards leave their posts to retreat into the tomb. The guards have gone to alert the others of the danger coming their way.
 
 === Area 2 - Arrival at the Tomb
-
 Long ago, when the Helvetican empire ruled, a knight by the name of Delius founded the Delian Order and together they devoted their lives to the fight against Whirotepua (chief deity of the goblinoids / orc pantheon). This is their resting place, long forgotten. Today, the goblins who have infested the tomb are preparing to desecrate the site with a human sacrifice. It is their intent to consecrate the tomb in the name of Whirotepua.
 
 Whirotepua is depicted as a powerful and ruthless warrior, with the head of a great black-furred wolf and the body of a muscular goblinoid. He is known as the Mighty One and the High Chieftain, and is worshipped by his followers as a god of war, conquest, and domination. Whirotepua is typically worshipped through blood sacrifices and acts of violence, and his followers often seek to expand their territories and conquer new lands.
@@ -344,7 +333,6 @@ A character who succeeds on a DC 12 Wisdom (Perception) check will notice the tr
 Additionally, if there are any Small sized Player Characters (Halflings, Gnomes) they won't trigger the trap. Any other creature who steps on the pressure plate will trigger the trap, causing a scythe to sweep down from the ceiling. The character who triggered the trap must succeed a on a DC 15 Dexterity saving throw or suffer 1d8 slashing damage. Once the trap has either been disabled, or triggered it is exhausted and will not be triggered again.
 
 === Area 6 - Hall of the Oathkeeper
-
 > Dominated by a giant stone statue of a knight, raised up on a dais, standing tall with their sword point down between their feet. A thick haze billows up from a makeshift altar in the center of the room where a goblin adorned with jewelry and warpaint chants rhythmically while they rock back and forth. Behind the goblin, a young girl quietly whimpers, head in her hands, from a small cage near the foot of the statue.
 
 After the fight, when investigating the statue:
@@ -382,7 +370,6 @@ The statue of Delius has an inscription at the base, it reads: If you are to kee
 |===
 
 === Area 7 - Tomb of the Delian Order
-
 The true resting place of the Delian Order, hidden away behind the Hall of the Oathkeeper. Inside, there are six sarcophagi bearing the resemblances of their knights they hold. As well as a much larger, more elaborately carved sarcophagus at the center, bearing the form of Lord Delius. Each of the sarcophagi have the names of their occupants etched at their feet. There is a journal, mostly rotted away, laying atop Delius' sarcophagus. It is written in Common, and what can be read explains the origin of the Delian Order and their purpose. There are also a number of potions of healing scattered about the tomb, left as offerings to the Order long ago.
 
 If any character attempts to open a sarcophagi, they will disturb the spirits of the Delian Order. Righteous skeletons will emerge from the sarcophagi, eager to expel the desecrators from their tomb. One exception being, in the event that the character who attempts to open a sarcophagi is a Paladin who has sworn the Delian Oath, for they are a member of the Delian Order. The treasures are theirs by holy right! Each sarcophagi holds chainmail, as well as a longsword, and a shield bearing the Coat of Arms of the Delian Order. Delius' sarcophagus hold chainmail, and a shield bearing the Delian crest, as well as the Golbin Slayer Longsword.
@@ -464,7 +451,6 @@ Weight: 3 lb#
 |===
 
 === Area 8 - Back in Kainga
-
 The adventurers come back into town after their ordeal with the delian tomb and the deathpit.
 
 * Give the players time to act on their new knowledge.
@@ -483,11 +469,9 @@ If the heroes save Bess, the town will wilcome them as heroes. They will be allo
 == The Silverspine Roads
 
 === Introduction
-
 After returning the girl Bess to her village our rat catchers are hailed as heroes. The merchant they saved proposes they protect the cargo to Loukotokia and to the Gundren's estate there. They will pass the Silverpine Watch gate where everthing is not as it should. If they solve the problems of the watch, they will arrive at the Gundren's estate. From which you can continue to the next adventure.
 
 === On the road again
-
 Afterwards they meet with Gudrun in the Stonehill Inn who offers them a job guarding Gudrun back to town. If the players ask about what sort of dangers they might face or if there is anything specific the merchant is worried about:
 
 > Traveling is becoming more dangerous by the day. Even on the kings roads. No one travels without a weapon and no one travels alone if they can afford not to. Some lords try to keep the roads clear. There are watchtowers and fortresses protecting important routes. But bandits and robbers are a constant threat. There is an influx in dangerous monsters attacking travelers as well.
@@ -521,18 +505,15 @@ image::{homedir}/assets/maps/silverpine_2_road_combat_custom.png[align=center]
 
 > It has been two days since you left Kainga. It is a mid-spring morning and the sky is gray. The weather is breezy and chilly as it is early spring. The narrow dirt road winds back and forth between rolling, forested hills. Gundren is driving Mist and Dapple at a comfortable pace. Gundren is sociable, easy to laugh, and good at small-talk. He talks about finding the fabled Echo caves. In fact it is really only what he talks about. He knows all the stories.
 
-*About the Echo Caves*
-
+*About the Echo Caves* +
 More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. The mine had great deposits of mineral wealth. Times were good, and the nearby human town of Phandalin (pronounced fan-duh-lin) prospered as well. But then disaster struck when orcs swept through the North and laid waste to all in their path and the location of Wave Echo Cave was lost. For centuries, rumors of buried riches have attracted treasure seekers and opportunists to the area around Phandalin, but no one has ever succeeded in locating the lost mine.
 
 === The Accident
-
 > The road is a dirt track overgrown with weeds here. It is about 10 feet wide. Scattered trees by the roadside can provide cover. Thick underbrush grows between the trees which constitutes difficult terrain.
 
 > It is mid-afternoon. The weather is gray and chilly and the road muddy. Gundren is driving Mist and Dapple at a comfortable walking pace and keeps talking about Echo Cave. When you round a bend in the road Dapple and Mist suddenly give a frightened whinnies and rear up. The cart lurches as the veer sharply for the side of the road. The cart suddenly stops when its wheel becomes stuck in a muddy rut at the side of the road. Dapple and Mist scream and struggle against the cart. Gundren were thrown of the cart and strikes his head and falls unconscious. 
 
-*When the horses are calm, Gundren is stable or conscious, and the cart is free, the encounter is over.*
-
+*When the horses are calm, Gundren is stable or conscious, and the cart is free, the encounter is over.* +
 Based on the travel order, decide which way the cart lurches such that it threatens to strike at least one hero. It is most likely to strike heroes walking alongside it, but if there is no one beside the cart, it hits a hero ahead of it. 
 
 Both the unconscious halfling and the panicked horses are emergencies. The heroes should not ignore them. If the heroes seem unsure of what to do, if they are slow to act, or if they ignore either problem, describe how the horse’s struggles are damaging the cart or how Gundren is not moving and she is getting paler by the moment.
@@ -557,7 +538,6 @@ Heroes struck can dodge the cart Dexterity Saving Throw DC 11. +
 Failure: The hero is clipped by the cart and takes 1d4 bludgeoning damage.
 
 ==== The Snake
-
 A common adder was basking in the road. The heroes overlooked it due to its camouflage and the horses nearly stepped on it. The snake is afraid of the party and easily driven off, so it will not attack unless a hero gets too close without seeing it and startles it. Then the snake will strike before slithering away. The snake is not a dangerous combatant, they can kill the snake without issue.
 
 * *Wisdom (Perception)* «Passive» DC of 18 The hero spots the motionless, gray-and-brown snake in the road.
@@ -570,7 +550,6 @@ If a hero examines the wound from the snake’s bite, they can determine the fol
 include::{rootdir}/statblocks/snake_poisonous.adoc[]
 
 ==== Calming the horses
-
 Dapple and Mist are panicking. Their struggles threaten to break their harness, damage the cart, or injure them. If the heroes ignore the horses, describe the creaks and groans coming from the cart. Make it seem like an emergency.
 
 If Gundren is conscious, he can calm Dapple and Mist automatically. No ability check is needed.
@@ -584,7 +563,6 @@ Failure The horses continue to thrash and struggle.
 Each time the heroes fail describe the increased strain on the harness or cart. After 3 failed attempts they brake the equipment and escape in the forest. Easy Skill Challenge: 4 Successes over 3 failures allowed.
 
 ====
-
 Objective:
 
     This represents their efforts in finding and calming down their horses in the forest.
@@ -611,11 +589,9 @@ Sample Skill Checks:
     Medicine: The heroes come across a hurt animal and, by tending to it, gain its trust, leading it to reveal the horses' location.
 
 include::{rootdir}/compendium/wiki/difficulty_check_chart.adoc[]
-
 ====
 
 ==== Tending to Gundren
-
 If a hero goes to tend to Gundren wounds
 > Gundren struck his head as he fell from the cart. He is unconscious and bleeding from a cut on his head. 
 
@@ -629,7 +605,6 @@ Once one of the heroes has checked on Gundren, roll a d20 where the players cann
 Do not actually keep track of the results, though. Since this is a tutorial encounter, Gundren cannot actually die. After you have made a death saving throw for Gundren, Keep track of how many saving throws you have made. 
 
 ==== Searching the Cart
-
 It might occur to the heroes to root through Gundren's cart and look for something to help them deal with the situation.
 
 *Wisdom (Perception) DC 10* +
@@ -639,7 +614,6 @@ The heroes can keep the healer’s kit. If the heroes ask Gundren about it, she 
 But, make a note if the party keeps the kit without mentioning it to Gundren.
 
 ==== Freeing the Cart
-
 The cart’s wheel is stuck in a muddy ditch at the side of the road. One or more of the heroes can push the cart free:
 
 *Strength* +
@@ -651,9 +625,7 @@ The cart’s wheel is freed from the muddy rut. If the horses are calm, they can
 «Advantage: Offered Horse Apple or Similar Food» DC 10 The horse’s pull the cart free of the muddy rut.
 
 ==== Move On
-
-*When the horses are calm, Gundren is stable or conscious, and the cart is free, the encounter is over.*
-
+*When the horses are calm, Gundren is stable or conscious, and the cart is free, the encounter is over.* +
 If Gundren is conscious, he suggests the party rest for an hour. +
 If the party does not rest, note of who is driving the cart if Gundren is unconscious.
 
@@ -682,38 +654,11 @@ Player’s Handbook, pg. 186
 
 If Gundren is conscious, interact with the heroes and try to start a conversation while everyone is resting. If no one wants to talk, stretch out the rest with some narration. Describe the forest scene, describe the characters tending their wounds or eating rations, the horses being nervous, that sort of thing.
 
-*Move On*
-
+*Move On* +
 After the party completes the short rest, Gundren climbs into the back of the cart to check her goods before the party resumes their travels. The heroes take up their positions in the travel order. If the party claimed the healer’s kit in The Accident,  he notices that it is gone. He does not say anything, but her disposition toward the party is diminished. After checking her goods, Gundren climbs onto the cart’s bench and snaps the reigns, but Dapple and Mist just whinny nervously.
 
 TIP: There is an art to foreshadowing. If you want the players to notice something, say it thrice +
 Ask for perception roles or if the players want to check out why the horses are nervous?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 === Feral Dogs
 
@@ -746,11 +691,9 @@ Use Dexterity saving throws to see who can dodge out of the way and apply approp
 Use ability checks to see if they can jump onto the cart and regain control as appropriate. If the heroes do not catch the cart themselves, Dapple and Mist eventually calm down and come to a stop further up the road.
 
 ==== Move On
-
-Once the last dog is dead or driven off, silence falls over the road. Although it is only mid-afternoon, the shadow of the forest hangs over the road. A frustrated Gundren suggests that the party just make camp for the night and start fresh in the morning and he will brook no argument this time. When the party is ready to rest for the night
+Once the last dog is dead or driven off, silence falls over the road. Although it is only mid-afternoon, the shadow of the forest hangs over the road. A frustrated Gundren suggests that the party just make camp for the night and start fresh in the morning and he will brook no argument this time. When the party is ready to rest for the night.
 
 === Making Camp
-
 > "It is late afternoon, people" says Gundren. "Time to make camp. After dealing with everything today; accidents, injuries, and feral dogs; I would say I need to get a good night’s rest. Wasn't anybody bitten by a snake? I had it, lets look for a good place to camp."
 
 The terrain makes it impossible to move the cart and the horses off the road. You are forced to make their camp at the side of the road as you have done for the last several nights of travel. If the players seem engaged, ask them what sort of activities their heroes are getting up to. 
@@ -770,13 +713,11 @@ If the players ask about the watch (If they are feeling talkative, play it out. 
 > The next day dawns chilly and gray. You wakes up and breaks down the camp. Gundren harnesses Dapple and Mist, checks his goods, and then resumes her position on the cart’s bench. The rest of the heroes take up their positions *in the travel order. -ASK-* spurs Dapple and Mist to a walk and the party is underway again.
 
 === The Tinkers Body
-
 > It is morning; the weather is gloomy and chilly. The forest is rugged and hilly as the cart passes around the bends of a sheer, rocky hillside. Gundren calls out to a lumpy furry mass in the road fifty feet in front of them. A human body in a furred cloak. Gundren reins Dapple and Mist to a stop.
 
 If none of the heroes act, Gundren will tell whoever is in the lead to check out the body. Otherwise, Gundren will leave the heroes to investigate the scene and wait until they are done. He also does not want to leave the body in the road. If the party refuses to investigate or bury the body, Gundren disposition toward the party is diminished. He will not travel with the body. He does not want to be haunted by an angry spirit.
 
 ==== Approaching the body
-
 From a distance, the party can only confirm that the mass in the road looks like a human body lying face down beneath a thick, fur-covered traveling cloak. As they approach, the heroes might note the following:
 
 *Intelligence (Nature)* +
@@ -792,7 +733,6 @@ DC 10 An unburied, abandoned body can be dangerous. If sentient beings are not l
 DC 15 The character notices the tinker’s tracks in the road as described below. Gundren’s superstitions or their own conclusions might make the heroes nervous. As such, they might want to take precautions as they approach the body. Let them do so, but take note of anything the heroes do to damage the body as they approach, such as peppering it with arrows or launching spells at it. If the heroes damage the body, it will make their investigation more difficult.
 
 ==== The Body
-
 > The tinker’s body is currently lying face down in the road. It is wearing a torn, furred cloak over drab, travelers’ clothes.
 
 The party cannot determine anything more without turning over the body and making a careful examination. Once a hero turns over and inspects the body, they notice that
@@ -810,26 +750,24 @@ DC 15 Based on his clothing and that he is not armed or armored, he is a travele
 «Requires Proficiency» +
 DC 10 His oddly pale skin, the lack of blood on his clothes, and the lack of bruising suggests the man’s body has been completely drained of blood. DC 15: He has a half-dozen puncture wounds in his back, shoulders, and legs. They are difficult to spot because of the lack of swelling or discoloration.
 
-*Wisdom (Perception)*
+*Wisdom (Perception)* +
 «Advantage: Specify Searching for Wounds or Cause of Death» +
 DC 15 The body has a half-dozen puncture wounds in his back, shoulders, and legs. They are difficult to spot because of the lack of swelling, discoloration, or bleeding.
 
 ==== The Trail
-
 The heroes might notice the signs of the tinker’s passage in the road, might turn them up with a search of the road around the body, or they might specifically search for tracks and signs of passage. If they do so, they might discover the following:
 
 *Wisdom (Perception)* +
 «Passive» +
 DC 15 There are scuff marks and disturbed weeds in the road near the body, marking the man’s passage.
 
-*Wisdom (Survival)*
+*Wisdom (Survival)* +
 «Requires Proficiency» +
 «Advantage: Signs of Passage Already Noticed» +
 DC 10 From the signs in the road, it looks like the man was coming from further up the road. Probably within the last day.
 DC 15 It looks like the man was running all out, but was stumbling and off balance. The hero can follow the man’s trail up the road
 
 ==== Up the Road
-
 If the heroes move fifty feet up the road from the body, possibly while following the tinker’s trail, they might notice the following clues that will lead them to the tinker’s discarded backpack:
 
 *Wisdom (Perception)* +
@@ -846,7 +784,6 @@ DC 15 It looks like the man was running from further up the road but had some ki
 There is a magical presence, but it cannot be pinpointed. It is coming from the healing potion in the man’s backpack.If a hero approaches the left edge of the road, they will spot the man’s backpack in the brush without issue.
 
 ==== The Backpack
-
 The tinker’s backpack lies in the brush where he threw it. The leather backpack is scratched and has several surface tears. A hero handling it, or one standing nearby, might note the following:
 
 *Intelligence (Investigation)* +
@@ -861,13 +798,11 @@ DC 10 It looks like something with lots of small claws or burrs got caught on th
 The brass candlestick is a valuable treasure. Tell the party that its common knowledge among adventurers that the sweet, pale red liquid in the vial is a healing potion. 
 
 ==== Burying the Body
-
 The heroes can bury the body in the forest off the road or raise a cairn of rocks over it. Gundren can lend the party a shovel and a woodcutter’s axe from her cart. It takes an hour of work, during which the party is not disturbed. A character with proficiency in the Religion skill can perform proper burial rites.
 
 There are no specific consequences for not burying the body unless you want to invent some. Gundren’s superstitious fear of the body and the information about bodies sometimes rising as undead help to set up the party’s later encounters with the undead in Silverpine Watch. 
 
 ==== Moving On
-
 Once the heroes are finished with their investigation and the body has been dealt with, the party resumes their travel order and Gundren climbs back on the cart. Uneasily, Gundren gives a half-hearted snap of the reins and travel resumes.
 
 == The Silverpine Watch
@@ -893,13 +828,11 @@ The group does not travel for long after they leave the tinker’s body before t
 cart and the horses around the Watch. Ultimately, the heroes will have to prepare to enter the Watch. 
 
 ==== West Side Door
-
 CAUTION: Do not point this out until the party deliberately looks for a way in.
 
 The only entrance to the Watch is a reinforced, oak door with heavy iron bands on the western side of the western tower where the tower meets the top of the hill. 
 
 ==== The Gates
-
 The wall is nearly as thick as it is tall, and the road goes through a ten-foot-wide passage in it called a neck. Portcullises block either end of the neck. These are gates made of iron bars and crossbars that must be lifted out of the way. Each portcullis weighs over a thousand pounds and it would be impossible for the heroes to lift the gates high enough or hold them open long enough for the cart and horses to pass through.
 
 Gundren is still disturbed by the body in the road and now he is even more troubled.
@@ -911,7 +844,6 @@ Gundren is still disturbed by the body in the road and now he is even more troub
 If none of the players take action, Gundren tells whoever is in the front to approach the Watch and call for the guard. *Gundren is growing impatient and frustrated.* Feel free to portray her as such throughout this en-counter. Especially if her disposition toward the party is already diminished.
 
 ==== Calling Out To The Watch
-
 Calling out to the watch elicits no response. Nor does calling into the arrow slits. After a hero has tried to get someone’s attention a few times, Gundren grows impatient and hops down off the cart. He begins pacing up and down along the wall shouting for Bartoz or Sir Arpaad.
 
 When he gets no response, he crosses her arms and sinks into sullen silence. Let the moment hang there for a few seconds and wait for a player to say something. 
@@ -921,7 +853,6 @@ If none of the heroes act, Gundren gets annoyed. He orders them to “look aroun
 Try to allow the party to conclude that they will have to enter the Watch and look for survivors or find a way to raise the gates themselves. If the players are truly stumped and have no idea how to proceed, though, have Gundren tell them to look for a way inside.
 
 ==== Preparing to Enter the Watch
-
 Once the heroes have located the door and resolved to explore the Watch, Gundren will offer them some advice.
 
 *First,*
@@ -963,21 +894,18 @@ image::{homedir}/assets/maps/silverpine_7_watch_tower.png[align=center]
 image::{homedir}/assets/maps/silverpine_8_watch_crown.png[align=center]
 
 === Area 1 - Entry Hall [Main Floor]
-
 The heroes enter Silverpine Watch through the only entrance, a door in the western tower’s main level. They find it dark, deserted, smelling of blood, and unnaturally cold. As the heroes file into the hall, the ghost of the Watch’s commander, Sir Einrik Arpaad appears. Afraid the heroes will discover that Arpaad murdered his garrison and afraid that it will end up hurting the heroes as well, the spirit commands them to leave before vanishing from the room. After the encounter, if the heroes cannot open the locked door in the eastern wall, they will have to descend the stairs to the lower level.
 
-[NOTE]
+[IMPORTANT]
 The room is dark; the heroes need a light source to see.
 
 > The room is dark; There is a heavy door in the interior tower wall to the east. A flight of wooden stairs leads down from a doorway at the southern end of the hall.
 
 ==== Call to action
-
 * Once all the players commit to entering the hall, describe the spirit’s sudden appearance. If they act upon it, move to <<The_Spirit>>.
 * The door to east (C6) is locked.
 
 ==== The Spirit
-
 If they do nothing, the spirit hangs in the air, still and silent, until the players act. If they take any other action, be it approaching, talking, or even preparing to attack, the spirit points to the tower’s exit and warns the heroes, and performs a limited version of the shriek attack.
 
 > you’ll find only death here; begone!
@@ -1006,10 +934,9 @@ DC 18 to pick the lock.
 include::{homedir}/npc_einrik_arpaad.adoc[]
 
 === Area 2 - Mess Hall [Basement]
-
 The Watch’s garrison took their meals around a single long table in this hall, warmed by the two fireplaces in the eastern wall. When Sir Arpaad went mad, he surprised four soldiers gathered here and killed them all. Their bodies have risen as zombies and the party will have fight them around the mess table. Once they have done so, the heroes can find up the key to the door above if they search the room.
 
-[NOTE]
+[IMPORTANT]
 The room is dark; the heroes need a light source to see.
 
 > The room stinks of rotten meat and blood, a long table occupies the center of the space. +
@@ -1020,7 +947,6 @@ Toppled benches and broken dishes suggest a fierce struggle occurred here.
 * When the first hero reaches the bottom of the stairs, the zombies become aware of them and will attack.
 
 ==== Encounter
-
 The four Zombie Soldiers attack immediately and relentlessly. The dark spirits animating them despise the living and must destroy them. One zombie has an iron key on a ring hung on his belt. As you describe the action, mention the keyring at least twice. For example, you might describe it jingling when the zombie makes an attack and later mention how it clatters against the floor when the zombie falls.
 
 > Without word or breath, the corpses turn to face the party as one and bare their rotted, yellow teeth. 
@@ -1040,7 +966,6 @@ The table is an obstacle for the zombies, but not the heroes. A hero can easily 
 include::./npc_zombie_soldier.adoc[]
 
 ==== Searching the Room
-
 Once the zombies are defeated, the heroes can make a survey of the room. The heroes should be aware of the iron key on one zombie’s belt. It opens the door between C1 Entry Hall and C6 Gathering Hall on the west tower’s main level. If they forget about it, remind them of it so they can retrieve it. The floor and the table are littered with debris from the soldier’s last meal. The foodstuffs have rotted away, but the broken tankards and tableware remain. Scattered amongst the debris are two notable items.
 
 *Wisdom (Perception)* +
@@ -1052,20 +977,17 @@ DC 15 to discover a palm-sized bear figure of whittled pinewood. The engraved ta
 * The broken tankards and tableware on the table
 
 ==== Move On
-
 Aside from using the wooden stairs to climb back up the western tower’s main level and C1 Entry Hall, the heroes might open the plain wooden door to the west and visit C3 Kitchen or they might open the heavy eastern door and enter C5W West Gate Room.
 
 === Area 3 - Kitchen [Basement]
-
 There is no fighting occurred in the Watch’s kitchen. The foodstuffs have rotted away or been picked over by rats. The party can search the shelves for valuables. Empty rooms in dungeons are like slow scenes in movies. They give the players' brains a chance to breathe. Since entering the Watch, the players have been threatened by a ghost and attacked by zombies. Now they've earned a chance to poke around at their leisure. And also a glimpse of the first of their two goals, the gate rooms.
 
-[NOTE]
+[IMPORTANT]
 The room is dark; the heroes need a light source to see.
 
 > The room smells like rotted food. There is a large table, a wooden cluttered, wooden shelf, and a large cookpot hanging in the cold fireplace. There are plain doors in the southern and eastern walls.
 
 ==== Searching the Shelves
-
 Inquisitive heroes can search the shelves for valuables, but they might regret it.
 
 *Wisdom (Perception)* +
@@ -1080,14 +1002,12 @@ After being discovered, the spider drops to the floor and tries to scuttle into 
 The engraved drinking horn is a valuable treasure.
 
 ==== Move On
-
-*Move on* +
 The plain door in the western wall leads back to C2 Mess Hall. Though it requires a hard shove to get it open, the plain wooden door to the south permits entry to C4 Pantry. 
 
 === Area 4 - Pantry [Basement]
 There is nothing for the heroes to find and nowhere for the heroes to go from here except back to C3 Kitchen.
 
-[NOTE]
+[IMPORTANT]
 The room is dark; the heroes need a light source to see.
 
 > The cold dark larder has been raided by rats and bugs and the hanging slabs of meat have rotted away, leaving only barbed hooks hanging by chains from the ceiling beams and a foul stink in the air.
@@ -1095,7 +1015,7 @@ The room is dark; the heroes need a light source to see.
 === Area 5 - West and East [Basement]
 Built into the thirty-foot thick wall between the towers, these rooms allowed soldiers to raise and lower the gates at either end of the neck, the passage through the wall through which the road runs. Archers could also man the embrasures and fire into the neck or onto the road. With heroes present in both the gate rooms, the party can use the winches to raise the gates and allow Oona and her horses to pass through.
 
-[NOTE]
+[IMPORTANT]
 The room is  dimly lit.
 
 > The room is dimly lit, daylight shines through the arrow slits in the archers’ embrasures. There are two huge winches built into the floor, one in the north corner and one in the south corner.
@@ -1105,13 +1025,11 @@ The room is  dimly lit.
 > You quickly realize that to raise the gates, you will have to man both Gate Rooms and shout through the arrow slits to coordinate their efforts.
 
 ==== The Embrasures
-
 An embrasure is a small alcove built into a wall. Each embrasure has a narrow, vertical window called an arrow slit. An archer could man an embrasure and cover a wide arc thanks to the tapered arrow slit. There are three embrasures built into each of the room’s three thick, exterior walls. The heroes can see Gundren though the southern arrow slits. They can even call her over and talk to her.
 
 The heroes can see into the space where the road passes beneath the wall — called the neck — and, by the dim light filtering in through the portcullis, can see arrow slits in the opposite wall of the neck. If there are heroes in both gate rooms, they can shout to each other through the arrow slits to coordinate their activities.
 
 ==== The Winches
-
 The counterweight is necessary because each iron portcullis weighs about 1,200 lbs. Thanks to the counterweight, a single person can operate each winch. Each winch also has a chock attached to a lever so the winch can be locked into place. Each of the two gates, the northern and the southern gate, has two winches attached to it, one in each Gate Room. 
 
 To raise a gate, both winches must be operated simultaneously. To raise the gates, the heroes will have to man both Gate Rooms and shout through the arrow slits to coordinate their efforts. All this information is obvious to the heroes. This is not meant to be a puzzle. The characters can easily figure out how to operate the winches. The details are provided so that you can answer the players’ questions about the winches. 
@@ -1121,20 +1039,18 @@ Let the players investigate the winches. Describe them using whatever level of d
 If the heroes have not yet found the other Gate Room and consider splitting up now, warn them that they don’t know what dangers might lurk in the unexplored rooms of the Watch. Suggest they secure the route to the other Gate Room before they split up. Ultimately, the choice is theirs though.
 
 ==== Move On
-
 Once they have finished exploring the Gate Room, the heroes can return to the room from which they came through the reinforced door.
 
 === Area 6 - Gathering Hall [Main floor]
 Once, soldiers mustered here before leaving the Watch to patrol the road, to hunt, or to forage for supplies. Now, the hall is silent and empty and contains only the garrison’s abandoned cloaks and boots.
 
-[NOTE]
+[IMPORTANT]
 The room is dark; the heroes need a light source to see.
 
 > This long hall is unfurnished. A A dozen or so heavy, furred cloaks hang from pegs along the eastern wall and a pair of thick, warm boots sits on the floor beneath each cloak. A flight of wooden stairs climbs up from a doorway at the 
 northern end of the hall.
 
 ==== Cloak and boots
-
 * They are not of exceptionally high quality, but they are warm and in good repair. Heroes can help themselves to new cloaks and boots if they want.
 * The missing cloak is still stached in the chest of Dolf in his chest in C7 Barracks.
 
@@ -1146,7 +1062,6 @@ warm and in good repair. Heroes can help themselves to new cloaks and boots if t
 The heroes might think of gathering up the cloaks and boots for Gundren to sell or of selling them themselves. Either option is fine, but the whole collection is very bulky. Remind the players they can always gather them on their way out.
 
 ==== Move On
-
 Apart from returning to C1 Entry Hall through the reinforced western door, the heroes only option is the climb the groaning flight of wooden stairs to C7 Barracks on the west tower’s upper level.
 
 === Area 7 - Barracks [Upper Level]
@@ -1157,7 +1072,7 @@ After he killed Marshal Brask, Sir Einrik Arpaad came down the stairs into the b
 The soldiers’ bodies have risen as zombies. After the heroes defeat the zombies, they might notice the bloodstains that Arpaad 
 left behind. They can also ransack the trunks to turn up some valuables, some interesting clues, and a handful of ancient coins.
 
-[NOTE]
+[IMPORTANT]
 The room is dark; the heroes need a light source to see. +
 Detect Magic. There is a magic present, but it cannot be pinpointed. It is coming from the healing potion in Wren’s trunk.
 
@@ -1198,7 +1113,7 @@ DC 10 There is not much blood on the floor. Just a few drops. It looks like an i
 ==== The Trunks
 There are twelve pinewood trunks in the room. Nine trunks have names scrawled across the top in charcoal. The remaining three have charcoal stains from old names smudged out years ago. The names are Kurz, Piri, Rast, Torval, Harl, Wren, Arno, Rykken, and Dolf, but do not share those names unless and until the players specifically ask.
 
-[NOTE]
+[IMPORTANT]
 The wooden dice cup and the exotic waterskin are valuable treasures. +
 The healing potion. +
 The ancient coins are described below. +
@@ -1217,7 +1132,6 @@ The contents of each soldiers’ trunks are as follows:
 * Dolf Beneath his plain, woolen clothes, Dolf stuffed the heavy, furred cloak he took off Piri’s body. The cloak is recognizably similar to the ones hanging in C6 Gathering Hall and it has a large bloodstain inside it. At the bottom of the trunk, inside a glove, Dolf has hidden a handful of ancient coins.
 
 ==== The Ancient Coins
-
 Dolf looted a dozen ancient coins from Berengar’s barrow. They are dull electrum; thin, worn, and tarnished. Heroes examining the coins might conclude:
 
 *Intelligence (Smith’s Tools)*
@@ -1231,14 +1145,12 @@ DC 10 The coins are made of beaten electrum. These days, that is an uncommon way
 DC 15 Most of the coins bear the mark of the ancient Helvetican Empire, which ruled most of the continent before its fall several hundred years ago. The other coins look just as old and look like the came from the unknown kingdoms of Atuaro.
 
 ==== Move On
-
 The heroes can climb back down the stairs to C6 Gathering Hall. Or they can open the plain, wooden door and enter C8 Marshal Brask’s Room to the southeast. They can open the reinforced door to the east and cross C9 Covered Walk. Finally, they can climb the stairs up to C20 West Tower Landing on the west tower’s tower level.
 
 === Area 8 - Marshal Brask’s Room
-
 This bedroom belonged to the Watch’s second-in-command, Marshal Ildo Brask. It is cramped with a single bed, a fireplace, a chair and small table that serves as a desk, and a stand for the Marshal’s armor. Marshal Brask was in the middle of writing a letter to Piri’s sister about her brother’s death when the Watch’s smith and supply master, Bartoz interrupted him. Bartoz told the Marshal that Sir Arpaad had lied about Brother Wulfram’s whereabouts and told him about the serpentine dagger the priest showed him. Brask took his sword belt and went to question Sir Arpaad.
 
-[NOTE]
+[IMPORTANT]
 The room is dark; the heroes need a light source to see. +
 Detect Magic; there is magic present here.
 
@@ -1252,7 +1164,6 @@ Detect Magic; there is magic present here.
 DC 10 The title marshal originally referred to someone who managed a noble's stables and horses. Eventually referred to a military field commander. It is not technically an appropriate title for the Watch's second-in-command, but it sounds good and sometimes that is what really matters.
 
 ==== The Desk
-
 Visible atop the desk are the following:
 
 * Several sheets of blank parchment.
@@ -1273,7 +1184,7 @@ An open metal strongbox, about half a cubic foot in size.
 
 > Brask’s metal strongbox is about six inches long and deep and sits open on the desk with a small key in the padlock. 
 
-[NOTE]
+[IMPORTANT]
 The moonstone is a valuable treasure. The magic weapon 
 oil is described in Appendix B.
 
@@ -1284,7 +1195,6 @@ Marshal Brask’s strongbox contains the following:
 * A sealed earthenware jar containing magic weapon oil. (See Extra)
 
 ==== The Armor
-
 An armor stand in the corner displays the marshal’s breastplate armor. The armor is plain, but well maintained. There is a shimmering, dark blue cloak draped over the armor, a mantle of protection.
 
 Heroes examining the armor might conclude the following:
@@ -1342,13 +1252,12 @@ A dark blue cloak that shimmers like water. Though the fabric is thick, it is li
 image::{homedir}/assets/handouts/marshal_brasks_letter.png[align=center]
 
 === Area 9 - Covered Walk
-
 A walk runs atop the wall that stretches across the road between the two towers. A wooden enclosure and roof have been built over the walk. It is called a hoarding. Small, triangular windows along the hoarding called loopholes allowed archers to fire down on their foes. A number of small pits in the floor open into the neck below where the road runs through the wall. These murder holes allowed guards to drop stones or heated sand on foes trapped between the gates.
 
 Unfortunately, a flock of bloodsucking stirges now live here and they will attack the heroes once they make their way about halfway down the walk, unless the heroes notice them first. These same stirges killed the peddler whose body the heroes found earlier. 
 After dealing with the flock, the heroes might note the stirges’ nests in the rafters.
 
-[NOTE]
+[IMPORTANT]
 The room is dimly lit, daylight streams in through the archers’ loopholes. +
 The heroes can fall through the murder holes!
 
@@ -1367,7 +1276,6 @@ DC 15 Hidden in what looks like nesting material amongst the rafters that hold u
 DC 10 Reveal that the insects are bloodsucking stirges. They use their barbed claws to attach to their prey and then drink their blood through their proboscises. A small flock of stirges can completely drain an adult human of blood.
 
 ==== The Stirges
-
 The six stirges are intent on feeding, but they will not die for their meals. Once a stirge has been injured, it will withdraw and try to escape through one of the loopholes. After half the flock has died or fled, the remaining stirges will withdraw and try to flee.
 
 > A flock of creatures takes wing and attacks. A half-dozen foot-long insects with leathery bat wings, barbed legs, and long needle-like noses come flapping down from their dirty nests in the rafters to attack...
@@ -1414,23 +1322,115 @@ Stirge is the Latin plural of the word strix. The mythological strix was a monst
 |===
 
 ==== The Nests in the Rafters
-
 The stirges have made nests in the beams holding the roof up. The nests are made of dried twigs, leaves, pine needles, mud, and bits of debris. 
 
 Alert heroes might notice:
 
 *Wisdom (Perception)* +
 «Passive» +
-DC 15 Amongst the twigs, mud, and debris of one of the stirge nests, there is a metallic gleam like a metal wire or string is woven into the nest. The beams are ten feet above the floor. A hero can make a vertical jump and grab the beams and then pull themselves 
-up. Or the hero might climb a rope into the beams.
+DC 15 Amongst the twigs, mud, and debris of one of the stirge nests, there are metallic gleams in the nest. The beams are ten feet above the floor. A hero can make a vertical jump and grab the beams and then pull themselves up. Or the hero might climb a rope into the beams.
 
 *Strength (Athletics)* +
 DC 15 to make a standing jump and catch hold of the rafters overhead. +
 DC 20 to pull oneself onto the rafter.
 
-In the nest is a nicely made silver necklace.
+In the nest there are multiple gold (2d10), silver (2d20), and copper (1d100) coins.
 
 If the heroes come up with another plan, assess it and use ability checks to resolve it. Most attempts to get up into the rafters should be made at DC 15 or DC 20. If the heroes pool their efforts and help each other, grant them advantage.
+
+==== Move On
+When the heroes are ready to move on, they open the heavy door at the eastern end of walk and enter C10 East Tower Landing. Otherwise, they can return to the western tower and C7 Barracks through the western door.
+
+=== Area 10 - East Tower Landing [Upperlevel]
+Sir Einrik Arpaad passed through this empty, unfurnished room after he was mortally wounded by Bartoz the smith in the workshop. The heroes might notice the bloodstains he left as they pass through here.
+
+[IMPORTANT]
+The room is dark; the heroes need a light source to see. +
+Dark brown stains spatter the wooden floor near the top of the stairs
+
+> The room landing is unfurnished and empty. There are plain wooden doors in the southern and eastern interior walls that divide this floor of the tower. A flight of wooden stairs climbs down to the level below. A wooden ladder bolted to the wall of an alcove climbs to a heavy trap door in the ceiling.
+
+ Wisdom (Perception) «Passive» DC 15 
+
+==== The Bloodstains
+If the heroes carefully examine the stains, they will recognize them as long dried bloodstains. There is not much blood, just a few spatters on the floor at the top of the stairs.
+
+*Intelligence (Investigation)* +
+*Wisdom (Survival)* +
+«Requires Proficiency» 
+DC 10 There is not much blood on the floor or the stairs. Just a few drops. It looks like an injured person climbed this stair, though it is impossible to say whether they were ascending or descending.
+
+==== Move On
+Once the heroes have finished here, they can enter C11 Brother Wulfram’s Room through the plain, wooden door to the south or C13 Chapel through the plain door to the east. They can ascend the ladder and open the heavy, iron-banded trap door to reach C14 East Tower Crown. They can descend the wooden steps to C15 Common Room. Or they can return through the reinforced door in the exterior wall to the west to C9 Covered Walk.
+
+=== Area 11 - Brother Wulfram’s Room
+The bed in this small bedchamber is covered with heavy wool blankets and the cold fireplace is heaped with ash. The room belonged to the Watch’s elderly chaplain, Brother Wulfram. After Sir Arpaad killed the priest in his study, the knight dragged Wulfram’s body in here and stuffed it in the trunk at the foot of his bed. He then stole the key. The heroes will definitely notice the smell and likely see the bloodstain on the floor. If they manage to open Wulfram’s trunk, they will find the body.
+
+[IMPORTANT]
+The room is dark; the heroes need a light source to see. +
+The body of Brother Wulfram's body is in the wooden trunk +
+Bloodstains on the floor Perception DC 15
+
+> The air is pervaded by a thick, rotting stench. The bedroom contains a bed piled with warm blankets, a small washstand, and a fireplace. At the foot of the bed is a padlocked, wooden trunk. There are plain, wooden doors in the northern and eastern interior walls of the tower.
+
+==== The Bloodstain
+> The dark, brown stain on the wooden floorboards is unmistakably a dried bloodstain. The smearing obviously indicates that something heavy and bloody was dragged across the floor into or out of the eastern door.
+
+*Wisdom (Perception)* +
+«Passive» +
+DC 15 There are brown stains smeared on the wooden floor by the eastern door.
+
+==== The Trunk
+The wood-and-iron trunk is closed with an iron padlock. The heroes can try to break the lock if they have a crowbar or a similar tool or they can pick it. Or they can unlock it with the key found in C23 Sir Arpaad’s Study. The party can also destroy the chest itself with an axe or similar tool but doing so makes it harder to glean information from Wulfram’s body.
+
+> The wood-and-iron trunk is closed with an iron padlock. 
+
+*Strength* +
+«Requires crowbar or similar tool» +
+DC 20 to break the padlock.
+
+*Dexterity* +
+«Thieves’ Tools, Requires Proficiency» +
+DC 15 to pick the lock.
+
+*Strength* +
+«Requires woodcutter’s axe or similar tool» +
+DC 20 to destroy the chest
+
+==== The Body
+After Arpaad broke Wulfram’s skull with the statuette in C12 Brother Wulfram’s Study, he hid Wulfram’s body in this trunk where it has been rotting slowly for a few months. The body is in an advanced state of decay, the flesh putrefied and waxy. The smell is horrendous. The party will have to remove the body to examine it.
+
+*Wisdom (Medicine)* +
+«Requires Proficiency» +
+«Disadvantage: A Hero Destroyed the Chest» +
+DC 15 Reveal the remains are of a frail or elderly human. The body has slowly been rotting away stuffed inside the chest. The hattered skull indicates the human took a heavy blow to the head. 
+
+Any examination also turns up the priest’s holy symbol, three linked silver rings contained in a ring of gold.
+
+*Intelligence (Religion)*
+«No Action»
+DC 5 Reveal that the body wears a holy symbol of Ohm, the Shining Lord of the Heavens and the champion of light, justice, and civilization. The three smaller rings represent his three sainted knights.
+
+==== Move On
+When the heroes are ready to depart, they can use the plain wooden door to the east to enter C12 Brother Wulfram’s Study or the plain door in the northern wall to return to C10 East Tower Landing.
+
+==== Extra
+Putrefaction — the liquification of a human body — generally starts bout a month after death, but can take longer depending on where the body is. As a GM, always remember to delete your search history when using a public computer.
+
+-> replace he Shining Lord of the 
+Heavens and the champion of light, justice, and civilization.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
