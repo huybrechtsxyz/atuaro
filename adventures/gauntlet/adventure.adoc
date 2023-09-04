@@ -1343,6 +1343,95 @@ image::{homedir}/assets/handouts/marshal_brasks_letter.png[align=center]
 
 === Area 9 - Covered Walk
 
+A walk runs atop the wall that stretches across the road between the two towers. A wooden enclosure and roof have been built over the walk. It is called a hoarding. Small, triangular windows along the hoarding called loopholes allowed archers to fire down on their foes. A number of small pits in the floor open into the neck below where the road runs through the wall. These murder holes allowed guards to drop stones or heated sand on foes trapped between the gates.
+
+Unfortunately, a flock of bloodsucking stirges now live here and they will attack the heroes once they make their way about halfway down the walk, unless the heroes notice them first. These same stirges killed the peddler whose body the heroes found earlier. 
+After dealing with the flock, the heroes might note the stirges’ nests in the rafters.
+
+[NOTE]
+The room is dimly lit, daylight streams in through the archers’ loopholes. +
+The heroes can fall through the murder holes!
+
+> A flagstone walkway runs atop the wall like a bridge between the two towers. A wooden enclosure — a hoarding — covers the walkway. These Triangular windows — loopholes — permit archers to fire down on the road. A grid of small pits in the floor — murder holes — allow guards to attack foes trapped between the gates below.
+
+* Alert heroes might notice the stirges before they attack. 
+* Otherwise they attack when the heroes are in the middle.
+
+*Wisdom (Perception)* +
+«Passive» +
+DC 15 Hidden in what looks like nesting material amongst the rafters that hold up the room are a half-dozen shadowy, insectoid shapes. They remain very still, waiting to ambush the party.
+
+*Intelligence (Nature)* +
+«No Action» +
+«Requires Proficiency» +
+DC 10 Reveal that the insects are bloodsucking stirges. They use their barbed claws to attach to their prey and then drink their blood through their proboscises. A small flock of stirges can completely drain an adult human of blood.
+
+==== The Stirges
+
+The six stirges are intent on feeding, but they will not die for their meals. Once a stirge has been injured, it will withdraw and try to escape through one of the loopholes. After half the flock has died or fled, the remaining stirges will withdraw and try to flee.
+
+> A flock of creatures takes wing and attacks. A half-dozen foot-long insects with leathery bat wings, barbed legs, and long needle-like noses come flapping down from their dirty nests in the rafters to attack...
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Stirge*#
+| [small]#Tiny beast, unalligned (CR of 1/8 for 25XP)#
+
+| image::{rootdir}/assets/ddb-images/tokens/npc-token-Stirge.jpeg[]
+
+|
+*Armor Class* 13 (natural armor) +
+*Hit Points* 7 (3d4) +
+*Speed* 5 ft., fly 40ft +
+*Proficiency* +0 +
+*Initiative* +0 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  4 (*-3*) ^! 15 (*+2*) ^! 10 (*+0*) ^!  2 (*-4*) ^!  8 (*-1*) ^!  6 (*-2*)
+!===
+
+| *Actions* | 
+*Attach.* +
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage, +
+and the stirge attaches itself to the target. The stirge can detach itself at any time and detaches itself when the creature dies. Attached stirges move with the creature to which they are attached. A creature can remove one stirge that’s attached to itself 
+or another adjacent creature as an action on its turn.
+
+*Feed.* +
+The stirge drains blood from the target to which it is attached. The target loses 4 (1d4+2) hit points due to blood loss. When a stirge has drained a 10 hit points worth of blood from a target, it detaches itself and attempts to fly away to digest its meal.
+
+| *Abilities* | 
+darkvision 60 ft., passive Perception 9
+
+| *Traits* |
+
+2+| *About* + 
+Stirge is the Latin plural of the word strix. The mythological strix was a monstrous, owl-like bird with a hook beak that was said to hang upside like a bat when it slept and to feed on the blood and organs of infant children.
+
+*Environment:*   +
+*Tags:* 
+|===
+
+==== The Nests in the Rafters
+
+The stirges have made nests in the beams holding the roof up. The nests are made of dried twigs, leaves, pine needles, mud, and bits of debris. 
+
+Alert heroes might notice:
+
+*Wisdom (Perception)* +
+«Passive» +
+DC 15 Amongst the twigs, mud, and debris of one of the stirge nests, there is a metallic gleam like a metal wire or string is woven into the nest. The beams are ten feet above the floor. A hero can make a vertical jump and grab the beams and then pull themselves 
+up. Or the hero might climb a rope into the beams.
+
+*Strength (Athletics)* +
+DC 15 to make a standing jump and catch hold of the rafters overhead. +
+DC 20 to pull oneself onto the rafter.
+
+In the nest is a nicely made silver necklace.
+
+If the heroes come up with another plan, assess it and use ability checks to resolve it. Most attempts to get up into the rafters should be made at DC 15 or DC 20. If the heroes pool their efforts and help each other, grant them advantage.
+
 
 
 
