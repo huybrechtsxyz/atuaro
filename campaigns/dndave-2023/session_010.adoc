@@ -45,23 +45,29 @@ They bring back Bess to the village and reunite her with her parents. They use B
 Agreeing to the proposal of Gundren to be his guardsmen on his route to Loukotokia, the depart the next day. After the snake caught them off guard, the horses rear up and Gundren and Antonio fall of the cart. The heroes dispatch of their problems with ease. Tyrion finding and throwing the snake in the bushes, cornus tending to the horses and Angela after Gundren.
 
 == Start of session
-Antonio
-* has the golden ring of Cracus with the symbol of Whirotepua (disturbs long rest on failure of WIS DC10, valued at 20GP)
-* has the silver dagger from the altar (valued at 100GP)
-* is the guardian of Bess (he hoped her parents to be rich, so he is rewarded for saving her)
 
-Angela
-* cleans up the shamans handy work and restores the statue of the delian knight.
-* Angela has found a potion healing, 2 gemstones worth 14GP and 8GP and 10 gp in coins.
+* Antonio
+  - has the golden ring of Cracus with the symbol of Whirotepua (disturbs long rest on failure of WIS DC10, valued at 20GP)
+  - has the silver dagger from the altar (valued at 100GP)
+  - is the guardian of Bess (he hoped her parents to be rich, so he is rewarded for saving her)
+* Angela
+  - cleans up the shamans handy work and restores the statue of the delian knight.
+  - Angela has found a potion healing, 2 gemstones worth 14GP and 8GP and 10 gp in coins.
+* Let each player find something that can help them:
+  - Angela (Toon)      : Cleric > 
+  - Antonio (Giuseppe) : Rogue > 
+  - Cornus (Koen)      : Druid > 
+  - Mario (Michael)    : Fighter > 
+  - Tyrion (Dave)      : Barbarian > 
 
-It will be an eventless evening, however due to the ring, Antonio will not recover hit points.
+=> It will be an eventless evening, however due to the ring, Antonio will not recover hit points.
 
 == Session Notes
 
-Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)? 
-    Excellent.
-    Good. (They haggle about the price with bess in mind)
-    Okay. (Behaviour of mario)
+Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)? +
+    Excellent. (Start of the trip) +
+    Good. (They haggle about the price with bess in mind) +
+    Okay. (Behaviour of mario) +
 
 Next: The Dogs!
 
