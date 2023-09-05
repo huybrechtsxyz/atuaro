@@ -54,11 +54,11 @@ Agreeing to the proposal of Gundren to be his guardsmen on his route to Loukotok
   - cleans up the shamans handy work and restores the statue of the delian knight.
   - Angela has found a potion healing, 2 gemstones worth 14GP and 8GP and 10 gp in coins.
 * Let each player find something that can help them:
-  - Angela (Toon)      : Cleric > 
-  - Antonio (Giuseppe) : Rogue > 
-  - Cornus (Koen)      : Druid > 
-  - Mario (Michael)    : Fighter > 
-  - Tyrion (Dave)      : Barbarian > 
+  - Angela (Toon)      : Cleric    > Animated Rope
+  - Antonio (Giuseppe) : Rogue     > Enchanted Studded Leather (+1)
+  - Cornus (Koen)      : Druid     > Mantle of Protection (+1)?
+  - Mario (Michael)    : Fighter   > Magic Weapon Oil (?) / Periapt of Courage
+  - Tyrion (Dave)      : Barbarian > Blacksmith’s Maul
 
 => It will be an eventless evening, however due to the ring, Antonio will not recover hit points.
 

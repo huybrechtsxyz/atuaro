@@ -341,7 +341,7 @@ DC 10 It looks like something with lots of small claws or burrs got caught on th
 » A small, polished brass candlestick that looks valuable +
 » A glass vial containing a paler shade of red sticky liquid (healing potion).
 
-The brass candlestick is a valuable treasure. Tell the party that its common knowledge among adventurers that the sweet, pale red liquid in the vial is a healing potion. 
+The brass candlestick is a valuable treasure [5 GP]. Tell the party that its common knowledge among adventurers that the sweet, pale red liquid in the vial is a healing potion. 
 
 ==== Burying the Body
 The heroes can bury the body in the forest off the road or raise a cairn of rocks over it. Gundren can lend the party a shovel and a woodcutter’s axe from her cart. It takes an hour of work, during which the party is not disturbed. A character with proficiency in the Religion skill can perform proper burial rites.

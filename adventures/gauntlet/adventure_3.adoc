@@ -111,7 +111,6 @@ The room is dark; the heroes need a light source to see.
 
 > The room is dark; There is a heavy door in the interior tower wall to the east. A flight of wooden stairs leads down from a doorway at the southern end of the hall.
 
-==== Call to action
 * Once all the players commit to entering the hall, describe the spirit’s sudden appearance. If they act upon it, move to <<The_Spirit>>.
 * The door to east (C6) is locked.
 
@@ -147,7 +146,8 @@ include::{homedir}/npc_einrik_arpaad.adoc[]
 The Watch’s garrison took their meals around a single long table in this hall, warmed by the two fireplaces in the eastern wall. When Sir Arpaad went mad, he surprised four soldiers gathered here and killed them all. Their bodies have risen as zombies and the party will have fight them around the mess table. Once they have done so, the heroes can find up the key to the door above if they search the room.
 
 [IMPORTANT]
-The room is dark; the heroes need a light source to see.
+The room is dark; the heroes need a light source to see. +
+Zombie (S3) has an iron key on his belt. As you describe the action, mention the keyring.
 
 > The room stinks of rotten meat and blood, a long table occupies the center of the space. +
 There is a heavy door in the eastern wall and a plain wooden door to the west. +
@@ -156,7 +156,7 @@ Toppled benches and broken dishes suggest a fierce struggle occurred here.
 * The first hero (if he can see the zombies) can perform an intelligence check.
 * When the first hero reaches the bottom of the stairs, the zombies become aware of them and will attack.
 
-==== Encounter
+==== The Zombies
 The four Zombie Soldiers attack immediately and relentlessly. The dark spirits animating them despise the living and must destroy them. One zombie has an iron key on a ring hung on his belt. As you describe the action, mention the keyring at least twice. For example, you might describe it jingling when the zombie makes an attack and later mention how it clatters against the floor when the zombie falls.
 
 > Without word or breath, the corpses turn to face the party as one and bare their rotted, yellow teeth. 
@@ -173,21 +173,22 @@ DC 10 The corpses are zombies, the bodies of slain humanoids animated by dark sp
 «Strength (Athletics) DC 10» +
 The table is an obstacle for the zombies, but not the heroes. A hero can easily jump or climb onto the table as part of their movement with a Strength (Athletics) DC 10 check and can jump down without issue. The zombies cannot climb onto the table but can reach characters standing on it. The zombies cannot climb or jump onto the table. A zombie can pull a hero off the table as part of its movement if it is grappling the hero. The hero takes 1d4 bludgeoning damage and falls prone.
 
-include::./npc_zombie_soldier.adoc[]
-
 ==== Searching the Room
 Once the zombies are defeated, the heroes can make a survey of the room. The heroes should be aware of the iron key on one zombie’s belt. It opens the door between C1 Entry Hall and C6 Gathering Hall on the west tower’s main level. If they forget about it, remind them of it so they can retrieve it. The floor and the table are littered with debris from the soldier’s last meal. The foodstuffs have rotted away, but the broken tankards and tableware remain. Scattered amongst the debris are two notable items.
 
 *Wisdom (Perception)* +
 «Passive» +
-DC 10 to find a bronze tankard engraved with hippogriffs.
-DC 15 to discover a palm-sized bear figure of whittled pinewood. The engraved tankard is a valuable treasure. The whittled bear figure is not valuable. The soldier Piri carved it as mentioned in the letter in C8 Marshal Brask’s Room.
+DC 10 to find a bronze tankard engraved with hippogriffs [2 GP]. The engraved tankard is a valuable treasure.
+DC 15 to discover a palm-sized bear figure of whittled pinewood. The whittled bear figure is not valuable. The soldier Piri carved it as mentioned in the letter in C8 Marshal Brask’s Room.
 
-* Iron key on zombier S3 (Door for 1.Entry Hall to 6.Gathering hall).
+* Iron key on zombie S3 (Door for 1.Entry Hall to 6.Gathering hall).
 * The broken tankards and tableware on the table
 
 ==== Move On
 Aside from using the wooden stairs to climb back up the western tower’s main level and C1 Entry Hall, the heroes might open the plain wooden door to the west and visit C3 Kitchen or they might open the heavy eastern door and enter C5W West Gate Room.
+
+==== Statblocks
+include::./npc_zombie_soldier.adoc[]
 
 === Area 3 - Kitchen [Basement]
 There is no fighting occurred in the Watch’s kitchen. The foodstuffs have rotted away or been picked over by rats. The party can search the shelves for valuables. Empty rooms in dungeons are like slow scenes in movies. They give the players' brains a chance to breathe. Since entering the Watch, the players have been threatened by a ghost and attacked by zombies. Now they've earned a chance to poke around at their leisure. And also a glimpse of the first of their two goals, the gate rooms.
@@ -202,13 +203,14 @@ Inquisitive heroes can search the shelves for valuables, but they might regret i
 
 *Wisdom (Perception)* +
 «Passive» +
-DC 15 to find an engraved drinking horn. +
+DC 15 to find an engraved drinking horn. [5 GP] +
 Failure A hero making an active search of the shelves startles a fist-sized spider hidden amongst the crockery and risks getting bitten.
 
 *Dexterity Saving Throw for spider bite* +
 DC 12 to avoid being bitten by the spider. +
 Failure The spider bites the hero, dealing 1 piercing damage. +
-After being discovered, the spider drops to the floor and tries to scuttle into a hole in the masonry wall. A hero can intercept and kill it without issue. +
+After being discovered, the spider drops to the floor and tries to scuttle into a hole in the masonry wall. +
+A hero can intercept and kill it without issue. +
 The engraved drinking horn is a valuable treasure.
 
 ==== Move On
@@ -264,7 +266,7 @@ northern end of the hall.
 * They are not of exceptionally high quality, but they are warm and in good repair. Heroes can help themselves to new cloaks and boots if they want.
 * The missing cloak is still stached in the chest of Dolf in his chest in C7 Barracks.
 
-There are a total of eleven warm, fur-lined, hooded cloaks hanging on pegs on the wall and eleven pairs of heavy, furtopped boots. There is also one empty peg, its cloak missing, and an empty patch of floor where some boots should lie. The soldier, Piri, was wearing one of the cloaks and one pair of boots when Dolf killed him. Dolf originally intended to bring back Piri’s cloak and boots, but he realized that would disprove his story that Piri was dragged away by an owlbear.
+There are a total of eleven warm, fur-lined, hooded cloaks hanging on pegs on the wall and eleven pairs of heavy, furtopped boots. There is also one empty peg, its cloak missing, and an empty patch of floor where some boots should lie. The soldier, Piri, was wearing one of the cloaks and one pair of boots when Dolf killed him. Dolf originally intended to bring back Piri’s cloak and boots, but he realized that would disprove his story that Piri was dragged away by an owlbear.
 
 Ultimately, he abandoned the boots in the woods, but his guilt over his crime and latent desire to confess — or to get caught — led him to keep the cloak. It is still stashed in his chest in C7 Barracks. They are not of exceptionally high quality, but they are 
 warm and in good repair. Heroes can help themselves to new cloaks and boots if they want.
@@ -272,9 +274,9 @@ warm and in good repair. Heroes can help themselves to new cloaks and boots if t
 The heroes might think of gathering up the cloaks and boots for Gundren to sell or of selling them themselves. Either option is fine, but the whole collection is very bulky. Remind the players they can always gather them on their way out.
 
 ==== Move On
-Apart from returning to C1 Entry Hall through the reinforced western door, the heroes only option is the climb the groaning flight of wooden stairs to C7 Barracks on the west tower’s upper level.
+Apart from returning to C1 Entry Hall through the reinforced western door, the heroes only option is the climb the groaning flight of wooden stairs to C7 Barracks on the west tower’s upper level.
 
-=== Area 7 - Barracks [Upper Level]
+=== Area 7 - Barracks [Upperlevel]
 The Watch’s soldiers slept in this barracks, warmed by three fireplaces, and each soldier kept his possessions in a wooden trunk next to his bunk bed. Piri’s trunk still contains his meager personal effects which might raise a players’ eyebrows if they read the letter in C8 Marshal Brask’s Room. Dolf’s trunk contains the bloodstained cloak he took from Piri’s body after killing Piri and a handful of ancient coins he looted with the serpentine dagger from Berengar the Backstabber’s barrow.
 
 After he killed Marshal Brask, Sir Einrik Arpaad came down the stairs into the barracks and slaughtered five of his soldiers where they lounged and rested. Caught by surprise, they had no chance against the knight. Later, after he killed Bartoz in C17 Workshop, the mortally wounded Arpaad passed through the barracks again on his way back up to his room, leaving signs of his passage.
@@ -284,12 +286,13 @@ left behind. They can also ransack the trunks to turn up some valuables, some in
 
 [IMPORTANT]
 The room is dark; the heroes need a light source to see. +
-Detect Magic. There is a magic present, but it cannot be pinpointed. It is coming from the healing potion in Wren’s trunk.
+Detect Magic. There is a magic present, but it cannot be pinpointed. +
+It is coming from the healing potion in Wren’s trunk.
 
 * There are brown stains on the floor and wall beside the door.
 
 ==== The Zombies
-The five Zombie Soldiers attack immediately and relentlessly. The dark spirits animating them despise the living.
+The five Zombie Soldiers attack immediately and relentlessly. The dark spirits animating them despise the living.
 
 As the heroes emerge from the stairs into the barracks, the zombies become aware of them.
 
@@ -299,7 +302,7 @@ and start to advance.
 *Intelligence (Religion)* +
 «No Action» +
 «Proficiency Required» +
-DC 10 The corpses are zombies, the bodies of slain humanoids animated by dark spirits. They are compelled to grapple and devour the living. Even after they are brought down they tend to rise again and keep fighting. Fire or divine radiance are the best ways to destroy them.
+DC 10 The corpses are zombies, the bodies of slain humanoids animated by dark spirits. They are compelled to grapple and devour the living. Even after they are brought down they tend to rise again and keep fighting. Fire or divine radiance are the best ways to destroy them.
 
 *After defeating the zombies*
 
@@ -324,9 +327,9 @@ DC 10 There is not much blood on the floor. Just a few drops. It looks like an i
 There are twelve pinewood trunks in the room. Nine trunks have names scrawled across the top in charcoal. The remaining three have charcoal stains from old names smudged out years ago. The names are Kurz, Piri, Rast, Torval, Harl, Wren, Arno, Rykken, and Dolf, but do not share those names unless and until the players specifically ask.
 
 [IMPORTANT]
-The wooden dice cup and the exotic waterskin are valuable treasures. +
+The wooden dice cup [2 GP] and the exotic waterskin [2 GP] are valuable treasures. +
 The healing potion. +
-The ancient coins are described below. +
+The ancient coins are described below [10 GP]. +
 The other items are neither valuable nor important.
 
 The contents of each soldiers’ trunks are as follows:
@@ -342,7 +345,7 @@ The contents of each soldiers’ trunks are as follows:
 * Dolf Beneath his plain, woolen clothes, Dolf stuffed the heavy, furred cloak he took off Piri’s body. The cloak is recognizably similar to the ones hanging in C6 Gathering Hall and it has a large bloodstain inside it. At the bottom of the trunk, inside a glove, Dolf has hidden a handful of ancient coins.
 
 ==== The Ancient Coins
-Dolf looted a dozen ancient coins from Berengar’s barrow. They are dull electrum; thin, worn, and tarnished. Heroes examining the coins might conclude:
+Dolf looted a dozen ancient coins from Berengar’s barrow. They are dull electrum; thin, worn, and tarnished worth 10 GP. Heroes examining the coins might conclude:
 
 *Intelligence (Smith’s Tools)*
 «No Action» +
@@ -371,7 +374,7 @@ Detect Magic; there is magic present here.
 *Intelligence (History)* +
 «No Action» +
 «Requires Proficiency» +
-DC 10 The title marshal originally referred to someone who managed a noble's stables and horses. Eventually referred to a military field commander. It is not technically an appropriate title for the Watch's second-in-command, but it sounds good and sometimes that is what really matters.
+DC 10 The title marshal originally referred to someone who managed a noble's stables and horses. Eventually referred to a military field commander. It is not technically an appropriate title for the Watch's second-in-command, but it sounds good and sometimes that is what really matters.
 
 ==== The Desk
 Visible atop the desk are the following:
@@ -395,8 +398,8 @@ An open metal strongbox, about half a cubic foot in size.
 > Brask’s metal strongbox is about six inches long and deep and sits open on the desk with a small key in the padlock. 
 
 [IMPORTANT]
-The moonstone is a valuable treasure. The magic weapon 
-oil is described in Appendix B.
+The moonstone is a valuable treasure [50 GP]. +
+The magic weapon oil.
 
 Marshal Brask’s strongbox contains the following:
 
@@ -404,8 +407,8 @@ Marshal Brask’s strongbox contains the following:
 * A polished, blue gemstone the size and shape of a robin’s egg. It is a moonstone.
 * A sealed earthenware jar containing magic weapon oil. (See Extra)
 
-==== The Armor
-An armor stand in the corner displays the marshal’s breastplate armor. The armor is plain, but well maintained. There is a shimmering, dark blue cloak draped over the armor, a mantle of protection.
+==== The Armor and Mantle
+An armor stand in the corner displays the marshal’s breastplate armor. The armor is plain, but well maintained. There is a shimmering, dark blue cloak draped over the armor, a mantle of protection.
 
 Heroes examining the armor might conclude the following:
 
@@ -525,7 +528,7 @@ darkvision 60 ft., passive Perception 9
 | *Traits* |
 
 2+| *About* + 
-Stirge is the Latin plural of the word strix. The mythological strix was a monstrous, owl-like bird with a hook beak that was said to hang upside like a bat when it slept and to feed on the blood and organs of infant children.
+Stirge is the Latin plural of the word strix. The mythological strix was a monstrous, owl-like bird with a hook beak that was said to hang upside like a bat when it slept and to feed on the blood and organs of infant children.
 
 *Environment:*   +
 *Tags:* 
@@ -544,12 +547,30 @@ DC 15 Amongst the twigs, mud, and debris of one of the stirge nests, there are m
 DC 15 to make a standing jump and catch hold of the rafters overhead. +
 DC 20 to pull oneself onto the rafter.
 
-In the nest there are multiple gold (2d10), silver (2d20), and copper (1d100) coins.
+In the nest there is A silver amulet in the shape of a lion’s head hung on a silver chain.
 
 If the heroes come up with another plan, assess it and use ability checks to resolve it. Most attempts to get up into the rafters should be made at DC 15 or DC 20. If the heroes pool their efforts and help each other, grant them advantage.
 
 ==== Move On
 When the heroes are ready to move on, they open the heavy door at the eastern end of walk and enter C10 East Tower Landing. Otherwise, they can return to the western tower and C7 Barracks through the western door.
+
+==== Handouts
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Periapt of Courage*#
+| [small]#Wondrous Item, Rare#
+
+| 
+
+|
+Detect Magic Enchantment magic, magic that affects the mind.
+A hero wearing this amulet has advantage on saving throws against fear.
+
+2+|
+A silver amulet in the shape of a lion’s head hung on a silver chain.
+
+*Tags:* 
+|===
 
 === Area 10 - East Tower Landing [Upperlevel]
 Sir Einrik Arpaad passed through this empty, unfurnished room after he was mortally wounded by Bartoz the smith in the workshop. The heroes might notice the bloodstains he left as they pass through here.
@@ -632,14 +653,14 @@ This sparsely furnished study belonged to the Watch’s chaplain, Brother Wulfra
 
 [IMPORTANT]
 The room is dark; the heroes need a light source to see. +
-Detect Magic There is magic present, but it cannot be pinpointed. It is coming from the healing potion in the box.
+Detect Magic There is magic present, but it cannot be pinpointed. +
+It is coming from the healing potion in the box.
 
 > An old wooden desk has a heavy book atop it, a brass statuette, and a wooden box. A half-dozen books are shelved on the mantle above the fireplace.
 
 *Wisdom (Perception)* + 
 «Passive» +
-DC 10 There is a large, brown stain on the wooden floorboards near the desk and several brown streaks between the desk and the western 
-door.
+DC 10 There is a large, brown stain on the wooden floorboards near the desk and several brown streaks between the desk and the western door.
 
 ==== The Bloodstain
 The brown stains are obviously long-dried bloodstains. A ragged trail leads from a massive stain by the desk to the eastern door. It is clear something fell to the floor and then was dragged away while it was bleeding profusely.
@@ -651,7 +672,8 @@ The following objects lie atop the desk:
 
 * A slender book with a gray, linen cover. Wulfram’s journal.
 * A small, wooden box with a hinged top.
-* A foot-tall, brass statuette of one of the armored knights standing with their backs together. (The Crusader (Valor and Sacrifice).)
+* A foot-tall, brass statuette of one of the armored knights standing with their backs together [25 GP]+
+  (The Crusader - Valor and Sacrifice).
 
 link:{rootdir}/compendium/wiki/gods_of_atuaro.adoc[Ref: Gods of Atuaro]
 
@@ -663,7 +685,7 @@ DC 15 Flecks of dried red-brown blood stain the base of the statuette.
 *Intelligence (Religion)* +
 «No Action» +
 «Requires Proficiency» +
-DC 10 The statuette represents one of the sainted knights that serve Ohm, the Shining Lord of the Heavens. The brass statuette is a valuable treasure of The Crusader (Valor and Sacrifice).
+DC 10 The statuette represents one of the sainted knights that serve Ohm, the Shining Lord of the Heavens. The brass statuette is a valuable treasure of The Crusader (Valor and Sacrifice) [25 GP].
 
 ==== The Journal
 Wulfram’s journal is a slender, bound book with a plain, linen cover. Only half of its hundred or so pages are covered with the priest’s tiny, flowing script. The priest wrote his entries in Celestine script, which is used to record scriptures and religious writings.
@@ -761,14 +783,10 @@ The heroes can leave the chapel when they are finished either by the plain woode
 |===
 | [big]#*Holy Water*#
 | [small]#Normal Item#
-
 | 
-
 |
 Water blessed by a priest in a small vial or bottle. A hero can use their action to splash the water on an adjacent creature or throw the bottle at a creature up to 20 feet away, shattering it. The holy water deals 2d6 radiant damage to fiends and undead creatures.
-
 2+|
-
 *Tags:* 
 |===
 
@@ -788,7 +806,7 @@ The room is dark; the heroes need a light source to see. +
 DC 15 Brown stains speckle the wooden floor at the base of the northern stairs and the top of the southern stairs.
 
 ==== The Bloodstains
-The stains are obviously dried blood. Based on the trail of blood, a hero can easily conclude that injured person passed from one stairway to the other, though they cannot determine the direction they were traveling.
+The stains are obviously dried blood. Based on the trail of blood, a hero can easily conclude that injured person passed from one stairway to the other, though they cannot determine the direction they were traveling.
 
 ==== The Locked Door
 The reinforced door is locked. The heroes can try to force the door or pick the lock. Or they can unlock it with the key found in C24 Sir Arpaad’s Room.
@@ -823,7 +841,7 @@ DC 15 Half hidden amongst some crates in a corner is a small wooden chest with i
 
 *Detect Magic* +
 There is magic present. The concealed suit of enchanted studded leather emanates an aura of protective magic. +
-Another aura cannot be pinpointed but comes from the war wizard’s wand in the locked chest.
+If there is a wizard or sorcerrer in the party: another aura cannot be pinpointed but comes from the war wizard’s wand in the locked chest.
 
 ==== The Arms and Armor
 The rooms contents are as follows: crates and sacks of assorted odds, ends, and materials like buckles, straps, patches, whetstones, wax, oil, and plenty of bowstrings and feathers for fletching arrows, and:
@@ -862,13 +880,25 @@ If the heroes open the chest, they will find the following:
 * A beetle sculpture made of jade in a gold setting
 
 [NOTE]
-The jade beetle is a valuable treasure. +
+The jade beetle is a valuable treasure [50 GP]. +
 If the heroes destroy the chest, the wand is destroyed and they find only the pieces.
 
 ==== Move On
 Once they have finished looting the armory, the heroes can return through the door to C15 Common Room
 
 ==== Handouts
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*War Wizard’s Wand*#
+| [small]#Wand (Requires Attunement by Spellcaster), Uncommon#
+| 
+| Detect Magic Evocation magic, combat magic that harms or heals +
+An attuned hero holding this wand gains a +1 bonus on spell attack rolls and their spell attacks ignore up to half cover.
+2+|
+A twelve-inch wand made of silver-blue mithril with a spiked starburst at its end.
+
+*Tags:* 
+|===
 
 image::{homedir}/assets/handouts/sir_arpaads_note.png[align=center]
 
@@ -877,39 +907,380 @@ The western tower’s ground floor is given over to the Watch’s workshop and s
 
 [IMPORTANT]
 The room is dark; the heroes need a light source to see. +
-Detect Magic There is magic present. The undead's weapon, the blacksmith’s maul, emanates a combat magic aura
+There is magic present. The undead's weapon, the blacksmith’s maul, emanates a combat magic aura.
 
-> The workshop has a brick forge with an attached bellows. There is a large anvil, a stone worktable, and a tool shelf.
+> The workshop has a brick forge with an attached bellows. There is a large anvil, a stone worktable, and a tool shelf. A muscular human stands at the far side of the room, its back toward the party, carrying a massive blacksmith’s hammer that shimmers in the air.
 
-Call for Action
-When the lead character reaches the flagstone floor at the 
-bottom of the stairs, they spot the revenant in the shadows.
-» A muscular human stands at the far side of the room, its 
-back toward the party.
-» It carries a massive blacksmith’s hammer.
-Give the party a moment to call out to it or approach. But 
-when it turns and comes fully into the party’s light, they can 
-see it for what it is. 
-» This undead is not decayed like a zombie.
-» It has cracked, gray skin, glowing eye sockets, and wears 
-a linen shirt whose front is brown with dried bloodstains.
-» Intelligence (Religion) «No Action» «Requires 
-Proficiency» DC 15 Reveal that the undead is a revenant, 
-the remains of a strong-willed or powerful individual animated by dark magic. Revenants retain a dim memory of 
-the training they had in life and they heal quickly from 
-most injuries except those from fire or radiant magic.
+==== The Revenant Blacksmith
+When the lead character reaches the flagstone floor at the bottom of the stairs, they spot the revenant in the shadows. Give the party a moment to call out to it or approach. But when it turns and comes fully into the party’s light, they can see it for what it is. 
+
+[NOTE]
+Mention the hammer as it fights. It shimmers in the air and the feeling of magical force when it strikes.
+
+> This undead is not decayed like a zombie. It has cracked, gray skin, glowing eye sockets, and wears a linen shirt whose front is brown with dried bloodstains.
+
+*Intelligence (Religion)* +
+«No Action» +
+«Requires Proficiency» +
+DC 15 Reveal that the undead is a revenant, the remains of a strong-willed or powerful individual animated by dark magic. Revenants retain a dim memory of the training they had in life and they heal quickly from most injuries except those from fire or radiant magic.
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Revenant Blacksmith*#
+| [small]#Medium undead, neutral evil (CR of 1 for 200XP)#
+2+|
+Like all undead, the revenant blacksmith despises the living, and will attack relentlessly. The revenant is smart enough to take cover from ranged attacks, to draw the party into the room, and to circle around to attack vulnerable targets. The revenant will provoke opportunity attacks to gain a favorable position, relying on its regeneration to keep it alive.
+| image::{rootdir}/assets/ddb-images/tokens/npc-token-Stirge.jpeg[]
+
+|
+*Armor Class* 9 +
+*Hit Points* 39 (6d8 + 12) +
+*Speed* 30 ft +
+*Proficiency* +0 +
+*Initiative* +0 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 15 (*+2*) ^!  8 (*-1*) ^! 14 (*+2*) ^!  6 (*-2*) ^!  8 (*-1*) ^!  8 (*-1*)
+!===
+
+| *Actions* | 
+*Maul* +
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage.
+
+*Sweep* +
+The revenant swings its maul in an arc, making a melee weapon attack against each adjacent creature. Each creature hit takes 5 (1d6 + 2) bludgeoning damage.
+
+| *Abilities* | 
+Saving Throws Wis +1 +
+Damage Vulnerabilities fire, radiant +
+Damage Resistances necrotic +
+Damage Immunities poison +
+Condition Immunities poisoned +
+Senses darkvision 60 ft., passive Perception 9 +
+Languages —
+
+| *Traits* |
+*Regeneration* +
+The revenant regains 4 hit points at the start of its turn unless it took fire or radiant damage on its previous turn. The revenant is destroyed if it starts its turn with 0 hit points and doesn’t regenerate.
+
+2+| *About* + 
 
 
-Blacksmith’s Maul
-Weapon, Uncommon (Unique)
-A well-made, ornate, two-handed blacksmith’s hammer 
-with an ironwood handle and a bronze head. One side of 
-the head tapers to a small, polished nub like a spike that 
-has been rounded off.
-Detect Magic Evocation magic, combat magic that harms 
-or heals
-A hero gains a +1 bonus to attack and damage rolls when 
-attacking with this weapon
+*Environment:*   +
+*Tags:* 
+|===
+
+==== The Hammer
+The hammer is actually the blacksmith’s maul, a magical item described below.
+
+==== The Tools
+The workshop is stocked with all sorts of tools for metalwork, woodwork, leatherwork, and stonework. Of note, the party find a woodcutter’s axe and a crowbar, both of which might help them open chests and locked doors in the Watch.
+
+* The party find a woodcutter’s axe and a crowbar.
+
+==== The Locked Door
+The heavy, northwestern door is locked. The heroes can try to force the door or pick the lock. Or they can unlock it with the key found in C24 Sir Arpaad’s Room.
+
+*Strength* +
+«Advantage: Crowbar or Similar Tool» +
+DC 20to force the door open.
+
+*Dexterity* +
+«Thieves’ Tools (Requires Proficiency)» +
+DC 18 to pick the lock.
+
+==== Move On
+If the heroes manage to open the heavy door in the northwest, they can search C18 Storeroom. The plain wooden door in the northeast opens into C19 Bartoz’s room. The heavy door in the exterior tower wall to the west leads to C5E East Gate Room.
+
+==== Handouts
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Blacksmith’s Maul*#
+| [small]#Weapon, Uncommon (Unique)#
+| 
+| Detect Magic Evocation magic, combat magic that harms or heals.
+A hero gains a +1 bonus to attack and damage rolls when attacking with this weapon
+2+|
+A well-made, ornate, two-handed blacksmith’s hammer with an ironwood handle and a bronze head. One side of the head tapers to a small, polished nub like a spike that has been rounded off.
+
+*Tags:* 
+|===
+
+=== Area 18 - Storeroom [Basement]
+Supplies and materials for crafting and maintaining the garrison’s equipment are stored here in numerous crates, sacks, and barrels or stacked against the wall. The party might search the room.
+
+[IMPORTANT]
+The room is dark; the heroes need a light source to see. +
+There is magic here. The coil of rope, an animated rope, gives off an aura of magic of transformation.
+
+> The room is cluttered with crates, sacks, barrels, stacks of wood, and assorted dry goods.
+
+==== Searching the room
+The heroes will find everything they would expect in a workshop storeroom, though most of it has little value. If the heroes wish, they can claim the more valuable supplies and materials for Gundren or to sell later.
+
+*Wisdom (Perception)* +
+«Passive» +
+DC 15 An unusual coil of rope woven of silvery-blue silk hangs from the wall.
+
+==== Move On
+The party can only return through the reinforced door to C17 Workshop when they are done here.
+
+==== Handouts
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Animated Rope*#
+| [small]#Wondrous Item, Uncommon#
+| 
+| Detect Magic Transmutation magic, magic that transforms. When a hero holds the rope by its end and says “laeda,” an elven word meaning “awaken,” the rope becomes animated and moves as the hero commands so long as they keep hold of it.
+
+The rope can slither in any direction and climb sheer surfaces, but it cannot float unsuspended. The hero can command it to tie itself around something, to untie itself, or to coil itself for easy stowing.
+2+|
+A 60-foot length of silk rope. It feels restless to the touch, as if squirming to free itself.
+
+*Tags:* 
+|===
+
+=== Area 19 - Bartoz’s Room
+This small bedroom belonged to the Watch’s smith and supply master, Bartoz. After he grew suspicious of the priest’s whereabouts and told Marshal Brask of his suspicions, Bartoz returned here to gather his valuables from a hidden cache under a flagstone in the fireplace and to write a note. He expected the worst. Before he could finish his note, he heard Sir Arpaad in the workshop and knew he would have to fight. The party can examine the small table, discovering Bartoz’s note and a sketch of the serpentine dagger. They can also root through the fireplace and possibly find the smith’s strongbox.
+
+[IMPORTANT]
+The room is dark; the heroes need a light source to see.
+
+> This small and cramped bedroom contains a bed, a table, a chair, and a fireplace. There is a spilled bottle of ink on the table, several sheets of parchment on it and the floor, and the chair is toppled. Ash, soot, and half-burned wood have been swept out of the fireplace and all over the floor.
+
+==== The Table
+Atop the desk and on the floor nearby.
+
+*Intelligence (Investigation)* +
+«Passive, Proficiency Required» +
+DC 15 It looks like someone was working at the table, got surprised, and left in a hurry. They probably did not return. It also looks like someone was digging through the fireplace for something.
+
+The heroes find:
+
+* Several sheets of blank parchment.
+* A spilled bottle of dried ink and a discarded ink pen.
+* The charcoal sketch of the serpentine dagger shown in Handouts 'Bartoz’s Sketch'.
+* The letter shown in Handout 'Bartoz’s Letter'.
+
+A hero examining the sketch might surmise:
+
+*Intelligence (Smith’s Tools)* +
+ «No Action, Proficiency Required» +
+DC 15 The dagger is made in the style of the ancient Helvetican Empire.
+
+*Intelligence (Arcana)* +
+«No Action, Proficiency Required» +
+DC 15 Serpentine is associated with sinister magic that poisons the body and corrupts the mind.
+
+After examining both the letter and the sketch, a hero might be reminded of the story of Berengar the Backstabber. Bartoz, himself, had once heard the story, but he could not recall it. This is what he refers to in his letter.
+
+*Intelligence (History)* +
+«No Action, Proficiency Required»  + 
+DC 15 There is a centuries-old story about a Sunderlander clansman who was given a jeweled dagger by a Helvetican warlord to betray his warlord in battle. As a result, Helvetica conquered this land, and the traitor was named governor. He did not rule long though, and he was cursed by his kinfolk as a traitor and forever after became known as Berengar the Backstabber.
+
+==== The Fireplace
+The detritus in the bottom of the fireplace has been swept out onto the floor. A search might reveal the loose flagstone as noted above. The six-inch diameter flagstone hides a hollowed space that contains a closed, but unlocked metal strongbox.
+
+*Intelligence (Investigation)* +
+«Passive» +
+«Proficiency Required» +
+DC 15 It also looks like someone was digging through the fireplace for something.
+
+*Wisdom (Perception)* +
+«Passive» +
+DC 20 A flagstone in the floor of the fireplace looks loose and askew.
+
+==== The Strongbox
+The small metal strongbox is not locked and contains the following:
+
+* 5 cp, 12 sp, and 3 gp
+* A thumb-sized piece of cut, purple gemstone; an amethyst. The amethyst is a valuable treasure. [75 GP]
+
+==== Move On
+Once the heroes are done looking around, they can return through the door to C17 Workshop.
+
+==== Handouts
+The design of the serpentine dagger is actually based on the Roman infantry short sword and dagger. Or the gladius and the pugio to give them their proper names. They were primarily used for thrusting while in close formations. Note the lack of a cross-guard.
+
+image::{homedir}/assets/handouts/workshop_bartozs_letter.png[align=center]
+
+image::{homedir}/assets/handouts/workshop_bartozs_sketch.png[align=center]
+
+=== Area 20 - West Tower Landing
+Atop the stairs is an open landing outside the suites belonging to the Watch’s commander, Sir Einrik Arpaad. After Bartoz the smith told the Watch’s second in command, Marshal Ildo Brask, about his suspicions regarding the serpentine dagger and Brother Wulfram’s disappearance, Brask confronted Arpaad here. His mind twisted by the serpentine dagger, Sir Arpaad grew enraged at having his command questioned. He and Brask came to blows and Brask was ultimately run through. Paranoia then got the better of Arpaad and he killed the rest of the soldiers in his garrison.
+
+The party can examine Brask’s body, but there is not very much for them to learn here. However, the presence of the body and the intensifying feeling of the ghost's presence should warn the party off until they feel ready to confront Sir Arpaad's spirit.
+
+[IMPORTANT]
+The room is dark; the heroes need a light source to see.
+Light sources are dimmed due to the ghost's presence.
+
+> The room stinks of rotten flesh. The air is cold and the torches light is dimmer then it should be. There are plain doors in the western and northern walls. A ladder in an alcove climbs to a trap door in the ceiling. A decomposed corpse lies atop a brown bloodstain in the middle of the unfurnished room.
+
+==== The Body
+Marshal Brask’s body is in an advanced state of decay, mostly browned and stained bones with stringy bits of flesh still holding them together and wisps of linen smallclothes. The floor beneath it is stained with blood and waxy putrefaction. 
+
+Brask’s body did not rise as a zombie because he was wearing a holy symbol when he died. Brask’s leather sword belt and scabbard are still intact, and his longsword is discarded nearby. No amount of inspection reveals how Brask died.
+
+*Intelligence (Religion)* +
+«No Action» +
+DC 5 Reveal that the pendant is a holy symbol of Ohm, the Shining Lord of the Heavens and the champion of light, justice, and civilization. The three smaller rings represent his three sainted knights.
+
+==== Move On
+The heroes can climb the ladder and push open the heavy trapdoor to reach C21 West Tower Crown. The plain, wooden western door opens into C22 Sir Arpaad’s Solar while the plain door to the north leads to C23 Sir Arpaad’s Study.
+
+=== Area 21 - West Tower Crown
+The trap door above the ladder in C20 West Tower Landing leads to the top of the western tower. The tower’s top is crenelated. It is surrounded by square stone crenels and spaces between them to protect archers firing from atop the tower.The heroes can see Gundren waiting with the cart forty feet below the tower. The roof over C9 Covered Walk is 15 feet below this tower’s eastern edge and the eastern tower's is visibly 10 feet shorter than this tower.
+
+=== Area 22 - Sir Arpaad’s Solar
+The solar is a small sitting room with a pair of high-backed chairs and a thick fur rug arranged in front of the fireplace. The ghost’s nearby presence makes the room chilly and dims any light sources brought into the room. Otherwise, there is nothing of interest here.
+
+Marshal Brask is not a zombie, but the players will probably be wary. And that is a good thing. Just a few rooms away, there is a dangerous encounter with a powerful ghost that could destroy a unprepared body.
+
+Note that the party has to pass through three empty rooms and pass by a decayed corpse before they can confront Sir Arpaad's ghost. And in each of those three rooms, they are warned of the ghost's presence by the diminished light and the chill in the air.
+
+In other words, the players have a lot of chances to turn back and explore the rest of the Watch before they face the ghost. Of course, some players will ignore the hints. Some will miss them completely. And some will just be cocky. Those players will have a chance to flee before the ghost attacks. And if they don't...
+
+One of the most important things you have to learn to do as a GM is to let the players fail. To let their characters die. They have to hold the keys to success 
+or failure or else their choices don't matter.
+
+=== Area 23 - Sir Arpaad’s Study
+Arpaad took care of his administrative duties as the Watch’s commander in this study. While he did not work here often as he was not much for administration, he did keep scrupulous notes and ledgers, nonetheless. The party can examine Arpaad’s desk and bookshelf or they can loot the chest that contains Arpaad’s valuables and the Watch’s meager treasury.
+
+[IMPORTANT]
+The room is dark; the heroes need a light source to see. +
+Light sources are dimmed due to the ghost's presence.
+
+> The air is cold and the torches seemed to be dimmer then they should be. The sparsely furnished study has a plain desk and chair. A few leather-bound books and loose papers are stacked on a shelf above the desk. There is a heavy oak chest with thick bronze bands and a heavy padlock in the corner.
+
+==== The Desk and the Bookshelf
+Arpaad’s desk is clean and organized, though there is not much to organize:
+
+* A simple inkstand with bottles of ink and several ink pens
+* Cubes of blue sealing wax
+* A small metal seal engraved with a diving falcon
+* Several sheets of blank parchment beneath an iron weight
+
+The leather-bound books on the shelf are ledgers with dutifully maintained records of taxes collected from travelers through the Watch and of purchases of food, supplies, materials, and equipment. A dull and time-consuming review of the ledgers reveal nothing out of the ordinary.
+
+The loose sheets on the bookshelf are bills of purchase and sale and correspondence between Arpaad and his extended family and with other knights and lords in the region. Again, there is nothing unusual about any of it. If the players are interested and you are feeling creative, invent whatever details you wish about Arpaad's correspondence.
+
+==== The Chest
+Arpaad’s oaken chest is locked with a thick, well-made iron padlock. The oak is lacquered and reinforced with heavy bronze. The heroes can try to force the door or pick the lock. The heroes can try to break the lock if they have a crowbar or a similar tool or they can pick it. Or they can unlock it with the key found in C24 Sir Arpaad’s Room. The party can also destroy the chest itself with an axe or similar tool.
+
+*Strength* +
+«Requires crowbar or similar tool» +
+DC 25 to break the padlock.
+
+*Dexterity* +
+«Thieves’ Tools, Requires Proficiency»
+DC 10 to pick the lock.
+
+*Strength* +
+«Requires woodcutter’s axe similar tool» +
+DC 25 to destroy the chest.
+
+The chest contains the following:
+* Several small sacks and purses containing 640 cp, 225 sp, and 55 gp.
+* A silver cup inset with blue-white gems and etched with falcons
+* A silver falcon broach with blue gems for eyes
+* A heavy silver ring with a blue-white moonstone setting.
+
+The silver cup [150 GP], the falcon broach [25 GP], and the silver ring [50 GP] are all valuable treasures. The gems are moonstones [50 GP Each].
+
+==== Move On
+When they are finished here, the party can use the plain wooden door to the west to enter C24 Sir Arpaad’s Room or the southern door to return to C20 West Tower Landing.
+
+==== Extra
+Players have no way of knowing which details are important and which ones aren't. In fact, picking out the important details is a kind of puzzle the players have to solve. But that means the players can sometimes get bogged down in details that don't mean anything. When they're investigating a mystery scene, extraneous details add to the puzzle. But when they are about to confront a dangerous villain or have just done so, extraneous details slow the pace of the game right down. Sometimes it is best to just tell the players that the ledgers and correspondences are unimportant and uninteresting and that they should move on.
+
+=== Area 24 - Sir Arpaad’s Room
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This spartan bedroom belonged to the Watch’s commander, Sir Einrik Arpaad. After the fight with the smith, Bartoz, left him mortally wounded with a crushed chest, the knight returned here to die. Wracked with the confusion and guilt Sir Arpaad felt over his actions and his great fear that he would dishonor his family’s proud legacy, his passing gave rise to a tormented spirit. 
+
+If the heroes enter, they will have to confront Sir Arpaad’s ghost. They might attempt to fight the ghost or, if they have learned enough to suspect Arpaad may not have been fully responsible for his actions, they might speak to the ghost. After dealing with the ghost one way or the other, they can search Arpaad’s body if they wish and claim the cursed serpentine dagger.
+
+[IMPORTANT]
+The room is dark; the heroes need a light source to see.
+
+> The room stinks of death and decay. The air is colled and the torches are dimmer then they should be. The room is furnished with a large bed, washstand, a fireplace, thick furred rugs, an armor stand, and a tapestry depicting a hunting scene near a mountain lake. There is a decayed, armored corpse slumped against the wall beneath the tapestry, its breastplate caved in. A gold-hilted dagger lies near the corpses skeletal fingers, green gems glittering in its hilt. A colorless, insubstantial figure of an armored knight with crushed armor hangs in the air.
+
+* The spirit does not approach or engage the heroes. It simple stares with vacant eyes in a tortured face.
+* It's not clear whether the spirit knows the heroes are there.
+
+==== Sir Arpaad’s Ghost
+When a hero steps across the threshold, moves toward the ghost, or takes another action, Arpaad’s ghost warns them to stay back. The ghost does not want to hurt the party. However, if the party behaves aggressively, it will try to kill the heroes.
+
+* If the heroes do nothing, the ghost does nothing. It simply waits.
+* If the heroes leave, the ghost tries to determine if the heroes intend to tell anyone what happened in Silverpine Watch. If the heroes do not answer or they suggest they do intend to tell the story, the ghost attacks.
+* If the heroes approach the ghost, Arpaad’s body, or the dagger, the ghost attacks.
+* If the heroes hang back, they can talk to the ghost.
+
+==== Fighting the Ghost
+If either the heroes or the ghost starts a fight, determine initiative, and resolve the fight. The ghost will do everything it can to destroy the heroes. The ghost is a dangerous adversary, but if the heroes have outfitted themselves with equipment they have found, they can win.
+
+*Move through walls*
+The ghost can move through the interior walls and floors of the Watch, but it cannot leave the Watch. It can not even ascend to the tower's crowns. If the heroes encounter the ghost early in the adventure and they are not ready for the battle, let them escape. If they leave the bedroom the ghost will not pursue them.
+
+*Lowering the Stakes*
+To make the fight easier, confine the fight to the bedroom. If the heroes flee the bedroom, the ghost does not pursue.
+
+*Raising the Stakes*
+Raising the Stakes. To make the fight with the ghost more difficult, have the ghost use its ability to move through the walls to its advantage. It can withdraw through one wall and then circle around, emerging from another wall to attack vulnerable heroes. The ghost should only break off the fight if the party climbs to C21 West Tower Crown or returns downstairs to C7 Barracks.Alternatively, you can have the ghost chase the heroes even downstairs and throughout the Watch if they attempt to flee.
+
+==== Talking to the Ghost
+If the heroes have explored thoroughly and drawn the right conclusions, they can talk to the ghost. If they can resolve its inner turmoil, the spirit will dissipate forever.To do so, the heroes must convince the ghost of two things. First, they must convince the ghost that Sir Arpaad was not responsible for the murders that he committed. Second, they must convince the ghost that Sir Arpaad's family name will not be tainted by Arpaad's actions. 
+
+Use the information presented at the beginning of this part about the Ghost of Sir Einrik Arpaad to help you decide how to resolve the players’ actions.
+
+* If the heroes try to convince Arpaad’s ghost to accept its death and move on or to forgive itself, use DC 20.
+* If the heroes explain that Arpaad was influenced by dark magic or make a case that he otherwise was not responsible for his actions, even if they are lying, use DC 15.
+* If the heroes promise the ghost they will not besmirch Arpaad’s name or that they will make it known that Arpaad was not responsible for the deaths in Silverpine Watch, use DC 15.
+* If the heroes back up their argument with specific facts, details, or evidence, grant advantage. Even if the heroes do not have the evidence — such as Wulfram’s journal — with them.
+* If the party suggests that Arpaad was weak-willed, deluded, or paranoid, impose disadvantage.
+* If the heroes pronounce Arpaad guilty or threaten to reveal what happened in the Watch, Arpaad’s ghost attacks.
+
+There is more advice about portraying the ghost of Sir Arpaad in the summary information for part C. The ghost is not actually Arpaad. It is a murky reflection of Arpaad’s spirit, twisted by his torment. It has only dim, hazy memories of Arpaad’s life. It remembers Arpaad was a fair, just man from a respected family and who commanded the Watch with honor. It remembers that Arpaad killed Brother Wulfram and took the serpentine dagger. It remembers that he killed Ildo Brask when confronted with the Marshal’s suspicious about Wulfram. And it remembers Arpaad then slaughtered the garrison. The ghost cannot say precisely why Arpaad did those things, but it suspects they were plotting to seize his command or destroy his family. The ghost is confused, though, because it knows Arpaad would never have done those things. Thus, it is afraid that something is wrong with it and that it might hurt others. It does not want to kill anymore. But it knows it might have to.Listen to what the heroes say to the ghost. Whenever they say something that might sway Arpaad’s spirit in some way, resolve it with an ability check using the following guidelines or your own best judgment.
+
+After the heroes say something, whether it warrants an ability check or not, respond in an appropriate way. Make it clear that the ghost has been swayed or that it is unconvinced. If the heroes manage to help resolve one of the ghost’s issues, have the ghost respond by bringing up the second issue to help guide the players to a resolution.
+
+If the heroes resolve both of the ghost’s issues, the spirit fades away to nothing. The chill in the air subsides and the party’s light sources brighten again. Arpaad’s spirit only has limited patience for interaction. Once the heroes fail three ability checks to sway the spirit, the ghost attacks. If the players are struggling with this encounter and you want to make it easier, have Arpaad’s ghost voice its concerns outright and allow the players to respond with suitable arguments. If you want to make the encounter more challenging, require 
+the party to make multiple arguments—and to succeed on multiple ability checks—to resolve the spirit’s issues. Ideally, they should need a total of three successes. The first argument they make only partially convinces the spirit, the second argument resolves one issue, and the third argument 
+resolves the other.
+
+==== Arpaad’s Body
+The knight’s body is in an advanced state of decay. Its breastplate armor is finely made but nonmagical and it is badly stained by the body’s putrescence. The chest of the armor is caved in and the ribcage underneath is shattered. The blue falcon insignia on the breastplate is all but ruined. The knight’s sword belt is intact, and his mundane longsword is in its scabbard, but it is badly stained with dried blood. A keyring hangs on the body's belt and has keys for all the locked doors in the Watch as well as they key to the chest in B23 Sir Arpaad’s Study and the stolen key to the trunk in B11 Brother Wulfram’s Room.
+The serpentine dagger lies beside Sir Arpaad's corpse:
+
+==== The Serpentine Dagger
+The serpentine dagger is a gold-hilted, steel dagger set with three large serpentine gems in the hilt. It is described under its own heading at the start of this part of the adventure. The heroes can claim the serpentine dagger if they wish. When one of the heroes touches the dagger they feel the evil magic radiating off the dagger, which should give them pause. The heroes are too strong-willed for the curse to affect them immediately, unless you want it to, as described in the above referenced passage.
+
+The heroes will hopefully recognize the dagger as a an evil artifact and destroy it. The most likely methods include breaking it under the blacksmith’s maul found in C17 Workshop or melting it down in the forge. The dagger is no more durable than any other. The heroes can easily destroy it.
+
+==== Move On
+After the heroes have finished with the ghost, they can use the plain eastern door to explore C23 Sir Arpaad’s Study or use the southern door to visit C22 Sir Arpaad’s Solar.
+
 
 
 
