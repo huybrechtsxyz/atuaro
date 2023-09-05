@@ -5,7 +5,7 @@ ifndef::homedir[]
 :homedir: .
 endif::[]
 
-= D&Dave 2023 Session 10
+= D&Dave 2023 Session 11
 
 image::{homedir}/assets/images/heading.jpg[]
 
@@ -44,6 +44,8 @@ They bring back Bess to the village and reunite her with her parents. They use B
 
 Agreeing to the proposal of Gundren to be his guardsmen on his route to Loukotokia, the depart the next day. After the snake caught them off guard, the horses rear up and Gundren and Antonio fall of the cart. The heroes dispatch of their problems with ease. Tyrion finding and throwing the snake in the bushes, cornus tending to the horses and Angela after Gundren.
 
+They make short work of the dogs. At the nights rest Antonio threathens Gundren and pushes horse manure in his face. Gundren wants to storm of but somehow manages to calm him down enough for him not to do so. They find the the body and examine it. They know some kind of animal sucked the blood out of the lifeless body, but choose not to investigate further. They reach the Silverpine Watch with Gundren still angry and in a bad mood; although others try to make up for it.
+
 == Start of session
 
 * Antonio
@@ -61,8 +63,6 @@ Agreeing to the proposal of Gundren to be his guardsmen on his route to Loukotok
   - Mario (Michael)    : Fighter   > Magic Weapon Oil (?) / Periapt of Courage
   - Tyrion (Dave)      : Barbarian > Blacksmith’s Maul
 
-=> It will be an eventless evening, however due to the ring, Antonio will not recover hit points.
-
 == Session Notes
 
 Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)? +
@@ -71,7 +71,6 @@ Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)? +
     Okay. (Behaviour of mario) +
     Bad.  (Behaviour of mario) +
 
-They make short work of the dogs. At the nights rest Antonio threathens Gundren and pushes horse manure in his face. Gundren wants to storm of but somehow manages to calm him down enough for him not to do so. They find the the body and examine it. They know some kind of animal sucked the blood out of the lifeless body, but choose not to investigate further. They reach the Silverpine Watch with Gundren still angry and in a bad mood. (Although other try to make it up.)
 
 == Post Session
 

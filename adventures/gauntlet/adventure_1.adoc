@@ -22,6 +22,7 @@ Our heroes return after 10 years to Kainga and notice that things are changed. T
 . Create a treasury map puzzle
 . What if they skip the patrol? Does it trigger an attack if the team rests in the tomb?
 . Make the silverpine road a more encouter based system with rounds
+. Rework the body on the road to silverpine watch. It was unusable.
 
 == Welcome Back
 
