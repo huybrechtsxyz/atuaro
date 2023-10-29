@@ -334,15 +334,18 @@ The other items are neither valuable nor important.
 
 The contents of each soldiers’ trunks are as follows:
 
-* Kurz Wool clothes.
-* Rast Wool clothes, a purse with 5 cp and 1 sp.
-* Torval Wool clothes, an engraved wooden dice cup with five ivory dice, a purse with 22 cp and 4 sp.
-* Harl Wool clothes.
-* Wren Wool clothes, a healing potion, a purse with 7 cp.
-* Arno Wool clothes, a wolf claw totem whittled from pinewood, loose coins comprising 3 cp and 2 sp.
-* Rykken Wool clothes, a waterskin made of pebbly gray skin and embossed with a hunting scene, a purse with 4 cp and 2 sp.
-* Piri Piri’s trunk is nearly empty and contains only a spare, torn shirt, a woodcarver’s knife and a crudely whittled wooden flute that is half finished.
-* Dolf Beneath his plain, woolen clothes, Dolf stuffed the heavy, furred cloak he took off Piri’s body. The cloak is recognizably similar to the ones hanging in C6 Gathering Hall and it has a large bloodstain inside it. At the bottom of the trunk, inside a glove, Dolf has hidden a handful of ancient coins.
+1. Kurz Wool clothes.
+2. Empty.
+3. Rast Wool clothes, a purse with 5 cp and 1 sp.
+4. Torval Wool clothes, an engraved wooden dice cup with five ivory dice, a purse with 22 cp and 4 sp.
+5. Harl Wool clothes.
+6. Empty.
+7. Wren Wool clothes, a healing potion, a purse with 7 cp.
+8. Arno Wool clothes, a wolf claw totem whittled from pinewood, loose coins comprising 3 cp and 2 sp.
+9. Rykken Wool clothes, a waterskin made of pebbly gray skin and embossed with a hunting scene, a purse with 4 cp and 2 sp.
+10. Empty.
+11. Piri Piri’s trunk is nearly empty and contains only a spare, torn shirt, a woodcarver’s knife and a crudely whittled wooden flute that is half finished.
+12. Dolf Beneath his plain, woolen clothes, Dolf stuffed the heavy, furred cloak he took off Piri’s body. The cloak is recognizably similar to the ones hanging in C6 Gathering Hall and it has a large bloodstain inside it. At the bottom of the trunk, inside a glove, Dolf has hidden a handful of ancient coins.
 
 ==== The Ancient Coins
 Dolf looted a dozen ancient coins from Berengar’s barrow. They are dull electrum; thin, worn, and tarnished worth 10 GP. Heroes examining the coins might conclude:
@@ -581,7 +584,7 @@ Dark brown stains spatter the wooden floor near the top of the stairs
 
 > The room landing is unfurnished and empty. There are plain wooden doors in the southern and eastern interior walls that divide this floor of the tower. A flight of wooden stairs climbs down to the level below. A wooden ladder bolted to the wall of an alcove climbs to a heavy trap door in the ceiling.
 
- Wisdom (Perception) «Passive» DC 15 
+Wisdom (Perception) «Passive» DC 15 
 
 ==== The Bloodstains
 If the heroes carefully examine the stains, they will recognize them as long dried bloodstains. There is not much blood, just a few spatters on the floor at the top of the stairs.
@@ -745,7 +748,7 @@ Divine characters feel a creepy crawly sensation and a dark presence.
 «Requires Proficiency» +
 DC 5 The icon is a holy symbol of Ohm, the Shining Lord of the Heavens. The three smaller rings represent five of his sainted knights.
 
-A character that can cast divine spells feels a crawling sensation and a dark presence here. They might surmise:
+_A character that can cast divine spells feels a crawling sensation and a dark presence here. They might surmise:_
 
 *Intelligence (Religion)* +
 «No Action» +
@@ -1163,7 +1166,7 @@ Arpaad’s desk is clean and organized, though there is not much to organize:
 * A small metal seal engraved with a diving falcon
 * Several sheets of blank parchment beneath an iron weight
 
-The leather-bound books on the shelf are ledgers with dutifully maintained records of taxes collected from travelers through the Watch and of purchases of food, supplies, materials, and equipment. A dull and time-consuming review of the ledgers reveal nothing out of the ordinary.
+The leather-bound books on the shelf are ledgers with dutifully maintained records of taxes collected from travelers through the Watch and of purchases of food, supplies, materials, and equipment. A dull and time-consuming review of the ledgers reveal nothing out of the ordinary.
 
 The loose sheets on the bookshelf are bills of purchase and sale and correspondence between Arpaad and his extended family and with other knights and lords in the region. Again, there is nothing unusual about any of it. If the players are interested and you are feeling creative, invent whatever details you wish about Arpaad's correspondence.
 
@@ -1224,7 +1227,7 @@ If the heroes enter, they will have to confront Sir Arpaad’s ghost. They might
 [IMPORTANT]
 The room is dark; the heroes need a light source to see.
 
-> The room stinks of death and decay. The air is colled and the torches are dimmer then they should be. The room is furnished with a large bed, washstand, a fireplace, thick furred rugs, an armor stand, and a tapestry depicting a hunting scene near a mountain lake. There is a decayed, armored corpse slumped against the wall beneath the tapestry, its breastplate caved in. A gold-hilted dagger lies near the corpses skeletal fingers, green gems glittering in its hilt. A colorless, insubstantial figure of an armored knight with crushed armor hangs in the air.
+> The room stinks of death and decay. The air is colled and the torches are dimmer then they should be. The room is furnished with a large bed, washstand, a fireplace, thick furred rugs, an armor stand, and a tapestry depicting a hunting scene near a mountain lake. There is a decayed, armored corpse slumped against the wall beneath the tapestry, its breastplate caved in. A gold-hilted dagger lies near the corpses skeletal fingers, green gems glittering in its hilt. A colorless, insubstantial figure of an armored knight with crushed armor hangs in the air.
 
 * The spirit does not approach or engage the heroes. It simple stares with vacant eyes in a tortured face.
 * It's not clear whether the spirit knows the heroes are there.
@@ -1259,9 +1262,9 @@ Use the information presented at the beginning of this part about the Ghost of S
 * If the heroes promise the ghost they will not besmirch Arpaad’s name or that they will make it known that Arpaad was not responsible for the deaths in Silverpine Watch, use DC 15.
 * If the heroes back up their argument with specific facts, details, or evidence, grant advantage. Even if the heroes do not have the evidence — such as Wulfram’s journal — with them.
 * If the party suggests that Arpaad was weak-willed, deluded, or paranoid, impose disadvantage.
-* If the heroes pronounce Arpaad guilty or threaten to reveal what happened in the Watch, Arpaad’s ghost attacks.
+* If the heroes pronounce Arpaad guilty or threaten to reveal what happened in the Watch, Arpaad’s ghost attacks.
 
-There is more advice about portraying the ghost of Sir Arpaad in the summary information for part C. The ghost is not actually Arpaad. It is a murky reflection of Arpaad’s spirit, twisted by his torment. It has only dim, hazy memories of Arpaad’s life. It remembers Arpaad was a fair, just man from a respected family and who commanded the Watch with honor. It remembers that Arpaad killed Brother Wulfram and took the serpentine dagger. It remembers that he killed Ildo Brask when confronted with the Marshal’s suspicious about Wulfram. And it remembers Arpaad then slaughtered the garrison. The ghost cannot say precisely why Arpaad did those things, but it suspects they were plotting to seize his command or destroy his family. The ghost is confused, though, because it knows Arpaad would never have done those things. Thus, it is afraid that something is wrong with it and that it might hurt others. It does not want to kill anymore. But it knows it might have to.Listen to what the heroes say to the ghost. Whenever they say something that might sway Arpaad’s spirit in some way, resolve it with an ability check using the following guidelines or your own best judgment.
+There is more advice about portraying the ghost of Sir Arpaad in the summary information for part C. The ghost is not actually Arpaad. It is a murky reflection of Arpaad’s spirit, twisted by his torment. It has only dim, hazy memories of Arpaad’s life. It remembers Arpaad was a fair, just man from a respected family and who commanded the Watch with honor. It remembers that Arpaad killed Brother Wulfram and took the serpentine dagger. It remembers that he killed Ildo Brask when confronted with the Marshal’s suspicious about Wulfram. And it remembers Arpaad then slaughtered the garrison. The ghost cannot say precisely why Arpaad did those things, but it suspects they were plotting to seize his command or destroy his family. The ghost is confused, though, because it knows Arpaad would never have done those things. Thus, it is afraid that something is wrong with it and that it might hurt others. It does not want to kill anymore. But it knows it might have to.Listen to what the heroes say to the ghost. Whenever they say something that might sway Arpaad’s spirit in some way, resolve it with an ability check using the following guidelines or your own best judgment.
 
 After the heroes say something, whether it warrants an ability check or not, respond in an appropriate way. Make it clear that the ghost has been swayed or that it is unconvinced. If the heroes manage to help resolve one of the ghost’s issues, have the ghost respond by bringing up the second issue to help guide the players to a resolution.
 

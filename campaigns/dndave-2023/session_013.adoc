@@ -5,7 +5,7 @@ ifndef::homedir[]
 :homedir: .
 endif::[]
 
-= D&Dave 2023 Session 12
+= D&Dave 2023 Session 13
 
 image::{homedir}/assets/images/heading.jpg[]
 
@@ -48,8 +48,9 @@ They make short work of the dogs. At the nights rest Antonio threathens Gundren 
 
 The team of 'heroes' reach the Silverpine Watch. They try to get on top of the castle. Only Cornus did not fail to scale the lower tower - according to them the best and only way to get into the east tower and thus the entire Silverpine Watch. After failing, the team, with the help of Gundren, they figure out there is a door. They enter the door, try to parley with the ghost of Sir Arpaad, only scaring Tyrion. They go through the door to the gathering hall, selecting to take the coats and boots, but missing the fact that there was one set missing. Descending the stairs to meet and defeat the zombies.
 
-== Start of session
+After killing the zombies, they searche all the trunks and find what is within, looting the Marshal Brask’s room in the process. Almost finding their better in the stirges, but finding the necklace in their nest.
 
+== Start of session
 * Cornus his water magic requires a DC before succeeding:
   -  3 on the dice: easy.
   -  7 on the dice: simple.
@@ -81,9 +82,13 @@ Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)? +
     Okay. (Behaviour of Antonio) +
     Bad.  (Behaviour of Antonio) +
 
-Searching all the trunks and find what is within, looting the Marshal Brask’s room in the process. Almost finding their better in the stirges, but finding the necklace in their nest.
+Antonio likes the amulet and wears it.
+
+
+
 
 == Post Session
+
 
 
 === Pending Plot Points
@@ -111,3 +116,25 @@ A target with three-quarters cover has a +5 bonus to AC and Dexterity saving thr
 
 *Total Cover*
 A target with total cover can't be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle. 
+
+*Who knows an item is magic?*
+Whatever a magic item’s appearance, handling the item is enough to give a character a sense that something is extraordinary about it. Discovering a magic item’s properties isn’t automatic, however. It will feel like a small buzz of static electricity.
+
+*Do you have to identify a magic item to be able to use it?*
+The identify spell is the fastest way to reveal an item’s properties. Alternatively, a character can focus on one magic item during a short rest, while being in physical contact with the item. At the end of the rest, the character learns the item’s properties, as well as how to use them. Potions are an exception; a little taste is enough to tell the taster what the potion does.
+
+* Yes, for items you need to activate the effects of. You can't activate its effects unless you know how to use the item.
+  - E.g. Most wands, ring of evasion, bag of tricks, stone of controlling earth elementals.
+  - Spend a short rest focusing on the item.
+  - Cast identify on the item. This takes 1 minute.
+  - Get instruction from someone who already knows how to use it.
+* No, for items that passively grant benefits
+  - You gain the effects from simply using the item as normal (depending on attunement, see below).
+  - E.g. Weapons, shields, armor, cloak of elvenkind, gauntlets of ogre power, ring of free action.
+* For items with both passive and active effects
+  - If an item has passive abilities and has abilities that require actions then you only gain the passive ones (depending on attunement, see below).
+  - E.g. If you are using a staff of striking without identifying it, then you will have the +3 attack and damage bonuses, but you won't be able to expend charges.
+* Using a non-attuned item
+  - For an item that requires attunement, you only gain the non-magical benefits while not attuned. You can use a magical sword, but it will not give any attack or damage bonus, and will not count as magical for the purposes of bypassing resistance. You can use a magical shield, but it will only give +2 AC. You can wear a robe of stars but you won't get a saving throw bonus or be able to cast magic missile.
+* Using an attuned item without identifying it
+  - This is not explicitly mentioned in the books. The SRD says that the short rest used for attunement cannot be the same rest that identified the item, but says nothing about the order of the two rests.
