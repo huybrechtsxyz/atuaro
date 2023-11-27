@@ -14,6 +14,22 @@ image::{homedir}/assets/images/cover.jpg[]
 
 == Arriving at Loukotokia
 
+*Loot from the Silverpine Watch*
+» Brass candlestick (B7 The Tinker’s Body) ........ 5 gp
+» Engraved tankard (C2 Mess Hall) ................. 2 gp
+» Engraved drinking horn (C3 Kitchen) ............. 5 gp
+» Dice cup and dice (C7 Barracks).................. 2 gp
+» Exotic waterskin (C7 Barracks) .................. 2 gp
+» Assorted ancient coins (C7 Barracks) ........... 10 gp
+» Moonstone (C8 Marshall Brask’s Room) ........... 50 gp
+» Brass statuette (C12 Brother Wulfram’s Study) .. 25 gp
+» Jade beetle (C16 Armory) ....................... 50 gp
+» Amethyst (C17 Workshop)......................... 75 gp
+» Silver cup (C23 Sir Arpaad’s Study) ........... 150 gp
+» Falcon broach (C23 Sir Arpaad’s Study).......... 25 gp
+» Silver ring (C23 Sir Arpaad’s Study) ........... 50 gp
+
+=== Arriving at Loukotokia
 Once they open the gates, the party can continue the way uneventfully to Loukotokia.
 Based on Gundren Rockseekers attitude towards the party the outcome may differ.
 
@@ -55,3 +71,76 @@ The party will be looked for by the city guard as they concluded the party must 
 - Spells like talk to the death +
 - News from Kainga that he left with them
 
+== Information Control
+They will quickly learn not too many businessmen want their services or coin if Gundren was badly managed.
+
+*Challenge* +
+Stealth, Sleight of Hand, or Arcana checks.
+
+*Description* +
+The party discovers that damaging information about them is circulating. They must track down the source, retrieve or manipulate the evidence, and ensure that their reputation is not further tarnished.
+
+== Wizards’ Tower Brewery
+The Wizard’s Tower Brewing Co. - a craft brewery known for its hoppy summer ales - is in dire need of help from a band of reliable, affordable adventurers. The owner has posted a job on the local notice boards and is calling in favors from friendly innkeepers all over town to spread the word. If the party is not in good standing with the local community. Glowkindle is desperate. Reason it is not solved, he is cheap and does not want to pay. He has this reputation, but if he says someone is good, people will listen and it could clear their reputation depending on how it is solved?
+
+> You follow the directions you’ve been given, trudging maybe a mile or two out of the city along a dirt road that winds its way up a low hill. As you near the top a large stone building comes into view, flanked by a couple of barns. By the door is a brightly painted sign that reads ‘The Wizard’s Tower Brewing Co. For the Freshest Pint in the Realm!’
+
+Glowkindle is a fairly young Gnome who nevertheless sports an impressive beard, as well as a white shirt and tight black trousers held up with green suspenders. This is Glowkindle, the owner of the brewery. He offers them a job: either for 25GP or to restore their reputation. Glowkindle explains:
+
+* The business has been doing well and was looking to expand its operations. In order to do this, they first needed to expand their beer cellar.
+* He had some workmen down there, digging out some extra room, when they uncovered an old wall - the remnant of some long-forgotten ruin, presumably. +
+  Curious, they knocked a hole in the wall, only to be attacked by “black rats the size of dogs! Big dogs too, not poodles, you know?” +
+  which emerged from the darkness on the other side.
+* They all managed to escape with nothing worse than a few cuts and bruises, but the cellars are completely unusable. If they want to get production starting again, he
+needs the adventurers to deal with the giant rat infestation.
+* He isn’t sure where the rat came from, but the brewery took its name from the old Wizard’s Tower that used to be on the site, so it may be something to do with that.
+
+> The terms of the job are that your dispose of the rats, finds out where they came from and make sure there are no more surprises in the future!
+
+=== Area 1 - Beer Cellar
+The cellar is completely dark, and much of floor is taken up by barrels and casks of beer that make it hard to see the entire room at once. The only relatively clear area is towards the far side of the cellar, which has a dirt floor littered with stones and workman’s tools.
+
+> The wooden stairs creak as you descend into the cool, dry air of the cellar, which is infused with the smell of beer and damp fur. Somewhere in the darkness you hear the scrabbling sound of claws on floorboards and a faint squeaking noise.
+
+[IMPORTANT]
+The room is dark; the heroes need a light source to see. +
+There are 8 giant rats who attack once half the party is in the cellar.
+
+*Once in the basement*
+> You make out the hole in the wall mentioned by Glowkindle. The hole is around 4 ft. high and 3 ft. wide.
+
+[NOTE]
+In combat, the Giant Rats will not attempt to use any tactics beyond swarming the adventurers. Once five Giant Rats have been killed the survivors will attempt to flee back through the hole in the wall. Any that successfully escape will be killed in the trap in the Mosaic Corridor.
+
+include::{rootdir}/statblocks/rat_giant.adoc[]
+
+=== Area 2 - Mosaic Corridor
+> Through the hole in the wall you can see a dusty stone corridor, its floor lying around a foot below that of the cellar where you stand. Over to the left you can see the start of a staircase buried in collapsed masonry, earth and rubble that block the way completely. To the right the passage heads around a corner, but on the wall you can just make out what appears to be writing in a clear gold script.
+
+It is written in common and reads:
+
+> Dawn breaks with stirring air, As sun shines down on new day fair +
+> Midday blaze bakes earth and grass, The farmer waits for heat to pass +
+> Evening cool brings water, wine, Drink and laughter passing time +
+> Night sees shining, roaring fire, as wood and coals burn on the pyre
+
+[NOTE]
+link:{homedir}/assets/handouts/a_most_potent_brew_mosaic.pdf[Mosaic Handout]
+
+> As you draw near you notice that two halves of a Giant Rat are seemingly cut and lie on the river section of the second and third panels.
+
+The mosaic is a trap, and standing on the wrong portions of the floor causes a large blade to slice at the trespasser. The safe areas relate to which of the four elements was mentioned in the appropriate verse. They are:
+
+* First panel - Air (Sky)
+* Second panel - Earth (Hill)
+* Third panel - Water (River)
+* Fourth panel - Fire (Fire)
+
+Any creature standing on any area other than these must make a DC 1 2 Dexterity saving throw, taking 5 (1 d10) damage on a failure or half as much on a success. This trap activates each time a creature steps on an unsafe panel.
+
+=== Area 3 - Well Room
+
+
+
+== In the end?
+If the party remains on the dark course, the following lost mines campaign will be flipped, where a representative of Glasstaff will aks them for their help in getting rid of The Gatekeepers. Otherwise continue with the lost mines as written.

@@ -1267,16 +1267,3 @@ The heroes will hopefully recognize the dagger as a an evil artifact and destroy
 
 ==== Move On
 After the heroes have finished with the ghost, they can use the plain eastern door to explore C23 Sir Arpaad’s Study or use the southern door to visit C22 Sir Arpaad’s Solar.
-
-
-====
-[TIP]
-It's possible to use Unicode glyphs as admonition icons.
-
-The rendered style of an admonition is determined by the assigned type (i.e., name). The AsciiDoc language provides five admonition types represented by the following labels: +
- NOTE +
- TIP +
- IMPORTANT +
- CAUTION +
- WARNING +
-====

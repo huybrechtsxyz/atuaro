@@ -1,0 +1,45 @@
+ifndef::rootdir[]
+:rootdir: ..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Giant Rat*#
+| [small]#Small Beast, Unaligned (CR 1/8 for 25 XP)#
+
+| image::{rootdir}/assets/tokens/npc_rat.jpeg[]
+
+|
+*Armor Class* 12 +
+*Hit Points* 7 (2d6) +
+*Speed* 30 ft. +
+*Proficiency* +2 +
+*Initiative* +0 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  7 (*-2*) ^! 15 (*+2*) ^! 11 (*+0*) ^!  2 (*-4*) ^! 10 (*+0*) ^!  4 (*-3*)
+!===
+
+| *Actions* | 
+*Bite.* +
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) piercing damage. +
+Roll d6. On a 1 make a DC 10 CON save, fail? Contract disease. +
+ - Until cured. Do not regain hit points (exception magic). +
+ - Each day loose max hit points with 3 (1d6)
+
+| *Abilities* | 
+Senses Darkvision 30 ft., Passive Perception 10 +
+
+| *Traits* |
+*Keen Smell.* +
+The rat has advantage on Wisdom (Perception) checks that rely on smell.
+
+*Pack Tactics.* +
+The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+2+| .
+
+*Environment* Swamp, Urban +
+*Tags* Misc Creature
+|===
