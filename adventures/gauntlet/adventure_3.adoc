@@ -1146,8 +1146,7 @@ Note that the party has to pass through three empty rooms and pass by a decayed 
 
 In other words, the players have a lot of chances to turn back and explore the rest of the Watch before they face the ghost. Of course, some players will ignore the hints. Some will miss them completely. And some will just be cocky. Those players will have a chance to flee before the ghost attacks. And if they don't...
 
-One of the most important things you have to learn to do as a GM is to let the players fail. To let their characters die. They have to hold the keys to success 
-or failure or else their choices don't matter.
+One of the most important things you have to learn to do as a GM is to let the players fail. To let their characters die. They have to hold the keys to success or failure or else their choices don't matter.
 
 === Area 23 - Sir Arpaad’s Study
 Arpaad took care of his administrative duties as the Watch’s commander in this study. While he did not work here often as he was not much for administration, he did keep scrupulous notes and ledgers, nonetheless. The party can examine Arpaad’s desk and bookshelf or they can loot the chest that contains Arpaad’s valuables and the Watch’s meager treasury.
@@ -1200,37 +1199,17 @@ When they are finished here, the party can use the plain wooden door to the west
 Players have no way of knowing which details are important and which ones aren't. In fact, picking out the important details is a kind of puzzle the players have to solve. But that means the players can sometimes get bogged down in details that don't mean anything. When they're investigating a mystery scene, extraneous details add to the puzzle. But when they are about to confront a dangerous villain or have just done so, extraneous details slow the pace of the game right down. Sometimes it is best to just tell the players that the ledgers and correspondences are unimportant and uninteresting and that they should move on.
 
 === Area 24 - Sir Arpaad’s Room
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 This spartan bedroom belonged to the Watch’s commander, Sir Einrik Arpaad. After the fight with the smith, Bartoz, left him mortally wounded with a crushed chest, the knight returned here to die. Wracked with the confusion and guilt Sir Arpaad felt over his actions and his great fear that he would dishonor his family’s proud legacy, his passing gave rise to a tormented spirit. 
 
 If the heroes enter, they will have to confront Sir Arpaad’s ghost. They might attempt to fight the ghost or, if they have learned enough to suspect Arpaad may not have been fully responsible for his actions, they might speak to the ghost. After dealing with the ghost one way or the other, they can search Arpaad’s body if they wish and claim the cursed serpentine dagger.
 
 [IMPORTANT]
-The room is dark; the heroes need a light source to see.
+* The room is dark; the heroes need a light source to see.
+* The spirit does not approach or engage the heroes. +
+  It simple stares with vacant eyes in a tortured face. +
+  It's not clear whether the spirit knows the heroes are there.
 
 > The room stinks of death and decay. The air is colled and the torches are dimmer then they should be. The room is furnished with a large bed, washstand, a fireplace, thick furred rugs, an armor stand, and a tapestry depicting a hunting scene near a mountain lake. There is a decayed, armored corpse slumped against the wall beneath the tapestry, its breastplate caved in. A gold-hilted dagger lies near the corpses skeletal fingers, green gems glittering in its hilt. A colorless, insubstantial figure of an armored knight with crushed armor hangs in the air.
-
-* The spirit does not approach or engage the heroes. It simple stares with vacant eyes in a tortured face.
-* It's not clear whether the spirit knows the heroes are there.
 
 ==== Sir Arpaad’s Ghost
 When a hero steps across the threshold, moves toward the ghost, or takes another action, Arpaad’s ghost warns them to stay back. The ghost does not want to hurt the party. However, if the party behaves aggressively, it will try to kill the heroes.
@@ -1252,8 +1231,14 @@ To make the fight easier, confine the fight to the bedroom. If the heroes flee t
 *Raising the Stakes*
 Raising the Stakes. To make the fight with the ghost more difficult, have the ghost use its ability to move through the walls to its advantage. It can withdraw through one wall and then circle around, emerging from another wall to attack vulnerable heroes. The ghost should only break off the fight if the party climbs to C21 West Tower Crown or returns downstairs to C7 Barracks.Alternatively, you can have the ghost chase the heroes even downstairs and throughout the Watch if they attempt to flee.
 
+include::{homedir}/npc_einrik_arpaad.adoc[]
+
 ==== Talking to the Ghost
-If the heroes have explored thoroughly and drawn the right conclusions, they can talk to the ghost. If they can resolve its inner turmoil, the spirit will dissipate forever.To do so, the heroes must convince the ghost of two things. First, they must convince the ghost that Sir Arpaad was not responsible for the murders that he committed. Second, they must convince the ghost that Sir Arpaad's family name will not be tainted by Arpaad's actions. 
+If the heroes have explored thoroughly and drawn the right conclusions, they can talk to the ghost. If they can resolve its inner turmoil, the spirit will dissipate forever.To do so, the heroes must convince the ghost of two things.
+
+* *First, they must convince the ghost that Sir Arpaad was not responsible for the murders that he committed.*
+* *Second, they must convince the ghost that Sir Arpaad's family name will not be tainted by Arpaad's actions.*
+* *Once the heroes fail three ability checks to sway the spirit, the ghost attacks. 3 Successes, the ghost dissipates*
 
 Use the information presented at the beginning of this part about the Ghost of Sir Einrik Arpaad to help you decide how to resolve the players’ actions.
 
@@ -1264,17 +1249,16 @@ Use the information presented at the beginning of this part about the Ghost of S
 * If the party suggests that Arpaad was weak-willed, deluded, or paranoid, impose disadvantage.
 * If the heroes pronounce Arpaad guilty or threaten to reveal what happened in the Watch, Arpaad’s ghost attacks.
 
-There is more advice about portraying the ghost of Sir Arpaad in the summary information for part C. The ghost is not actually Arpaad. It is a murky reflection of Arpaad’s spirit, twisted by his torment. It has only dim, hazy memories of Arpaad’s life. It remembers Arpaad was a fair, just man from a respected family and who commanded the Watch with honor. It remembers that Arpaad killed Brother Wulfram and took the serpentine dagger. It remembers that he killed Ildo Brask when confronted with the Marshal’s suspicious about Wulfram. And it remembers Arpaad then slaughtered the garrison. The ghost cannot say precisely why Arpaad did those things, but it suspects they were plotting to seize his command or destroy his family. The ghost is confused, though, because it knows Arpaad would never have done those things. Thus, it is afraid that something is wrong with it and that it might hurt others. It does not want to kill anymore. But it knows it might have to.Listen to what the heroes say to the ghost. Whenever they say something that might sway Arpaad’s spirit in some way, resolve it with an ability check using the following guidelines or your own best judgment.
+There is more advice about portraying the ghost of Sir Arpaad in the summary information for part C. The ghost is not actually Arpaad. It is a murky reflection of Arpaad’s spirit, twisted by his torment. It has only dim, hazy memories of Arpaad’s life. It remembers Arpaad was a fair, just man from a respected family and who commanded the Watch with honor. It remembers that Arpaad killed Brother Wulfram and took the serpentine dagger. It remembers that he killed Ildo Brask when confronted with the Marshal’s suspicious about Wulfram. And it remembers Arpaad then slaughtered the garrison. The ghost cannot say precisely why Arpaad did those things, but it suspects they were plotting to seize his command or destroy his family. The ghost is confused, though, because it knows Arpaad would never have done those things. Thus, it is afraid that something is wrong with it and that it might hurt others. It does not want to kill anymore. But it knows it might have to Listen to what the heroes say to the ghost. Whenever they say something that might sway Arpaad’s spirit in some way, resolve it with an ability check using the following guidelines or your own best judgment.
 
 After the heroes say something, whether it warrants an ability check or not, respond in an appropriate way. Make it clear that the ghost has been swayed or that it is unconvinced. If the heroes manage to help resolve one of the ghost’s issues, have the ghost respond by bringing up the second issue to help guide the players to a resolution.
 
 If the heroes resolve both of the ghost’s issues, the spirit fades away to nothing. The chill in the air subsides and the party’s light sources brighten again. Arpaad’s spirit only has limited patience for interaction. Once the heroes fail three ability checks to sway the spirit, the ghost attacks. If the players are struggling with this encounter and you want to make it easier, have Arpaad’s ghost voice its concerns outright and allow the players to respond with suitable arguments. If you want to make the encounter more challenging, require 
-the party to make multiple arguments—and to succeed on multiple ability checks—to resolve the spirit’s issues. Ideally, they should need a total of three successes. The first argument they make only partially convinces the spirit, the second argument resolves one issue, and the third argument 
-resolves the other.
+the party to make multiple arguments—and to succeed on multiple ability checks—to resolve the spirit’s issues. Ideally, they should need a total of three successes. The first argument they make only partially convinces the spirit, the second argument resolves one issue, and the third argument resolves the other.
 
 ==== Arpaad’s Body
 The knight’s body is in an advanced state of decay. Its breastplate armor is finely made but nonmagical and it is badly stained by the body’s putrescence. The chest of the armor is caved in and the ribcage underneath is shattered. The blue falcon insignia on the breastplate is all but ruined. The knight’s sword belt is intact, and his mundane longsword is in its scabbard, but it is badly stained with dried blood. A keyring hangs on the body's belt and has keys for all the locked doors in the Watch as well as they key to the chest in B23 Sir Arpaad’s Study and the stolen key to the trunk in B11 Brother Wulfram’s Room.
-The serpentine dagger lies beside Sir Arpaad's corpse:
+The serpentine dagger lies beside Sir Arpaad's corpse.
 
 ==== The Serpentine Dagger
 The serpentine dagger is a gold-hilted, steel dagger set with three large serpentine gems in the hilt. It is described under its own heading at the start of this part of the adventure. The heroes can claim the serpentine dagger if they wish. When one of the heroes touches the dagger they feel the evil magic radiating off the dagger, which should give them pause. The heroes are too strong-willed for the curse to affect them immediately, unless you want it to, as described in the above referenced passage.
@@ -1285,13 +1269,7 @@ The heroes will hopefully recognize the dagger as a an evil artifact and destroy
 After the heroes have finished with the ghost, they can use the plain eastern door to explore C23 Sir Arpaad’s Study or use the southern door to visit C22 Sir Arpaad’s Solar.
 
 
-
-
-
-
-
-
-
+====
 [TIP]
 It's possible to use Unicode glyphs as admonition icons.
 
@@ -1301,3 +1279,4 @@ The rendered style of an admonition is determined by the assigned type (i.e., na
  IMPORTANT +
  CAUTION +
  WARNING +
+====

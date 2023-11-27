@@ -36,6 +36,14 @@ All the rooms of Sir Arpaad’s suite (Area 22 Sir Arpaad’s Solar, C23 Sir Arp
 Senses darkvision 60 ft., passive Perception 10 +
 Languages Common, Sund
 
+| *Strategy* |
+
+*Shriek* WIS DC 13 for 2d6 psychic; persui them if needed
+
+*Telekinetic* CON DC 13 for 3d6 bludgeoning
+
+*Grave Touch* hit +5 for 1d6+3 necrotic
+
 | *Actions* | 
 *Grave Touch.* +
 Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) necrotic damage.

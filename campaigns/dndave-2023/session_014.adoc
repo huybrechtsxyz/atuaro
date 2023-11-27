@@ -48,7 +48,7 @@ They make short work of the dogs. At the nights rest Antonio threathens Gundren 
 
 The team of 'heroes' reach the Silverpine Watch. They try to get on top of the castle. Only Cornus did not fail to scale the lower tower - according to them the best and only way to get into the east tower and thus the entire Silverpine Watch. After failing, the team, with the help of Gundren, they figure out there is a door. They enter the door, try to parley with the ghost of Sir Arpaad, only scaring Tyrion. They go through the door to the gathering hall, selecting to take the coats and boots, but missing the fact that there was one set missing. Descending the stairs to meet and defeat the zombies.
 
-After killing the zombies, they searche all the trunks and find what is within, looting the Marshal Brask’s room in the process. Almost finding their better in the stirges, but finding the necklace in their nest. Antonio likes the amulet and wears it. The continue searching the rooms (7, 8, 9, 7, 20, 23, 24). When they find the ghost of sir Arpaad they try avoid fighting it. Although Antonio was able to resist the golden weapon next to sir Arpaad's body, Angela has problems resisting her will to cast down the foul aparition. as Ohm clearly not approves.
+After killing the zombies, they search all the trunks and find what is within, looting the Marshal Brask’s room in the process. Almost finding their better in the stirges, but finding the necklace in their nest. Antonio likes the amulet and wears it. The continue searching the rooms (7, 8, 9, 7, 20, 23, 24). When they find the ghost of sir Arpaad they try avoid fighting it. Although Antonio was able to resist the golden weapon next to sir Arpaad's body, Angela has problems resisting her will to cast down the foul aparition. As Ohm clearly not approves.
 
 == Start of session
 * Cornus his water magic requires a DC before succeeding:
@@ -82,6 +82,7 @@ Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)? +
     Okay. (Behaviour of Antonio) +
     Bad.  (Behaviour of Antonio) +
 
+Previously on.
 
 
 
@@ -93,7 +94,6 @@ Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)? +
 
 === Pending Plot Points
 
-* Cornus would like a +1 shield.
 * Red Skull Goblins.
 
 === Future Plot Points

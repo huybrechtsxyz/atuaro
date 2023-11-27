@@ -38,7 +38,7 @@ Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludge
 target is grappled (escape DC 11).
 
 *Bite.*
-Melee Weapon Attack: +3 to hit, reach 5 ft., one grappled target. Hit: 6 (2d4 + 1) piercing damage.
+Melee Weapon Attack: +3 to hit, reach 5 ft., one grappled target. Hit: 6 (2d4 + 1) piercing damage.
 
 | *Abilities* | 
 

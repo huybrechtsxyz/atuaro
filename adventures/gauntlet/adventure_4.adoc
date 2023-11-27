@@ -1,0 +1,57 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= Picking up the Gauntlet (Part 4)
+:toc:
+
+*Tags:* #gauntlet
+
+image::{homedir}/assets/images/cover.jpg[]
+
+== Arriving at Loukotokia
+
+Once they open the gates, the party can continue the way uneventfully to Loukotokia.
+Based on Gundren Rockseekers attitude towards the party the outcome may differ.
+
+Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)?
+
+*Excellent* +
+Gundren pays the party 5 GP per person in the party. +
+If they selected not to negotiate extra money he will give them 1GP each extra. +
+He will search for extra work to give to the party in Loukotokia.
+
+*Good* +
+Gundren pays the party 5GP per person in the party. +
+He can give the party extra work in Loukotokia.
+
+*Okay* +
+Gundren pays the party 5GP per person in the party. +
+Bids farewell and ends the NPC's involvement witht the party.
+
+*Bad => PROBLEM* +
+Gundren pays the party 5GP per person in the party. +
+The party will not be able to use Gundren in the future. +
+He will badmouth the party so other businessmen will not want to use them.
+
+*Death => PROBLEM* +
+Gundren was killed during the adventure. +
+They will be interogated by the city guard if they stay in Loukotokia to long. +
+Zone of Thruth could be used to find out if they speak the truth. +
+Ability checks to see if they can talk to the city guard. +
+The party will be looked for by the city guard as they concluded the party must have killed them. +
+- Spells like talk to the death +
+- News from Kainga that he left with them
+
+*Killed => PROBLEM* +
+The party killed Gundren in the adventure. +
+Thye will be actively searched by the city guard if they can find them in Loukotokia. +
+Zone of Thruth could be used to find out if they speak the truth. +
+Ability checks to see if they can talk to the city guard. +
+The party will be looked for by the city guard as they concluded the party must have killed them. +
+- Spells like talk to the death +
+- News from Kainga that he left with them
+
