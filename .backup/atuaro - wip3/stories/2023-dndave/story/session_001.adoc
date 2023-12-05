@@ -1,0 +1,55 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+= D&Dave 2023 Session 1
+
+image::{homedir}/assets/images/heading.jpg[]
+
+== To Do List
+
+
+== Important
+
+
+== Plot Evolution
+ 
+
+== Plot Summary
+
+
+== Start of session
+
+
+== Session Notes
+- Angela
+    - is altijd op tijd. punctueel. doet wel vaak dingen omdat het moet
+    - deed weinig. het minimum. licht in de kelder.
+- Cornus
+    - knuffelt alle beestjes spinnen en ratten
+    - zorgt voor Timmhy zijn spullen
+- Antonio en mario en Tyrion
+    - deden de taken die ze moesten doen
+    - toonden geen interesse in timmy
+
+== Post Session
+Most used ability score
+- Angela: INT 
+- Antonio: WIS
+- Cornus: CHA
+- Mario: STR
+- Tyrion: STR
+
+=== Pending Plot Points
+
+
+=== Future Plot Points
+
+
+=== Plot Ideas
+- Fathers of Angela and Cornus do not like each other? Or Hibiscus sucks up to Pakal.
+- Glasstaff is the sad boy
+- Nezrra is the bully

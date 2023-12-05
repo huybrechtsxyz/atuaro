@@ -1,0 +1,72 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+= D&Dave 2023 Session 2
+
+image::{homedir}/assets/images/heading.jpg[]
+
+== To Do List
+
+
+== Important
+
+
+== Plot Evolution
+Player boons:
+- Angela (Toon)      : INT > Command as cantrip 
+    https://www.dndbeyond.com/spells/command
+- Antonio (Giuseppe) : WIS > Mounted combat when on Mario
+    https://explorednd.com/gameplay/mounted-combat-5e-guide/
+- Cornus (Koen)      : CHA > Cast animal frienship
+    https://www.dndbeyond.com/spells/animal-friendship
+- Mario (Michael)    : STR > Protection fighting style
+    https://www.dndbeyond.com/sources/basic-rules/classes#FighterFightingStyle
+- Tyrion (Dave)      : STR > 1 rage per long rest
+    https://www.dndbeyond.com/sources/basic-rules/classes#Rage
+
+== Plot Summary
+After lunch the kids take a short nap in their room. Waking up each player gets a boon depending on how they played.
+
+== Start of session
+
+
+== Session Notes
+
+
+=== House Visit
+The players then play through the House Visit scenario of the Imbolc Carnival.
+The visit went rather quickly, but combat is going fine.
+The pixies were underwhelming and to easy.
+
+	They killed all the pixies. Did not question the different way the pixies looked when they were dead or alive.
+	 
+They followed the one to the attic. The pixie pointed to Gilad and blamed it. No one understood the reference.  There were only spiders on the attic.
+Angela would like that Aeria cleaned her mess. But she ignores her.
+
+	Aria is immune voor charm effects.
+
+Angela wanted to tell witchling but Tyrion made sure she did not, not wishing Carnival to go by and them not getting there, because of the treasure map they found.
+
+=== The Carnival
+The players then started on the [Carnival](../../../adventures/orphanage/05_house_visit.md) scenario.
+Backstory of Angela comes up when she talks to the bisshop.
+The first go the beasts and talk to Zepherion. When Cornus wants to free the animals he brushes them aside.
+Then try to get to the treasure map at location 7.  Tyrion tries to distract the guard while Antonio tries to look in. Both failed at their attempt.
+
+== Post Session
+- The pixie fight was to easy.
+
+=== Pending Plot Points
+
+
+=== Future Plot Points
+
+
+=== Plot Ideas
+- Fathers of Angela and Cornus do not like each other? Or Hibiscus sucks up to Pakal.
+- Glasstaff is the sad boy
+- Nezrra is the bully
