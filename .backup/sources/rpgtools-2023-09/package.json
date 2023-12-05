@@ -1,0 +1,35 @@
+{
+  "name": "rpgtoolsxyz",
+  "title": "RPG Tools XYZ",
+  "version": "0.0.1",
+  "description": "Creation and maintenance of an RPG library.",
+  "type": "module",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Vincent Huybrechts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huybrechtsxyz/rpgtoolsxyz.git"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.5",
+    "js-yaml": "^4.1.0",
+    "jsonpath": "^1.1.1"
+  },
+  "dependencies": {
+    "@types/node": "^20.5.9",
+    "commander": "^11.0.0",
+    "figlet": "^1.6.0",
+    "jest": "^29.7.0",
+    "jslinq": "^1.0.22",
+    "jszip": "^3.10.1",
+    "level": "^8.0.0"
+  }
+}

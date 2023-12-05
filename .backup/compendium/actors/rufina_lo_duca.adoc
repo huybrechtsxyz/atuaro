@@ -1,0 +1,81 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Rufina Lo Duca*#
+| [small]#The Beauty \| Human Commoner#
+
+| *Roleplay*
+|
+*Charm*: +
+Rufino/a's good looks and charisma makes them very likable, which can be a useful tool when dealing with others.
+
+*Vanity*: +
+Rufino/a is very vain and can be easily distracted by their own appearance, which can be a hindrance in certain situations.
+
+*Negotiation*: +
+Rufina is a skilled negotiator and can use their charisma to their advantage in negotiations.
+
+| image::{rootdir}/assets/images/actor_rufina_lo_duca.jpg[]
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  7 (*-3*) ^!  8 (*-2*) ^!  8 (*-2*) ^!  9 (*-1*) ^!  9 (*-1*) ^! 11 (*+1*)
+!===
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+!===
+>! *Creature* ! Human
+>! *Height* ! _
+>! *Walk* ! _ ft
+
+>! *Class* ! Commoner
+>! *Weight* ! _
+>! *Fly* ! _ ft
+
+>! *Size* ! Normal
+>! *Eyes* ! _
+>! *Swim* ! _ ft
+
+>! *Alignment* ! Chaotic Neutral
+>! *Skin* ! _
+>! *Climb* ! _ ft
+
+>! *Age* ! 11
+>! *Hair* ! _
+>! *Burrow* ! _ ft
+!===
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+|
+*Common Items*
+
+* Has a single really nice item that they use to accentuate their beauty.
+
+*About*
+
+Believing they are too pretty to work, they might carry items that enhance her appearance, such as a comb. Could also have mannerisms that reflect her confidence and self-importance, such as striking poses, preening in front of mirrors, or tossing their hair. May also pout or throw tantrums when things don't go her way.
+
+    Constantly admiring herself in mirrors or reflective surfaces
+    Pouting when she doesn't get her way
+    Tossing her hair dramatically
+    Striking poses and preening for attention
+    Flipping her hair when speaking to others
+    Fussing with her clothes and appearance constantly
+    Whining or throwing tantrums when things don't go her way.
+
+These mannerisms reflect Lo Duca's confidence and belief that they are too pretty to do any real work, which might make her come across as entitled or vain to others. Will choose the 'nice' jobs to avoid any real work.
+
+*Environment* Orphanage Kainga +
+*Tags*
+|===

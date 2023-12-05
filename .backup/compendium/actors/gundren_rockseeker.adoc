@@ -1,0 +1,63 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Gundren Rockseeker*#
+| [small]#Dwarf#
+
+| *Roleplay*
+|
+
+| image::{rootdir}/assets/images/actor_gundren_rockseeker.jpg[]
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  8 (*-2*) ^!  7 (*-3*) ^!  9 (*-1*) ^! 11 (*+1*) ^!  9 (*-1*) ^!  8 (*-2*)
+!===
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+!===
+>! *Creature* ! Dwarf
+>! *Height* ! _
+>! *Walk* ! _ ft
+
+>! *Class* ! Commoner
+>! *Weight* ! _
+>! *Fly* ! _ ft
+
+>! *Size* ! Normal
+>! *Eyes* ! _
+>! *Swim* ! _ ft
+
+>! *Alignment* ! Lawful Neutral
+>! *Skin* ! _
+>! *Climb* ! _ ft
+
+>! *Age* ! 9
+>! *Hair* ! _
+>! *Burrow* ! _ ft
+!===
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+|
+*Common Items*
+
+* 
+
+*About*
+
+x
+
+*Environment* +
+*Tags*
+|===

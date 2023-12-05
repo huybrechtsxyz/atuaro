@@ -1,0 +1,40 @@
+ifndef::rootdir[]
+:rootdir: ..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Feral Dog*#
+| [small]#Medium beast, unaligned (CR  1/8 for 25 XP)#
+
+| 
+
+|
+*Armor Class* 12 +
+*Hit Points* 18 (4d8) +
+*Speed* 30 ft. +
+*Proficiency* +0 +
+*Initiative* +0 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 14 (*+2*) ^! 10 (*+0*) ^!  3 (*-4*) ^! 12 (*+1*) ^!  7 (*-2*)
+!===
+
+| *Actions* | 
+*Bite.* + 
+Melee Weapon Attack: +2 to hit, reach 5 ft., one tar-get. Hit: 4 (1d4 + 2) piercing damage
+
+| *Abilities* | 
+Perception +3 +
+Senses passive Perception 13
+
+| *Traits* |
+*Keen Hearing and Smell.* +
+The feral dogs has advantage on Wisdom (Perception) rolls that rely on hearing or smell.
+
+2+| In the medieval world, dogs were ubiquitous. Merchants and travelers kept dogs with them to protect them on the road and guard their camp. Families kept dogs to guard their homes. And even though most monasteries and convents forbade the practice, monks and nuns frequently kept dogs. Dogs provided security, helped people hunt, and even helped control pests. And in the 13th Century, it even became the vogue among noblewoman to keep small, ornamental dogs.Dogs were prized for their loyalty above all other qualities. But life in the medieval world was nas-ty, brutish, and short. When a dog's owner died, it had no choice but to fend for itself. Feral dogs often formed packs and became a danger to travelers
+
+*Environment*  +
+*Tags* Misc Creature, Beast
+|===

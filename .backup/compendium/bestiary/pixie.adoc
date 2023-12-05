@@ -1,0 +1,194 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+
+= Pixie
+:toc:
+
+image::{rootdir}/assets/images/npc_pixie.png[]
+
+include::{rootdir}/statblocks/pixie.adoc[]
+
+== About Pixies 
+Related
+
+* https://blackcitadelrpg.com/pixies-race-guide-5e/
+
+=== The Pixie Race – What We Know
+Pixies are fey creatures who dwell in Faerûn’s magical forests and groves. These tiny creatures live in much of Faerûn’s woodland and also the Feywild. Pixies are incredibly gregarious but, simultaneously, very shy. They often make themselves known through their giggles and whispers that echo around a forest’s glades as outsiders are passing by. If pixies feel they’re safe though, and that the outsiders pose no danger, then they’ll take any opportunity to introduce themselves.
+
+Pixies are playful pranksters and enjoy playing tricks on adventurers. They’re deeply well-intentioned creatures though. Their goal in these pranks is never to cause harm or upset. Pixies never engage in mean-spirited antics and, if they believe they’ve upset another creature, they’ll do anything to make amends.
+
+Pixies abhor violence and would always prefer to find peaceful resolutions to conflicts. This isn’t exclusively out of a distaste for violence or a moral objection to it. Pixies are often fragile creatures and are ill-suited to fighting.
+
+Pixies are very concerned with their clothing and appearance. They dress in leaves and bark and the pelts of woodland creatures. Everything from feathers and petals to sparkling dew drops can be incorporated into a pixie’s outfit.
+
+These simple materials are woven together with such care and skill that a pixie’s woodland raiment rivals the satin and jewels of even the wealthiest human princesses.
+
+As with all fey, pixies are innately magical creatures. They can become invisible at a whim and most pixies have an array of other magical abilities. Pixies also leave a train of magical pixie dust as they fly. Pixie dust can grant flight to other creatures or inflict a deep magical sleep on the pixie’s enemies.
+
+Pixies also fill many roles in fey society. Many fey dwell in woodland on the material plane but many more make their home in the Feywild. The Feywild is a reflection of the material plane with features that correspond to those on the material plane.
+
+In the Feywild though, everything is grander and more vibrant and more fantastical. A mountain range in the Feywild is taller and more magnificent than its counterparty on the material plane. A dark dangerous forest is darker and more sprawling and home to more unknowable terrors.
+
+The Feywild’s geography doesn’t conform to the rules of geometry and logic that apply on the material plane and it’s almost impossible for adventurers to avoid becoming lost.
+
+The Feywild is ruled by archfey like Oberon and Titania – powerful lords and ladies of their reason-defying realms. Archfey are changeable and rule with priorities that might seem bizarre or outrageous to denizens of the material plane.
+
+An archfey might consider it a greater crime that you forgot to curtsey before them than that you killed several members of their court. Similarly, they might view death as a relatively lenient punishment for such crimes when compared to disinviting you from a tea party.
+
+Many pixies serve in the courts of these archfey and all pixies are creatures of the Feywild. Even pixies who live on the material plane have a deep connection to the Feywild and the rules that apply in the Feywild, both natural and social, are more intuitive to pixies than those that apply on the material plane.
+
+In addition to serving archfey like those of the Seelie Court, many pixies also serve in the retinues of woodland gods like Silvanus and Meilikki.
+
+=== Abilities and Traits: What Characterizes Pixies?
+While there are no official sources for playing pixie adventurers in D&D 5E, I’ve put together a homebrew race guide here which (with permission from your DM!) you can use in your games.
+
+==== Pixie traits
+* Ability score increase: Your dexterity score increases by 2 and your charisma score increases by 1.
+* Age: Pixies are ageless creatures who don’t grow old or die from old age.
+* Alignment: Pixies are good, almost without exception. The majority are neutral-good.
+* Creature type: Fey.
+* Size: Pixies are around 1ft tall and weigh 1lb. Your size category is Tiny.
+* Speed: You have a walking speed of 10ft. You also have a flying speed of 30ft.
+* Hidden Step: As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force another creature to make a saving throw. Once you use this ability, you can’t use it again until you finish a long or short rest.*
+* Magical Faerie Folk: If you’re playing a class with the Spellcasting or Pact Magic feature, the following spells are added to that class’s spell list when you select new spells.
+* You use that class’s spellcasting ability when casting these spells: Confusion, Dancing Lights, Detect Evil and Good, Detect Thoughts, Dispel Magic, Entangle, Fly, Invisibility, Phantasmal Force, Polymorph, Sleep.
+
+You can use your Pixie Dust in place of any components for these spells. All other rules for these spells apply as normal.
+
+* Fairy Fashionista: You have proficiency with Weaver’s Tools and you gain advantage on checks made with Weaver’s Tools when using woodland materials like bark and leaves.
+
+* Languages: You can speak, read, and write Common and Sylvan.
+
+==== Ability Score Increases
+The pixie stat block in the Monster Manual has very high dexterity and charisma stats, particularly dexterity, so bonuses to these stats fall most in line with the game designers’ vision for pixies.
+
+Tasha’s Cauldron of Everything has an optional rule that allows racial stat bonuses to be moved to different stats so, if you’re using this rule, you may be able to place these bonuses in other stats.
+Age
+
+There is very little available information regarding pixie aging in D&D 5E however mortality is one of the fundamental differences between fey creatures and humanoids.
+
+Pixies’ ageless nature is key to their unending childlike innocence and naivety, and simultaneously to their arcane and unknowable wisdom.
+
+There are some suggestions online that pixies eventually die from boredom, once they’ve exhausted all of the world’s excitements. This meshes well with the core fantasy of pixies.
+
+If you’d like to portray pixies as more human in your game, sources from AD&D 2E cite their lifespan as around 300 years.
+Alignment
+
+Pixies are almost always good. As habitual prank-players, one might assume that pixies were more commonly chaotic-good. However, their entry in the Monster Manual lists them as primarily neutral-good.
+Creature Type
+
+Pixies are fey creatures. This is unusual amongst D&D’s published playable races which are mostly humanoids.
+Size
+
+While there are mixed accounts of pixies’ size, the 5E Monster Manual describes them as “Standing barely a foot tall.”
+
+There are no reliable accounts of pixies’ weights – there’s no estimated weight for pixies in 5E’s published material and estimates from previous editions are comically large. We can estimate, from the weights of birds that stand at a similar height, that pixies would probably weigh around 1lb.
+
+Pixies’ Tiny size is both a blessing and a curse. Their maximum carry weight is severely reduced and they can be easily grappled and moved. Pixies also can’t sensibly use Heavy weapons.
+
+On the other hand, objects that might not ordinarily qualify as cover may be effective cover for a pixie.
+Speed
+
+Pixies are almost exclusively flying creatures and their walking speed is extremely slow compared to other races.
+
+==== Hidden Step
+If Hidden Step sounds familiar, that’s because it’s one of Firbolgs’ racial abilities from *Volo’s Guide to Everything (page 107).
+
+A part of pixies’ core mechanics in 5E is their ability to become invisible. Pixies’ Superior Invisibility ability is too powerful to be a class feature though. Firbolgs’ Hidden Step ability is a good middle ground that allows pixies to use invisibility on a whim while still being reasonably balanced.
+Magical Faerie Folk
+
+Pixies can use their Pixie Dust to cast a whole range of spells – way too many to include as class features.
+
+The Magical Faerie Folk ability allows pixie players to learn all of those spells eventually, without allowing them to learn more spells in total than characters of other races. You’re not learning any more spells; just different ones.
+
+The ability to cast those spells using Pixie Dust in place of components is situationally powerful and may allow pixie players to cast some spells undetected when they otherwise couldn’t. This isn’t unreasonably strong for a racial ability though.
+
+==== Fairy Fashionista
+
+This ability is primarily for flavor but may come in surprisingly useful in many games. It’s shockingly common that players find themselves acquiring garments to attend a noble gathering or fabricating disguises to pass unnoticed.
+
+Particularly when meeting archfey, your fantastic dress-sense may help to earn the good graces of powerful NPCs.
+Languages
+
+The Monster Manual’s pixies speak Sylvan, the language of fey. All playable races can also speak common and this makes intra-party communication far easier.
+Other Options for Homebrew Pixies
+
+D&D Wiki also has a popular homebrew pixie race, which you can find here.
+
+There are some great ideas in the D&D Wiki homebrew and you should definitely check it out.
+
+There’s only one ability that I’d take umbrage with: Wing Regrowth. If your DM is trying to mutilate your character then the solution is to leave that game, not to pull out a “gotcha” racial ability and continue playing.
+Pixie Appearance
+
+Pixies look like tiny elves, around a foot tall, with the wings of either a butterfly or a dragonfly. They’re clad in flowery gowns, usually woven by themselves.
+
+Their artwork in the Monster Manual depicts them with light green skin but, in the majority of other artwork, pixies are depicted with a range of human skin tones.
+Pixie Names
+
+Pixie names often come from nature. Rivergleam is a pixie named in the 5E Monster Manual. Other nature-inspired names like Mustardseed, Peaseblossom, and Cobweb from Shakespeare’s A Midsummer Night’s Dream would also all make a great fit for a pixie adventurer.
+
+You can also draw inspiration from the recommended gnome names in the Player’s Handbook or Xanathar’s Guide to Everything. Forest gnome names, in particular, would likely be appealing to pixies.
+
+=== The Best Classes for Pixie Adventurers
+
+==== Rogue
+Rogue, specifically Rogue’s Arcane Trickster subclass, is an obvious choice for pixies. Rogue benefits enormously from pixies’ increased dexterity and Arcane Tricksters can take full advantage of their increased spell list – ordinary, Arcane Tricksters’ spell list is fairly limited. Pixies’ abilities and lore mesh extremely well with a stealth-focused character.
+
+The only mismatch here is that pixies’ distaste for violence may not be easily reconciled with rogues’ penchant for stabbing things.
+
+==== Druid
+Druids are woodland guardians with a deep connection to nature. Druids understand the forest and all its cycles and rhythms, living in true harmony with all its creatures.
+
+As fey, pixies are creatures of nature and the forests. Of all D&D’s classes, druids are most likely to have lived in close proximity with fey.
+
+Unfortunately, druids don’t get much benefit from pixies’ racial abilities. Dexterity and Charisma aren’t the most important stats for druids, most of the spells from pixies’ Magical Faerie Folk ability already appear on druids’ spell list, and druids can transform into flying creatures so even pixies’ flying speed is less useful to them than other classes.
+
+==== Ranger
+Rangers, similarly to druids, live their lives close to nature. Rangers are a slightly worse fit for pixies thematically, but a much better fit mechanically. Rangers benefit enormously from dexterity and cannot transform so they benefit more from pixies’ flight.
+
+As half casters, Magical Faerie Folk is a fairly significant expansion to ranger’s spell list.
+
+==== Sorcerer
+Sorcerer is a great class for a pixie. Pixies are innately magical creatures, as are sorcerers. Sorcerers’ main spellcasting stat is charisma and they do gain some benefit from dexterity.
+
+Most of the spells from Magical Faerie Folk already appear on sorcerers’ spell list and sorcerers are already often choosing between several very good options when selecting new spells. An expanded spell list isn’t that useful to sorcerers.
+
+==== Warlock
+Archfey warlock is a thematically fantastic class choice for a pixie. This is a particularly good class choice if you’d like to play as an envoy or agent sent from the Feywild.
+
+Warlocks benefit from pixies’ charisma bonus as that’s their main spellcasting ability. They also gain some limited benefit from the dexterity bonus. Magical Faerie Folk is useful to warlocks as their spell list is fairly limited compared to other full casters.
+
+==== Bard
+Bard is the absolute perfect fit for a pixie adventurer. Bards make effective use of both pixies’ dexterity and charisma bonuses. They’re also a great thematic fit. Pixies are, above all else, playful and social creatures.
+
+Fey are creatures of jollity and celebration and music – the life of a bard would be very attractive to a pixie.
+
+==== Martial Classes
+Purely martial classes fall outside the fantasy of pixies – it’s difficult to justify why tiny, violence-repulsed pixies would choose to live their lives by the sword or ax. Similarly, these innately magical creatures make much more thematic sense when paired with magic-using classes.
+
+You might still be able to make these classes work for a pixie adventurer but, if you’re interested in playing these classes, you might have better luck playing a Sprite.
+
+Sprites are pixies’ less whimsical, less violence-averse reflection. If you’re hoping to play a fighter or barbarian then sprites might be a better thematic fit while still including the thematic elements that drew you towards playing a pixie.
+
+=== Pixie Alternatives
+Pixies are a homebrew race and many DMs prefer to stick with published material. If you like the sounds of playing a pixie but your DM would prefer you play one of the published races, there are a few great alternatives.
+
+==== Forest Gnomes
+Forest gnomes are thematically very similar to pixies. They’re shy illusionists who make their homes in fey forests and commonly befriend small animals. Gnomes are also small in stature, although they’re significantly taller than pixies.
+
+Forest gnomes, as common allies to fey, might even find their way into the service of archfey. Their names are similarly whimsical and nature-inspired. You can roleplay a forest gnome in a very similar way to a pixie.
+
+==== Firbolgs
+
+Firbolgs are another race of mysterious forest guardians. Firbolgs are incredibly large, as giant kin, but have thematic similarities with pixies. They’re gentle, caring, pacifists who use stealth and trickery to protect their forest and stay safe within it.
+
+Similarly to pixies, firbolgs also view the world in ways that might seem totally alien to city-dwelling humanoids.
+
+==== Aarakocra
+If your main reason for playing a pixie is that they can fly, Aarakocra have you covered. Not only can these avian humanoids fly, they can fly significantly faster than pixies.
+
+That said, Aarakocra are possibly the most frequently banned races for player characters, of those available in published material.
+
+If your DM has vetoed pixies then that may be due to their ability to fly, in which case Aarakocra are almost certainly off the cards too.
