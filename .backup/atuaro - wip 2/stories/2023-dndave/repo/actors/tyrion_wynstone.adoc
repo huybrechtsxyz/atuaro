@@ -1,0 +1,58 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= Tyrion Wynstone, Half-Elf Barbarian
+
+*as played by Dave*
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Tyrion Wynstone*#
+| [small]#Half-Elf Barbarian#
+
+| image::{homedir}/assets/images/tyrion_wynstone.webp[]
+
+|
+*Background*
+
+[%header,cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! STR       ^! DEX       ^! CON       ^! INT       ^! WIS       ^! CHA
+^! 18 (*+4*) ^! 14 (*+2*) ^! 15 (*+2*) ^! 12 (*+1*) ^! 10 (*+0*) ^! 08 (*-1*)
+!===
+
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Levels"]
+!===
+^! Level ! Class                ! Subclass                       ! Remark
+^!  0    ! Warrior              ! -                              ! As a child
+^!  1    ! Barbarian            ! -                              ! Adulthood
+!===
+
+| *Strategy* | 
+
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+| *About* +
+Is a half-elf barbarian
+He knew his mother but not his father. Was aided by his mother until the age of 6 until she died. She was single, and was pestered for it by others. He now hates arrogant people. Although he never knew his father, the mother wanted to him to know about it. Being a barbarian is cleaning of the typical Elf things.
+
+*Tags:* 
+|===
+
+== Notes
+
+=== Backstory
+Is a half-elf barbarian
+He knew his mother but not his father. Was aided by his mother until the age of 6 until she died. She was single, and was pestered for it by others. He now hates arrogant people. Although he never knew his father, the mother wanted to him to know about it. Being a barbarian is cleaning of the typical Elf things.

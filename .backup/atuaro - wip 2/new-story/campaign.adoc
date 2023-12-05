@@ -1,0 +1,50 @@
+ifndef::rootdir[]
+:rootdir: ../../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= <CampaignName>
+
+image::{homedir}/assets/images/cover.jpg[align=center]
+
+== About the campaign
+
+=== Players
+
+[%header,cols="1,1,1",grid=rows,frame=none]
+|===
+| Name     | Phone   | E-Mail
+| x  |         | a@b.com
+|=== 
+
+=== Links
+Links to the various resources for this campaign.
+
+* https://discord.gg/x[Discord]
+* https://drive.google.com/x[Google Drive]
+* https://fatherprime.eu.forge-vtt.com/[VTT Link]
+* https://eu.forge-vtt.com/invite/x[VTT Invite]
+
+Tutorials you can use:
+
+* https://youtu.be/ja88yRVQmck[Basics of Foundry VTT]
+
+=== Discussions Topics
+Here we refer to the Player Handbook, section about the table rules or social contract. Specific decisions, remarks, deviations can be marked here.
+
+* Social Expectations
+* Ethics and concerns
+* Game style
+* Experience and Levelling
+* Character Creation
+* Mechanics and house rules
+
+=== Protagonists
+
+[%header,cols="1,1,1,1,1",grid=rows,frame=none]
+|===
+| *Player* | *Character* | *Lineage* | *Class* | *Link*
+| x  | x    | x | x   | link:{homedir}/repo/actors/x.adoc
+|===
