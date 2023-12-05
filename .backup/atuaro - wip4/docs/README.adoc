@@ -1,0 +1,62 @@
+= Atuaro
+
+IF YOU ARE A PLAYER IN ATUARO. PLEASE KEEP YOU VISIT LIMITED TO PUBLIC, THANK YOU!
+
+Looking for my RPG Tools? Check https://github.com/huybrechtsxyz/rpgtoolsxyz or for quick links:
+
+Campaign Tracker v2.2
+
+    https://docs.google.com/spreadsheets/d/1hcY4uFiO1AIiaXidalKlodo1Nm-MFGM5hCZzPGHShnw/edit?usp=sharing
+
+Campaign Tracker v3.0
+
+    https://docs.google.com/spreadsheets/d/1ovY8G8na6QeCAW9mCbqPUAoZBB73B6MwnLqcRlx2Ekg/edit?usp=share_link
+
+Proficiency Builder
+
+    https://docs.google.com/spreadsheets/d/1T1EkyOOBqG-Mjmlic2bDapcTE47YEVj18uYSGN1aSXk/edit?usp=sharing
+
+
+== The Basics
+Atuaro is the default world for role play adventures by FatherPrime. If you find this usefull, you are free to use the materials included here in. Keep in mind that all information belongs to their respective owners as most content is rehashed from other sources.
+
+To start using the content, simply clone or download the content to your local machine. Most of the content is written in AsciiDoc. 
+
+Feel free to contribute, that is the reason pull requests exist.
+
+== The Age of Reckoning
+“We tell ourselves that the scourge is a mere bogey of the mind, a bad dream that will pass away. But it doesn't always pass away and, from one bad dream to another, it is men who pass away.” - Albert Camus
+
+Players make practical, but morally questionable decisions, only to later contrast their choices against the selfless heroism of decent “common folk”. What price will they have to pay to save the city, and will their victory be complete or will it be a hollow one? What kinds of disputes will they encounter between factions, and what solutions will they find for them? What does it means to be a hero?
+
+World Date: 365 AR (After the Reckoning) , Month 3, Day 10.
+
+A world for Dungeons & Dragons 5E compatible games.
+Sword and Sorcery; Fantasy Low Magic
+
+Followers: Whaihai
+Follower: Kaiwhai
+
+== About Atuaro
+Atuaro is a low magic but powerful renaissance sword & sorcery world where magic and gods exist and influence the world.
+
+> *The World Is Ancient.* Empires rise and fall, leaving few places that have not been touched by imperial grandeur or decay. War, time, and natural forces eventually claim the mortal world, leaving it rich with places of adventure and mystery. Ancient civilisations and their knowledge survive in legends, magic items, and their ruins. Chaos and evil often follow an empire's collapse.
+
+> *The World Is Magical.* Practitioners of magic are few in number, but they leave evidence of their craft everywhere. The higher the level of magic the fewer the practitioners. The magic can be as innocuous and commonplace as a potion that heals wounds to something much more rare and impressive, such as a levitating tower or a stone golem guarding the gates of a city. Beyond the realms of civilisation are caches of magic items guarded by magic traps, as well as magically constructed dungeons inhabited by monsters created by magic, cursed by magic, or endowed with magical abilities. Magic comes from The Weave. It is an energy field that connects everything and all.
+> 
+> *Note.* Artificers and the like talk to the DM, you will need to use aether.
+
+> *Gods Oversee the World.* The gods are real and embody a variety of beliefs, with each god claiming dominion over an aspect of the world. Gods exert influence over the world by granting divine magic to their followers and sending signs and portents to guide them. The follower of a god serves as an agent of that god in the world. The agent seeks to further the ideals of that god and defeat its rivals. While some folk might refuse to honour the gods, none can deny their existence. Gods can't manifest themselves directly as they are incorporeal. Celestials (angels and demons) are the most used and known 'super'-agents for a deity. The more Faith a god receives the more powerfull his divinity and plentyfull celestials.
+
+> *Source of magic.* The power granted to you by your patron (cleric, warlock) is not equal to being able to manipulate the weave or what is granted to you by the primal forces. Divine is religion, the weave is arcane, and primal are the forces of nature.
+
+> *Pantheon.* The only allowed official religion is The Faith of Ohm. Although other gods exist, Ohm is the one and only official one on the continent where our adventures take place.*
+> 
+> * As clearly stated by Law, don't lightning the messenger please.
+>  
+> The dominant religion, The Faith of Ohm, believes that all creation - from the multiverse as a whole to the tiniest pebble or grain of sand - is a mysterious and beautiful sign pointing to Ohm's divine power. We are in the cradle and are the origin and most perfect of all its creations.*
+> 
+> Who knew humans could be so self-centered?
+
+== World Credits
+All information in this world is borrowed from reputable sources that own the copyright to their works. This includes but is not limited to the D&D core books by Wizards of the Coast, Shadowdark by the Arcane Library, the Level Up Adventure Guide by EN Publishing, 5e Hardcore Mode by Runehammer Games, The Lazy Dungeon Master by Michael E. Shea, and al X-treme Dungeon Mastery by Tracy Hickman and Curtis Hickman.
