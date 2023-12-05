@@ -1,0 +1,31 @@
+# RPG Tools XYZ
+
+Campaign Tracker v2.2
+
+    https://docs.google.com/spreadsheets/d/1hcY4uFiO1AIiaXidalKlodo1Nm-MFGM5hCZzPGHShnw/edit?usp=sharing
+
+Campaign Tracker v3.0
+
+    https://docs.google.com/spreadsheets/d/1ovY8G8na6QeCAW9mCbqPUAoZBB73B6MwnLqcRlx2Ekg/edit?usp=share_link
+
+Proficiency Builder
+
+    https://docs.google.com/spreadsheets/d/1T1EkyOOBqG-Mjmlic2bDapcTE47YEVj18uYSGN1aSXk/edit?usp=sharing
+
+## Way of Thinking
+
+
+
+## Way of Working
+
+
+
+## Way of Writing
+
+### Using this module
+
+> npm init
+
+> npm install rpgtools.xyz --save
+
+> npm run init

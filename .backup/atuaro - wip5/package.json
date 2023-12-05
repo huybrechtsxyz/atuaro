@@ -1,0 +1,36 @@
+{
+  "name": "rpgtools.xyz",
+  "title": "RPG Tools XYZ",
+  "version": "0.0.4",
+  "description": "Automated maintenance of RPG adventures and campaigns including integration with Foundry VTT",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huybrechtsxyz/rpgtoolsxyz.git"
+  },
+  "keywords": [
+    "rpg",
+    "automation",
+    "vtt",
+    "integration"
+  ],
+  "author": "Vincent Huybrechts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huybrechtsxyz/rpgtoolsxyz/issues"
+  },
+  "homepage": "https://github.com/huybrechtsxyz/rpgtoolsxyz#readme",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "figlet": "^1.6.0",
+    "js-yaml": "^4.1.0",
+    "jsonpath": "^1.1.1",
+    "jszip": "^3.10.1",
+    "level": "^8.0.0"
+  }
+}
