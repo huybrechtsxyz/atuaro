@@ -14,7 +14,7 @@ image::{homedir}/assets/images/cover.jpg[]
 
 == Arriving at Loukotokia
 
-*Loot from the Silverpine Watch*
+=== Loot from the Silverpine Watch*
 » Brass candlestick (B7 The Tinker’s Body) ........ 5 gp
 » Engraved tankard (C2 Mess Hall) ................. 2 gp
 » Engraved drinking horn (C3 Kitchen) ............. 5 gp
@@ -29,7 +29,7 @@ image::{homedir}/assets/images/cover.jpg[]
 » Falcon broach (C23 Sir Arpaad’s Study).......... 25 gp
 » Silver ring (C23 Sir Arpaad’s Study) ........... 50 gp
 
-=== Arriving at Loukotokia
+=== What about Gundren Rockseeker?
 Once they open the gates, the party can continue the way uneventfully to Loukotokia.
 Based on Gundren Rockseekers attitude towards the party the outcome may differ.
 
@@ -71,14 +71,176 @@ The party will be looked for by the city guard as they concluded the party must 
 - Spells like talk to the death +
 - News from Kainga that he left with them
 
-== Information Control
+== Downtime and Information Control
 They will quickly learn not too many businessmen want their services or coin if Gundren was badly managed.
+If they complete the downtime activities ok their reputation will heal.
+People who specifically did bad things (nothing to severe) can heal their reputation
 
-*Challenge* +
-Stealth, Sleight of Hand, or Arcana checks.
+    Angela (Cleric):
+        Downtime Activity: Angela decides to organize a community event or festival in collaboration with her father, the local bishop. This event could be a religious celebration, a charity drive, or a day of healing for the townsfolk. It will not only strengthen Angela's ties with her father but also allow her to use her clerical abilities to benefit the community.
+        > pakal zamarus
 
-*Description* +
-The party discovers that damaging information about them is circulating. They must track down the source, retrieve or manipulate the evidence, and ensure that their reputation is not further tarnished.
+        Background:
+        Angela discovers that an imposter priest has infiltrated the religious festival, secretly worshiping Whiro, the dark counterpart to Ohm. The imposter threatens to disrupt the festival and sow chaos within the community. Angela takes it upon herself to unmask the imposter and prevent the potential harm they might cause.
+
+        Objectives:
+
+            Observation and Investigation:
+                Angela discreetly observes the behaviors of the various priests and temple officials involved in the festival. She looks for signs of unusual practices or any deviations from the usual rituals associated with the worship of Ohm.
+
+            Subtle Questioning:
+                Angela engages in conversations with fellow priests, community members, and festival organizers to gather information. She asks subtle questions to gauge their perceptions of the religious practices and identify any inconsistencies.
+
+            Review of Ritual Artifacts:
+                Angela carefully examines the ceremonial items, religious texts, and symbols associated with the festival. She looks for any alterations or signs of dark magic that might be connected to the worship of Whiro.
+
+            Divine Guidance:
+                Angela seeks guidance through prayers and meditation, asking for Ohm's insight to reveal the imposter's true nature. This might involve a spiritual journey or a symbolic vision that leads her closer to the truth.
+
+            Confrontation and Expose:
+                Once Angela has gathered enough evidence, she confronts the imposter priest privately. Through a combination of persuasive discourse and divine authority, she exposes the imposter's true allegiance to Whiro, urging them to renounce their dark path.
+
+        Challenges:
+
+            Deceptive Charms:
+                The imposter priest uses charm and charisma to mask their true intentions, making it challenging for Angela to discern their deceitful nature.
+
+            Dark Influence:
+                The imposter may have invoked dark powers associated with Whiro, causing disturbances in Angela's attempts to uncover the truth. Angela must resist the influence of these dark forces.
+
+            Community Distrust:
+                Angela faces the challenge of convincing the community that an imposter priest is among them without causing unnecessary panic or distrust. She must tread carefully to maintain the community's faith in their religious leaders.
+
+        Outcome:
+
+            Success:
+                Angela successfully exposes the imposter priest, preventing any harm to the festival and restoring the community's trust. Her diligence and devotion to Ohm are celebrated, and the festival proceeds with renewed spiritual strength.
+
+            Partial Success:
+                While Angela uncovers the imposter's identity, there might be minor disruptions to the festival. She manages to mitigate the damage and initiates a process of healing and reconciliation within the community.
+
+            Failure:
+                The imposter's dark plans come to fruition, causing chaos during the festival. Angela faces the challenge of redeeming the situation, reassuring the community, and confronting the lingering consequences of the imposter's actions.
+
+    Antonio (Rogue/Thief):
+        Downtime Activity: Antonio is caught attempting to steal from a renowned, benevolent figure in the town. Instead of punishing him, the figure offers Antonio a chance at redemption. The figure introduces him to a skilled mentor who teaches him the value of using his stealth for good – perhaps training him as a spy or investigator.
+        > mentor is magnifico the magnificent
+
+        Challenge: The Illusionary Heist with a Moral Twist
+
+        Setting: Magnifico creates an illusionary scenario in which Antonio must navigate through a simulated high-security environment to "steal" a valuable artifact. However, this time, the challenge has a moral twist.
+
+        Objective:
+        Antonio's task is not only to successfully navigate through the illusionary heist but to discern between innocent targets and corrupt individuals, focusing his "theft" on the corrupt and avoiding harm to the innocent.
+
+        Lessons:
+
+            Discerning Morality: Antonio learns to discern between innocent bystanders and corrupt individuals within the illusionary scenario. Magnifico emphasizes the importance of choosing targets wisely.
+
+            Non-lethal Approaches: Antonio is encouraged to utilize non-lethal means and creative tactics to neutralize threats and complete the heist without causing harm to innocent NPCs.
+
+            Redistributing Wealth: After the heist, Magnifico discusses the moral implications of the targets Antonio chose. The challenge reinforces the concept of stealing from the corrupt to benefit the greater good, aligning with the Robin Hood ethos.
+
+        Outcome:
+
+            Success: If Antonio successfully completes the illusionary heist without harming innocent bystanders and targets the corrupt, Magnifico commends his moral choices, imparting the lesson that thieving can be a force for justice.
+
+            Failure: If Antonio inadvertently harms innocent NPCs or targets the wrong individuals, Magnifico uses the experience to emphasize the importance of discernment and the potential harm caused by recklessness in the pursuit of justice.
+
+        This modified challenge not only tests Antonio's thieving skills but also guides him toward a more morally conscious approach, aligning with the ideals of Robin Hood by encouraging him to use his skills to address injustice without causing harm to the innocent.
+
+    Cornus (Druid/Nature Lover):
+        
+        Cornus's Quest: The Liberation of the Shadowed Arena
+
+        Background:
+        Cornus learns of a disturbing underground operation where rats are forced to fight against specifically trained dogs for entertainment. Driven by his compassion for nature and a desire to protect the vulnerable, Cornus decides to undertake a quest to break up the dogfighting ring and free the exploited creatures.
+
+        Objectives:
+
+            Gathering Information:
+                Cornus investigates rumors and gathers information about the location and key figures involved in the illegal dogfighting ring. This may involve questioning locals, interacting with the criminal underworld, or observing suspicious activities.
+
+            Infiltrating the Arena:
+                Cornus plans and executes a strategy to infiltrate the shadowed arena where the fights take place. This requires stealth, cunning, and an understanding of the layout of the underground operation.
+
+            Animal Rescue:
+                Once inside the arena, Cornus focuses on freeing the captive rats and dogs. This involves overcoming guards, disabling traps, and ensuring the safety of the animals without alerting the organizers.
+
+            Confronting the Organizers:
+                Cornus identifies the masterminds behind the dogfighting ring and confronts them. This may involve negotiation, intimidation, or even a physical confrontation to put an end to their cruel practices.
+
+            Animal Sanctuary Establishment:
+                Cornus works to establish a safe haven or sanctuary for the rescued animals. This could involve seeking assistance from local animal shelters, sympathetic individuals, or even using his druidic abilities to create a natural haven for the creatures.
+
+        Challenges:
+
+            Undercover Dangers:
+                Cornus faces the risk of being discovered as he infiltrates the arena. He must disguise himself or find alternative means to move undetected.
+
+            Guardian Beasts:
+                The organizers deploy trained animals as guardians within the arena. Cornus must find non-lethal methods to incapacitate these creatures while ensuring the safety of the rats and dogs.
+
+            Moral Dilemmas:
+                Cornus encounters individuals who are complicit in the dogfighting ring but may be coerced or struggling with their involvement. He must navigate moral dilemmas and potentially offer them a chance at redemption.
+
+        Outcome:
+
+            Success:
+                Cornus successfully dismantles the dogfighting ring, liberates the animals, and establishes a sanctuary for their rehabilitation. The organizers face justice, and the community becomes more aware of the cruelty associated with such activities.
+
+            Partial Success:
+                Cornus manages to free some of the animals and disrupt the dogfighting ring, but some challenges remain unresolved. The quest becomes a catalyst for ongoing efforts to combat illegal animal fighting in the region.
+
+            Failure:
+                Cornus faces setbacks, and the dogfighting ring persists. However, the quest serves as a motivation for him to continue the fight against animal cruelty, potentially leading to future opportunities for redemption and success.
+
+    Mario (Fighter/Defender):
+        Downtime Activity: Mario decides to open a self-defense workshop for those who have been bullied. He shares his experiences and teaches others how to stand up for themselves. This activity not only helps Mario come to terms with his own past but also empowers others in the community.
+
+        Encounter: The Alleyway Ambush
+
+        Setting: A dimly lit alley in the local district. Mario encounters one of his classmates, a young man named Alex, who is cornered by a small local gang of five commoners.
+
+        Gang Members:
+
+            Ringleader (Human): Wields a crude club and has an air of false bravado.
+            Bully (Half-Orc): Physically imposing and aggressive.
+            Schemer (Halfling): Nimble and quick-witted, armed with a small blade.
+            Bravado (Elf): Overconfident and flashy, dual-wielding makeshift weapons.
+            Bully's Friend (Dwarf): Gruff and intimidating, but slightly hesitant.
+
+        Encounter Scenario:
+
+            As Mario approaches the alley, he sees Alex surrounded by the gang members, who are demanding money or valuables.
+            The gang spots Mario and becomes hostile, escalating the situation. The ringleader taunts Mario, challenging him to a fight.
+            Mario must now engage in combat to protect Alex and teach the gang members a lesson.
+
+        Key Features:
+
+            Tight Spaces: The alleyway limits maneuverability, potentially providing advantages and disadvantages based on positioning.
+            Improvised Weapons: The gang members use makeshift weapons like clubs, blades, and broken bottles, making the encounter more dynamic and unpredictable.
+            Verbal Taunts: The gang members may attempt to distract and demoralize Mario with verbal taunts, potentially affecting his concentration.
+
+        Objectives:
+
+            Protect Alex: Mario's primary goal is to ensure the safety of Alex. If the gang members are defeated or driven off, Alex will be grateful and potentially provide Mario with useful information or assistance in the future.
+            Teach a Lesson: Subduing the gang without causing severe harm might serve as a valuable lesson, discouraging them from further criminal activities in the future.
+
+        Outcome:
+
+            If Mario successfully defeats or subdues the gang, they retreat, nursing their wounds. The local authorities may arrive afterward, providing an opportunity for Mario to share information about the gang's activities.
+            If Mario fails, the gang members may escape, and the situation could escalate, leading to potential consequences for Mario and Alex.
+
+    Tyrion (Fighter/Rogue, Half-Elf):
+        Downtime Activity: Tyrion, fueled by his disdain for arrogant rich people, enters a high-stakes tournament or competition where he can prove his prowess. This could be a combat tournament, a series of skill challenges, or even a social event where he uses his charisma to outwit and outclass the arrogant elite, gaining recognition and perhaps uncovering information about his elusive father in the process.
+
+        Thoren Ironhoof has been the dedicated stable boy for the renowned Moonshade Vineyards, a family of wine growers and merchants specializing in fey wine. His responsibilities involve caring for the magical creatures that assist in the cultivation of the enchanted grapes used to produce the fey wine.
+
+        Over the years, Thoren has overheard conversations among the family members and visiting clients while tending to the stables. His understanding of the workings of the vineyard and the family's connections with the fey make him a unique and potentially valuable source of information for someone like Tyrion, who seeks clues about his father.
+
+        Thoren's knowledge extends beyond the mundane, as he has glimpsed the mystical side of the vineyard's operations. This adds an intriguing fey twist to the information he may share with Tyrion about his lineage and potential fey ancestry.
+
 
 == Wizards’ Tower Brewery
 The Wizard’s Tower Brewing Co. - a craft brewery known for its hoppy summer ales - is in dire need of help from a band of reliable, affordable adventurers. The owner has posted a job on the local notice boards and is calling in favors from friendly innkeepers all over town to spread the word. If the party is not in good standing with the local community. Glowkindle is desperate. Reason it is not solved, he is cheap and does not want to pay. He has this reputation, but if he says someone is good, people will listen and it could clear their reputation depending on how it is solved?
@@ -139,7 +301,7 @@ The mosaic is a trap, and standing on the wrong portions of the floor causes a l
 Any creature standing on any area other than these must make a DC 1 2 Dexterity saving throw, taking 5 (1 d10) damage on a failure or half as much on a success. This trap activates each time a creature steps on an unsafe panel.
 
 === Area 3 - Well Room
-
+> In the center ofthe small room ahead ofyou is a large stone well, topped with a wooden handle and the rotten remnants of aheavily frayed rope that descends into the shaft. In the far right corner the ceiling has collapsed slightly, and a narrow shaft of weak sunlight shines through a narrow hole.
 
 
 == In the end?

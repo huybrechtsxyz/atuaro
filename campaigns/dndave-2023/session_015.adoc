@@ -5,7 +5,7 @@ ifndef::homedir[]
 :homedir: .
 endif::[]
 
-= D&Dave 2023 Session 13
+= D&Dave 2023 Session 14 [28-11-2023]
 
 image::{homedir}/assets/images/heading.jpg[]
 
@@ -50,6 +50,8 @@ The team of 'heroes' reach the Silverpine Watch. They try to get on top of the c
 
 After killing the zombies, they search all the trunks and find what is within, looting the Marshal Brask’s room in the process. Almost finding their better in the stirges, but finding the necklace in their nest. Antonio likes the amulet and wears it. The continue searching the rooms (7, 8, 9, 7, 20, 23, 24). When they find the ghost of sir Arpaad they try avoid fighting it. Although Antonio was able to resist the golden weapon next to sir Arpaad's body, Angela has problems resisting her will to cast down the foul aparition. As Ohm clearly not approves.
 
+They fight sir Ipaad and manage to go through the towers and zombies. After they manage to open the portcullis, Gundren drives of leaven them the money.
+
 == Start of session
 * Cornus his water magic requires a DC before succeeding:
   -  3 on the dice: easy.
@@ -83,15 +85,41 @@ Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)? +
     Bad.  (Behaviour of Antonio) +
 
 Previously on.
-Het bestaan van de geest is een heiligschennis.
-Ze valt aan, strart combat.
-they kill arpaad
-room 22
+
+battle with sir ipaad. angela had nog een buite karakter reacie op sir ipaad. reflection on.
+downstares for hinges.
+arrch zombies
+kamer met hendles opgesplits voor beide kanten
+gundren - vlug mogelijk wachten en geld gesmeten
+
+andere toren nog te verkennen (~ plunderen)
+
+ze hebben gold cursed dagger. 
+wolfram journal.
+
+Cornus.
+  ik ben nog niet genezen, ingewreven met as tegen muggen
+  het riekt hier vies, de geest ipaad waart hier rond
+  de geest wil met rust gelaten worden, angela fireball
+  dolk vervloekt, voor zichzelf houden
+  hendel langs beide kanten
+  andere naar de overkant 
+
+antonio makes his wisdom save for the ring.
+
+They kill the revenant and kill the dagger.
+
+Zie die barthoz letter for clues
+  barbarians sunderlander
+  
+op naar loukotokia
+
+- report incident to the church?
+- er waren tekenen van plunderaars
+- thieves cant for antonio
 
 
-
-
-
+> cornus nachtelijke maanlicht, circle of the moon.
 
 
 == Post Session

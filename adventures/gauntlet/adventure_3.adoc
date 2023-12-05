@@ -970,7 +970,6 @@ The revenant regains 4 hit points at the start of its turn unless it took fire o
 
 2+| *About* + 
 
-
 *Environment:*   +
 *Tags:* 
 |===
@@ -979,7 +978,7 @@ The revenant regains 4 hit points at the start of its turn unless it took fire o
 The hammer is actually the blacksmith’s maul, a magical item described below.
 
 ==== The Tools
-The workshop is stocked with all sorts of tools for metalwork, woodwork, leatherwork, and stonework. Of note, the party find a woodcutter’s axe and a crowbar, both of which might help them open chests and locked doors in the Watch.
+The workshop is stocked with all sorts of tools for metalwork, woodwork, leatherwork, and stonework. Of note, the party find a woodcutter’s axe and a crowbar, both of which might help them open chests and locked doors in the Watch.
 
 * The party find a woodcutter’s axe and a crowbar.
 
