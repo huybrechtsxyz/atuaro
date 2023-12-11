@@ -1,0 +1,404 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= Picking up the Gauntlet (Part 4)
+:toc:
+
+*Tags:* #gauntlet
+
+image::{homedir}/assets/images/cover.jpg[]
+
+== Arriving at Loukotokia
+
+=== Loot from the Silverpine Watch*
+» Brass candlestick (B7 The Tinker’s Body) ........ 5 gp
+» Engraved tankard (C2 Mess Hall) ................. 2 gp
+» Engraved drinking horn (C3 Kitchen) ............. 5 gp
+» Dice cup and dice (C7 Barracks).................. 2 gp
+» Exotic waterskin (C7 Barracks) .................. 2 gp
+» Assorted ancient coins (C7 Barracks) ........... 10 gp
+» Moonstone (C8 Marshall Brask’s Room) ........... 50 gp
+» Brass statuette (C12 Brother Wulfram’s Study) .. 25 gp
+» Jade beetle (C16 Armory) ....................... 50 gp
+» Amethyst (C17 Workshop)......................... 75 gp
+» Silver cup (C23 Sir Arpaad’s Study) ........... 150 gp
+» Falcon broach (C23 Sir Arpaad’s Study).......... 25 gp
+» Silver ring (C23 Sir Arpaad’s Study) ........... 50 gp
+
+=== What about Gundren Rockseeker?
+Once they open the gates, the party can continue the way uneventfully to Loukotokia.
+Based on Gundren Rockseekers attitude towards the party the outcome may differ.
+
+Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)?
+
+*Excellent* +
+Gundren pays the party 5 GP per person in the party. +
+If they selected not to negotiate extra money he will give them 1GP each extra. +
+He will search for extra work to give to the party in Loukotokia.
+
+*Good* +
+Gundren pays the party 5GP per person in the party. +
+He can give the party extra work in Loukotokia.
+
+*Okay* +
+Gundren pays the party 5GP per person in the party. +
+Bids farewell and ends the NPC's involvement witht the party.
+
+*Bad => PROBLEM* +
+Gundren pays the party 5GP per person in the party. +
+The party will not be able to use Gundren in the future. +
+He will badmouth the party so other businessmen will not want to use them.
+
+*Death => PROBLEM* +
+Gundren was killed during the adventure. +
+They will be interogated by the city guard if they stay in Loukotokia to long. +
+Zone of Thruth could be used to find out if they speak the truth. +
+Ability checks to see if they can talk to the city guard. +
+The party will be looked for by the city guard as they concluded the party must have killed them. +
+- Spells like talk to the death +
+- News from Kainga that he left with them
+
+*Killed => PROBLEM* +
+The party killed Gundren in the adventure. +
+Thye will be actively searched by the city guard if they can find them in Loukotokia. +
+Zone of Thruth could be used to find out if they speak the truth. +
+Ability checks to see if they can talk to the city guard. +
+The party will be looked for by the city guard as they concluded the party must have killed them. +
+- Spells like talk to the death +
+- News from Kainga that he left with them
+
+== Downtime and Information Control
+They will quickly learn not too many businessmen want their services or coin if Gundren was badly managed.
+If they complete the downtime activities ok their reputation will heal.
+People who specifically did bad things (nothing to severe) can heal their reputation
+
+=== Cleric (Angela)
+
+*Downtime Activity* +
+Angela decides to organize a community event or festival in collaboration with her father, the local bishop. This event could be a religious celebration, a charity drive, or a day of healing for the townsfolk. It will not only strengthen Angela's ties with her father but also allow her to use her clerical abilities to benefit the community. +
+=> pakal zamarus
+
+*Background:*
+Angela discovers that an imposter priest has infiltrated the religious festival, secretly worshiping Whiro, the dark counterpart to Ohm. The imposter threatens to disrupt the festival and sow chaos within the community. Angela takes it upon herself to unmask the imposter and prevent the potential harm they might cause.
+
+*Objectives:*
+
+    Observation and Investigation:
+    Angela discreetly observes the behaviors of the various priests and temple officials involved in the festival. She looks for signs of unusual practices or any deviations from the usual rituals associated with the worship of Ohm.
+
+    Subtle Questioning:
+    Angela engages in conversations with fellow priests, community members, and festival organizers to gather information. She asks subtle questions to gauge their perceptions of the religious practices and identify any inconsistencies.
+
+    Review of Ritual Artifacts:
+    Angela carefully examines the ceremonial items, religious texts, and symbols associated with the festival. She looks for any alterations or signs of dark magic that might be connected to the worship of Whiro.
+
+    Divine Guidance:
+    Angela seeks guidance through prayers and meditation, asking for Ohm's insight to reveal the imposter's true nature. This might involve a spiritual journey or a symbolic vision that leads her closer to the truth.
+
+    Confrontation and Expose:
+    Once Angela has gathered enough evidence, she confronts the imposter priest privately. Through a combination of persuasive discourse and divine authority, she exposes the imposter's true allegiance to Whiro, urging them to renounce their dark path.
+
+*Challenges:*
+
+    Deceptive Charms:
+    The imposter priest uses charm and charisma to mask their true intentions, making it challenging for Angela to discern their deceitful nature.
+
+    Dark Influence:
+    The imposter may have invoked dark powers associated with Whiro, causing disturbances in Angela's attempts to uncover the truth. Angela must resist the influence of these dark forces.
+
+    Community Distrust:
+    Angela faces the challenge of convincing the community that an imposter priest is among them without causing unnecessary panic or distrust. She must tread carefully to maintain the community's faith in their religious leaders.
+
+*Outcome:*
+
+    Success:
+    Angela successfully exposes the imposter priest, preventing any harm to the festival and restoring the community's trust. Her diligence and devotion to Ohm are celebrated, and the festival proceeds with renewed spiritual strength.
+
+    Partial Success:
+    While Angela uncovers the imposter's identity, there might be minor disruptions to the festival. She manages to mitigate the damage and initiates a process of healing and reconciliation within the community.
+
+    Failure:
+    The imposter's dark plans come to fruition, causing chaos during the festival. Angela faces the challenge of redeeming the situation, reassuring the community, and confronting the lingering consequences of the imposter's actions.
+
+=== Rogue/Thief (Antonio)
+
+*Downtime Activity:* +
+Antonio is caught attempting to steal from a renowned, benevolent figure in the town. Instead of punishing him, the figure offers Antonio a chance at redemption. The figure introduces him to a skilled mentor who teaches him the value of using his stealth for good – perhaps training him as a spy or investigator. +
+=> mentor is magnifico the magnificent
+
+*Challenge: The Illusionary Heist with a Moral Twist* +
+Magnifico creates an illusionary scenario in which Antonio must navigate through a simulated high-security environment to "steal" a valuable artifact. However, this time, the challenge has a moral twist.
+
+*Objective*:
+        
+Antonio's task is not only to successfully navigate through the illusionary heist but to discern between innocent targets and corrupt individuals, focusing his "theft" on the corrupt and avoiding harm to the innocent.
+
+*Lessons:*
+
+    Discerning Morality: Antonio learns to discern between innocent bystanders and corrupt individuals within the illusionary scenario. Magnifico emphasizes the importance of choosing targets wisely.
+
+    Non-lethal Approaches: Antonio is encouraged to utilize non-lethal means and creative tactics to neutralize threats and complete the heist without causing harm to innocent NPCs.
+
+    Redistributing Wealth: After the heist, Magnifico discusses the moral implications of the targets Antonio chose. The challenge reinforces the concept of stealing from the corrupt to benefit the greater good, aligning with the Robin Hood ethos.
+
+*Outcome:*
+
+    Success: If Antonio successfully completes the illusionary heist without harming innocent bystanders and targets the corrupt, Magnifico commends his moral choices, imparting the lesson that thieving can be a force for justice.
+
+    Failure: If Antonio inadvertently harms innocent NPCs or targets the wrong individuals, Magnifico uses the experience to emphasize the importance of discernment and the potential harm caused by recklessness in the pursuit of justice.
+
+    This modified challenge not only tests Antonio's thieving skills but also guides him toward a more morally conscious approach, aligning with the ideals of Robin Hood by encouraging him to use his skills to address injustice without causing harm to the innocent.
+
+=== Druid (Cornus)
+        
+*Cornus's Quest: The Liberation of the Shadowed Arena* +
+You learn of a disturbing underground operation where rats are forced to fight against specifically trained dogs for entertainment. Driven by his compassion for nature and a desire to protect the vulnerable, Cornus decides to undertake a quest to break up the dogfighting ring and free the exploited creatures.
+
+*Objectives:*
+
+    Gathering Information:
+    Cornus investigates rumors and gathers information about the location and key figures involved in the illegal dogfighting ring. This may involve questioning locals, interacting with the criminal underworld, or observing suspicious activities.
+
+    Infiltrating the Arena:
+    Cornus plans and executes a strategy to infiltrate the shadowed arena where the fights take place. This requires stealth, cunning, and an understanding of the layout of the underground operation.
+
+    Animal Rescue:
+    Once inside the arena, Cornus focuses on freeing the captive rats and dogs. This involves overcoming guards, disabling traps, and ensuring the safety of the animals without alerting the organizers.
+
+    Confronting the Organizers:
+    Cornus identifies the masterminds behind the dogfighting ring and confronts them. This may involve negotiation, intimidation, or even a physical confrontation to put an end to their cruel practices.
+
+    Animal Sanctuary Establishment:
+    Cornus works to establish a safe haven or sanctuary for the rescued animals. This could involve seeking assistance from local animal shelters, sympathetic individuals, or even using his druidic abilities to create a natural haven for the creatures.
+
+*Challenges:*
+
+    Undercover Dangers:
+    Cornus faces the risk of being discovered as he infiltrates the arena. He must disguise himself or find alternative means to move undetected.
+
+    Guardian Beasts:
+    The organizers deploy trained animals as guardians within the arena. Cornus must find non-lethal methods to incapacitate these creatures while ensuring the safety of the rats and dogs.
+
+    Moral Dilemmas:
+    Cornus encounters individuals who are complicit in the dogfighting ring but may be coerced or struggling with their involvement. He must navigate moral dilemmas and potentially offer them a chance at redemption.
+
+*Outcome:*
+
+    Success:
+    Cornus successfully dismantles the dogfighting ring, liberates the animals, and establishes a sanctuary for their rehabilitation. The organizers face justice, and the community becomes more aware of the cruelty associated with such activities.
+
+    Partial Success:
+    Cornus manages to free some of the animals and disrupt the dogfighting ring, but some challenges remain unresolved. The quest becomes a catalyst for ongoing efforts to combat illegal animal fighting in the region.
+
+    Failure:
+    Cornus faces setbacks, and the dogfighting ring persists. However, the quest serves as a motivation for him to continue the fight against animal cruelty, potentially leading to future opportunities for redemption and success.
+
+=== Fighter (Mario)
+Mario decides to open a self-defense workshop for those who have been bullied. He shares his experiences and teaches others how to stand up for themselves. This activity not only helps Mario come to terms with his own past but also empowers others in the community.
+
+*Encounter: The Alleyway Ambush*
+A dimly lit alley in the local district. Mario encounters one of his classmates, a young man named Alex, who is cornered by a small local gang of five commoners.
+
+*Gang Members:*
+
+    Ringleader (Human): Wields a crude club and has an air of false bravado.
+    Bully (Half-Orc): Physically imposing and aggressive.
+    Schemer (Halfling): Nimble and quick-witted, armed with a small blade.
+    Bravado (Half-Elf): Overconfident and flashy, dual-wielding makeshift weapons.
+    Bully's Friend (Dwarf): Gruff and intimidating, but slightly hesitant.
+
+*Encounter Scenario:*
+
+    As Mario approaches the alley, he sees Alex surrounded by the gang members, who are demanding money or valuables.
+    The gang spots Mario and becomes hostile, escalating the situation. The ringleader taunts Mario, challenging him to a fight.
+    Mario must now engage in combat to protect Alex and teach the gang members a lesson.
+
+*Key Features:*
+
+    Tight Spaces: The alleyway limits maneuverability, potentially providing advantages and disadvantages based on positioning.
+    Improvised Weapons: The gang members use makeshift weapons like clubs, blades, and broken bottles, making the encounter more dynamic and unpredictable.
+    Verbal Taunts: The gang members may attempt to distract and demoralize Mario with verbal taunts, potentially affecting his concentration.
+
+*Objectives:*
+
+    Protect Alex: Mario's primary goal is to ensure the safety of Alex. If the gang members are defeated or driven off, Alex will be grateful and potentially provide Mario with useful information or assistance in the future.
+    Teach a Lesson: Subduing the gang without causing severe harm might serve as a valuable lesson, discouraging them from further criminal activities in the future.
+
+*Outcome:*
+
+    Success: If Mario successfully defeats or subdues the gang, they retreat, nursing their wounds. The local authorities may arrive afterward, providing an opportunity for Mario to share information about the gang's activities.
+
+    Failure: If Mario fails, the gang members may escape, and the situation could escalate, leading to potential consequences for Mario and Alex.
+
+=== Barbarian Half-Elf (Tyrion)
+
+*Bar Brawl Skill Challenge: The Whirlwind Clash* + 
+Tyrion finds himself embroiled in a chaotic bar brawl, facing off against multiple adversaries. The challenge is to navigate the brawl swiftly and emerge victorious, showcasing his combat prowess and quick thinking.
+
+Objective
+
+    Tyrion must successfully navigate the bar brawl, utilizing a combination of skills to handle multiple opponents and bring the conflict to a swift resolution.
+
+Skill Challenge:
+
+    Initiation (Dexterity/Acrobatics):
+    Tyrion dodges a thrown mug and swiftly maneuvers through the crowded tavern to position himself advantageously. A successful Dexterity or Acrobatics check allows him to avoid the initial chaos and set the stage for his counterattack.
+
+    Intimidating Presence (Charisma/Intimidation):
+    Tyrion lets out a mighty roar, attempting to intimidate his adversaries and create a momentary pause in the brawl. A successful Charisma or Intimidation check could scatter some less determined opponents, creating breathing space.
+
+    Swift Strikes (Strength/Athletics):
+    Engaging in hand-to-hand combat, Tyrion uses his strength to deliver swift and powerful strikes. A successful Strength or Athletics check allows him to overpower a direct adversary quickly.
+
+    Deft Maneuvers (Dexterity/Acrobatics):
+    Tyrion employs agile movements to avoid incoming attacks and slip through the chaos. A successful Dexterity or Acrobatics check enables him to evade opponents and maintain his momentum.
+
+    Improvised Weapon Mastery (Intelligence/Investigation):
+    Spotting a nearby table or chair, Tyrion quickly assesses the environment for improvised weapons. A successful Intelligence or Investigation check allows him to find a suitable object to use in the brawl.
+
+    Strategic Distraction (Wisdom/Perception):
+    Recognizing potential allies in the tavern, Tyrion assesses who might be willing to assist him or who could be convinced to cease hostilities. A successful Wisdom or Perception check enables him to identify opportunities for strategic alliances.
+
+Outcome:
+
+    Success:
+    Tyrion successfully navigates the bar brawl, subduing adversaries and bringing the conflict to a quick resolution. His display of combat prowess earns him respect, and the brawl dissipates, leaving him in control of the situation.
+
+    Partial Success:
+    While Tyrion manages to handle a significant portion of the adversaries, the brawl continues in a diminished form. However, he gains a degree of control, and the tavern atmosphere begins to calm.
+
+    Failure:
+    Tyrion faces difficulties in handling the chaos, perhaps taking a few hits. However, he manages to disengage, realizing that the situation could escalate further. The brawl continues, but Tyrion avoids significant harm and learns from the experience.
+
+
+== Wizards’ Tower Brewery
+The Wizard’s Tower Brewing Co. - a craft brewery known for its hoppy summer ales - is in dire need of help from a band of reliable, affordable adventurers. The owner has posted a job on the local notice boards and is calling in favors from friendly innkeepers all over town to spread the word. If the party is not in good standing with the local community. Glowkindle is desperate. Reason it is not solved, he is cheap and does not want to pay. He has this reputation, but if he says someone is good, people will listen and it could clear their reputation depending on how it is solved?
+
+> You follow the directions you’ve been given, trudging maybe a mile or two out of the city along a dirt road that winds its way up a low hill. As you near the top a large stone building comes into view, flanked by a couple of barns. By the door is a brightly painted sign that reads ‘The Wizard’s Tower Brewing Co. For the Freshest Pint in the Realm!’
+
+Glowkindle is a fairly young Gnome who nevertheless sports an impressive beard, as well as a white shirt and tight black trousers held up with green suspenders. This is Glowkindle, the owner of the brewery. He offers them a job: either for 25GP or to restore their reputation. Glowkindle explains:
+
+* The business has been doing well and was looking to expand its operations. In order to do this, they first needed to expand their beer cellar.
+* He had some workmen down there, digging out some extra room, when they uncovered an old wall - the remnant of some long-forgotten ruin, presumably. +
+  Curious, they knocked a hole in the wall, only to be attacked by “black rats the size of dogs! Big dogs too, not poodles, you know?” +
+  which emerged from the darkness on the other side.
+* They all managed to escape with nothing worse than a few cuts and bruises, but the cellars are completely unusable. If they want to get production starting again, he
+needs the adventurers to deal with the giant rat infestation.
+* He isn’t sure where the rat came from, but the brewery took its name from the old Wizard’s Tower that used to be on the site, so it may be something to do with that.
+
+> The terms of the job are that your dispose of the rats, finds out where they came from and make sure there are no more surprises in the future!
+
+=== Area 1 - Beer Cellar
+The cellar is completely dark, and much of floor is taken up by barrels and casks of beer that make it hard to see the entire room at once. The only relatively clear area is towards the far side of the cellar, which has a dirt floor littered with stones and workman’s tools.
+
+> The wooden stairs creak as you descend into the cool, dry air of the cellar, which is infused with the smell of beer and damp fur. Somewhere in the darkness you hear the scrabbling sound of claws on floorboards and a faint squeaking noise.
+
+[IMPORTANT]
+The room is dark; the heroes need a light source to see. +
+There are 8 giant rats who attack once half the party is in the cellar.
+
+*Once in the basement*
+> You make out the hole in the wall mentioned by Glowkindle. The hole is around 4 ft. high and 3 ft. wide.
+
+[NOTE]
+In combat, the Giant Rats will not attempt to use any tactics beyond swarming the adventurers. Once five Giant Rats have been killed the survivors will attempt to flee back through the hole in the wall. Any that successfully escape will be killed in the trap in the Mosaic Corridor.
+
+include::{rootdir}/statblocks/rat_giant.adoc[]
+
+=== Area 2 - Mosaic Corridor
+> Through the hole in the wall you can see a dusty stone corridor, its floor lying around a foot below that of the cellar where you stand. Over to the left you can see the start of a staircase buried in collapsed masonry, earth and rubble that block the way completely. To the right the passage heads around a corner, but on the wall you can just make out what appears to be writing in a clear gold script.
+
+It is written in common and reads:
+
+> Dawn breaks with stirring air, As sun shines down on new day fair +
+> Midday blaze bakes earth and grass, The farmer waits for heat to pass +
+> Evening cool brings water, wine, Drink and laughter passing time +
+> Night sees shining, roaring fire, as wood and coals burn on the pyre
+
+[NOTE]
+link:{homedir}/assets/handouts/a_most_potent_brew_mosaic.pdf[Mosaic Handout]
+
+> As you draw near you notice that two halves of a Giant Rat are seemingly cut and lie on the river section of the second and third panels.
+
+The mosaic is a trap, and standing on the wrong portions of the floor causes a large blade to slice at the trespasser. The safe areas relate to which of the four elements was mentioned in the appropriate verse. They are:
+
+* First panel - Air (Sky)
+* Second panel - Earth (Hill)
+* Third panel - Water (River)
+* Fourth panel - Fire (Fire)
+
+Any creature standing on any area other than these must make a DC 1 2 Dexterity saving throw, taking 5 (1 d10) damage on a failure or half as much on a success. This trap activates each time a creature steps on an unsafe panel.
+
+=== Area 3 - Well Room
+> In the center ofthe small room ahead ofyou is a large stone well, topped with a wooden handle and the rotten remnants of aheavily frayed rope that descends into the shaft. In the far right corner the ceiling has collapsed slightly, and a narrow shaft of weak sunlight shines through a narrow hole. To the far left is a plain wooden table, crusted with dirt and dust and laden with old plates, buckets and other strange pieces of silverware.
+
+[IMPORTANT]
+Not silent? Giant centipedes attack.
+
+*Wisdom Perception*
+DC12? You notice several old plates are made from tarnished silver. Worth 10 GP.
+
+*Giant Centipedes*
+Any adventurer who crosses the room without attempting to move quietly, however, will attract the attention ofthree Giant Centipedes (DM’s Basic Rules p23) that crawl up from within the well. The creatures will attempt to knock an adventurer unconscious and then drag them down the well so they can eat the unlucky victim at their leisure. The well shaft is 50 ft. deep and has around 10 ft. of standing water at the bottom that will break the fall of anyone who falls in.
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Giant Centipede*#
+| [small]#Small beast, unalligned (CR 1/4 for 50 XP)#
+
+| 
+
+|
+*Armor Class* 13 (natural) +
+*Hit Points* 4 (1d6+1) +
+*Speed* 30 ft., climb 30 ft. +
+*Proficiency* +0 +
+*Initiative* +0 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^!  5 (*-3*) ^! 14 (*+2*) ^! 12 (*+1*) ^!  1 (*-5*) ^!  7 (*-2*) ^!  3 (*-4*)
+!===
+
+Senses: blindsight 30 ft., passive Perception 8 
+Languages: none
+
+| *Actions* | 
+*Bite.* +
+Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. +
+Hit: 4 (1d4 + 2) piercing damage, +
+Target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way. 
+
+| *Abilities* | 
+
+| *Traits* |
+
+2+| 
+
+*Environment:* +
+*Tags:* Beast
+|===
+
+=== Area 4 - The Lab
+The door opens onto what might once have been a lab or workroom. To your left sits a mouldering desk and the shattered remnants of alchemical glassware, while the centre of the room is dominated by a set of tall bookcases arranged back-to-back. All around, however, are scorch marks and signs of countless small fires and the air is filled with the smellofsmoke and burned meat. The wooden furniture is blackened and burned in places, while what may once have been a pile of books has been been reduced to ash. Singed traces of whatmay be webbing hang fromthe ceiling. As you enter you feel something crunch beneath your feet - glancing down, you realise that it’s the charred hindquarters of a Giant Rat.
+
+A Giant Inferno Spider (see following page) - the product of a couple of spilled potions from the Storeroom - is lurking in the shadows at the southwest corner of the room. The beast is around eight feet across but is adept at hiding on the ceiling of its lair, giving it Advantage (Player’s Basic Rules p57) on Dexterity (Stealth) checks. The creature will scuttle along as stealthily as possible in the hope of ambushing an adventurer with its Burning Web ability, which it will use as often as possible.
+
+Years of waste and the flames spread by the Giant Inferno Spider have rendered most of the books and equipment completely unusable. However, a character that searches the room and is able to make a DC13 Wisdom (Perception) check will notice that one ofthe books seems strangely undamaged. The book is a Wizard’s Spellbook that contains the Detect Magic, Identify and Arcane Lock spells (see Your Spellbook on p31 of the Player’s Basic Rules for information on how
+Wizards can make use of this)
+
+=== Area 5 - The Store Room
+The rear wall of this small room is lined with sturdy-looking wooden shelves. Clearly these were once laden with bottles and glass vials, but over the years many ofthese have been reduced to glittering shards ofglass on the floor. There’s a flicker ofmovement among the wreckage and you see a small black rat lapping up the last remnants ofliquid left the shattered remains ofadark blue bottle.
+
+The broken bottle the rat is drinking from has the torn remains of a white label affixed to it. The writing on it reads ‘-tion of enlargement’. After roughly one minute the rat will transform into a Giant Rat unless disposed of. Another smashed and empty bottle on the floor is labelled ‘Essence ofFire Ele-’. There are a handful of bottles still left on the shelves, however. There are two Potions of Healing (Player’s BasicRules p50), a Potion of Invisibility and a Potion of Vitality (DM’s Basic Rules p59). 
+
+=== Returning to Glowkindle
+The bearded Gnome will be waiting anxiously by the trapdoor that leads to the cellar. Once the adventurers return he will quiz them on how their journey went, preferably over a pint or two! He will be very happy to pay the adventurers and is more than happy to let them keep any valuables they found in the old cellars. Characters that have helped to clear out the cellars of the Wizard's Tower Brewery each earn an extra 100xp or enough to allow them to reach second level, whichever is higher.
+
+== In the end?
+If the party remains on the dark course, the following lost mines campaign will be flipped, where a representative of Glasstaff will aks them for their help in getting rid of The Gatekeepers. Otherwise continue with the lost mines as written.

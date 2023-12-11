@@ -1,0 +1,93 @@
+{
+  "id": "atuaro-dnddave2023-level2",
+  "name": "atuaro-dnddave2023-level2",
+  "title": "Atuaro: DnDave 2023 To Level 2",
+  "description": "They cleared the Silverpine Watch and are going to Loukotokia",
+  "version": "1.0.2",
+  "authors": [
+    {
+      "name": "Vincent Huybrechts",
+      "discord": "FatherPrime",
+      "url": "https://github.com/huybrechtsxyz/"
+    }
+  ],
+  "url": "https://github.com/huybrechtsxyz/atuaro",
+  "bugs": "https://github.com/huybrechtsxyz/atuaro/issues",
+  "allowBugReporter": true,
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "name": "module-actors",
+      "label": "Level 2 Actors",
+      "path": "./packs/actors.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "module-creatures",
+      "label": "Level 2 Creatures",
+      "path": "./packs/creatures.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "module-items",
+      "label": "Level 2 Items",
+      "path": "./packs/items.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "module-scenes",
+      "label": "Level 2 Scenes",
+      "path": "./packs/scenes.db",
+      "entity": "Scene",
+      "type": "Scene"
+    },
+    {
+      "name": "module-journal-entries",
+      "label": "Level 2 Journal Entries",
+      "path": "./packs/journal-entries.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "module-macros",
+      "label": "Level 2 Macros",
+      "path": "./packs/macros.db",
+      "entity": "Macro",
+      "type": "Macro"
+    },
+    {
+      "name": "module-roll-tables",
+      "label": "Level 2 Roll Tables",
+      "path": "./packs/roll-tables.db",
+      "entity": "RollTable",
+      "type": "RollTable"
+    },
+    {
+      "name": "module-playlists",
+      "label": "Level 2 Playlists",
+      "path": "./packs/playlists.db",
+      "entity": "Playlist",
+      "type": "Playlist"
+    },
+    {
+      "name": "module-adventures",
+      "label": "Level 2 Adventures",
+      "path": "./packs/adventures.db",
+      "entity": "Adventure",
+      "type": "Adventure"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/huybrechtsxyz/atuaro/main/sources/atuaro-dnddave2023-level2/module.json",
+  "download": "https://raw.githubusercontent.com/huybrechtsxyz/atuaro/main/sources/atuaro-dnddave2023-level2/atuaro-dnddave2023-level2.zip"
+}
