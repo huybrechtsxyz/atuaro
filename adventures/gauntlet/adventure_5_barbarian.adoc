@@ -1,0 +1,53 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= Picking up the Gauntlet (Part 5)
+:toc:
+
+*Tags:* #gauntlet
+
+image::{homedir}/assets/images/cover.jpg[]
+
+== Barbarian Half-Elf (Tyrion)
+
+*Bar Brawl Skill Challenge: The Whirlwind Clash* + 
+Tyrion finds himself embroiled in a chaotic bar brawl, facing off against multiple adversaries. The challenge is to navigate the brawl swiftly and emerge victorious, showcasing his combat prowess and quick thinking.
+
+=== Objective
+
+    Tyrion must successfully navigate the bar brawl, utilizing a combination of skills to handle multiple opponents and bring the conflict to a swift resolution.
+
+=== Skill Challenge:
+
+    Initiation (Dexterity/Acrobatics):
+    Tyrion dodges a thrown mug and swiftly maneuvers through the crowded tavern to position himself advantageously. A successful Dexterity or Acrobatics check allows him to avoid the initial chaos and set the stage for his counterattack.
+
+    Intimidating Presence (Charisma/Intimidation):
+    Tyrion lets out a mighty roar, attempting to intimidate his adversaries and create a momentary pause in the brawl. A successful Charisma or Intimidation check could scatter some less determined opponents, creating breathing space.
+
+    Swift Strikes (Strength/Athletics):
+    Engaging in hand-to-hand combat, Tyrion uses his strength to deliver swift and powerful strikes. A successful Strength or Athletics check allows him to overpower a direct adversary quickly.
+
+    Deft Maneuvers (Dexterity/Acrobatics):
+    Tyrion employs agile movements to avoid incoming attacks and slip through the chaos. A successful Dexterity or Acrobatics check enables him to evade opponents and maintain his momentum.
+
+    Improvised Weapon Mastery (Intelligence/Investigation):
+    Spotting a nearby table or chair, Tyrion quickly assesses the environment for improvised weapons. A successful Intelligence or Investigation check allows him to find a suitable object to use in the brawl.
+
+    Strategic Distraction (Wisdom/Perception):
+    Recognizing potential allies in the tavern, Tyrion assesses who might be willing to assist him or who could be convinced to cease hostilities. A successful Wisdom or Perception check enables him to identify opportunities for strategic alliances.
+
+=== Outcome:
+
+*Success:* +
+Tyrion successfully navigates the bar brawl, subduing adversaries and bringing the conflict to a quick resolution. His display of combat prowess earns him respect, and the brawl dissipates, leaving him in control of the situation.
+
+*Partial Success:* +
+While Tyrion manages to handle a significant portion of the adversaries, the brawl continues in a diminished form. However, he gains a degree of control, and the tavern atmosphere begins to calm.
+
+*Failure:* +
+Tyrion faces difficulties in handling the chaos, perhaps taking a few hits. However, he manages to disengage, realizing that the situation could escalate further. The brawl continues, but Tyrion avoids significant harm and learns from the experience.

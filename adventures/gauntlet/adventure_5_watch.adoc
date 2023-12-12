@@ -1,0 +1,58 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= Picking up the Gauntlet (Part 5)
+:toc:
+
+*Tags:* #gauntlet
+
+image::{homedir}/assets/images/cover.jpg[]
+
+== The City Watch
+*Group Interrogation Challenge: Shadows of Suspicion*
+
+=== Background:
+All members of the party are accused in the aftermath of the merchant's demise. The city watch detains them collectively for questioning, aiming to unravel the mystery surrounding the ambush. The party must navigate the group interrogation, providing information judiciously while maintaining solidarity and protecting each other's interests.
+
+=== Objective:
+The party needs to collectively navigate the city watch's interrogation, balancing the need for transparency with the necessity of preserving sensitive information. The goal is to clear their names while maintaining cohesion and avoiding unnecessary complications.
+
+=== Interrogation Challenge:
+
+*Unified Front (Charisma/Group Persuasion):* +
+The party needs to present a unified front to establish credibility. A successful Charisma or Group Persuasion check allows them to convey a cooperative and unified demeanor, emphasizing their collective innocence.
+
+*Coordinated Responses (Intelligence/Group Deception):* +
+As the city watch delves into the details of the ambush, the party must coordinate their responses to provide accurate information without revealing sensitive details. A successful Intelligence or Group Deception check helps them navigate this delicate balance.
+
+*Collective Insight (Wisdom/Group Insight):* +
+The party observes the investigator's interactions and adapts their responses based on collective insights. A successful Wisdom or Group Insight check allows them to anticipate the investigator's concerns and respond as a cohesive unit.
+
+*Mutual Alibis (Dexterity/Group Sleight of Hand):* +
+If the investigation veers toward suspicions, the party may need to subtly shift the focus without incriminating any member. A successful Dexterity or Group Sleight of Hand check enables them to guide the conversation skillfully.
+
+*Shared Sympathy (Charisma/Group Intimidation):* +
+Depending on the investigator's demeanor, the party may need to appeal to sympathy or, if necessary, use intimidation to ensure they are treated fairly. A successful Charisma or Group Intimidation check helps them strike the right emotional chord.
+
+=== Challenges within the Group Interrogation:
+
+*Differing Perspectives:* +
+Each party member may have unique perspectives or experiences related to the incident. They must ensure their responses align without contradicting each other, requiring quick thinking and effective communication.
+
+*Diverting Suspicion:* +
+The city watch investigator may have preconceived notions or biases. The party must collectively navigate these challenges and deflect suspicion without incriminating themselves further.
+
+=== Outcome:
+
+*Success:* +
+The party successfully navigates the group interrogation, presenting a cohesive narrative that convinces the city watch of their innocence. The investigator is satisfied, and they are released with minimal complications.
+
+*Partial Success:* +
+While the party manages to avoid direct suspicion, the city watch retains a level of skepticism. They are allowed to leave, but the investigation continues. The party must remain vigilant and may face additional inquiries in the future.
+
+*Failure:* +
+The party's responses arouse suspicion, leading the city watch to intensify their scrutiny. They may face more invasive investigations, and the city watch becomes a looming threat. The party must now strategize to navigate the aftermath of the failed group interrogation.
