@@ -20,11 +20,11 @@ A dimly lit alley in the local district. Mario encounters one of his classmates,
 
 *Gang Members:*
 
-    Ringleader (Human): Wields a crude club and has an air of false bravado.
-    Bully (Half-Orc): Physically imposing and aggressive.
-    Schemer (Halfling): Nimble and quick-witted, armed with a small blade.
-    Bravado (Half-Elf): Overconfident and flashy, dual-wielding makeshift weapons.
-    Bully's Friend (Dwarf): Gruff and intimidating, but slightly hesitant.
+    Ringleader Charles (Human): Wields a crude club and has an air of false bravado.
+    Bully 'Herman' (Half-Orc): Physically imposing and aggressive.
+    Schemer 'Andre' (Halfling): Nimble and quick-witted, armed with a small blade.
+    Bravado 'Brave' (Half-Elf): Overconfident and flashy, dual-wielding makeshift weapons.
+    Bully's Friend 'Steve' (Dwarf): Gruff and intimidating, but slightly hesitant.
 
 === Encounter Scenario:
 

@@ -15,19 +15,19 @@ image::{homedir}/assets/images/cover.jpg[]
 == Arriving at Loukotokia
 
 === Loot from the Silverpine Watch
-» Brass candlestick (B7 The Tinker’s Body) ........ 5 gp
-» Engraved tankard (C2 Mess Hall) ................. 2 gp
-» Engraved drinking horn (C3 Kitchen) ............. 5 gp
-» Dice cup and dice (C7 Barracks).................. 2 gp
-» Exotic waterskin (C7 Barracks) .................. 2 gp
-» Assorted ancient coins (C7 Barracks) ........... 10 gp
-» Moonstone (C8 Marshall Brask’s Room) ........... 50 gp
-» Brass statuette (C12 Brother Wulfram’s Study) .. 25 gp
-» Jade beetle (C16 Armory) ....................... 50 gp
-» Amethyst (C17 Workshop)......................... 75 gp
-» Silver cup (C23 Sir Arpaad’s Study) ........... 150 gp
-» Falcon broach (C23 Sir Arpaad’s Study).......... 25 gp
-» Silver ring (C23 Sir Arpaad’s Study) ........... 50 gp
+» Brass candlestick (B7 The Tinker’s Body) ........ 5 gp +
+» Engraved tankard (C2 Mess Hall) ................. 2 gp +
+» Engraved drinking horn (C3 Kitchen) ............. 5 gp +
+» Dice cup and dice (C7 Barracks).................. 2 gp +
+» Exotic waterskin (C7 Barracks) .................. 2 gp +
+» Assorted ancient coins (C7 Barracks) ........... 10 gp +
+» Moonstone (C8 Marshall Brask’s Room) ........... 50 gp +
+» Brass statuette (C12 Brother Wulfram’s Study) .. 25 gp +
+» Jade beetle (C16 Armory) ....................... 50 gp + 
+» Amethyst (C17 Workshop)......................... 75 gp +
+» Silver cup (C23 Sir Arpaad’s Study) ........... 150 gp +
+» Falcon broach (C23 Sir Arpaad’s Study).......... 25 gp +
+» Silver ring (C23 Sir Arpaad’s Study) ........... 50 gp +
 
 === What about Gundren Rockseeker?
 Once they open the gates, the party can continue the way uneventfully to Loukotokia.

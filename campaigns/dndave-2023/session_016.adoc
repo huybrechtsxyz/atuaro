@@ -89,10 +89,36 @@ Options:
     Okay. (Behaviour of Antonio) +
     *Bad.*  (Behaviour of Antonio) +
 
-Previously on.
+=== Previously on.
 
+*By Cornus* +
+We rest in the Silverpine Watch. In the morning we find a weapon storage room where I find a coat with special properties. Tyrion shows us the smithy and how to use everything. He is interupted by the Blacksmith Revenant. But before anything really happens Tyrion becomes angry about the interuption, takes the blacksmiths hammer and kills him. We clear the Watch and continue on our way to Loukotokia. I deviate from the main road to follow the forest roads and enjoy nature. I learn how to change in an animal.
 
+*By Angela* +
+We follow the road after clearing out the Silverpine Watch to Loukotokia. I went back to the church, my father, to confess my sins (the attack of Sir Arpaad and the anger I felt). I rekindled with my mentor to prepare my next step to enlightenment.
 
+*By mario* +
+I enjoy the life of Loukotokia and help the city watch in the Shades. Due to the difficult working environment I learn to exert myself during combat. 
+
+*By Antonio* +
+Living back on the street by swindling and killing rich people. I refine my craft and improve my speciality.
+
+*By Tyrion* +
+I got caught in the wrong tavern. A dark and smokey pub. At night I got caught in the basement where you can earn a little extra by fighting in an illegal fight ring. I learn to be more alert for my environment (and the city watch).
+
+=== Next on
+
+*Flashback off the Cleric Angela: success*
+
+She learns about the plot of an priest, an imposter, who wants to desacreate a holy relic. During the investigation the other party members helped. But Tyrion killed someone during an illegally organized fight. (That is not going to have consequences later.) They setup a trap for the cult to heist while setting up countermeasures.
+
+* Mario heared about the killed during some work with the city watch.
+* Antonio learned about a quest to switch the artifact in the underground part of the city.
+* Artifact was the Messiahs boot. An prophet of Ohm's shoe / sandal.
+
+*Flashback of the Fighter Mario: success*
+
+Mario is teaching some self-defense lessons in the shades, when he learns about Alex. Alex is being bullied by a local gang. Antonio helps to track them down and threatens them. Then brings the boy back to Mario. He feels that the warning from Antonio did not have much effect and drags (with the help of Cornus as dog) them back to Angela where they learn the value of hard work and a learn a trade.
 
 == Post Session
 
@@ -105,6 +131,7 @@ Previously on.
 
 * Red Skull Goblins (see Delian tomb).
 * Barbarians Sunderlanders (see Silverpine Watch, Letter of Bartoz).
+* Tyrion killed someone during a fight - when he did not have to. This was not appreciated (session 16 - Cleric)
 
 === Future Plot Points
 
