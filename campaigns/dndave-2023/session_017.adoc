@@ -5,7 +5,7 @@ ifndef::homedir[]
 :homedir: .
 endif::[]
 
-= D&Dave 2023 Session 14
+= D&Dave 2023 Session 17 [09-01-2024]
 
 image::{homedir}/assets/images/heading.jpg[]
 
@@ -23,7 +23,7 @@ image::{homedir}/assets/images/heading.jpg[]
 * *Anotonio will steal anything that is not fixed to a wall.*
 
 == Plot Evolution
-Antonio has the golden ring of Cracus with the symbol of Whirotepua (disturbs long rest on failure of WIS DC10, valued at 20GP).
+Antonio has the golden ring of Cracus with the symbol of Whirotepua (disturbs long rest on failure of WIS DC10, valued at 20GP). They destroyed their reputation as solid adventurers by letting Antonio threathen Gundren Rockseeker. The party did destroy the cursed golden dagger of the Silverpine Watch.
 
 == Plot Summary
 After lunch the kids take a short nap in their room. Waking up each player gets a boon depending on how they played. Antonio checked the well: no treasure there. The deal with the pixies and go to the carnival. Then try to get to the treasure map at location 7.  At the moment they only saw the animals, the guards tent, and the entrance. Tyrion (Dave) failed to distract the guard for others to go inside of the tent. Tyrion tries to distract the guard while Antonio tries to look in. Both failed at their attempt. They continue their visit to the carnival. Owlbears and displacer beats. They are put in cages. They found a treasure map and met with a magician with quick hands. Mario was eating a lot of cake and told silly jokes on stage with Antonio. What is the difference between a snowman and snowwoman? Snowballs. 
@@ -49,6 +49,13 @@ They make short work of the dogs. At the nights rest Antonio threathens Gundren 
 The team of 'heroes' reach the Silverpine Watch. They try to get on top of the castle. Only Cornus did not fail to scale the lower tower - according to them the best and only way to get into the east tower and thus the entire Silverpine Watch. After failing, the team, with the help of Gundren, they figure out there is a door. They enter the door, try to parley with the ghost of Sir Arpaad, only scaring Tyrion. They go through the door to the gathering hall, selecting to take the coats and boots, but missing the fact that there was one set missing. Descending the stairs to meet and defeat the zombies.
 
 After killing the zombies, they search all the trunks and find what is within, looting the Marshal Brask’s room in the process. Almost finding their better in the stirges, but finding the necklace in their nest. Antonio likes the amulet and wears it. The continue searching the rooms (7, 8, 9, 7, 20, 23, 24). When they find the ghost of sir Arpaad they try avoid fighting it. Although Antonio was able to resist the golden weapon next to sir Arpaad's body, Angela has problems resisting her will to cast down the foul aparition. As Ohm clearly not approves.
+
+They fight sir Ipaad and manage to go through the towers and zombies. After they manage to open the portcullis, Gundren drives of leaven them the money. They sleep and start roaming what is left of the watch. Antonio is still hanging in there but is starting to feel its effects. (See below: Antonio and the cursed ring). They kill the revenant blacksmith and destroy the dagger.
+
+They do kind of piece together what happened and go on to Loukotokia.
+
+* Flashback of Angela; finding an imposter and saving the Messia's Foot. Success.
+* Flashback of Mario; saving a youngling from a bullying gang. Success.
 
 == Start of session
 * Cornus his water magic requires a DC before succeeding:
@@ -76,36 +83,35 @@ After killing the zombies, they search all the trunks and find what is within, l
 
 == Session Notes
 
-Gundren's Disposition towards the party (Excellent, Good, Okay, Dislike, Bad)? +
+*Gundren's Disposition* towards the party (Excellent, Good, Okay, Dislike, Bad)? +
     Excellent. (Start of the trip) +
     Good. (They haggle about the price with bess in mind) +
     Okay. (Behaviour of Antonio) +
-    Bad.  (Behaviour of Antonio) +
+    *Bad.*  (Behaviour of Antonio) +
 
-Previously on.
-Het bestaan van de geest is een heiligschennis.
-Ze valt aan, strart combat.
-they kill arpaad
-room 22
+*Previously on.*
 
-
-
-
-
-
+*On to main story*
 
 == Post Session
 
 
+=== Active Plot Points
+
+* Flashbacks in progress
+* Either 
+  * Gundren Rockseeker and the lost mines if they make up by appologizing
+  * Glowkindle backstabbing Gundren by asking to liberate the lost mines
+  * If their reputation is tanked, the Redbrands will ask their help
 
 === Pending Plot Points
 
-* Red Skull Goblins.
+* Red Skull Goblins (see Delian tomb).
+* Barbarians Sunderlanders (see Silverpine Watch, Letter of Bartoz).
+* Tyrion killed someone during a fight - when he did not have to. This was not appreciated (session 16 - Cleric)
 
 === Future Plot Points
 
-
-=== Plot Ideas
 * Fathers of Angela and Cornus do not like each other? Or hibisucs sucks up to pakal.
 * Glasstaff is the sad boy
 * Nezrra is the bully
@@ -118,6 +124,34 @@ room 22
   - Cornus (Koen)      : Druid     > Restore nature in some way
   - Mario (Michael)    : Fighter   > Stop some advanced bullying
   - Tyrion (Dave)      : Barbarian > His father is super arogant / or stop an arogant person / half-elf not being an elf his mother as trigger
+
+=== Antonio and the cursed ring
+The cursed ring disrupts the player's ability to rest peacefully. Each night, when the character attempts a long rest, they are plagued by vivid and unsettling dreams. These dreams are not mere illusions but seem to tap into the darker recesses of the character's mind. They may encounter haunting visions, relive traumatic memories, or face distorted and nightmarish versions of their fears.
+
+*Greed-Induced Decision Making:*
+The character becomes more susceptible to the allure of wealth and treasures. When presented with the opportunity to acquire valuable items or currency, the player must make a Wisdom saving throw (DC determined by the DM). On a failure, the character is compelled to prioritize their own interests, potentially making choices that are detrimental to the party's overall goals or causing conflict within the group.
+
+*Unsettled Vigilance*
+The character's heightened sense of paranoia and distrust translates into a hyper-vigilant state during moments of rest and interaction. As a result, the character gains advantage on Wisdom (Perception) checks to detect hidden or stealthy 'treasures' and advantage on Dexterity (Sleight of Hand). However, you have disadvantage on all other skill checks.
+
+*Compromised Morality*
+The character becomes more susceptible to morally compromising decisions for the promise of greater wealth. When presented with a situation where sacrificing or betraying an ally could result in personal gain, the player must make a Wisdom saving throw (DC determined by the DM). On a failure, the character is swayed by greed and may act in a way that endangers or betrays their allies.
+
+*Disturbed Rest*
+The character struggles to fully relax during long rests due to their perpetual vigilance. As a result, the character only gains half the normal number of hit points from Hit Dice spent during a long rest (rounded down). This reflects the character's inability to fully let their guard down and benefit from the restorative power of a peaceful night's sleep. +
+=> Do not gain benefits of long rest and add exhaustion level.
+
+*Whispers of the Dread Realm*
+The character becomes attuned to the ethereal whispers of the dread realm, making it challenging to focus on the waking world. Every combat | exploration turn, the player must make a Wisdom saving throw (DC determined by the DM). On a failure, the character becomes momentarily entranced by the distant murmurs, gaining disadvantage on initiative rolls and Dexterity saving throws for the next 1d4 turns | hours. During this time, their attention is divided between the waking world and the echoes of the dread plane.
+
+*Sinister Bargain* 
+As the character's greed reaches its zenith, the cursed ring exacts a final toll, sealing a sinister bargain with dark forces. When the character falls below half of their maximum hit points, the curse intensifies:
+
+    *Dreadful Pact:*
+    The character is overtaken by an overwhelming desire for power and wealth. At the start of each of their turns while below half of their maximum hit points, the player must make a Wisdom saving throw (DC determined by the DM). On a failure, the character is compelled to strike a dark bargain.
+
+    *Life-for-Gain Sacrifice:*
+    In their desperate pursuit of power, the character willingly sacrifices a portion of their life force. They suffer a permanent reduction in their maximum hit points equal to 10% of their current maximum hit points (rounded down). This reduction reflects the toll taken on the character's essence as they exchange a part of themselves for perceived power and wealth.
 
 == Rules Discussions
 
