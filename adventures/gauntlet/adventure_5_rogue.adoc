@@ -14,34 +14,84 @@ image::{homedir}/assets/images/cover.jpg[]
 
 == Rogue/Thief (Antonio)
 
-=== Downtime Activity:
-Antonio is caught attempting to steal from a renowned, benevolent figure in the town. Instead of punishing him, the figure offers Antonio a chance at redemption. The figure introduces him to a skilled mentor who teaches him the value of using his stealth for good – perhaps training him as a spy or investigator. +
-=> mentor is magnifico the magnificent
+=== Downtime Activity: Magnifico's betrayal
+Antonio is framed for attempting to steal the McGuffin from a renowned, benevolent figure in the town. Antonio got away, but not without a rival gang stealing the McGuffin. These actions have reached Magnifico's ears, and his once-proud mentor is deeply disappointed. Magnifico contacts the party, expressing his concern and disappointment in Antonio's recent behavior.
 
-=== Challenge
-*The Illusionary Heist with a Moral Twist* +
-Magnifico creates an illusionary scenario in which Antonio must navigate through a simulated high-security environment to "steal" a valuable artifact. However, this time, the challenge has a moral twist.
+Magnifico, real name is Magnus, still caring for Antonio, the orphans in general, despite his (their) flaws, requests that the party help redeem his former apprentice. He can provides information about the rival thieves and the importance of the stolen artifact, emphasizing that returning it could be Antonio's chance for redemption.
 
-=== Objective:
-        
-Antonio's task is not only to successfully navigate through the illusionary heist but to discern between innocent targets and corrupt individuals, focusing his "theft" on the corrupt and avoiding harm to the innocent. +
-Lessons:
+#### The Apology Heist:
 
-*Discerning Morality:* +
-Antonio learns to discern between innocent bystanders and corrupt individuals within the illusionary scenario. Magnifico emphasizes the importance of choosing targets wisely.
+    Seeking redemption, Antonio proposes a plan to retrieve the stolen artifact for the party and earn back their patron's trust.
+    Magnifico, despite his disappointment, provides guidance to the party, setting the stage for a covert mission.
 
-*Non-lethal Approaches:* +
-Antonio is encouraged to utilize non-lethal means and creative tactics to neutralize threats and complete the heist without causing harm to innocent NPCs.
+    Gathering Intel:
 
-*Redistributing Wealth:* +
-After the heist, Magnifico discusses the moral implications of the targets Antonio chose. The challenge reinforces the concept of stealing from the corrupt to benefit the greater good, aligning with the Robin Hood ethos.
+        Antonio, being a rogue, takes charge of gathering crucial information about the rival thieves' hideout, their leader, and the location of the stolen McGuffin.
+        Utilizing his rogue skills, Antonio infiltrates the criminal underworld, talks to informants, and discreetly observes the rival group's activities.
 
-=== Outcome:
+    Infiltration Planning:
 
-*Success:* +
-If Antonio successfully completes the illusionary heist without harming innocent bystanders and targets the corrupt, Magnifico commends his moral choices, imparting the lesson that thieving can be a force for justice.
+        Antonio, with the acquired information, works with the party to plan the heist. His knowledge of lock-picking, trap-disabling, and stealth becomes invaluable.
+        The party strategizes on the best point of entry, potential obstacles within the hideout, and escape routes.
 
-*Failure:* +
-If Antonio inadvertently harms innocent NPCs or targets the wrong individuals, Magnifico uses the experience to emphasize the importance of discernment and the potential harm caused by recklessness in the pursuit of justice.
+    Stealthy Infiltration:
 
-This modified challenge not only tests Antonio's thieving skills but also guides him toward a more morally conscious approach, aligning with the ideals of Robin Hood by encouraging him to use his skills to address injustice without causing harm to the innocent.
+        Antonio leads the party in a stealthy infiltration, utilizing his expertise in sneaking past guards, avoiding traps, and moving silently.
+        His proficiency with Thieves' Tools proves essential in bypassing locked doors and disabling security measures.
+
+    Deception and Diversion:
+
+        Antonio, being a charismatic rogue, employs his skills in persuasion and deception to create diversions within the hideout.
+        He might disguise himself as a member of the rival group, distracting guards and redirecting their attention away from the main objective.
+
+    Object Retrieval:
+
+        Once inside, Antonio uses his sleight of hand and keen perception to locate the McGuffin's hiding place within the hideout.
+        Depending on the situation, he may need to navigate through secret passages, solve puzzles, or overcome magical barriers to reach the McGuffin.
+
+    Quick Thinking and Adaptation:
+
+        Antonio's ability to think on his feet becomes crucial during unexpected situations. Whether it's avoiding patrols, improvising cover stories, or reacting to unforeseen challenges, his adaptability is put to the test.
+
+    Evasion and Escape:
+
+        As Antonio retrieves the McGuffin, he leads the party in a swift and strategic retreat. His expertise in evasion helps them avoid detection as they make their way out of the rival thieves' hideout.
+
+    Final Stealth:
+
+        In the final stretch, Antonio utilizes his rogue abilities to ensure the party leaves the hideout without leaving a trace. This includes covering their tracks, misdirecting pursuit, and blending into the shadows
+
+#### Magnifico's Betrayal:
+
+    The party successfully infiltrates the rival thieves' hideout and recovers the artifact, only to discover evidence pointing to Magnifico's orchestration of the entire scenario for his personal gain. Magnifico, with ulterior motives, attempts to escape, leading the party into a high-stakes chase through the city.
+
+    Accomplices:
+
+    Magnifico has enlisted three formidable accomplices:
+        Thorne Ironfist (Fighter):
+            Stats: STR 18, DEX 12, CON 16, INT 10, WIS 10, CHA 10.
+            Abilities: Multiattack, Greatsword (2d6 + 4 slashing damage).
+        Seraphina Swiftblade (Fighter):
+            Stats: STR 12, DEX 16, CON 14, INT 10, WIS 12, CHA 10.
+            Abilities: Multiattack, Longsword (1d8 + 3 slashing) or Longbow (1d8 + 3 piercing).
+        Rook Shadowstep (Rogue):
+            Stats: STR 10, DEX 18, CON 12, INT 14, WIS 10, CHA 10.
+            Abilities: Sneak Attack (2d6 extra damage), Dagger (1d4 + 4 piercing).
+
+    Chase Scene:
+
+        The party engages in a city-wide chase, pursuing Magnifico and his skilled accomplices through streets, rooftops, and obstacles.
+        Along the way, they face challenges from Thorne's strength, Seraphina's versatility, and Rook's cunning rogue abilities.
+
+    Resolution:
+
+        The chase leads to a dramatic confrontation where Antonio and the party must confront Magnifico about his betrayal.
+        The fate of the stolen artifact is decided, and the party faces the consequences of their actions and choices.
+
+    Outcome:
+
+        Depending on the party's decisions, the story may lead to redemption, forgiveness, or a fracture within the group.
+        Relationships with the patron and Antonio's mentor reshape based on the events of the encounter.
+
+#### Chance for redemption
+If Antonio gives back the item freely, he can restore his honour.

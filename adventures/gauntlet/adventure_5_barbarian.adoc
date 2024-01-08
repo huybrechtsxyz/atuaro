@@ -15,31 +15,97 @@ image::{homedir}/assets/images/cover.jpg[]
 == Barbarian Half-Elf (Tyrion)
 
 *Bar Brawl Skill Challenge: The Whirlwind Clash* + 
-Tyrion finds himself embroiled in a chaotic bar brawl, facing off against multiple adversaries. The challenge is to navigate the brawl swiftly and emerge victorious, showcasing his combat prowess and quick thinking.
 
-=== Objective
+image::{homedir}/assets/maps/it_is_under_the_windmill.jpg[]
 
-    Tyrion must successfully navigate the bar brawl, utilizing a combination of skills to handle multiple opponents and bring the conflict to a swift resolution.
+In an ill-fated moment, Tyrion committed a grave mistake, taking the life of another in the heat of battle. Condemned by his actions, now forced to fight in the lowest ranks of the club, earning almost nothing to get his reputation back. He finds out he is fighting against kidnapped city guards,  reluctant combatants in a deadly game. It was during one of these matches that he stumbled upon a sinister organization operating in the shadows.
 
-=== Skill Challenge:
+    Revelations about the Organization
+    
+        As the barbarian investigates the organization, he uncovers secrets about their motives, goals, and members. Perhaps they are manipulating events in the city for their own gain, or they have a broader plan that could threaten the entire region.
 
-    Initiation (Dexterity/Acrobatics):
-    Tyrion dodges a thrown mug and swiftly maneuvers through the crowded tavern to position himself advantageously. A successful Dexterity or Acrobatics check allows him to avoid the initial chaos and set the stage for his counterattack.
+    Rescue Mission:
+    
+        The barbarian, driven by the need to redeem himself and save the city guards, leads the party on a daring rescue mission. This could involve infiltrating the organization's hideout, gathering intelligence, and planning the rescue operation. Along the way, the party might encounter other challenges, such as traps, guards, or even rival factions.
 
-    Intimidating Presence (Charisma/Intimidation):
-    Tyrion lets out a mighty roar, attempting to intimidate his adversaries and create a momentary pause in the brawl. A successful Charisma or Intimidation check could scatter some less determined opponents, creating breathing space.
+    Unexpected Allies:
+    
+        During the rescue mission, the party could find unexpected allies within the organization who are disillusioned with its leadership. These allies may provide valuable information, assistance, or even join the party in their quest to stop the organization's operations.
 
-    Swift Strikes (Strength/Athletics):
-    Engaging in hand-to-hand combat, Tyrion uses his strength to deliver swift and powerful strikes. A successful Strength or Athletics check allows him to overpower a direct adversary quickly.
+    Confrontation with the luitenant:
+    
+        As the party delves deeper into the organization's activities, they eventually confront the mastermind behind the kidnapping. This could lead to a climactic showdown where the barbarian has a chance to not only save the city guards but also confront his own past actions and seek redemption.
+    
+    Morally Ambiguous Choices:
+    
+        Throughout the storyline, present the party with morally ambiguous choices. The barbarian may need to make decisions that challenge his own values and force him to consider the greater good versus personal redemption.
 
-    Deft Maneuvers (Dexterity/Acrobatics):
-    Tyrion employs agile movements to avoid incoming attacks and slip through the chaos. A successful Dexterity or Acrobatics check enables him to evade opponents and maintain his momentum.
+    Symbol for the Organization:
 
-    Improvised Weapon Mastery (Intelligence/Investigation):
-    Spotting a nearby table or chair, Tyrion quickly assesses the environment for improvised weapons. A successful Intelligence or Investigation check allows him to find a suitable object to use in the brawl.
+        A serpent coiled around a dagger could represent the organization, symbolizing secrecy, danger, and a hidden threat.
 
-    Strategic Distraction (Wisdom/Perception):
-    Recognizing potential allies in the tavern, Tyrion assesses who might be willing to assist him or who could be convinced to cease hostilities. A successful Wisdom or Perception check enables him to identify opportunities for strategic alliances.
+    Lowly Lieutenant: Voren
+
+        Alias and Disguise: The lieutenant could operate under a false identity or alias, making it challenging for the party to initially connect them to the organization.
+        Motive and Backstory: Give the lieutenant a personal motive or backstory that ties into the organization's goals. This could provide an emotional element to their character and potentially create a moral dilemma for the party when confronting them.
+        Clues and Intel: As the party interacts with the lieutenant or investigates their activities, they could find documents, symbols, or other clues that hint at the larger organization and its true leader.
+
+        Captain Voren Ironhart is a grizzled and disciplined veteran with a no-nonsense attitude. Clad in dark, well-maintained armor, he carries himself with an air of authority. His eyes gleam with a shrewd intelligence, and a subtle air of cruelty lingers beneath his composed exterior. Captain Voren is fiercely loyal to the organization's cause and is willing to do whatever it takes to ensure its success, even if it means resorting to ruthless tactics.
+
+        Race: Human
+        Class: Soldier
+        Background: Mercenary
+        Alignment: Lawful Evil
+
+        Stats:
+
+        Strength (STR): 16 (+3)
+        Dexterity (DEX): 14 (+2)
+        Constitution (CON): 14 (+2)
+        Intelligence (INT): 12 (+1)
+        Wisdom (WIS): 10 (+0)
+        Charisma (CHA): 8 (-1)
+
+        Skills:
+
+            Athletics (+5)
+            Intimidation (+1)
+            Perception (+2)
+
+        Equipment:
+
+            Longsword
+            Chain Mail
+            Shield
+            Dagger
+            Crossbow with 20 bolts
+
+        Special Abilities:
+
+            Leadership Tactics: Captain Voren can use a bonus action on his turn to choose one friendly creature within 30 feet. That creature gains advantage on the next attack roll it makes before the start of Captain Voren's next turn.
+
+            Tactical Retreat: Once per short rest, when Captain Voren takes the Disengage action, his movement speed increases by 10 feet until the end of his turn.
+
+        Actions:
+
+            Multiattack: Captain Voren makes two melee attacks with his longsword.
+            Longsword: Melee Weapon Attack, +5 to hit, reach 5 ft., one target. Hit: 1d8+3 slashing damage.
+            Crossbow Shot: Ranged Weapon Attack, +4 to hit, range 80/320 ft., one target. Hit: 1d8+2 piercing damage.
+
+        Role in the Organization:
+        Captain Voren Ironhart serves as a formidable lieutenant in the shadowy organization. With a background as a skilled mercenary, he rose through the ranks due to his tactical acumen and ruthlessness. Ironhart is responsible for overseeing key operations within the city, including the kidnapping of city guards for the organization's mysterious agenda.
+
+        His loyalty is unwavering, and he is known for executing the organization's plans with precision. Ironhart's presence is both feared and respected among the lower ranks, making him a dangerous adversary for anyone who dares to oppose the organization's interests.
+
+        Feel free to further customize Captain Voren Ironhart to suit the narrative and atmosphere of your campaign.
+    
+    Father as the BBEG:
+    
+        Reveal and Motivation: When the party finally confronts the lieutenant or uncovers the greater organization, they should discover that the father is the ultimate mastermind. The father's motivations could be complex, involving personal vendettas, a desire for power, or a twisted sense of justice.
+        Emotional Confrontation: The final showdown with the father should be emotional and challenging for the barbarian character. It's an opportunity for character development and resolution, as the barbarian faces the person responsible for the city guards' plight and his own troubled past.
+        Consequences of Defeating Father: Consider the consequences of defeating the father. It could lead to redemption, closure, or even new challenges as the party deals with the aftermath of their actions.
+
+    By weaving these elements together, you can create a compelling and interconnected narrative that keeps players engaged and invested in the campaign's unfolding story.
 
 === Outcome:
 

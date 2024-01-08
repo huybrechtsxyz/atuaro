@@ -91,7 +91,14 @@ They do kind of piece together what happened and go on to Loukotokia.
 
 *Previously on.*
 
+* Angela, Cleric, saving the religious festival
+* Michael, Fighter, saving a youngster from a bully
+
 *On to main story*
+
+* Antonio, rogue, can retrieve a McGuffin
+* Cornus, druid, has a dog fighting ring to clear up.
+* Tyrion, barbarian, finds out about a fight ring where he needs to save city guards
 
 == Post Session
 
@@ -124,6 +131,9 @@ They do kind of piece together what happened and go on to Loukotokia.
   - Cornus (Koen)      : Druid     > Restore nature in some way
   - Mario (Michael)    : Fighter   > Stop some advanced bullying
   - Tyrion (Dave)      : Barbarian > His father is super arogant / or stop an arogant person / half-elf not being an elf his mother as trigger
+
+* Tyrion's father will be the ultimate BBEG, 'havikmot', in the campaign.
+
 
 === Antonio and the cursed ring
 The cursed ring disrupts the player's ability to rest peacefully. Each night, when the character attempts a long rest, they are plagued by vivid and unsettling dreams. These dreams are not mere illusions but seem to tap into the darker recesses of the character's mind. They may encounter haunting visions, relive traumatic memories, or face distorted and nightmarish versions of their fears.
