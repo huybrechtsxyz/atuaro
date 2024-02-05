@@ -5,10 +5,10 @@ ifndef::homedir[]
 :homedir: .
 endif::[]
 
-= Picking up the Gauntlet (Part 4)
+= Downtime level 2
 :toc:
 
-*Tags:* #gauntlet
+*Tags:* #gauntlet #downtime
 
 image::{homedir}/assets/images/cover.jpg[]
 
@@ -87,6 +87,7 @@ They will come and ask 'questions' and put them in jail waiting their execution 
 
 == Information Control (Downtime for level 2)
 See also What about Gundren Rockseeker for the different scenarios.
+Check the story for each character about what they did during downtime on level 2.
 
 *Gundren's attitude is Excellent, Good, or Okay.*
 
@@ -114,26 +115,8 @@ See also What about Gundren Rockseeker for the different scenarios.
 * The police will look for the party.
 * The Redbrands (see Lost Mines) contact them to work together.
 
-=== Cleric (Angela)
-See : Adventure 5 Cleric
-
-=== Rogue/Thief (Antonio)
-See : Adventure 5 Rogue
-
-=== Druid (Cornus)
-See : Adventure 5 Druid
-
-=== Fighter (Mario)
-See : Adventure 5 Fighter
-
-=== Barbarian Half-Elf (Tyrion)
-See : Adventure 5 Barbarian
-
-=== Watch Interaction
-See : Adventure 5 watch
-
 == Wizards’ Tower Brewery
-See : Aventure 6
+See : Aventure 2
 
 == In the end?
 If everything goes right, they are on talking terms with Gundren, and the lost mines can continue.

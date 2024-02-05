@@ -1,0 +1,60 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= Picking up the Gauntlet (Part 5)
+:toc:
+
+*Tags:* #gauntlet
+
+image::{homedir}/assets/images/cover.jpg[]
+
+== Downtime for a Cleric
+
+=== Background:
+The cleric decides to organize a community event or festival in collaboration with her father, the local bishop. This event could be a religious celebration, a charity drive, or a day of healing for the townsfolk. It will not only strengthen The cleric's ties with her father but also allow her to use her clerical abilities to benefit the community. +
+=> pakal zamarus
+
+The cleric discovers that an imposter priest has infiltrated the religious festival, secretly worshiping Whiro, the dark counterpart to Ohm. The imposter threatens to disrupt the festival and sow chaos within the community. The cleric takes it upon herself to unmask the imposter and prevent the potential harm they might cause.
+
+=== Objectives:
+
+*Observation and Investigation:* +
+The cleric discreetly observes the behaviors of the various priests and temple officials involved in the festival. She looks for signs of unusual practices or any deviations from the usual rituals associated with the worship of Ohm.
+
+*Subtle Questioning:* +
+The cleric engages in conversations with fellow priests, community members, and festival organizers to gather information. She asks subtle questions to gauge their perceptions of the religious practices and identify any inconsistencies.
+
+*Review of Ritual Artifacts:* +
+The cleric carefully examines the ceremonial items, religious texts, and symbols associated with the festival. She looks for any alterations or signs of dark magic that might be connected to the worship of Whiro.
+
+*Divine Guidance:* +
+The cleric seeks guidance through prayers and meditation, asking for Ohm's insight to reveal the imposter's true nature. This might involve a spiritual journey or a symbolic vision that leads her closer to the truth.
+
+*Confrontation and Expose:* +
+Once The cleric has gathered enough evidence, she confronts the imposter priest privately. Through a combination of persuasive discourse and divine authority, she exposes the imposter's true allegiance to Whiro, urging them to renounce their dark path.
+
+=== Challenges:
+
+*Deceptive Charms:* +
+The imposter priest uses charm and charisma to mask their true intentions, making it challenging for the cleric to discern their deceitful nature.
+
+*Dark Influence:* +
+The imposter may have invoked dark powers associated with Whiro, causing disturbances in The cleric's attempts to uncover the truth. The cleric must resist the influence of these dark forces.
+
+*Community Distrust:* +
+The cleric faces the challenge of convincing the community that an imposter priest is among them without causing unnecessary panic or distrust. She must tread carefully to maintain the community's faith in their religious leaders.
+
+=== Outcome:
+
+*Success:* +
+The cleric successfully exposes the imposter priest, preventing any harm to the festival and restoring the community's trust. Her diligence and devotion to Ohm are celebrated, and the festival proceeds with renewed spiritual strength.
+
+*Partial Success:* +
+While The cleric uncovers the imposter's identity, there might be minor disruptions to the festival. She manages to mitigate the damage and initiates a process of healing and reconciliation within the community.
+
+*Failure:* +
+The imposter's dark plans come to fruition, causing chaos during the festival. The cleric faces the challenge of redeeming the situation, reassuring the community, and confronting the lingering consequences of the imposter's actions.

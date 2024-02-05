@@ -5,12 +5,13 @@ ifndef::homedir[]
 :homedir: .
 endif::[]
 
-= D&Dave 2023 Session 17 [09-01-2024]
+= D&Dave 2023 Session 18 [24-01-2024]
 
 image::{homedir}/assets/images/heading.jpg[]
 
 == To Do List
 * The pixie fight was to easy in House Visit.
+* Elaborate on the down time adventures of level 2.
 
 == Important
 * Angela (Toon)      : INT > Command as cantrip (https://www.dndbeyond.com/spells/command)
@@ -38,9 +39,9 @@ The goblin had made drawings of the heroes:
 - Angela: Question
 - Cornus: Death skull
 
-After their escape from the Death Pith of Whirotepua, Gundren helps them on their way to the Delian Tomb. They killed the partol and are nearing the entrance of the Delian tomb. They rush the entrance guards and can kill them before they can get help. The adventurers go inside the tomb and attack the six goblins in the offering room, hearing the screams of Bess continue to the hall of the Oathkeeper. They kill the shaman before he can really do anything useful and save the girl. They take a long rest in the offering room. Before leaving the tomb, cornus burried the Goblins, and noticed the color of their skull.
+After their escape from the Death Pith of Whirotepua, Gundren helps them on their way to the Delian Tomb. They killed the partol and are nearing the entrance of the Delian tomb. They rush the entrance guards and can kill them before they can get help. The adventurers go inside the tomb and attack the six goblins in the offering room, hearing the screams of Bess continue to the hall of the Oathkeeper. They kill the shaman before he can really do anything useful and save the girl. They take a long rest in the offering room. Before leaving the tomb, cornus buried the Goblins, and noticed the color of their skull.
 
-They bring back Bess to the village and reunite her with her parents. They use Bess to get a good price with her father (Pasha).Failing to appease them with religion or charm. However they are willing to to give them a discount. Angela uses her religous knowledge in a conversation to Hibiscus. He was caught asking about Cornus, but was able to block any further questioning.
+They bring back Bess to the village and reunite her with her parents. They use Bess to get a good price with her father (Pasha).Failing to appease them with religion or charm. However they are willing to to give them a discount. Angela uses her religious knowledge in a conversation to Hibiscus. He was caught asking about Cornus, but was able to block any further questioning.
 
 Agreeing to the proposal of Gundren to be his guardsmen on his route to Loukotokia, the depart the next day. After the snake caught them off guard, the horses rear up and Gundren and Antonio fall of the cart. The heroes dispatch of their problems with ease. Tyrion finding and throwing the snake in the bushes, cornus tending to the horses and Angela after Gundren.
 
@@ -50,12 +51,13 @@ The team of 'heroes' reach the Silverpine Watch. They try to get on top of the c
 
 After killing the zombies, they search all the trunks and find what is within, looting the Marshal Brask’s room in the process. Almost finding their better in the stirges, but finding the necklace in their nest. Antonio likes the amulet and wears it. The continue searching the rooms (7, 8, 9, 7, 20, 23, 24). When they find the ghost of sir Arpaad they try avoid fighting it. Although Antonio was able to resist the golden weapon next to sir Arpaad's body, Angela has problems resisting her will to cast down the foul aparition. As Ohm clearly not approves.
 
-They fight sir Ipaad and manage to go through the towers and zombies. After they manage to open the portcullis, Gundren drives of leaven them the money. They sleep and start roaming what is left of the watch. Antonio is still hanging in there but is starting to feel its effects. (See below: Antonio and the cursed ring). They kill the revenant blacksmith and destroy the dagger.
+They fight sir Arpaad and manage to go through the towers and zombies. After they manage to open the portcullis, Gundren drives of leaven them the money. They sleep and start roaming what is left of the watch. Antonio is still hanging in there but is starting to feel its effects. (See below: Antonio and the cursed ring). They kill the revenant blacksmith and destroy the dagger.
 
 They do kind of piece together what happened and go on to Loukotokia.
 
 * Flashback of Angela; finding an imposter and saving the Messia's Foot. Success.
 * Flashback of Mario; saving a youngling from a bullying gang. Success.
+* Flashback of Cornus; stopping a dog fighting ring. Success.
 
 == Start of session
 * Cornus his water magic requires a DC before succeeding:
@@ -93,12 +95,12 @@ They do kind of piece together what happened and go on to Loukotokia.
 
 * Angela, Cleric, saving the religious festival
 * Michael, Fighter, saving a youngster from a bully
+* Cornus, Druid, stopping a dog fighting ring. The culprit is in jail!
+* 
 
 *On to main story*
 
-* Antonio, rogue, can retrieve a McGuffin
-* Cornus, druid, has a dog fighting ring to clear up.
-* Tyrion, barbarian, finds out about a fight ring where he needs to save city guards
+
 
 == Post Session
 
@@ -133,7 +135,7 @@ They do kind of piece together what happened and go on to Loukotokia.
   - Tyrion (Dave)      : Barbarian > His father is super arogant / or stop an arogant person / half-elf not being an elf his mother as trigger
 
 * Tyrion's father will be the ultimate BBEG, 'havikmot', in the campaign.
-
+* The bastard of the dog fighting ring is still alive (but in jail), downtime of Druid.
 
 === Antonio and the cursed ring
 The cursed ring disrupts the player's ability to rest peacefully. Each night, when the character attempts a long rest, they are plagued by vivid and unsettling dreams. These dreams are not mere illusions but seem to tap into the darker recesses of the character's mind. They may encounter haunting visions, relive traumatic memories, or face distorted and nightmarish versions of their fears.

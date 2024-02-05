@@ -18,39 +18,31 @@ image::{homedir}/assets/images/cover.jpg[]
 
 image::{homedir}/assets/maps/it_is_under_the_windmill.jpg[]
 
-In an ill-fated moment, Tyrion committed a grave mistake, taking the life of another in the heat of battle. Condemned by his actions, now forced to fight in the lowest ranks of the club, earning almost nothing to get his reputation back. He finds out he is fighting against kidnapped city guards,  reluctant combatants in a deadly game. It was during one of these matches that he stumbled upon a sinister organization operating in the shadows.
+In an ill-fated moment, Tyrion committed a grave mistake, taking the life of another in the heat of battle when the fight was already over. After not feeling welcome anymore, he is contacted to fight in another 'league'. After a first fight you notice the money is bigger, but the fights are truly brutal. 
 
-    Revelations about the Organization
+* Does the barbarian want to keep fighting? Otherwise he remembers the details of his last fight. In stead of fighting it.
+
+=== Revelations about the Organization
+As the barbarian is fighting he uncovers the fact that his current opponent does not want to fight. Unlike the other combatants who size each other up with predatory glares, this figure stands apart, shoulders slumped and gaze averted. His movements are sluggish, lacking the predatory grace of a true fighter, as if each step carries the weight of his unwillingness.
+
+*Fight!*
+Driven by the primal urge to survive and the expectations of the crowd, Tyrion could choose to engage in combat despite his opponent's reluctance. With his muscles tensed and his senses honed, he prepares to clash with a foe who lacks the spirit of a true fighter. Yet, even as he readies himself for battle, a sense of unease gnaws at his conscience, reminding him of the brutality that lurks within the shadows of the ring. He absolutely demolishes the fighter...
+
+
+
+=== Rescue Mission
+Maybe it too late for the current fight. But does he want to stop the fight ring? The barbarian, driven by the need to redeem himself and save the city guards, leads the party on a daring rescue mission. This could involve infiltrating the organization's hideout, gathering intelligence, and planning the rescue operation. Along the way, the party might encounter other challenges, such as traps, guards, or even rival factions.
+
+=== Confrontation with the luitenant:
     
-        As the barbarian investigates the organization, he uncovers secrets about their motives, goals, and members. Perhaps they are manipulating events in the city for their own gain, or they have a broader plan that could threaten the entire region.
-
-    Rescue Mission:
+As the party delves deeper into the organization's activities, they eventually confront the mastermind behind the kidnapping. This could lead to a climactic showdown where the barbarian has a chance to not only save the city guards but also confront his own past actions and seek redemption.
     
-        The barbarian, driven by the need to redeem himself and save the city guards, leads the party on a daring rescue mission. This could involve infiltrating the organization's hideout, gathering intelligence, and planning the rescue operation. Along the way, the party might encounter other challenges, such as traps, guards, or even rival factions.
+=== Symbol for the Organization:
 
-    Unexpected Allies:
-    
-        During the rescue mission, the party could find unexpected allies within the organization who are disillusioned with its leadership. These allies may provide valuable information, assistance, or even join the party in their quest to stop the organization's operations.
+A serpent coiled around a dagger could represent the organization, symbolizing secrecy, danger, and a hidden threat.
 
-    Confrontation with the luitenant:
-    
-        As the party delves deeper into the organization's activities, they eventually confront the mastermind behind the kidnapping. This could lead to a climactic showdown where the barbarian has a chance to not only save the city guards but also confront his own past actions and seek redemption.
-    
-    Morally Ambiguous Choices:
-    
-        Throughout the storyline, present the party with morally ambiguous choices. The barbarian may need to make decisions that challenge his own values and force him to consider the greater good versus personal redemption.
-
-    Symbol for the Organization:
-
-        A serpent coiled around a dagger could represent the organization, symbolizing secrecy, danger, and a hidden threat.
-
-    Lowly Lieutenant: Voren
-
-        Alias and Disguise: The lieutenant could operate under a false identity or alias, making it challenging for the party to initially connect them to the organization.
-        Motive and Backstory: Give the lieutenant a personal motive or backstory that ties into the organization's goals. This could provide an emotional element to their character and potentially create a moral dilemma for the party when confronting them.
-        Clues and Intel: As the party interacts with the lieutenant or investigates their activities, they could find documents, symbols, or other clues that hint at the larger organization and its true leader.
-
-        Captain Voren Ironhart is a grizzled and disciplined veteran with a no-nonsense attitude. Clad in dark, well-maintained armor, he carries himself with an air of authority. His eyes gleam with a shrewd intelligence, and a subtle air of cruelty lingers beneath his composed exterior. Captain Voren is fiercely loyal to the organization's cause and is willing to do whatever it takes to ensure its success, even if it means resorting to ruthless tactics.
+    *Lowly Lieutenant: Voren Ironhart*
+    The lieutenant was a fighter in the past and climbed up the ranks of the organization. Voren Ironhart is a grizzled and disciplined veteran with a no-nonsense attitude. Clad in dark, well-maintained armor, he carries himself with an air of authority. His eyes gleam with a shrewd intelligence, and a subtle air of cruelty lingers beneath his composed exterior. Captain Voren is fiercely loyal to the organization's cause and is willing to do whatever it takes to ensure its success, even if it means resorting to ruthless tactics.
 
         Race: Human
         Class: Soldier

@@ -1,0 +1,49 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= Picking up the Gauntlet (Part 4)
+:toc:
+
+*Tags:* #gauntlet
+
+image::{homedir}/assets/images/cover.jpg[]
+
+== Fighter (The fighter)
+The fighter decides to open a self-defense workshop for those who have been bullied. He shares his experiences and teaches others how to stand up for themselves. This activity not only helps The fighter come to terms with his own past but also empowers others in the community.
+
+=== Encounter: The Alleyway Ambush
+A dimly lit alley in the local district. The fighter encounters one of his classmates, a young man named Alex, who is cornered by a small local gang of five commoners.
+
+*Gang Members:*
+
+    Ringleader Charles (Human): Wields a crude club and has an air of false bravado.
+    Bully 'Herman' (Half-Orc): Physically imposing and aggressive.
+    Schemer 'Andre' (Halfling): Nimble and quick-witted, armed with a small blade.
+    Bravado 'Brave' (Half-Elf): Overconfident and flashy, dual-wielding makeshift weapons.
+    Bully's Friend 'Steve' (Dwarf): Gruff and intimidating, but slightly hesitant.
+
+=== Encounter Scenario:
+
+    As The fighter approaches the alley, he sees Alex surrounded by the gang members, who are demanding money or valuables.
+    The gang spots The fighter and becomes hostile, escalating the situation. The ringleader taunts The fighter, challenging him to a fight.
+    The fighter must now engage in combat to protect Alex and teach the gang members a lesson.
+
+*Key Features:*
+
+* Tight Spaces: The alleyway limits maneuverability, potentially providing advantages and disadvantages based on positioning.
+* Improvised Weapons: The gang members use makeshift weapons like clubs, blades, and broken bottles, making the encounter more dynamic and unpredictable.
+* Verbal Taunts: The gang members may attempt to distract and demoralize The fighter with verbal taunts, potentially affecting his concentration.
+
+*Objectives:*
+
+* Protect Alex: The fighter's primary goal is to ensure the safety of Alex. If the gang members are defeated or driven off, Alex will be grateful and potentially provide The fighter with useful information or assistance in the future.
+* Teach a Lesson: Subduing the gang without causing severe harm might serve as a valuable lesson, discouraging them from further criminal activities in the future.
+
+*Outcome:*
+
+* Success: If The fighter successfully defeats or subdues the gang, they retreat, nursing their wounds. The local authorities may arrive afterward, providing an opportunity for The fighter to share information about the gang's activities.
+* Failure: If The fighter fails, the gang members may escape, and the situation could escalate, leading to potential consequences for The fighter and Alex.
