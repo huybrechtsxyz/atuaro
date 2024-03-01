@@ -5,7 +5,7 @@ ifndef::homedir[]
 :homedir: .
 endif::[]
 
-= D&Dave 2023 Session 18 [06-02-2024]
+= D&Dave 2023 Session 20 [05-03-2024]
 
 image::{homedir}/assets/images/heading.jpg[]
 
@@ -58,6 +58,8 @@ They do kind of piece together what happened and go on to Loukotokia.
 * Flashback of Angela; finding an imposter and saving the Messia's Foot. Success.
 * Flashback of Mario; saving a youngling from a bullying gang. Success.
 * Flashback of Cornus; stopping a dog fighting ring. Success.
+* Flashback of Tyrion; stopping an illegal fight ring. Success.
+* Flashback of Anonio; in progress, result unknown.
 
 == Start of session
 * Cornus his water magic requires a DC before succeeding:
@@ -72,16 +74,7 @@ They do kind of piece together what happened and go on to Loukotokia.
     he now has no benefit from a long rest except half the hit dice.
   - has the silver dagger from the altar (valued at 100GP)
   - was the guardian of Bess but handed her over to her parents + 
-    (he hoped her parents to be rich, so he is rewarded for saving her)    
-* Angela
-  - cleans up the shamans handy work and restores the statue of the delian knight.
-  - Angela has found a potion healing, 2 gemstones worth 14GP and 8GP and 10 gp in coins.
-* Let each player find something that can help them:
-  - Angela (Toon)      : Cleric    > Animated Rope
-  - Antonio (Giuseppe) : Rogue     > Enchanted Studded Leather (+1)
-  - Cornus (Koen)      : Druid     > Mantle of Protection (+1)?
-  - Mario (Michael)    : Fighter   > Magic Weapon Oil (?) / Periapt of Courage
-  - Tyrion (Dave)      : Barbarian > Blacksmith’s Maul
+    (he hoped her parents to be rich, so he is rewarded for saving her)
 
 == Session Notes
 
@@ -91,22 +84,82 @@ They do kind of piece together what happened and go on to Loukotokia.
     Okay. (Behaviour of Antonio) +
     *Bad.*  (Behaviour of Antonio) +
 
-*Previously on.*
+  -> Gundren disposition had an effect where no one really thrusted the party.
+     By succeeding on the results, it is now back Okay.
+     Important is the resolution of the last story.
+
+=== A long time ago
 
 * Angela, Cleric, saving the religious festival
 * Mario, Fighter, saving a youngster from a bully
 * Cornus, Druid, stopping a dog fighting ring. The culprit is in jail!
 * Tyrion, Barbarian, killing the fighters is ok, but non-fighters not.
 
+=== The Neurdragon Family
 
-*On to main story*
+*Mister Neurdragon: Hadrian Neurdragon*
 
+- *Background in Trading:* Comes from a long line of successful traders and merchants known for their shrewd business acumen and savvy investments.
+- *Personality Traits:*
+  - Ambitious: Driven by a desire for success and willing to take calculated risks to achieve goals.
+  - Charismatic: Possesses natural charm and persuasive demeanor, making him well-suited for negotiations and deal-making.
+  - Pragmatic: Approaches challenges with a practical mindset, always seeking the most efficient and profitable solutions.
+- *Political Influence:* Cultivated significant political influence within the city through strategic alliances and financial contributions.
 
+*Mrs. Neurdragon: Aurelia Neurdragon*
 
-== Post Session
+- *Background:* Hails from a prestigious family with ties to high society and the aristocracy. Her marriage to Mister Neurdragon solidified their family's position and expanded their social network.
+Married Mister Neurdragon after the death of Perseus's natural mother during childbirth.
+- *Personality Traits:*
+  - Elegant: Exudes grace and sophistication, effortlessly commanding attention in any social setting.
+  - Resourceful: Adept at navigating the complexities of upper-class society, using wit and charm to overcome challenges and secure advantageous alliances.
+  - Devoted Stepmother: Despite not being Perseus's natural mother, she has embraced him as her own son, prioritizing his well-being and education.
+- *Social Influence:* Respected figure within elite social circles, known for impeccable taste and discerning eye for fashion and culture.
+
+*Son: Perseus Neurdragon (6 years old)*
+
+- *Background:* The pride and joy of the Neurdragon family, cherished for his innocence and boundless curiosity.
+- *Personality Traits:*
+  - Curious: Possesses an insatiable thirst for knowledge, eagerly exploring the world around him and asking endless questions.
+  - Imaginative: Has a vivid imagination and enjoys creating fantastical stories and adventures with toys and playmates.
+  - Affectionate: Warm-hearted and affectionate, forming deep bonds with family and friends.
+  - Spoiled. Really-really-really-really-really spoiled.
+- *Future Heir:* Groomed to inherit the family's legacy and carry on their traditions of commerce and influence.
+
+=== The Misteries
+
+*Bear and Locket*
+- You can learn from the locket that the mother is not the boys real mother as the picture and inscription of the locket says: Seraphina, with a picture that is not Aurelia Neurdragon. You can find the teddybear and locket in Aurelias master bedroom.
+
+*The Grimwald Codex: Secrets of Power and Influence*
+The McGuffin that Magnifico wants you to steal is a book. This book contains insider knowledge on the real dealings of Mr Neurdragon, including some dangerous spells that can shape the world to the benefit of the caster.
+
+The Grimwald Codex is a coveted artifact, sought after by those who crave power and control. Its discovery poses a threat to the delicate balance of the world, as its secrets have the potential to unleash chaos and destruction if wielded irresponsibly.
+
+- *Arcane Insights:* The Codex contains a wealth of arcane insights, including powerful spells, rituals, and incantations that have been carefully guarded by the Neurdragon lineage.
+- *Hidden Knowledge:* Its pages hold secrets of Mr. Neurdragon's true dealings, revealing the extent of his influence within the city and the dark alliances he has forged to maintain his grip on power.
+- *Dangerous Spells:* Among its contents are dangerous spells capable of manipulating minds, bending the elements, and even altering reality itself. These spells are coveted by those who seek dominion over the forces of magic.
+- *Relations and Dealings* It contains a section about his dealings and 'specialrelations'
+
+=== What happened before
+
+Antonio is the laughing stock in the thieves guild for steeling the teddybear of the young Mr. Neurdragon junior. At least that is what he is accused of by someone who is spreading rumors. These actions have reached Magnifico's ears, and his once-proud mentor is deeply disappointed. He believes in the innocence of Antonio and proposes to steal something really valuable from Mr Neurdragon. He is supposed to have a codex of some sort (~book). It is being whispered that all his riches, power, and knowledge are bound to it.
+
+Angela has no real appetite in helping out as it is believed the Neurdragons are good people. But agrees to take the party as choirboys (?) during a coming-of-age ceremony. The party uses the communion of the young son of Mr. Neurdragon as a guise to infiltrate the Neurdragon estate for reconnaissance purposes. While Angela and her father Pacal perform the rites, multiple members of the team try to talk to the young boy about the teddybear. It seems that the boy 'lost' his teddybear and the locket that was attached to it. Although silver, for Perseus it is the emotional attachment that matters. Its disappearance has left a void in the heart of its owner, who longs to be reunited with the precious keepsake.
+
+Then trying to scout the premises, until one member is caught in the proverbial cooky jar. Tyrion while sneaking upstairs finds the Crystal Room. A guard caught Tyrion, and locked him in the premises and waiting with  further investigations until the ceremony was concluded. He first tried to escape through the window, breaking it down, and making noise in the process. This caught the attention of one of the guards. Tyrion was able to knock the guard unconscious and escape by running through the house.
+
+The commotion is not unnoticed during the ceremony, but Pacal and Neurdragon keep their cool and continue the ceremony. Both will have something on their mind about these events.
+
+=== Main story
+
 
 
 === Active Plot Points
+
+Next time...
+* Pacal gives Angela a short but sharp talk about choosing the right people! (Excellent -> Good)
+* Tyrion's description is being made sort of public to the thieves guild
 
 * Flashbacks in progress
 * Either 
@@ -122,7 +175,7 @@ They do kind of piece together what happened and go on to Loukotokia.
 
 === Future Plot Points
 
-* Fathers of Angela and Cornus do not like each other? Or hibisucs sucks up to pakal.
+* Fathers of Angela and Cornus do not like each other? Or Hibiscus sucks up to pakal.
 * Glasstaff is the sad boy
 * Nezrra is the bully
 * Return of the carnival? After failing the Adventure Tournament, they want revenge.
@@ -133,7 +186,7 @@ They do kind of piece together what happened and go on to Loukotokia.
   - Antonio (Giuseppe) : Rogue     > A heist where they have to steal something / setup of sort of shady business?
   - Cornus (Koen)      : Druid     > Restore nature in some way
   - Mario (Michael)    : Fighter   > Stop some advanced bullying
-  - Tyrion (Dave)      : Barbarian > His father is super arogant / or stop an arogant person / half-elf not being an elf his mother as trigger
+  - Tyrion (Dave)      : Barbarian > His father is super arrogant / or stop an arrogant person / half-elf not being an elf his mother as trigger
 
 * Tyrion's father will be the ultimate BBEG, 'havikmot', in the campaign.
 * The bastard of the dog fighting ring is still alive (but in jail), downtime of Druid.
