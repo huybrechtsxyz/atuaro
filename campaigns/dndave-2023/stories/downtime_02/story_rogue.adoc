@@ -14,17 +14,23 @@ image::{homedir}/assets/images/cover.jpg[]
 
 == Downtime for a Rogue/Thief
 
-=== Background:
-The Rogue is framed for attempting to steal the McGuffin from a renowned, benevolent figure in the town. The Rogue got away, but not without a rival gang stealing the McGuffin. These actions have reached Magnifico's ears, and his once-proud mentor is deeply disappointed. Magnifico contacts the party, expressing his concern and disappointment in The Rogue's recent behavior.
+=== Maps:
 
-Magnifico, real name is Magnus, still caring for The Rogue, the orphans in general, despite his (their) flaws, requests that the party help redeem his former apprentice. He can provides information about the rival thieves and the importance of the stolen artifact, emphasizing that returning it could be The Rogue's chance for redemption.
+image::{rootdir}/assets/maps/mansion_noble_night_floor.JPG[]
+
+image::{rootdir}/assets/maps/mansion_noble_night_ground.JPG[]
+
+=== Background:
+The rogue is framed for stealing the teddybear of the young Mr. Neurdragon junior. At least that is what he is accused of by someone who is spreading rumors. These actions have reached the ear of the their mentor (Magnifico?) and his once-proud mentor is deeply disappointed. He believes in the innocence of Antonio and proposes to steal something really valuable from Mr Neurdragon. He is supposed to have a codex of some sort (~book). It is being whispered that all his riches, power, and knowledge are bound to it.
+
+The mentor (Magnifico, real name is Magnus,) still caring for The Rogue, the orphans in general, despite his (their) flaws, requests that the party help redeem his former apprentice. He can provides information about the rival thieves and the importance of the stolen artifact, emphasizing that returning it could be The Rogue's chance for redemption.
 
 === Objectives:
 Seeking redemption, The Rogue proposes a plan to retrieve the stolen artifact for the party and earn back their patron's trust.
 Magnifico, despite his disappointment, provides guidance to the party, setting the stage for a covert mission.
 
 *Gathering Intel:*
-The Rogue, being a rogue, takes charge of gathering crucial information about the rival thieves' hideout, their leader, and the location of the stolen McGuffin.
+The Rogue, being a rogue, takes charge of gathering crucial information about the rival thieves' hideout, their leader, and the location of the Codex.
 Utilizing his rogue skills, The Rogue infiltrates the criminal underworld, talks to informants, and discreetly observes the rival group's activities.
 
 *Infiltration Planning:*
@@ -41,13 +47,13 @@ He might disguise himself as a member of the rival group, distracting guards and
 
 *Object Retrieval:*
 Once inside, The Rogue uses his sleight of hand and keen perception to locate the McGuffin's hiding place within the hideout.
-Depending on the situation, he may need to navigate through secret passages, solve puzzles, or overcome magical barriers to reach the McGuffin.
+Depending on the situation, he may need to navigate through secret passages, solve puzzles, or overcome magical barriers to reach the Codex.
 
 *Quick Thinking and Adaptation:*
 The Rogue's ability to think on his feet becomes crucial during unexpected situations. Whether it's avoiding patrols, improvising cover stories, or reacting to unforeseen challenges, his adaptability is put to the test.
 
 *Evasion and Escape:*
-As The Rogue retrieves the McGuffin, he leads the party in a swift and strategic retreat. His expertise in evasion helps them avoid detection as they make their way out of the rival thieves' hideout.
+As The Rogue retrieves the Codex, he leads the party in a swift and strategic retreat. His expertise in evasion helps them avoid detection as they make their way out of the rival thieves' hideout.
 
 *Final Stealth:*
 In the final stretch, The Rogue utilizes his rogue abilities to ensure the party leaves the hideout without leaving a trace. This includes covering their tracks, misdirecting pursuit, and blending into the shadows
