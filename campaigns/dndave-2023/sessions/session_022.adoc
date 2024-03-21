@@ -5,7 +5,7 @@ ifndef::homedir[]
 :homedir: .
 endif::[]
 
-= D&Dave 2023 Session 20 [05-03-2024]
+= D&Dave 2023 Session 22 [xx-xx-2024]
 
 image::{homedir}/assets/images/heading.jpg[]
 
@@ -21,7 +21,7 @@ image::{homedir}/assets/images/heading.jpg[]
 * Tyrion (Dave)      : STR > 1 rage per long rest (https://www.dndbeyond.com/sources/basic-rules/classes#Rage) as a child.
 
 * *Do not forget to copy-paste the read-out texts to the chat for Giuseppe.*
-* *Anotonio will steal anything that is not fixed to a wall.*
+* *Antonio will steal anything that is not fixed to a wall.*
 
 == Plot Evolution
 Antonio has the golden ring of Cracus with the symbol of Whirotepua (disturbs long rest on failure of WIS DC10, valued at 20GP). They destroyed their reputation as solid adventurers by letting Antonio threathen Gundren Rockseeker. The party did destroy the cursed golden dagger of the Silverpine Watch.
@@ -54,29 +54,24 @@ After killing the zombies, they search all the trunks and find what is within, l
 They fight sir Arpaad and manage to go through the towers and zombies. After they manage to open the portcullis, Gundren drives of leaven them the money. They sleep and start roaming what is left of the watch. Antonio is still hanging in there but is starting to feel its effects. (See below: Antonio and the cursed ring). They kill the revenant blacksmith and destroy the dagger.
 
 They do kind of piece together what happened and go on to Loukotokia.
-
-* Flashback of Angela; finding an imposter and saving the Messia's Foot. Success.
+* Flashback of Angela; finding an imposter and saving the Messia's Foot and the religious festival. Success.
 * Flashback of Mario; saving a youngling from a bullying gang. Success.
-* Flashback of Cornus; stopping a dog fighting ring. Success.
-* Flashback of Tyrion; stopping an illegal fight ring. Success.
-* Flashback of Anonio; in progress, result unknown.
+* Flashback of Cornus; stopping a dog fighting ring The culprit is in jail! Success.
+* Flashback of Tyrion; killing the fighters is ok, but non-fighters not. Stopped an illegal fight ring. Success.
+* Flashback of Antonio; in progress
 
 == Start of session
-* Cornus his water magic requires a DC before succeeding:
+*Cornus water magic*
+requires a DC before succeeding:
   -  3 on the dice: easy.
   -  7 on the dice: simple.
   - 11 on the dice: standard.
   - 15 on the dice: hard.
   - 19 on the dice: impossible.
-* Antonio
+*Antonio*
   - has the golden ring of Cracus with the symbol of Whirotepua
     disturbs long rest on failure of WIS DC10, valued at 20GP +
     he now has no benefit from a long rest except half the hit dice.
-  - has the silver dagger from the altar (valued at 100GP)
-  - was the guardian of Bess but handed her over to her parents + 
-    (he hoped her parents to be rich, so he is rewarded for saving her)
-
-== Session Notes
 
 *Gundren's Disposition* towards the party (Excellent, Good, Okay, Dislike, Bad)? +
     Excellent. (Start of the trip) +
@@ -88,60 +83,7 @@ They do kind of piece together what happened and go on to Loukotokia.
      By succeeding on the results, it is now back Okay.
      Important is the resolution of the last story.
 
-=== A long time ago
-
-* Angela, Cleric, saving the religious festival
-* Mario, Fighter, saving a youngster from a bully
-* Cornus, Druid, stopping a dog fighting ring. The culprit is in jail!
-* Tyrion, Barbarian, killing the fighters is ok, but non-fighters not.
-
-=== The Neurdragon Family
-
-*Mister Neurdragon: Hadrian Neurdragon*
-
-- *Background in Trading:* Comes from a long line of successful traders and merchants known for their shrewd business acumen and savvy investments.
-- *Personality Traits:*
-  - Ambitious: Driven by a desire for success and willing to take calculated risks to achieve goals.
-  - Charismatic: Possesses natural charm and persuasive demeanor, making him well-suited for negotiations and deal-making.
-  - Pragmatic: Approaches challenges with a practical mindset, always seeking the most efficient and profitable solutions.
-- *Political Influence:* Cultivated significant political influence within the city through strategic alliances and financial contributions.
-
-*Mrs. Neurdragon: Aurelia Neurdragon*
-
-- *Background:* Hails from a prestigious family with ties to high society and the aristocracy. Her marriage to Mister Neurdragon solidified their family's position and expanded their social network.
-Married Mister Neurdragon after the death of Perseus's natural mother during childbirth.
-- *Personality Traits:*
-  - Elegant: Exudes grace and sophistication, effortlessly commanding attention in any social setting.
-  - Resourceful: Adept at navigating the complexities of upper-class society, using wit and charm to overcome challenges and secure advantageous alliances.
-  - Devoted Stepmother: Despite not being Perseus's natural mother, she has embraced him as her own son, prioritizing his well-being and education.
-- *Social Influence:* Respected figure within elite social circles, known for impeccable taste and discerning eye for fashion and culture.
-
-*Son: Perseus Neurdragon (6 years old)*
-
-- *Background:* The pride and joy of the Neurdragon family, cherished for his innocence and boundless curiosity.
-- *Personality Traits:*
-  - Curious: Possesses an insatiable thirst for knowledge, eagerly exploring the world around him and asking endless questions.
-  - Imaginative: Has a vivid imagination and enjoys creating fantastical stories and adventures with toys and playmates.
-  - Affectionate: Warm-hearted and affectionate, forming deep bonds with family and friends.
-  - Spoiled. Really-really-really-really-really spoiled.
-- *Future Heir:* Groomed to inherit the family's legacy and carry on their traditions of commerce and influence.
-
-=== The Misteries
-
-*Bear and Locket*
-- You can learn from the locket that the mother is not the boys real mother as the picture and inscription of the locket says: Seraphina, with a picture that is not Aurelia Neurdragon. You can find the teddybear and locket in Aurelias master bedroom.
-
-*The Grimwald Codex: Secrets of Power and Influence*
-The McGuffin that Magnifico wants you to steal is a book. This book contains insider knowledge on the real dealings of Mr Neurdragon, including some dangerous spells that can shape the world to the benefit of the caster.
-
-The Grimwald Codex is a coveted artifact, sought after by those who crave power and control. Its discovery poses a threat to the delicate balance of the world, as its secrets have the potential to unleash chaos and destruction if wielded irresponsibly.
-
-- *Arcane Insights:* The Codex contains a wealth of arcane insights, including powerful spells, rituals, and incantations that have been carefully guarded by the Neurdragon lineage.
-- *Hidden Knowledge:* Its pages hold secrets of Mr. Neurdragon's true dealings, revealing the extent of his influence within the city and the dark alliances he has forged to maintain his grip on power.
-- *Dangerous Spells:* Among its contents are dangerous spells capable of manipulating minds, bending the elements, and even altering reality itself. These spells are coveted by those who seek dominion over the forces of magic.
-- *Relations and Dealings* It contains a section about his dealings and 'specialrelations'
-
-=== What happened before
+== Session Notes
 
 Antonio is the laughing stock in the thieves guild for steeling the teddybear of the young Mr. Neurdragon junior. At least that is what he is accused of by someone who is spreading rumors. These actions have reached Magnifico's ears, and his once-proud mentor is deeply disappointed. He believes in the innocence of Antonio and proposes to steal something really valuable from Mr Neurdragon. He is supposed to have a codex of some sort (~book). It is being whispered that all his riches, power, and knowledge are bound to it.
 
@@ -149,22 +91,27 @@ Angela has no real appetite in helping out as it is believed the Neurdragons are
 
 Then trying to scout the premises, until one member is caught in the proverbial cooky jar. Tyrion while sneaking upstairs finds the Crystal Room. A guard caught Tyrion, and locked him in the premises and waiting with  further investigations until the ceremony was concluded. He first tried to escape through the window, breaking it down, and making noise in the process. This caught the attention of one of the guards. Tyrion was able to knock the guard unconscious and escape by running through the house.
 
-The commotion is not unnoticed during the ceremony, but Pacal and Neurdragon keep their cool and continue the ceremony. Both will have something on their mind about these events.
-
-=== Main story
+*The commotion is not unnoticed during the ceremony, but Pacal and Neurdragon keep their cool and continue the ceremony. Both will have something on their mind about these events.*
 
 Antonio and the rest of the party regroup. Have a conversation with Magnifico. There they learn that he is mostly in it for himself. They recon the place for a week.
 - The Pinkertons, wearing all black, with black carriages, were present, but have left by now.
 - The Patrician visited the Neurdragon estate
+
+Antonio, Cornus, and Tyrion heist the Neurdragon estate during the middle of night, and steal the Codex.
+
+=== Current Session
+
+X
+
 
 === Active Plot Points
 
 Next time...
 * Pacal gives Angela a short but sharp talk about choosing the right people! (Excellent -> Good)
 * Tyrion's description is being made sort of public to the thieves guild
+* Antonio and Magnifico. The battle and the Patrician.
 
-* Flashbacks in progress
-* Either 
+* Flashbacks in progress, either 
   * Gundren Rockseeker and the lost mines if they make up by appologizing
   * Glowkindle backstabbing Gundren by asking to liberate the lost mines
   * If their reputation is tanked, the Redbrands will ask their help

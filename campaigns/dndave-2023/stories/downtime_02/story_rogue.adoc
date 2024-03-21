@@ -21,42 +21,27 @@ image::{rootdir}/assets/maps/mansion_noble_night_floor.JPG[]
 image::{rootdir}/assets/maps/mansion_noble_night_ground.JPG[]
 
 === Background:
-The rogue is framed for stealing the teddybear of the young Mr. Neurdragon junior. At least that is what he is accused of by someone who is spreading rumors. These actions have reached the ear of the their mentor (Magnifico?) and his once-proud mentor is deeply disappointed. He believes in the innocence of Antonio and proposes to steal something really valuable from Mr Neurdragon. He is supposed to have a codex of some sort (~book). It is being whispered that all his riches, power, and knowledge are bound to it.
+The rogue is framed for stealing the teddybear of the young Mr. Neurdragon junior. At least that is what he is accused of by someone who is spreading rumors. These actions have reached the ear of the their mentor (Magnifico?) and his once-proud mentor is deeply disappointed. He believes in the innocence of the rogue and proposes to steal something really valuable from Mr Neurdragon. He is supposed to have a codex of some sort (~book). It is being whispered that all his riches, power, and knowledge are bound to it.
 
-The mentor (Magnifico, real name is Magnus,) still caring for The Rogue, the orphans in general, despite his (their) flaws, requests that the party help redeem his former apprentice. He can provides information about the rival thieves and the importance of the stolen artifact, emphasizing that returning it could be The Rogue's chance for redemption.
+The mentor (Magnifico, real name is Magnus,) still caring for our rogue, and the orphans in general, despite his (their) flaws, requests that the party help redeem his former apprentice. He can provides information about the rival thieves and the importance of the stolen artifact, emphasizing that returning it could be The Rogue's chance for redemption.
 
 === Objectives:
-Seeking redemption, The Rogue proposes a plan to retrieve the stolen artifact for the party and earn back their patron's trust.
-Magnifico, despite his disappointment, provides guidance to the party, setting the stage for a covert mission.
+Seeking redemption, The Rogue proposes a plan to retrieve the stolen artifact for the party and earn back their patron's trust. Magnifico, despite his disappointment, provides guidance to the party, setting the stage for a covert mission.
 
 *Gathering Intel:*
-The Rogue, being a rogue, takes charge of gathering crucial information about the rival thieves' hideout, their leader, and the location of the Codex.
-Utilizing his rogue skills, The Rogue infiltrates the criminal underworld, talks to informants, and discreetly observes the rival group's activities.
+The Rogue, being a rogue, takes charge of gathering crucial information about the rival thieves' hideout, their leader, and the location of the Codex. Utilizing his rogue skills, The Rogue infiltrates the criminal underworld, talks to informants, and discreetly observes the rival group's activities.
 
 *Infiltration Planning:*
-The Rogue, with the acquired information, works with the party to plan the heist. His knowledge of lock-picking, trap-disabling, and stealth becomes invaluable.
-The party strategizes on the best point of entry, potential obstacles within the hideout, and escape routes.
+The Rogue, with the acquired information, works with the party to plan the heist. His knowledge of lock-picking, trap-disabling, and stealth becomes invaluable. The party strategizes on the best point of entry, potential obstacles within the hideout, and escape routes.
 
 *Stealthy Infiltration:*
-The Rogue leads the party in a stealthy infiltration, utilizing his expertise in sneaking past guards, avoiding traps, and moving silently.
-His proficiency with Thieves' Tools proves essential in bypassing locked doors and disabling security measures.
-
-*Deception and Diversion:*
-The Rogue, being a charismatic rogue, employs his skills in persuasion and deception to create diversions within the hideout.
-He might disguise himself as a member of the rival group, distracting guards and redirecting their attention away from the main objective.
+The Rogue leads the party in a stealthy infiltration, utilizing his expertise in sneaking past guards, avoiding traps, and moving silently. His proficiency with Thieves' Tools proves essential in bypassing locked doors and disabling security measures. They can employ his skills in persuasion and deception to create diversions within the hideout. He might disguise himself as a member of the rival group, distracting guards and redirecting their attention away from the main objective.
 
 *Object Retrieval:*
-Once inside, The Rogue uses his sleight of hand and keen perception to locate the McGuffin's hiding place within the hideout.
-Depending on the situation, he may need to navigate through secret passages, solve puzzles, or overcome magical barriers to reach the Codex.
-
-*Quick Thinking and Adaptation:*
-The Rogue's ability to think on his feet becomes crucial during unexpected situations. Whether it's avoiding patrols, improvising cover stories, or reacting to unforeseen challenges, his adaptability is put to the test.
+Once inside, The Rogue uses his sleight of hand and keen perception to locate the Codex hiding place within the hideout. Depending on the situation, he may need to navigate through secret passages, solve puzzles, or overcome magical barriers to reach the Codex. The Rogue's ability to think on his feet becomes crucial during unexpected situations. Whether it's avoiding patrols, improvising cover stories, or reacting to unforeseen challenges, his adaptability is put to the test.
 
 *Evasion and Escape:*
-As The Rogue retrieves the Codex, he leads the party in a swift and strategic retreat. His expertise in evasion helps them avoid detection as they make their way out of the rival thieves' hideout.
-
-*Final Stealth:*
-In the final stretch, The Rogue utilizes his rogue abilities to ensure the party leaves the hideout without leaving a trace. This includes covering their tracks, misdirecting pursuit, and blending into the shadows
+As The Rogue retrieves the Codex, he leads the party in a swift and strategic retreat. His expertise in evasion helps them avoid detection as they make their way out of the rival thieves' hideout. In the final stretch, The Rogue utilizes his rogue abilities to ensure the party leaves the hideout without leaving a trace. This includes covering their tracks, misdirecting pursuit, and blending into the shadows
 
 === Challenges:
 The party successfully infiltrates the rival thieves' hideout and recovers the artifact, only to discover evidence pointing to Magnifico's orchestration of the entire scenario for his personal gain. Magnifico, with ulterior motives, attempts to escape, leading the party into a high-stakes chase through the city.
@@ -75,24 +60,54 @@ Magnifico has enlisted three formidable accomplices:
         Abilities: Sneak Attack (2d6 extra damage), Dagger (1d4 + 4 piercing).
 
 *Chase Scene:*
-The party engages in a city-wide chase, pursuing Magnifico and his skilled accomplices through streets, rooftops, and obstacles.
-Along the way, they face challenges from Thorne's strength, Seraphina's versatility, and Rook's cunning rogue abilities.
+The party engages in a city-wide chase, pursuing Magnifico and his skilled accomplices through streets, rooftops, and obstacles. Along the way, they face challenges from Thorne's strength, Seraphina's versatility, and Rook's cunning rogue abilities.
 
 *Resolution:*
-The chase leads to a dramatic confrontation where The Rogue and the party must confront Magnifico about his betrayal.
-The fate of the stolen artifact is decided, and the party faces the consequences of their actions and choices.
+The chase leads to a dramatic confrontation where The Rogue and the party must confront Magnifico about his betrayal. The fate of the stolen artifact is decided, and the party faces the consequences of their actions and choices.
 
 *Outcome:*
-Depending on the party's decisions, the story may lead to redemption, forgiveness, or a fracture within the group.
-Relationships with the patron and The Rogue's mentor reshape based on the events of the encounter.
-
-=== Outcome:
-
-*Success:* +
-If The Rogue gives back the item freely, he can restore his credibility and makes sure Magnifico is arrested / killed 
-
-*Partial Success:* +
-
-*Failure:* +
+Depending on the party's decisions, the story may lead to redemption, forgiveness, or a fracture within the group. Relationships with the patron and The Rogue's mentor reshape based on the events of the encounter.
 
 
+=== The Misteries
+
+*Bear and Locket*
+- You can learn from the locket that the mother is not the boys real mother as the picture and inscription of the locket says: Seraphina, with a picture that is not Aurelia Neurdragon. You can find the teddybear and locket in Aurelias master bedroom.
+
+*The Grimwald Codex: Secrets of Power and Influence*
+The McGuffin that Magnifico wants you to steal is a book. This book contains insider knowledge on the real dealings of Mr Neurdragon, including some dangerous spells that can shape the world to the benefit of the caster.
+
+The Grimwald Codex is a coveted artifact, sought after by those who crave power and control. Its discovery poses a threat to the delicate balance of the world, as its secrets have the potential to unleash chaos and destruction if wielded irresponsibly.
+
+- *Arcane Insights:* The Codex contains a wealth of arcane insights, including powerful spells, rituals, and incantations that have been carefully guarded by the Neurdragon lineage.
+- *Hidden Knowledge:* Its pages hold secrets of Mr. Neurdragon's true dealings, revealing the extent of his influence within the city and the dark alliances he has forged to maintain his grip on power.
+- *Dangerous Spells:* Among its contents are dangerous spells capable of manipulating minds, bending the elements, and even altering reality itself. These spells are coveted by those who seek dominion over the forces of magic.
+- *Relations and Dealings* It contains a section about his dealings and 'specialrelations'
+
+=== The Neurdragon Family
+
+*Mister Neurdragon: Hadrian Neurdragon*
+
+- Background in Trading: Comes from a long line of successful traders and merchants known for their shrewd business acumen and savvy investments.
+- Ambitious: Driven by a desire for success and willing to take calculated risks to achieve goals.
+- Charismatic: Possesses natural charm and persuasive demeanor, making him well-suited for negotiations and deal-making.
+- Pragmatic: Approaches challenges with a practical mindset, always seeking the most efficient and profitable solutions.
+- Political Influence: Cultivated significant political influence within the city through strategic alliances and financial contributions.
+
+*Mrs. Neurdragon: Aurelia Neurdragon*
+
+- Background: Hails from a prestigious family with ties to high society and the aristocracy. Her marriage to Mister Neurdragon solidified their family's position and expanded their social network.
+Married Mister Neurdragon after the death of Perseus's natural mother during childbirth.
+- Elegant: Exudes grace and sophistication, effortlessly commanding attention in any social setting.
+- Resourceful: Adept at navigating the complexities of upper-class society, using wit and charm to overcome challenges and secure advantageous alliances.
+- Devoted Stepmother: Despite not being Perseus's natural mother, she has embraced him as her own son, prioritizing his well-being and education.
+- Social Influence: Respected figure within elite social circles, known for impeccable taste and discerning eye for fashion and culture.
+
+*Son: Perseus Neurdragon (6 years old)*
+
+- Background: The pride and joy of the Neurdragon family, cherished for his innocence and boundless curiosity.
+- Curious: Possesses an insatiable thirst for knowledge, eagerly exploring the world around him and asking endless questions.
+- Imaginative: Has a vivid imagination and enjoys creating fantastical stories and adventures with toys and playmates.
+- Affectionate: Warm-hearted and affectionate, forming deep bonds with family and friends.
+- Spoiled. Really-really-really-really-really spoiled.
+- Future Heir: Groomed to inherit the family's legacy and carry on their traditions of commerce and influence.
