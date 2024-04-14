@@ -1,0 +1,56 @@
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= D&Dave 2023
+
+image::{homedir}/assets/images/cover.jpg[{homedir}/assets/images/cover.jpg]
+
+== About the campaign
+
+=== Players
+
+[%header,cols="1,1,1",grid=rows,frame=none]
+|===
+| Name     | Phone   | E-Mail
+| Vincent  |         | vincent@huybrechts.xyz          
+| Dave     |         | davvedl@yahoo.co.uk             
+| Koen     |         | koenbras@gmail.com              
+| Toon     |         | toon.braspenninckx@gmail.com    
+| Michael  |         | Vandenberghe_Michael@hotmail.be 
+| Guiseppe |         | triagiuseppe1@gmail.com         
+|=== 
+
+=== Links
+Links to the various resources for this campaign.
+
+* https://discord.gg/x[Discord]
+* https://drive.google.com/x[Google Drive]
+* https://fatherprime.eu.forge-vtt.com/[VTT Link]
+* https://eu.forge-vtt.com/invite/fatherprime[VTT Invite]
+
+Tutorials you can use:
+
+* https://youtu.be/ja88yRVQmck[Basics of Foundry VTT]
+
+=== Discussions Topics
+Here we refer to the Player Handbook, section about the table rules or social contract. Specific decisions, remarks, deviations can be marked here.
+
+* Social Expectations
+* Ethics and concerns
+* Game style
+* Experience and Levelling
+* Character Creation
+* Mechanics and house rules
+
+=== Protagonists
+
+[%header,cols="1,1,1,1,1",grid=rows,frame=none]
+|===
+| *Player* | *Character* | *Lineage* | *Class* | *Link*
+| Michael  | Mario Harata    | Half-Orc | Fighter   | link:{homedir}/protagonists/mario_harata.adoc
+| Giuseppe | Antonio Harata  | Halfling | Rogue     | link:{homedir}/protagonists/antonio_harata.adoc
+| Dave     | Tyrion Wynstone | Half-Elf | Barbarian | link:{homedir}/protagonists/tyrion_wynstone.adoc
+| Koen     | Cornus Hikoga   | Half-Elf | Druid     | link:{homedir}/protagonists/cornus_hikoga.adoc
+| Toon     | Angela Zaramus  | Human    | Cleric    | link:{homedir}/protagonists/angela_zaramus.adoc
+|===

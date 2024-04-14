@@ -1,0 +1,18 @@
+<Project Name>
+
+Explain your project.
+Convert this file to markdown by adding the .md extension.
+Convert this file to asciidoc by adding the .adoc extension.
+
+
+[filetree]
+----
+legend
+Project
+|_ package
+  |_ Element 1.1
+  |_ Element 1.2
+|_ Element 2
+  |_ Element 2.1
+end legend
+----
