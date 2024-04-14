@@ -1,0 +1,81 @@
+{
+    "cSpell.enabled": true,
+    "cSpell.language": "en,nl",
+    "cSpell.maxNumberOfProblems": 100,
+    "cSpell.minWordLength": 4,
+    "cSpell.allowCompoundWords": true,
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "csharp",
+        "css",
+        "git-commit",
+        "html",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "jsonc",
+        "markdown",
+        "plaintext",
+        "python",
+        "restructuredtext",
+        "scss",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yaml",
+        "yml"
+    ],
+    "cSpell.ignorePaths": [
+        "node_modules",        // this will ignore anything the node_modules directory
+        "**/node_modules",     // the same for this one
+        "**/node_modules/**",  // the same for this one
+        "node_modules/**",     // Doesn't currently work due to how the current working directory is determined.
+        "vscode-extension",    //
+        ".git",                // Ignore the .git directory
+        "*.dll",               // Ignore all .dll files.
+        "**/*.dll",            // Ignore all .dll files.
+        "*.ps1",               // Ignore all .dll files.
+        "**/*.ps1"             // Ignore all .dll files.
+    ],
+    "cSpell.customWorkspaceDictionaries": [
+        {
+            "name": "calendarMartaka",
+            "description": "Calendar of Atuaro",
+            "path": "${workspaceFolder}/.vscode/calendar_martaka-en.txt",
+            "addWords": false
+        }
+    ],
+    "cSpell.flagWords": [
+        "hte" 
+    ],
+    "cSpell.ignoreWords": [
+        "adoc",
+        "ifdef",
+        "ifndef",
+        "webp"
+    ],
+    "cSpell.words": [
+        "aarakocra",
+        "akkadia",
+        "Arpaad",
+        "atuaro",
+        "bullywug",
+        "Celestia",
+        "custodi",
+        "deplenished",
+        "goblinoid",
+        "Gundren",
+        "helvetians",
+        "helvetica",
+        "helvetican",
+        "kainga",
+        "kaiwhai",
+        "loukotokia",
+        "maglubiyet",
+        "mount celestia",
+        "papatuanuku",
+        "ranginui",
+        "whaihai",
+        "whirotepua"
+    ],
+}
