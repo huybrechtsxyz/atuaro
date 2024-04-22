@@ -49,15 +49,34 @@ The party successfully infiltrates the rival thieves' hideout and recovers the a
 *Accomplices:*
 Magnifico has enlisted three formidable accomplices:
 
+    Maginifico (Rogue 4, AC 14 (leather), HP 32 (5d8 + 10)) :
+        Stats: STR +0, DEX +3, CON +2, INT +1, WIS +0, CHA +2. +
+        Saving Throws: Dex +5, Int +3 +
+        Skills: Acrobatics +5, Deception +4, Insight +2, Perception +2, Persuasion +4,
+        Skills: Sleight of Hand +5, Stealth +5
+        Bonus Action - Cunning Action: Mafnifico can take a bonus action to Dash, Disengage, or Hide. +
+        Actions - Multiattack with his rapier and one with his dagger.
+            Rapier: Melee +5 to hit, one target. Hit: 1d8 + 3 piercing.
+            Dagger: Melee +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 1d4 + 3 piercing.
+        Reactions: Uncanny Dodge: On hit, use his reaction to halve the damage.
+        Evasion: Dexterity saving throw? No damage on a successful save and half damage on a failed save.
+
     Thorne Ironfist (Fighter):
         Stats: STR 18, DEX 12, CON 16, INT 10, WIS 10, CHA 10.
         Abilities: Multiattack, Greatsword (2d6 + 4 slashing damage).
+        Thorne Ironfist is a burly and seasoned warrior, known for his unmatched combat prowess and loyalty to Magnifico. His imposing stature and formidable skills make him a formidable adversary in battle.
+        : Loyal, disciplined, and relentless in pursuit of his objectives. 
+
     Seraphina Swiftblade (Fighter):
         Stats: STR 12, DEX 16, CON 14, INT 10, WIS 12, CHA 10.
         Abilities: Multiattack, Longsword (1d8 + 3 slashing) or Longbow (1d8 + 3 piercing).
+        Seraphina Swiftblade is a skilled rogue who operates as an undercover agent for the city's patrician, tasked with monitoring Magnifico's movements and activities. To maintain her cover and gather valuable intelligence, she appears loyal to Magnifico while secretly reporting her findings to her true employer. Highly proficient in stealth, deception, and reconnaissance. Seraphina excels at blending into her surroundings, gathering information discreetly, and navigating complex social situations. Mysterious, adaptable, and quick-witted. Seraphina is skilled at playing different roles and adapting to unforeseen circumstances. She carefully conceals her true motives while maintaining a composed and affable demeanor.
+
     Rook Shadowstep (Rogue):
         Stats: STR 10, DEX 18, CON 12, INT 14, WIS 10, CHA 10.
         Abilities: Sneak Attack (2d6 extra damage), Dagger (1d4 + 4 piercing).
+        Rook Shadowstep is a shadowy figure with a penchant for deception and subterfuge. His silent movements and deadly precision make him a master of assassination and covert operations.
+        Enigmatic, calculating, and ruthless. His loyalty lies with Magnifico, and he harbors few moral qualms about his actions.
 
 *Chase Scene:*
 The party engages in a city-wide chase, pursuing Magnifico and his skilled accomplices through streets, rooftops, and obstacles. Along the way, they face challenges from Thorne's strength, Seraphina's versatility, and Rook's cunning rogue abilities.
@@ -67,7 +86,6 @@ The chase leads to a dramatic confrontation where The Rogue and the party must c
 
 *Outcome:*
 Depending on the party's decisions, the story may lead to redemption, forgiveness, or a fracture within the group. Relationships with the patron and The Rogue's mentor reshape based on the events of the encounter.
-
 
 === The Misteries
 

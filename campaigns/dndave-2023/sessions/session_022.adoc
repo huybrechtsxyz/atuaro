@@ -14,17 +14,12 @@ image::{homedir}/assets/images/heading.jpg[]
 * Elaborate on the down time adventures of level 2.
 
 == Important
-* Angela (Toon)      : INT > Command as cantrip (https://www.dndbeyond.com/spells/command)
-* Antonio (Giuseppe) : WIS > Mounted combat when on Mario (https://explorednd.com/gameplay/mounted-combat-5e-guide/)
-* Cornus (Koen)      : CHA > Cast animal frienship (https://www.dndbeyond.com/spells/animal-friendship)
-* Mario (Michael)    : STR > Protection fighting style (https://www.dndbeyond.com/sources/basic-rules/classes#FighterFightingStyle)
-* Tyrion (Dave)      : STR > 1 rage per long rest (https://www.dndbeyond.com/sources/basic-rules/classes#Rage) as a child.
 
 * *Do not forget to copy-paste the read-out texts to the chat for Giuseppe.*
 * *Antonio will steal anything that is not fixed to a wall.*
 
 == Plot Evolution
-Antonio has the golden ring of Cracus with the symbol of Whirotepua (disturbs long rest on failure of WIS DC10, valued at 20GP). They destroyed their reputation as solid adventurers by letting Antonio threathen Gundren Rockseeker. The party did destroy the cursed golden dagger of the Silverpine Watch.
+Antonio has the golden ring of Cracus with the symbol of Whirotepua (disturbs long rest on failure of WIS DC10, valued at 20GP). They destroyed their reputation as solid adventurers by letting Antonio threathen Gundren Rockseeker. The party did destroy the cursed golden dagger of the Silverpine Watch. During their downtime they try to repair their reputation.
 
 == Plot Summary
 After lunch the kids take a short nap in their room. Waking up each player gets a boon depending on how they played. Antonio checked the well: no treasure there. The deal with the pixies and go to the carnival. Then try to get to the treasure map at location 7.  At the moment they only saw the animals, the guards tent, and the entrance. Tyrion (Dave) failed to distract the guard for others to go inside of the tent. Tyrion tries to distract the guard while Antonio tries to look in. Both failed at their attempt. They continue their visit to the carnival. Owlbears and displacer beats. They are put in cages. They found a treasure map and met with a magician with quick hands. Mario was eating a lot of cake and told silly jokes on stage with Antonio. What is the difference between a snowman and snowwoman? Snowballs. 
@@ -54,11 +49,23 @@ After killing the zombies, they search all the trunks and find what is within, l
 They fight sir Arpaad and manage to go through the towers and zombies. After they manage to open the portcullis, Gundren drives of leaven them the money. They sleep and start roaming what is left of the watch. Antonio is still hanging in there but is starting to feel its effects. (See below: Antonio and the cursed ring). They kill the revenant blacksmith and destroy the dagger.
 
 They do kind of piece together what happened and go on to Loukotokia.
-* Flashback of Angela; finding an imposter and saving the Messia's Foot and the religious festival. Success.
-* Flashback of Mario; saving a youngling from a bullying gang. Success.
-* Flashback of Cornus; stopping a dog fighting ring The culprit is in jail! Success.
-* Flashback of Tyrion; killing the fighters is ok, but non-fighters not. Stopped an illegal fight ring. Success.
-* Flashback of Antonio; in progress
+
+  * Flashback of Angela +
+  finding an imposter and saving the Messia's Foot and the religious festival. Success.
+
+  * Flashback of Mario +
+  saving a youngling from a bullying gang. Success.
+
+  * Flashback of Cornus +
+  Stopping a dog fighting ring The culprit is in jail! Success.
+
+  * Flashback of Tyrion. +
+  Killing the fighters is ok, but non-fighters not. Stopped an illegal fight ring. Success.
+
+  * Flashback of Antonio. +
+  Antonio is the laughing stock in the thieves guild for steeling the teddybear of the young Mr. Neurdragon junior. At least that is what he is accused of by someone who is spreading rumors. These actions have reached Magnifico's ears, and his once-proud mentor is deeply disappointed. He believes in the innocence of Antonio and proposes to steal something really valuable from Mr Neurdragon. He is supposed to have a codex of some sort (~book). It is being whispered that all his riches, power, and knowledge are bound to it. Angela has no real appetite in helping out as it is believed the Neurdragons are good people. But agrees to take the party as choirboys (?) during a coming-of-age ceremony. The party uses the communion of the young son of Mr. Neurdragon as a guise to infiltrate the Neurdragon estate for reconnaissance purposes. While Angela and her father Pacal perform the rites, multiple members of the team try to talk to the young boy about the teddybear. It seems that the boy 'lost' his teddybear and the locket that was attached to it. Although silver, for Perseus it is the emotional attachment that matters. Its disappearance has left a void in the heart of its owner, who longs to be reunited with the precious keepsake. Then trying to scout the premises, until one member is caught in the proverbial cooky jar. Tyrion while sneaking upstairs finds the Crystal Room. A guard caught Tyrion, and locked him in the premises and waiting with  further investigations until the ceremony was concluded. He first tried to escape through the window, breaking it down, and making noise in the process. This caught the attention of one of the guards. Tyrion was able to knock the guard unconscious and escape by running through the house. The commotion is not unnoticed during the ceremony, but Pacal and Neurdragon keep their cool and continue the ceremony. Both will have something on their mind about these events. Antonio and the rest of the party regroup. Have a conversation with Magnifico. There they learn that he is mostly in it for himself. They recon the place for a week. The Pinkertons, wearing all black, with black carriages, were present, but have left by now. The Patrician visited the Neurdragon estate.
+
+
 
 == Start of session
 *Cornus water magic*
@@ -68,10 +75,15 @@ requires a DC before succeeding:
   - 11 on the dice: standard.
   - 15 on the dice: hard.
   - 19 on the dice: impossible.
+
 *Antonio*
   - has the golden ring of Cracus with the symbol of Whirotepua
     disturbs long rest on failure of WIS DC10, valued at 20GP +
     he now has no benefit from a long rest except half the hit dice.
+
+*Pacal Zaramus' Disposition* towards the party (Excellent, Good, Okay, Dislike, Bad)? +
+    Excellent. (Start of the trip) +
+    *Good.* (Downtime of Angela)
 
 *Gundren's Disposition* towards the party (Excellent, Good, Okay, Dislike, Bad)? +
     Excellent. (Start of the trip) +
@@ -85,19 +97,7 @@ requires a DC before succeeding:
 
 == Session Notes
 
-Antonio is the laughing stock in the thieves guild for steeling the teddybear of the young Mr. Neurdragon junior. At least that is what he is accused of by someone who is spreading rumors. These actions have reached Magnifico's ears, and his once-proud mentor is deeply disappointed. He believes in the innocence of Antonio and proposes to steal something really valuable from Mr Neurdragon. He is supposed to have a codex of some sort (~book). It is being whispered that all his riches, power, and knowledge are bound to it.
-
-Angela has no real appetite in helping out as it is believed the Neurdragons are good people. But agrees to take the party as choirboys (?) during a coming-of-age ceremony. The party uses the communion of the young son of Mr. Neurdragon as a guise to infiltrate the Neurdragon estate for reconnaissance purposes. While Angela and her father Pacal perform the rites, multiple members of the team try to talk to the young boy about the teddybear. It seems that the boy 'lost' his teddybear and the locket that was attached to it. Although silver, for Perseus it is the emotional attachment that matters. Its disappearance has left a void in the heart of its owner, who longs to be reunited with the precious keepsake.
-
-Then trying to scout the premises, until one member is caught in the proverbial cooky jar. Tyrion while sneaking upstairs finds the Crystal Room. A guard caught Tyrion, and locked him in the premises and waiting with  further investigations until the ceremony was concluded. He first tried to escape through the window, breaking it down, and making noise in the process. This caught the attention of one of the guards. Tyrion was able to knock the guard unconscious and escape by running through the house.
-
-*The commotion is not unnoticed during the ceremony, but Pacal and Neurdragon keep their cool and continue the ceremony. Both will have something on their mind about these events.*
-
-Antonio and the rest of the party regroup. Have a conversation with Magnifico. There they learn that he is mostly in it for himself. They recon the place for a week.
-- The Pinkertons, wearing all black, with black carriages, were present, but have left by now.
-- The Patrician visited the Neurdragon estate
-
-Antonio, Cornus, and Tyrion heist the Neurdragon estate during the middle of night, and steal the Codex.
+Antonio, Cornus, and Tyrion heist the Neurdragon estate during the middle of night, and steal the Codex with success.
 
 === Current Session
 
@@ -107,7 +107,6 @@ X
 === Active Plot Points
 
 Next time...
-* Pacal gives Angela a short but sharp talk about choosing the right people! (Excellent -> Good)
 * Tyrion's description is being made sort of public to the thieves guild
 * Antonio and Magnifico. The battle and the Patrician.
 

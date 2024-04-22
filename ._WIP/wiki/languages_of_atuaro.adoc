@@ -6,6 +6,6 @@ There are several interesting and unusual details regarding language in Atuaro. 
 
 Halflings do not have a true language of their own. Rather, they speak Half Cant, a slang language composed of borrowed words from other languages, incomprehensible idioms, and hand gestures.
 
-Arcane magic formulas generally incorporate elven script with draconic runes and usually form the basis for evocation and transmutation magic. Elven script is often used in illusion and enchantment magic. These reflect the magical traditions that originated with those races.
+Arcane magic formulas generally incorporate elven script with draconic runes and usually form the basis for evocation and transmutation magic. Elven script is often used in illusion and enchantment magic. These reflect the magical traditions that originated with those races.
 
 Non-dragons speak a debased form of draconic called Low Draconic. Because they lack forked tongues and have such different jaw structures and facial muscles, humans just can't make the same sounds that dragons can. Are these details important? Not for this adventure.
