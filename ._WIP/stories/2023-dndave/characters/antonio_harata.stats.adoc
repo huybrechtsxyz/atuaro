@@ -1,0 +1,13 @@
+[cols="1a",grid=rows]
+|===
+| [big]#*Antonio Harata \| Giuseppe Tria*# +
+  [small]#Halfling Rogue# +
+  *AC* x *HP* x (x)
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR* +4 ^! *DEX* +2 ^! *CON* +2 ^! *INT* +1 ^! *WIS* +0 ^! *CHA* -1
+!===
+|
+*Background:* Acolyte +
+|===

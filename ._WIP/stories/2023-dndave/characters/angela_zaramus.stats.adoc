@@ -1,0 +1,14 @@
+[cols="1a",grid=rows]
+|===
+| [big]#*Angela Zaramus \| Toon Braspenninckx*# +
+  [small]#Human Cleric# +
+  *AC* x *HP* 2x (x)
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR* -21 ^! *DEX* +2 ^! *CON* +1 ^! *INT* +0 ^! *WIS* +3 ^! *CHA* +2
+!===
+|
+*Devout Worshipper*: She was raised very religiously from a very young age. Crusader type. The law is never wrong. +
+*Hidden spellcasting:* 1x per long rest Advantage on Sleigh of hand check when casting a spell.
+|===
