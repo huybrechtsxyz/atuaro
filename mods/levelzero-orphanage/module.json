@@ -1,0 +1,93 @@
+{
+    "id": "atuaro-levelzero_orphanage",
+    "name": "atuaro-levelzero_orphanage",
+    "title": "Atuaro: Level Zero - The Orphanage",
+    "description": "x",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Vincent Huybrechts",
+            "discord": "FatherPrime",
+            "url": "https://github.com/huybrechtsxyz/"
+        }
+    ],
+    "url": "https://github.com/huybrechtsxyz/atuaro",
+    "bugs": "https://github.com/huybrechtsxyz/atuaro/issues",
+    "allowBugReporter": true,
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "0.8.6",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "atuaro-levelzero_orphanage-actors",
+            "label": "Level Zero Actors for Atuaro",
+            "path": "./packs/actors.db",
+            "entity": "Actor",
+            "type": "Actor",
+            "system": "dnd5e"
+        },
+        {
+            "name": "atuaro-levelzero_orphanage-creatures",
+            "label": "Level Zero Creatures for Atuaro",
+            "path": "./packs/creatures.db",
+            "entity": "Actor",
+            "type": "Actor",
+            "system": "dnd5e"
+        },
+        {
+            "name": "atuaro-levelzero_orphanage-items",
+            "label": "Level Zero Items for Atuaro",
+            "path": "./packs/items.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "atuaro-levelzero_orphanage-scenes",
+            "label": "Level Zero Scenes for Atuaro",
+            "path": "./packs/scenes.db",
+            "entity": "Scene",
+            "type": "Scene"
+        },
+        {
+            "name": "atuaro-levelzero_orphanage-journal",
+            "label": "Level Zero Journals for Atuaro",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "atuaro-levelzero_orphanage-macros",
+            "label": "Atuaro Macros",
+            "path": "./packs/macros.db",
+            "entity": "Macro",
+            "type": "Macro"
+        },
+        {
+            "name": "atuaro-levelzero_orphanage-tables",
+            "label": "Level Zero Tables for Atuaro",
+            "path": "./packs/roll-tables.db",
+            "entity": "RollTable",
+            "type": "RollTable"
+        },
+        {
+            "name": "atuaro-levelzero_orphanage-playlists",
+            "label": "Level Zero Playlists for Atuaro",
+            "path": "./packs/playlists.db",
+            "entity": "Playlist",
+            "type": "Playlist"
+        },
+        {
+            "name": "atuaro-levelzero_orphanage-adventures",
+            "label": "Level Zero Adventures for Atuaro",
+            "path": "./packs/adventures.db",
+            "entity": "Adventure",
+            "type": "Adventure"
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/huybrechtsxyz/atuaro/main/bin/atuaro-levelzero_orphanage/module.json",
+    "download": "https://raw.githubusercontent.com/huybrechtsxyz/atuaro/main/bin/atuaro-levelzero_orphanage/atuaro-levelzero_orphanage.zip"
+  }

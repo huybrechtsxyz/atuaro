@@ -1,0 +1,161 @@
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+= The House of Orphaned and Abandoned Offspring
+:toc:
+
+*Tags:* #orphanage
+
+image::{homedir}/images/cover.png[]
+
+== Summary
+After talking about the social contract and their introduction to the world, the players create a character and the game can start.
+
+Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them. If they success then they can go to the carnival. They not gonna fail right... right...
+
+While Hibiscus Tauwi (The Priest) comes to visit Ms Witchling, Aeria Jones (Weird) comes back inside and is not alone. She is surrounded by pixies. The pixies start fun and try to lure the children outside. They start harassing children if they do not comply. If no action is taken, the pixies will focus on a single child and lure / drag the child Timothy Butch (the sad one) or Gilad Shams (the bully) outside. Our heroes will need to defend the children.
+
+The 11th day of Mahea [11/03/365 AR] is a lucky day. The Imbolc Carnival is in town. Ms Witchling made arrangements that allow the children to visit the carnival. The children heard from the older ones the exotic fruit is very special, but that Ms Witchling did not arrange a tasting. The children can go and visit the carnival, play the games, and maybe steal some of that fruit? They have to find a treasury map that leads to the next encounter.
+
+Each year during the spring carnival the town of Kainga has held an annual tournament open to the bravest and brightest. The premise is simple. Enter the dungeon and emerge with the most Chips of Valour at the greatest speed.
+
+*Extra Information*
+
+During the Dark Ages of Europe, which lasted from the 5th to the 10th century, the seasonal transition from winter to spring was often referred to as "Candlemas" or "Imbolc". Candlemas was celebrated on February 2nd and marked the halfway point between the winter solstice and the spring equinox. Imbolc was a Gaelic festival celebrated on the first day of February and marked the beginning of spring in Ireland and Scotland. Both of these festivals celebrated the end of winter and the beginning of the agricultural season.
+
+== To Do List
+
+* Create an introduction chapter about this adventure
+* Make the hardcore rules more clear to start with.
+* Make the children older to start with (now they are 8)?
+* The rats can be made more assertive so they attack quicker
+* Pixies can be more aggressive, stronger, and do more damage / or more pixies
+* Take a look at the tournament: make it more obvious what it is.
+* Have fun at the carnival: make the tricks better
+* Clown School: Flesh out Willie the clown and a possible reward
+* Magician Trick: Rework act and possible reward
+
+== Introduction and Welcome
+
+Hi everyone and welcome to the session zero of your Atuaro adventure.
+
+Just a reminder that in the Player Handbook you can find a lot of interesting things like:
+
+* Basic Play
+* Table Rules
+* Game Rules
+
+As mentioned in the Table Rules, I expect that you have a way of managing your character. The obvious ways is using a form fillable PDF or one of the many character apps that are available. A few examples are the Standard Character Sheet or the alternate sheet found in the public sheets folder. My personal preference is that you no longer use D&D Beyond in light of the O.G.L. controversy. An editable PDF, World Anvil, VTT has a good player character manager my preference would be one of these.
+
+=== Ineffable Games
+
+image::{homedir}/assets/images/ineffable_games.jpg[align=center]
+
+The world was a vast and ancient place, shaped by the will of powerful beings beyond the comprehension of mortals. At the center of it all stood Mount Celstia, a towering peak that reached to the very heavens. It was there, atop that sacred mountain, that the Allfather gods Ranginui and Papatuanuku resided. They were the creators of all that existed, the bringers of light and life to a world that would otherwise have remained forever in darkness.
+
+Gods play games with the fates of men. The game they play is somewhere between Dungeons and Dragons, Risk and Chess, with Diplomacy, Monopoly and Battleships thrown in for good measure along the way. Don't think the game is complicated though; gods don't have the patience for complex games. They prefer games that are short and violent. The game is played on a map of the world that is, on closer inspection, the world itself. If you look closely enough at the tiny pin that is Mount Celestia in the middle of the board, you can see the gods on top of it in their home playing the game. If you look closer still, you can see the board with a tiny Mount Celestia.
+
+A youthful deity is competing against all the other gods. Ranginui and Papatuanuku observe the spectacle with a mixture of amusement, shame, and confusion. Ohm, their newest, is unique in that they are only a few thousand years old. Trusted upon them by the new arrivals on Atuaro. Ohm has resulted in upheaval both in the world and in the established traditions and customs of the gods themselves. Ohm glares at the game board, frustrated. "I was winning!". "What went wrong in the last few centuries?" Ohm stares at the board once more, hoping to find an edge ...
+
+It's 5 AM on a early freezing spring morning. The window and heavy dark green curtains do little to keep out the cold. You try to snuggle under the blanket for warmth, but no matter how you arrange it, you can't seem to get comfortable. "I'm only 8 years old," you think. "This blanket nonsense has got to stop. I just need it to be longer." Suddenly, you sit up and open your eyes. You find yourself floating in a void of blackness and silence, and the cold is biting. No matter how you try to move, there is no resistance. You are suspended in the darkness, frozen in place.
+
+A massive eye towers over you, its curiosity and threat palpable. The only thing in sight is the enormous purplish-brown iris, and your reflection appears as nothing more than a speck of dust. The pupil is black with a tiny blue dot in the center, and as you gaze at it, you feel judged and weighed. Overcome with fear and freezing cold, your eyes are fixed on the blue speck. As you fall into the pupil, you pick up speed, the blue dot growing larger. The coldness is replaced by warmth and then heat as your fear increases. The blue dot transforms into a world, with vast oceans encircling a huge continent surrounded by archipelagos and isolated islands.
+
+From a distance, the massive continent and its vast oceans come into view. The continent boasts towering mountains and dividing rivers that create diverse landscapes. On the east side is a circular sea, a bay so large it appears as if a chunk has been bitten out of the continent. It is surrounded by expansive plains used for farming and woods that turn into jungles in the south. In the west lies a massive desert, a place so devoid of water that its inhabitants do not believe in rain. Far to the north, arctic conditions blanket everything in ice and snow. The central mountain range holds the abode of the gods, Mount Celestia.
+
+You experience a rush of air and the world speeds towards you. The city of Loukotokia, a bustling entrepreneurial hub nicknamed the "Anthill," is quickly approaching. Built on several hills near one of the major rivers on the continent, it flashes by on your right as you continue your rapid descent to Kainga, a small village just a day's journey from Loukotokia.
+
+Kainga is a compact and tidy village, surrounded by lush green forests and rolling hills. The town is built around a central square, where the Common House, the Temple of the Ohm, and the market stalls are located. The streets of Kainga are semi-maintained dirt roads, lined with wooden houses, barns, and workshops. To the north of the central square lies Tobias' Forge, a large, smoky building that doubles as the blacksmith's workshop and store. The river that runs near Kainga provides water for the town's crops and livestock, and also serves as a source of fish for the townspeople. The fertile lands around Kainga are dotted with small farms, where the town's residents grow crops, raise livestock, and live out their peaceful lives.
+
+You head towards a notorious establishment on the outskirts of the village. Just as you would crash into the roof, you wake up, jolting upright and hitting your head on the ceiling or the upper bunk of your bed. Sweaty and hot, your bed is soaking wet. You are lying in your bunk in one of the bedrooms at the House of Orphaned and Abandoned Offspring.
+
+== Character Creation
+
+To play in a role-playing game you will need a character. But as most players already did this plenty we are going to condense the information to what you need to know to play in Atuaro with links to relevant articles if you want to know more. As we are building a random generated character do not feel to fixated on your choices. People change with age.
+
+Please create 3 characters in order and set their:
+
+* Ability Scores
+* Character Lineage
+* Class Archetype
+* Hit Points
+* Basic Information
+
+=== Ability Scores
+
+The first order of business is to create your ability scores. Please use the Hardcore Mode to create your ability scores. For each ability score:
+
+* In order from STRength to CHArisma
+* Roll 3D6 ONCE in ORDER and note the result
+* Keep track of the lowest die roll
+* Calculate your standard modifier
+* Subtract the lowest die role
+
+=== Character Lineage
+
+Characters in the world belong to a lineage which includes certain biological characteristics and defines some aspects of their physical appearance. Other things, such as a character’s speed and size, are also derived from their lineage.
+
+Choose one of the playable races from the Atuaro handbook
+
+If you wish to add a race please talk to your GM.
+
+=== Class Archetype
+
+Select one of the class archetypes.
+
+* Martial, a character that martial prowess
+* Diviner, a character that gets its power from the gods
+* Mage, a character that uses arcane magic 
+* Expert, a character with special expertise (what expertise?)
+
+=== Hit Points
+
+At level zero, your character has 1 D4 Hit Die. Later the die type is determined by your class. At each Level, roll your class Hit Die and add that to your MAX HP. No CON modifier applies, no re-rolls, no max outcomes.
+
+=== Basic Information
+
+Please answer the following questions?
+
+* How long have you been at the Witchling House?
+* Were you brought here as a newly born?
+* Or yesterday by your parents or their servant?
+* Do you know why they brought you here?
+
+Is there anything you would like to add?
+
+* Personality traits
+* Ideals, bonds, flaws
+* A hobby, personal item from your past?
+
+== Basement Dwellings
+
+Ms Witchling will ask the characters to go in the basement to get refreshments for her guests that day. While in the basement they will have to fetch the drinks while avoiding the rats. If they investigate they will find a child locked up in the basement. There are some hidden valueables in that room if they can find them.
+
+If they succeed then they can go to the carnival. They not gonna fail right... right...
+
+**A day at the House of Orphaned and Abandoned Offspring**
+
+[%header]
+|===
+| Activity                   | Time           | Elders  
+| Hour of rising with chores | 6:00           |         
+| Hour of rising             | 6:30           |         
+| Breakfast until            | 7:00           |         
+| Work and lessons from      | 07:30 to 12:00 |         
+| Dinner from                | 12:00 to 13:00 |         
+| Work from                  | 13:00 to 18:00 |         
+| Supper from                | 18:00 to 19:00 |         
+| Recreation from            | 19:00 to 20:00 | to 21:00
+| Bedtime at                 | 20:00          | at 21:00
+| Lights out                 | 20:30          | at 21:30
+|===
+
+**Tasks that need completion during the day**
+The children get some lessons that learn them to read and write.
+* Cleaning the orphanage
+* Cleaning and lighting the fireplaces
+* Laundry, making and mending clothes
+* Oakum picking - hated by everyone
+* Tending to the vegetable path and the animals
+* Knitting clothes or spinning cotton
