@@ -1,0 +1,15 @@
+[cols="1a",grid=rows]
+|===
+| [big]#*John Doe*# +
+  [small]#Lineage Class (CR)# +
+  *AC*  *HP*  (1d4)
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR* +0 ^! *DEX* +0 ^! *CON* +0 ^! *INT* +0 ^! *WIS* +0 ^! *CHA* +0
+!===
+|
+
+|
+
+|===

@@ -1,0 +1,19 @@
+[cols="1a",grid=rows]
+|===
+| [big]#*Gundren Rockseeker*# +
+  [small]#Male Dwarf, Mining expert (Age)# +
+  *AC*  *HP*  (1d)
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR* +2 ^! *DEX* +1 ^! *CON* +3 ^! *INT* +2 ^! *WIS* +1 ^! *CHA* +1
+!===
+|
+
+|
+*Dwarven Resilience:* Advantage on saving throws against poison and resistance against poison damage. +
+*Stonecunning:* Proficiency in History checks related to stonework and double proficiency bonus to check for the origin of stonework. +
+*Business Acumen:* Proficiency in Persuasion checks related to business dealings and negotiations. +
+*Expertise:* Double proficiency bonus on selected skills (e.g., Investigation, Perception). +
+*Loot:* Chain shirt, Pickaxe, Miners tools, Dagger, Explorer pack, 20GP.
+|===

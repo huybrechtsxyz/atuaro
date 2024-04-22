@@ -1,0 +1,19 @@
+[cols="1a",grid=rows]
+|===
+| [big]#*Gilad Shams*# +
+  [small]#The Bully \| Human Commoner (Age 10)# +
+  *AC* 5 *HP* 2 (1d4)
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR* +1 ^! *DEX* -1 ^! *CON* -1 ^! *INT* -2 ^! *WIS* -2 ^! *CHA* -3
+!===
+|
+*Brutish*: brute who is not afraid to use force to get what they wants. +
+*Fear-monger*: skilled intimidator, and uses fear to control and manipulate others.
+|
+*Common Items* +
+* A small knife for protection(?) +
+* A tattered backpack to carry his few possessions +
+* A dirty blanket that he uses for warmth at night
+|===

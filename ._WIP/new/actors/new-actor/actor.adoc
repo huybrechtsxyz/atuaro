@@ -1,0 +1,9 @@
+include::actor.stats.adoc[]
+
+[cols="2a,4a",grid=rows]
+|===
+|
+image::actor.jpg[]
+| 
+About
+|===
