@@ -78,4 +78,5 @@
         "whaihai",
         "whirotepua"
     ],
+    "asciidoc.antora.enableAntoraSupport": false,
 }

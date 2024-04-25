@@ -1,0 +1,14 @@
+# How to contribute
+
+## Required Tools
+### Editor
+VS Code
+ASCIIDOC Extension
+
+### Node.js
+Install node.js from https://nodjs.org/en/download
+
+### Foundry VTT
+Install foundry from https://foundryvtt.com/
+Install foundry cli from https://github.com/foundryvtt/foundryvtt-cli
+
