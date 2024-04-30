@@ -1,0 +1,53 @@
+ifndef::rootdir[]
+:rootdir: ../../..
+endif::[]
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+= CharacterName
+
+*as played by PlayerName*
+
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*CharacterName*#
+| [small]#Lineage and Class#
+
+| image::{homedir}/assets/images/character.jpeg[label,width,height,properties]
+|
+*Background:* Acolyte
+
+[%header,cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! STR       ^! DEX       ^! CON       ^! INT       ^! WIS       ^! CHA
+^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*) ^! 10 (*+0*)
+!===
+
+[%header,cols="1,2,2,3",grid=rows,frame=none,caption="",title="Levels"]
+!===
+^! Level ! Class                ! Subclass                       ! Remark
+^!  0    ! Diviner              ! -                              ! As a child
+!===
+
+| *Strategy* | 
+
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+| *About* +
+
+
+*Tags:* 
+|===
+
+== Notes
+
+=== Backstory

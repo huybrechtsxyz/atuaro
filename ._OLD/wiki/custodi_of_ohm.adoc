@@ -1,0 +1,20 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+
+= The Custodi
+
+image::{rootdir}/assets/images/heading.jpg[]
+
+**Tags:** #gods, #pantheon, #custodi
+
+== About the Custodi
+
+The Custodi are Takangi's religious institution. They not only handle matters of religion, but they also take care of medical matters and are a voice in the Small and Grand Council which helps govern all of Takangi. In the days before King Omen took the throne, the Custodi enjoyed a major role in the political structure of Takangi, as with the chaos of the times, power shifted constantly and as many looked to the Custodi for guidance, their power base remained secure. After King Omen took the throne, matters of state were cemented and the Custodi were faced with the very real threat of power slipping from their grasp.
+
+Their fortunes reversed however when King Omen was diagnosed with a debilitating illness. Leaping at the opportunity, they offered their magics and medicines to extend his lifespan. For their continued aid, the Custodi managed to claim more power in court and have a solid, and near majority power base once again.
+
+Paladins, clerics are all members of the Custodi, the dominant and only allowed religion. They worship Ohm, but they each believe in different interpretations of their scripture. As they present a united front to court and the people, they are in just as many factions as there are Divine Domains. Each faction seeks the highest points for their own sects of their overall religion.
+
+=== Related Links
+* link:../pantheon/gods_of_atuaro.adoc[Gods of Atuaro]
