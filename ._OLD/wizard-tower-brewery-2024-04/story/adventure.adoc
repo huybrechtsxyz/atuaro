@@ -1,0 +1,11 @@
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+= The Wizards Tower Brewery
+:toc:
+
+*Tags:* #brewery
+
+image::{homedir}/images/cover.png[]
+
