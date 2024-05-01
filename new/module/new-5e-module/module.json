@@ -1,0 +1,33 @@
+{
+  "id": "new-5e-module",
+  "title": "New 5E Module",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "A template package for D&amp;D 5th edition.",
+  "authors": [
+    {
+      "name": "Author 1",
+      "discord": "A-Discord",
+      "email": "A@B.COM",
+      "url": "https://go.to/author",
+      "flags": {}
+    }
+  ],
+  "url": "https://go.to/url",
+  "packs": [
+    {
+      "name": "adventure",
+      "label": "Adventure",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
