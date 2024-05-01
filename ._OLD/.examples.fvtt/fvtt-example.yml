@@ -1,7 +1,0 @@
-import { compilePack, extractPack } from "@foundryvtt/foundryvtt-cli";
-
-// Extract a NeDB compendium pack.
-await extractpack("mymodule/packs/actors.db", "mymodule/packs/src/actors", { nedb: true });
-
-// Compile a LevelDB compendium pack.
-await compilePack("mymodule/packs/src/actors", "mymodule/packs/actors");

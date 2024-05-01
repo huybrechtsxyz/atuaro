@@ -1,4 +1,4 @@
-# Atuaro: Level Zero - The Orphanage
+# Atuaro: <ModuleName>
 
 ## 1.0
 The first version of the adventure.

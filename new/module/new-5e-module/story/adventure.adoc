@@ -1,11 +1,11 @@
 ifndef::homedir[]
-:homedir: ..
+:homedir: .
 endif::[]
 
-= The Wizards Tower Brewery
+= The Modules Story
 :toc:
 
-*Tags:* #brewery
+*Tags:* #tagname
 
 image::{homedir}/images/cover.png[]
 

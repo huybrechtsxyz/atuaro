@@ -12,12 +12,12 @@ $ExecPath = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition
 # Build distribution and create binaries
 $Path = Get-WorldsPath -RootPath $ExecPath -SourceId $Id
 if ( Test-Path -LiteralPath $Path -PathType Container ) { 
-  Optimize-Source -RootPath $ExecPath -SourceId $Id -IsModule $false -IsWorld $true -DoCreate $false
+  Optimize-Source -RootPath $ExecPath -SourceId $Id -IsWorld $true -DoAction "build"
   return
 }
 
 $Path = Get-ModsPath -RootPath $ExecPath -SourceId $Id
 if ( Test-Path -LiteralPath $Path -PathType Container ) { 
-  Optimize-Source -RootPath $ExecPath -SourceId $Id -IsModule $true -IsWorld $false -DoCreate $false
+  Optimize-Source -RootPath $ExecPath -SourceId $Id -IsModule $true -DoAction "build"
   return
 }

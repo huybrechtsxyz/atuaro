@@ -1,8 +1,8 @@
 function Compress-Module {
   param (
-      [string]$SourceId,
-      [string]$SourcePath,
-      [string]$TargetPath
+    [Parameter(Mandatory=$true)] [string] $SourceId,
+    [Parameter(Mandatory=$true)] [string] $SourcePath,
+    [Parameter(Mandatory=$true)] [string] $TargetPath
   )
   $Source = $SourcePath + "/*"
   $Destination = $TargetPath + "/$SourceId.zip"
@@ -11,9 +11,9 @@ function Compress-Module {
 
 function Copy-SectionItems {
   param (
-    [string]$Section,
-    [string]$FromPath,
-    [string]$ToPath
+    [Parameter(Mandatory=$true)] [string] $Section,
+    [Parameter(Mandatory=$true)] [string] $FromPath,
+    [Parameter(Mandatory=$true)] [string] $ToPath
   )
   $FromPath = $FromPath + "/" + $Section
   $ToPath = $ToPath + "/" + $Section
@@ -30,61 +30,74 @@ function Copy-SectionItems {
 }
 
 function Get-BinPath {
-  param([string] $RootPath, [string] $SourceId)
+  param(
+    [Parameter(Mandatory=$true)] [string] $RootPath,
+    [Parameter(Mandatory=$true)] [string] $SourceId
+  )
   $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
   return  $RootPath + "/" + $AppSettings.Paths.Binaries + "/" + $AppSettings.Prefix + $SourceId
 }
 
 function Get-DistPath {
-  param([string] $RootPath, [string] $SourceId)
+  param(
+    [Parameter(Mandatory=$true)] [string] $RootPath,
+    [Parameter(Mandatory=$true)] [string] $SourceId
+  )
   $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
   return  $RootPath + "/" + $AppSettings.Paths.Distribution + "/" + $SourceId
 }
 
-function Get-NewModulePath {
-  param([string] $RootPath, [string] $SourceId)
-  $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
-  return  $RootPath + "/" + $AppSettings.Paths.Templates + "/module/" + $SourceId
-}
-
-function Get-NewWorldPath {
-  param([string] $RootPath, [string] $SourceId)
-  $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
-  return  $RootPath + "/" + $AppSettings.Paths.Templates + "/world/" + $SourceId
-}
-
-function Get-ModsPath {
-  param([string] $RootPath, [string] $SourceId)
-  $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
-  return  $RootPath + "/" + $AppSettings.Paths.Modules + "/" + $SourceId
-}
-
-function Get-WorldsPath {
-  param([string] $RootPath, [string] $SourceId)
-  $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
-  return  $RootPath + "/" + $AppSettings.Paths.Worlds + "/" + $SourceId
-}
-
-function Get-VttModulePath {
-  param (
-    [string] $RootPath, [string]$ModuleId
+function Get-NewPath {
+  param(
+    [Parameter(Mandatory=$true)] [string] $RootPath, 
+    [Parameter(Mandatory=$true)] [string] $TemplateId,
+    [Parameter(Mandatory=$true)] [string] [ValidateSet("module","world")] $SourceType
   )
   $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
-  $Path = "C:/Users/" + $Env:UserName.ToLower() + "/AppData/Local/FoundryVTT/Data/modules/" + $AppSettings.Prefix + $ModuleId
-  if ( Test-Path -LiteralPath $Path -PathType Container ) { 
-    return $Path
-  }
-  return $null
+  return $RootPath + "/" + $AppSettings.Paths.Templates + "/" + $SourceType + "/" + $TemplateId
 }
 
-function Get-VttWorldPath {
-  param (
-    [string] $RootPath, [string]$WorldId
+function Get-SourcePath {
+  param(
+    [Parameter(Mandatory=$true)] [string] $RootPath, 
+    [Parameter(Mandatory=$true)] [string] $SourceId,
+    [Parameter(Mandatory=$true)] [string] [ValidateSet("module","world")] $SourceType
   )
   $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
-  $Path = "C:/Users/" + $Env:UserName.ToLower() + "/AppData/Local/FoundryVTT/Data/worlds/" + $AppSettings.Prefix + $WorldId
-  if ( Test-Path -LiteralPath $Path -PathType Container ) { 
-    return $Path
-  }
-  return $null
+  if ($SourceType -eq "module") { return $RootPath + "/" + $AppSettings.Paths.Modules + "/" + $SourceId }
+  elseif ($SourceType -eq "world") { return $RootPath + "/" + $AppSettings.Paths.Worlds + "/" + $SourceId }
+  else { throw "Get-SourcePath - Not a module or a world" }
+}
+
+function Get-VttPath {
+  return "C:/Users/" + $Env:UserName.ToLower() + "/AppData/Local/FoundryVTT/Data"
+}
+
+function Get-VttSourcePath {
+  param ( 
+    [Parameter(Mandatory=$true)] [string] $RootPath, 
+    [Parameter(Mandatory=$true)] [string] $SourceId,
+    [Parameter(Mandatory=$true)] [string] [ValidateSet("module","world")] $SourceType
+  )
+  $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
+  if ($SourceType -eq "module") { return Get-VttPath + "/modules/" + $AppSettings.Prefix + $SourceId }
+  elseif ($SourceType -eq "world") { return Get-VttPath + "/worlds/" + $AppSettings.Prefix + $SourceId }
+  else { throw "Get-VttSourcePath - Not a module or a world" }
+}
+
+function Test-VttPath {
+  if ( Test-Path -LiteralPath Get-VttPath -PathType Container )
+  { return $true }
+  return $false
+}
+
+function Test-VttSourcePath {
+  param ( 
+    [Parameter(Mandatory=$true)] [string] $RootPath, 
+    [Parameter(Mandatory=$true)] [string] $SourceId,
+    [Parameter(Mandatory=$true)] [string] [ValidateSet("module","world")] $SourceType
+  )
+  if ( Test-Path -LiteralPath (Get-VttSourcePath -RootPath $RootPath -SourceId $SourceId -SourceType $SourceType) -PathType Container )
+  { return $true }
+  return $false
 }
