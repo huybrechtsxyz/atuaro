@@ -1,0 +1,85 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Willow Greenleaf*#
+| [small]#The Herbalist (Druid) \| Human Herbalist (Druid)#
+
+| *Roleplay*
+|
+
+
+| image::{rootdir}/assets/images/actor_willow_greenleaf.jpg[]
+|
+*Skills:* Arcana, Herbalism Kit, Insight, Medicine, Nature, Perception, Survival
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title="Statistics"]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 10 (*+0*) ^! 14 (*+2*) ^!  8 (*-2*) ^! 16 (*+3*) ^! 16 (*+3*) ^! 12 (*+1*)
+!===
+
+[cols="1,2,1,1,1,1",grid=none,frame=none,caption="",title="Basic information"]
+!===
+>! *Creature* ! Human
+>! *Height* ! _
+>! *Walk* ! _ ft
+
+>! *Class* ! Herbalist (Druid)
+>! *Weight* ! _
+>! *Fly* ! _ ft
+
+>! *Size* ! Normal
+>! *Eyes* ! _
+>! *Swim* ! _ ft
+
+>! *Alignment* ! Chaotic Neutral
+>! *Skin* ! _
+>! *Climb* ! _ ft
+
+>! *Age* ! Mid sixties
+>! *Hair* ! _
+>! *Burrow* ! _ ft
+!===
+
+| *Actions* | 
+
+
+| *Abilities* | 
+
+
+| *Traits* |
+
+
+2+|
+*Common Items*
+
+* Studded leather armor, quarterstaff, shield, scimitar, herbalism kit, pouch with 10 gp
+* A pouch filled with a variety of dried herbs and plants for her herbalism kit
+* A small knife for cutting plants and herbs
+* A leather-bound journal for recording her observations and notes on herbal remedies and natural phenomena
+* A small vial of homemade salve for treating minor injuries
+* A simple silver amulet in the shape of a leaf, which she wears around her neck as a symbol of her druidic faith
+
+*In her wagon*
+
+* Several large sacks filled with fresh herbs and plants, which she has gathered from the surrounding countryside
+* A small stove for boiling herbs and creating tinctures and potions
+* Several glass bottles and vials for storing potions and remedies
+* A variety of jars and containers filled with homemade herbal remedies, such as healing salves, soothing balms, and sleep aids
+* A selection of dried fruits and nuts for snacking on during long journeys through the wilderness.
+
+*About*
+
+Willow is a wise and gentle soul who is deeply connected to nature. She loves spending time outdoors and has a deep appreciation for the natural world. She is patient and kind, and enjoys sharing her knowledge with others. Willow is a mentor and teacher to many young druids, and takes great joy in helping others connect with nature and learn about the healing properties of plants.
+
+Willow is highly observant and intuitive, and has a deep understanding of the natural world. She is often sought out for her advice and counsel, and is highly respected within the druidic community. While she prefers to live a peaceful and quiet life, she will not hesitate to defend herself or others if necessary.
+
+As a druid, Willow is highly attuned to the forces of nature, and has a deep understanding of the elements and the creatures that inhabit the natural world. She draws her magic from the land itself, and is able to harness its power to heal and protect herself and her allies. She is a master of herbalism, and is able to use her knowledge of plants and their properties to create powerful potions and remedies.
+
+Willow would make an excellent mentor and teacher figure for a young druid, and would be happy to share her knowledge and wisdom with them.
+
+*Environment* Orphanage Kainga +
+*Tags*
+|===

@@ -1,0 +1,29 @@
+{
+  "id": "potent-brew",
+  "title": "Atuaro - A Most Potent Brew",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Glowkindle needs some help with his basement",
+  "authors": [
+    {
+      "name": "Vincent Huybrechts",
+      "discord": "_fatherprime",
+      "email": "webmaster@Huybrechts.xyz",
+      "url": "https://github.com/huybrechtsxyz/atuaro",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/huybrechtsxyz/atuaro",
+  "packs": [
+    {
+      "name": "potent-brew-adventure",
+      "label": "Most Potent Brew - Adventure",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "flags": {}
+    }
+  ]
+}

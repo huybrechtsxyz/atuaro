@@ -5,7 +5,7 @@ function Optimize-Source{
     [Parameter(Mandatory=$true)] [string] $RootPath, 
     [Parameter(Mandatory=$true)] [string] $SourceId,
     [Parameter(Mandatory=$true)] [string] [ValidateSet("module","world")] $SourceType,
-    [Parameter(Mandatory=$true)][string][ValidateSet("create","build")]$DoAction,
+    [Parameter(Mandatory=$true)][string][ValidateSet("create","build","update")]$DoAction,
     [string] $TemplateId = ""
   )
   
@@ -36,6 +36,29 @@ function Optimize-Source{
       Copy-Item -LiteralPath $file.FullName -Destination ($SourcePath + "/" + $file.Name)
     }
     Return
+  }
+
+  if ($DoAction -eq "update") {
+
+     # Copy DATA and PACKS from the local vtt folder to mods/world
+    if (Test-Path -LiteralPath $VttPath -PathType Container) {
+      Copy-SectionItems -Section "data" -FromPath $VttPath -ToPath $SourcePath
+      Copy-SectionItems -Section "packs" -FromPath $VttPath -ToPath $SourcePath
+    }
+
+    # Copy all links from the repository to the source
+    $Links = Get-ChildItem -Path $SourcePath -Filter ".lnk" -File -Recurse
+    Foreach($link in $Links) {
+      
+      $Files = Get-ChildItem -Path $SourcePath -Filter ([System.IO.Path]::GetFileNameWithoutExtension($link.FullName) + ".*" ) -Recurse -ErrorAction SilentlyContinue -Force
+      Foreach($file in $Files) {
+        [System.IO.Path]::GetDirectoryName($file.FullName)
+        Copy-File -LiteralPath $file -Destination 
+      }
+
+    }
+
+    return
   }
 
   # Read source configuration

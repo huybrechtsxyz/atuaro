@@ -1,0 +1,14 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+
+# Goblin
+
+image::{rootdir}/assets/images/npc_goblin.png[]
+
+include::{rootdir}/statblocks/goblin.adoc[]
+
+== About Goblins 
+Related
+
+* _
