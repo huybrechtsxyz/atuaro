@@ -1,24 +1,18 @@
-# Call
 param(
   [Parameter(Mandatory=$true)][string] $TemplateId,
   [Parameter(Mandatory=$true)][string] $Id
 )
 
-# Import script
 . ./src/Functions.ps1
 . ./src/Optimize-Source.ps1
 
 $ExecPath = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition
+$SourceType = Get-NewType -RootPath $ExecPath -TemplateId $TemplateId
+$NewPath = Get-NewPath -RootPath $ExecPath -TemplateId $TemplateId -SourceType $SourceType
 
-# Build distribution and create binaries
-$Path = Get-NewWorldPath -RootPath $ExecPath -TemplateId $TemplateId
-if ( Test-Path -LiteralPath $Path -PathType Container ) { 
-  Optimize-Source -RootPath $ExecPath -SourceId $Id -TemplateId $TemplateId -IsWorld $true -DoAction "create"
-  return
+if ( Test-Path -LiteralPath $NewPath -PathType Container ) { 
+  Optimize-Source -RootPath $ExecPath -SourceId $Id -SourceType $SourceType -DoAction "create" -TemplateId $TemplateId
 }
-
-$Path = Get-NewModulePath -RootPath $ExecPath -TemplateId $TemplateId
-if ( Test-Path -LiteralPath $Path -PathType Container ) { 
-  Optimize-Source -RootPath $ExecPath -SourceId $Id -TemplateId $TemplateId -IsModule $true -DoAction "create"
-  return
+else {
+  throw 'Invalid Template Path'
 }

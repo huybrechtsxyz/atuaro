@@ -57,6 +57,30 @@ function Get-NewPath {
   return $RootPath + "/" + $AppSettings.Paths.Templates + "/" + $SourceType + "/" + $TemplateId
 }
 
+function Get-NewType {
+  param(
+    [Parameter(Mandatory=$true)] [string] $RootPath, 
+    [Parameter(Mandatory=$true)] [string] $TemplateId
+  )
+
+  $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
+
+  # World
+  $Path = $RootPath + "/" + $AppSettings.Paths.Templates + "/world/" + $TemplateId
+  if ( Test-Path -LiteralPath $Path -PathType Container ) { 
+    return "world"
+  }
+
+  # Module
+  $Path = $RootPath + "/" + $AppSettings.Paths.Templates + "/module/" + $TemplateId
+  if ( Test-Path -LiteralPath $Path -PathType Container ) { 
+    return "module"
+  }
+
+  # Unknown
+  return ""
+}
+
 function Get-SourcePath {
   param(
     [Parameter(Mandatory=$true)] [string] $RootPath, 
@@ -67,6 +91,30 @@ function Get-SourcePath {
   if ($SourceType -eq "module") { return $RootPath + "/" + $AppSettings.Paths.Modules + "/" + $SourceId }
   elseif ($SourceType -eq "world") { return $RootPath + "/" + $AppSettings.Paths.Worlds + "/" + $SourceId }
   else { throw "Get-SourcePath - Not a module or a world" }
+}
+
+function Get-SourceType {
+  param(
+    [Parameter(Mandatory=$true)] [string] $RootPath, 
+    [Parameter(Mandatory=$true)] [string] $SourceId
+  )
+
+  $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
+
+  # World
+  $Path = $RootPath + "/" + $AppSettings.Paths.Worlds + "/" + $SourceId
+  if ( Test-Path -LiteralPath $Path -PathType Container ) { 
+    return "world"
+  }
+
+  # Module
+  $Path = $RootPath + "/" + $AppSettings.Paths.Modules + "/" + $SourceId
+  if ( Test-Path -LiteralPath $Path -PathType Container ) { 
+    return "module"
+  }
+
+  # Unknown
+  return ""
 }
 
 function Get-VttPath {
