@@ -1,15 +1,16 @@
 [cols="1a",grid=rows]
 |===
 | [big]#*Gundren Rockseeker*# +
-  [small]#Male Dwarf, Mining expert (Age)# +
-  *AC*  *HP*  (1d)
+  [small]#Male Dwarf, Mining expert, Neutral (Age)# +
+  *AC* 15 (Chain Shirt) *HP* 30 (4d8 + 12) +
+  *Speed* 25 ft
 |
 [cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
 !===
 ^! *STR* +2 ^! *DEX* +1 ^! *CON* +3 ^! *INT* +2 ^! *WIS* +1 ^! *CHA* +1
 !===
-|
-
+|   
+Athletics: +4 | Perception: +3 | Investigation: +4 | Persuasion: +3
 |
 *Dwarven Resilience:* Advantage on saving throws against poison and resistance against poison damage. +
 *Stonecunning:* Proficiency in History checks related to stonework and double proficiency bonus to check for the origin of stonework. +
