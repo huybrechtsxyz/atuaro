@@ -47,16 +47,14 @@ function Optimize-Source{
     }
 
     # Copy all links from the repository to the source
-    $Links = Get-ChildItem -Path $SourcePath -Filter ".lnk" -File -Recurse
-    Foreach($link in $Links) {
-      
-      $Files = Get-ChildItem -Path $SourcePath -Filter ([System.IO.Path]::GetFileNameWithoutExtension($link.FullName) + ".*" ) -Recurse -ErrorAction SilentlyContinue -Force
-      Foreach($file in $Files) {
-        [System.IO.Path]::GetDirectoryName($file.FullName)
-        Copy-File -LiteralPath $file -Destination 
-      }
-
-    }
+    # $Links = Get-ChildItem -Path $SourcePath -Filter ".lnk" -File -Recurse
+    # Foreach($link in $Links) {
+    #   $Files = Get-ChildItem -Path $SourcePath -Filter ([System.IO.Path]::GetFileNameWithoutExtension($link.FullName) + ".*" ) -Recurse -ErrorAction SilentlyContinue -Force
+    #   Foreach($file in $Files) {
+    #     [System.IO.Path]::GetDirectoryName($file.FullName)
+    #     Copy-File -LiteralPath $file -Destination 
+    #   }
+    # }
 
     return
   }
