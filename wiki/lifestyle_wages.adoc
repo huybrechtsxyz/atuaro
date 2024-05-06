@@ -1,10 +1,6 @@
-ifndef::rootdir[]
-:rootdir: ../..
-endif::[]
-
 = Lifestyle and Wages
 
-image::{rootdir}/assets/images/cover.jpg[]
+image::./images/cover.jpg[]
 
 == About lifestyle and wages
 

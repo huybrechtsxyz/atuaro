@@ -4,7 +4,7 @@ endif::[]
 
 = Gods of Atuaro
 
-image::{rootdir}/assets/images/heading.jpg[]
+image::./images/cover.jpg[]
 
 **Tags:** #gods, #pantheon
 
@@ -50,7 +50,3 @@ Ohm has multiple sainted knights that represents his virtues and powers. Each re
    - Celestial Translation: "Vindictor - Resistentia et Vindicta Tenebrarum"
    - Appearance: The Vindicator wears a shadowy, hooded cloak over their armor, concealing much of their figure. Their armor is matte black, and they wield twin blades. Their symbol is a pair of crossed blades within the symbol of Ohm, signifying their role in the resistance against darkness and the pursuit of vengeance when required.
 ****
-
-=== Related Links
-
-* link:../organizations/custodi_of_ohm.adoc[The Custodi]

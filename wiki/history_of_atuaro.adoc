@@ -1,23 +1,19 @@
-ifndef::assetdir[]
-:assetdir: ../../assets
-endif::[]
-
 # History of Atuaro
 
-image::{assetdir}/images/history_heading.jpg[]
+image::./images/history_heading.jpg[]
 
 == About the history of Atuaro
 The known history of Atuaro spans for thousands of years. In the beginning Ranginui (the sky) and Papatuanuku (earth) were joined together, and their children were born between them in darkness. After they sundered the world in the Age of Dawn, the children decided to separate their parents. To allow light to come into the world. The children then became gods of the world.
 
 === Age of Dawn
 
-image::{assetdir}/images/history_age_of_dawn.jpg[]
+image::./images/history_age_of_dawn.jpg[]
 
 Tens of thousands of years ago, empires of reptilian, amphibian, and avian peoples- known in Elvish as Jqua'Tel'Quessir, the creator races- dominated the world. They built great cities of stone and glass, carved paths through the wilderness, tamed the great lizards, worked mighty magics, shaped the world around them, and warred upon each other. Those were the Days of Thunder. Their civilizations came to a sudden end some hundred thousand years ago. Perhaps their wars reached a terrible and inevitable crescendo, or they tampered with forbidden forces. For whatever reason, the world changed, and their vast empires vanished. All that remains of them are ruins and the scattered lizard folk, bullywug, aarakocra, and various tribes of barbaric descendants of hose who once ruled the world.
 
 ==== The rise and fall of Akkadia
 
-image::{assetdir}/images/history_akkadia_temple.jpg[]
+image::./images/history_akkadia_temple.jpg[]
 
 The Akkadian are an ancient and highly-advanced species of beings who were active on Atuaro in what is named The Dawn Age. The Akkadian are responsible for the creation of the Taonga Makutu. Powerful artifacts that augmented their already superhuman abilities. Their history shrouded in mystery, the Akkadian ruled thousands of years ago.
 
@@ -25,37 +21,37 @@ Taonga Makutu is the name of the powerfull artifacts created by the Akkadians.
 
 ==== The Descent of Tyranny
 
-image::{assetdir}/images/history_descent_of_tyranny.jpg[]
+image::./images/history_descent_of_tyranny.jpg[]
 
 The Descent of Tyranny ended the rule of the Akkadian people. Nobody really knows what happened during the final years of the Age of Dawn but scholars define it as hell descending on Atuaro.
 
 === Age of Thrive
 
-image::{assetdir}/images/history_age_of_thrive.jpg[]
+image::./images/history_age_of_thrive.jpg[]
 
 From the ruins of the Age of Dawn arose the first nations of the Proud People. The Proud People defended their homelands against the hordes that arose from the mountains and the deep valleys and surged across the world to attack and pillage.
 
 ==== The rise and fall of Maurya
 
-image::{assetdir}/images/history_maurya.jpg[]
+image::./images/history_maurya.jpg[]
 
 From the ruins of the Age of Dawn arose the first nations of the Proud People. The Proud People defended their homelands against the hordes that arose from the mountains and the deep valleys and surged across the world to attack and pillage.
 
 ==== Rupture of Arcanum
 
-image::{assetdir}/images/history_rupture_of_arcanum.jpg[]
+image::./images/history_rupture_of_arcanum.jpg[]
 
 The Rupture of Arcanum was a High Magic ritual cast by the greatest of high mages during the Age of Thrive, around -3.200 DR. The ritual resulted in a widespread disaster that destroyed and altered much of Atuaro and is the cause of much of the non-uniformity of magic throughout the world.
 
 === Age of Humanity
 
-image::{assetdir}/images/history_age_of_humanity.jpg[]
+image::./images/history_age_of_humanity.jpg[]
 
 The Age of Humanity began with the decline of the ancient empires and the flourishing and the first settlers. Expansion of the human (and humanoid) empires around the world. In a time when the many dragons and giants were long overthrown and the world ending wars no longer loomed over everyone as a threat, the humanoid civilizations began to rise. For millennia the ancient nations stagnated and began a log slow decline. In the centuries following the collapse many cities took in refugees and new settlements were founded
 
 ==== The rise and fall of Helvetica
 
-image::{assetdir}/images/history_helvetica.png[]
+image::./images/history_helvetica.png[]
 
 A few hundred years after the Rupture of Arcanum, the city of Helvetica was founded. It is thought that the city-state was initially formed by villagers joining together with settlers from the surrounding hills in response to an invasion. The first settlement was built on Palatine Hill because it was easily defendable. Over time, the six other hills around Palatine were also settled. As the settlement grew, it became a city. A public area was built between the hills of Palatine and Capitoline that became known as the Forum. Here the city council ruled over the city under the guidance of the consul. When the last consul overthrew the city council to consolidate his power he became the first king of Helvetica. The new Kingdom increased its physical boundaries, military might, production and trade over the time to come.
 
@@ -67,13 +63,13 @@ The Scourge of Pestilence started a period of civil unrest and invasions that st
 
 ==== Scourge of Pestilence
 
-image::{assetdir}/images/history_scourge_of_pestilence.webp[]
+image::./images/history_scourge_of_pestilence.webp[]
 
 The Scourge of Pestilence was a civilization ruining widespread disease that killed large populations. Some exposed groups developed immuneties others ... changed.
 
 === Age of Reckoning
 
-image::{assetdir}/images/history_age_of_reckoning.jpg[]
+image::./images/history_age_of_reckoning.jpg[]
 
 Age of Reckoning was the time period that started in the year of the reckoning and continues to the present. It is considered a tumultuous age in the history of Atuaro. It is a time of struggle but also a time of discovery and exploration.
 
