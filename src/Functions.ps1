@@ -1,28 +1,3 @@
-function Update-Source {
-  param(
-    [Parameter(Mandatory=$true)] [string] $RootPath,
-    [Parameter(Mandatory=$true)] [string] $SourcePath
-  )
- 
-  $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
-
-  # Get all AsciiDoc files in the current directory
-  $SourceFiles = Get-ChildItem -Path $SourcePath -Filter $AppSettings.Links.Filter -File -Recurse
-
-  foreach ($file in $SourceFiles) {
-    $Content = Get-Content $file.FullName -Raw
-
-    $Matches = [Regex]::Matches($Content, $AppSettings.Links.Images.Pattern)
-    foreach ($match in $Matches) {
-      $SearchFile = $match.Groups[1].Value
-      $SearchFile = [System.IO.Path]::GetFileName($SearchFile)
-      $RepoPath = $RootPath + "/" + $AppSettings.Paths.Repository.Images
-      $SearchPath = $SourcePath + "/" + $AppSettings.Links.Images.Path
-      Update-Source-File -RepoPath $RepoPath -SearchPath $SearchPath -ResourcePath $AppSettings.Links.Images.Path -SearchFile $SearchFile
-    }
-  }
-}
-
 function Update-Source-File {
   param(
     [Parameter(Mandatory=$true)] [string] $RepoPath,
@@ -82,7 +57,7 @@ function Copy-SectionItems {
     Remove-Item -LiteralPath $ToPath -Force -Recurse
   }
   else {
-    New-Item $ModuleTargetPath -ItemType "directory"
+    New-Item $ToPath -ItemType "directory"
   }
   Copy-Item -Path $FromPath -Destination $ToPath -Recurse
 }
