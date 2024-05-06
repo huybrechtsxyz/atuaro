@@ -1,0 +1,11 @@
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= The Modules Story
+:toc:
+
+*Tags:* #tagname
+
+image::{homedir}/images/cover.png[]
+
