@@ -38,39 +38,22 @@ function Optimize-Source{
     Return
   }
 
-  if ($DoAction -eq "update") {
-
-     # Copy DATA and PACKS from the local vtt folder to mods/world
-    if (Test-Path -LiteralPath $VttPath -PathType Container) {
-      Copy-SectionItems -Section "data" -FromPath $VttPath -ToPath $SourcePath
-      Copy-SectionItems -Section "packs" -FromPath $VttPath -ToPath $SourcePath
-    }
-
-    # Copy all links from the repository to the source
-    # $Links = Get-ChildItem -Path $SourcePath -Filter ".lnk" -File -Recurse
-    # Foreach($link in $Links) {
-    #   $Files = Get-ChildItem -Path $SourcePath -Filter ([System.IO.Path]::GetFileNameWithoutExtension($link.FullName) + ".*" ) -Recurse -ErrorAction SilentlyContinue -Force
-    #   Foreach($file in $Files) {
-    #     [System.IO.Path]::GetDirectoryName($file.FullName)
-    #     Copy-File -LiteralPath $file -Destination 
-    #   }
-    # }
-
-    return
-  }
-
-  # Read source configuration
-  # $Settings = Get-Content -Path ($SourcePath + "/settings.json") -Raw | ConvertFrom-Json
-
-  # Start with a clean sheet
-  Remove-Item -LiteralPath $DistPath -Force -Recurse -ErrorAction Ignore
-  New-Item $DistPath -ItemType "directory"
-
   # Copy DATA and PACKS from the local vtt folder to mods/world
   if (Test-Path -LiteralPath $VttPath -PathType Container) {
     Copy-SectionItems -Section "data" -FromPath $VttPath -ToPath $SourcePath
     Copy-SectionItems -Section "packs" -FromPath $VttPath -ToPath $SourcePath
   }
+
+  if ($DoAction -eq "update") {
+
+    Update-Source -RootPath $RootPath -SourcePath $SourcePath
+
+    return
+  }
+  
+  # Start with a clean sheet
+  Remove-Item -LiteralPath $DistPath -Force -Recurse -ErrorAction Ignore
+  New-Item $DistPath -ItemType "directory"
 
   # Copy all sections from the module to distribution
   $Sections = Get-ChildItem -Path $SourcePath -Directory

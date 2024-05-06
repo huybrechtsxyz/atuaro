@@ -1,3 +1,0 @@
-# Atuaro: <NewModuleName>
-
-X

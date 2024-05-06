@@ -1,3 +1,61 @@
+function Update-Source {
+  param(
+    [Parameter(Mandatory=$true)] [string] $RootPath,
+    [Parameter(Mandatory=$true)] [string] $SourcePath
+  )
+ 
+  $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
+
+  # Get all AsciiDoc files in the current directory
+  $SourceFiles = Get-ChildItem -Path $SourcePath -Filter $AppSettings.Links.Filter -File -Recurse
+
+  foreach ($file in $SourceFiles) {
+    $Content = Get-Content $file.FullName -Raw
+
+    $Matches = [Regex]::Matches($Content, $AppSettings.Links.Images.Pattern)
+    foreach ($match in $Matches) {
+      $SearchFile = $match.Groups[1].Value
+      $SearchFile = [System.IO.Path]::GetFileName($SearchFile)
+      $RepoPath = $RootPath + "/" + $AppSettings.Paths.Repository.Images
+      $SearchPath = $SourcePath + "/" + $AppSettings.Links.Images.Path
+      Update-Source-File -RepoPath $RepoPath -SearchPath $SearchPath -ResourcePath $AppSettings.Links.Images.Path -SearchFile $SearchFile
+    }
+  }
+}
+
+function Update-Source-File {
+  param(
+    [Parameter(Mandatory=$true)] [string] $RepoPath,
+    [Parameter(Mandatory=$true)] [string] $SearchPath,
+    [Parameter(Mandatory=$true)] [string] $ResourcePath,
+    [Parameter(Mandatory=$true)] [string] $SearchFile
+  )
+  
+  $SourceFile =  Get-ChildItem -Path ($SearchPath) -Recurse -File | Where-Object { $_.Name -eq $SearchFile } | Select-Object -First 1
+  $RepoFile = Get-ChildItem -Path $RepoPath -Recurse -File | Where-Object { $_.Name -eq $SearchFile } | Select-Object -First 1
+
+  if ((-NOT ($SourceFile)) -AND (-NOT ($RepoFile))) {
+    return
+  }
+
+  if (-NOT ($SourceFile)) {
+    $SourceFile = $SourcePath + "/" + $ResourcePath + "/" + $SearchFile
+  } else {
+    $SourceFile = $SourceFile.FullName
+  }
+
+  if (-NOT (Test-Path $SourceFile)) {
+    Copy-Item -Path $RepoFile.FullName -Destination $SourceFile -Force
+  }
+  else {
+    $SourceFileLastWriteTime = (Get-Item $SourceFile).LastWriteTime
+    $RepoFileLastWriteTime = (Get-Item $RepoFile).LastWriteTime
+    if ($RepoFileLastWriteTime -gt $SourceFileLastWriteTime) {
+      Copy-Item -Path $RepoFile -Destination $SourceFile -Force
+    }
+  }
+}
+
 function Compress-Module {
   param (
     [Parameter(Mandatory=$true)] [string] $SourceId,
@@ -128,9 +186,11 @@ function Get-VttSourcePath {
     [Parameter(Mandatory=$true)] [string] [ValidateSet("module","world")] $SourceType
   )
   $AppSettings = Get-Content -Path ($RootPath + "/appsettings.json") -Raw | ConvertFrom-Json
-  if ($SourceType -eq "module") { return Get-VttPath + "/modules/" + $AppSettings.Prefix + $SourceId }
-  elseif ($SourceType -eq "world") { return Get-VttPath + "/worlds/" + $AppSettings.Prefix + $SourceId }
+  $VttSourcePath = Get-VttPath
+  if ($SourceType -eq "module") { $VttSourcePath = ($VttSourcePath + "/modules/" + $AppSettings.Prefix + $SourceId) }
+  elseif ($SourceType -eq "world") { $VttSourcePath = ($VttSourcePath + "/worlds/" + $AppSettings.Prefix + $SourceId) }
   else { throw "Get-VttSourcePath - Not a module or a world" }
+  return $VttSourcePath
 }
 
 function Test-VttPath {
