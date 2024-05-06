@@ -1,11 +1,101 @@
 ifndef::homedir[]
-:homedir: .
+:homedir: ..
 endif::[]
 
-= The Modules Story
+= The Fall of Silverpine Watch
 :toc:
 
-*Tags:* #tagname
+*Tags:* #silverpine
 
-image::{homedir}/images/cover.png[]
+image::{homedir}/images/cover.jpg[]
 
+== Introduction
+The merchant they saved in the deathpits of whirotepua proposes they protect the cargo to Loukotokia and to the Gundren's estate there. They will pass the Silverpine Watch gate where everthing is not as it should be. If they solve the problems of the watch, they will arrive in Loukotokia.
+
+If they did not save a merchant, the local trader will refer them to Gundren in Loukotokia.
+If they are on Gundren's good side, they arrive at his home, and provides them food an board.
+
+== On the road again
+Afterwards they meet with Gudrun in the Stonehill Inn who offers them a job guarding Gudrun back to town. If the players ask about what sort of dangers they might face or if there is anything specific the merchant is worried about:
+
+> Traveling is becoming more dangerous by the day. Even on the kings roads. No one travels without a weapon and no one travels alone if they can afford not to. Some lords try to keep the roads clear. There are watchtowers and fortresses protecting important routes. But bandits and robbers are a constant threat. There is an influx in dangerous monsters attacking travelers as well.
+
+TIP: [small]#As DM keep track of Gundren's disposition towards the party. Gundren is so far really fond of the adventurers as they saved him. But that does not mean he has to keep liking the heroes. During the adventure, the heroes might do things to sour his opinion of them. Adjust your portrayal of Gundren to match his opinion of the heroes. He will not sabotage the heroes, but he will act impatient, short-tempered, brusque, grumpy, or even with-hold information from them.#
+
+NOTE: [small]#Point out that each hero has a ten-day supply of trail rations and a waterskin they can refill from the many springs, creeks, and ponds they will pass.#
+
+*About the money.* +
+
+> Gudrun is offering each hero 5 gold pieces for seeing them safely to the city of Loukotokia. 
+
+* This is good pay for a group of inexperienced adventurers staying fairly close to civilized lands. Most commoners earn about a silver piece a day and, given the length of the trip, Gudrun is paying the heroes about five times that.
+* If the players decide that is not enough and want to try for a better deal, which players will sometimes do on principle, he will increase the pay to 6 gold pieces “and not a copper more.” The negotiation will diminish Gudrun's disposition toward the party.
+
+*About the Goods.* +
+Gudrun has a haphazard mix of goods in his cart. He has some bolts of wool and canvas, a few pots and pans, some casks of mead and wine, cut wooden staves, a few iron ingots, a few inexpensive trinkets, and mining equipment. As it is early spring, there is no fruit or vegetables, but there are a few sacks of rye, some pickled fish in a barrel, and some salted pork. It is exactly the sort of stuff a peddler like him would have in his cart. This was bought in the towns general store.
+
+> You are gathered on the townsquare. It is just after dawn; the weather is gloomy. The merchant is getting his cart ready. The dwarf's cart is half-full of bundles, barrels, crates, and sacks. Two shaggy, miniature horses are harnessed to the cart already. One is solid gray while the other has dark spots over a light coat: Dapple and Mist. He hops up onto the bench at the front of the cart and snaps the reigns and spurs Dapple and Mist, her horses, to a walk. The cart trundles through the gate.
+
+== The Forest Road
+
+image::{homedir}/maps/silverpine_2_road_combat_custom.png[align=center]
+
+> Silverpine Forest is a heavy, mixed-growth forest covering the Aster river valley and the foothills of upper Asternia north-west of Loukotokia. In the lowlands, the forest is thick with broadleaf trees like willows, alders, poplars, and oaks interspersed with evergreen spruces and the whitebark pines from which the forest gets its name. In the uplands, where most of this part of the adventure takes place, the terrain consists of rough, forested hills. There are fewer shrubs and ground cover here, fewer broadleaf trees, and more evergreens.
+
+> It is springtime. The evergreen trees are bare or budding. The road is muddy from rain and snow melt. The party passes streams and rivulets frequently. The forest's natural fauna is active, but skittish and Gundren's cart is noisy. The party might see robins, sparrows, or finch-es in the trees or hear a woodpecker tapping away. They might startle a rabbit or pheasant or catch sight of a red deer darting away between the trees. At night, they might hear the cries of owls or night thrushes or the distant howls of wolves.
+
+> The Silverpine Road is a narrow, dirt track. In a few places, there are just a pair of furrows left by the passage of countless carts in the weeds. The road winds back and forth, following the contours of the land. In the uplands, it climbs gradually upward, winding between steep hills, sometimes following steep bluffs or sheer, bare rock faces.
+
+> It has been two days since you left Kainga. It is a mid-spring morning and the sky is gray. The weather is breezy and chilly as it is early spring. The narrow dirt road winds back and forth between rolling, forested hills. Gundren is driving Mist and Dapple at a comfortable pace. Gundren is sociable, easy to laugh, and good at small-talk. He talks about finding the fabled Echo caves. In fact it is really only what he talks about. He knows all the stories.
+
+NOTE: [small]#*About the Echo Caves* +
+More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. The mine had great deposits of mineral wealth. Times were good, and the nearby human town of Phandalin (pronounced fan-duh-lin) prospered as well. But then disaster struck when orcs swept through the North and laid waste to all in their path and the location of Wave Echo Cave was lost. For centuries, rumors of buried riches have attracted treasure seekers and opportunists to the area around Phandalin, but no one has ever succeeded in locating the lost mine.#
+
+== The Accident
+> The road is a dirt track overgrown with weeds here. It is about 10 feet wide. Scattered trees by the roadside can provide cover. Thick underbrush grows between the trees which constitutes difficult terrain.
+
+> It is mid-afternoon. The weather is gray and chilly and the road muddy. Gundren is driving Mist and Dapple at a comfortable walking pace and keeps talking about Echo Cave. When you round a bend in the road Dapple and Mist suddenly give a frightened whinnies and rear up. The cart lurches as the veer sharply for the side of the road. The cart suddenly stops when its wheel becomes stuck in a muddy rut at the side of the road. Dapple and Mist scream and struggle against the cart. Gundren were thrown of the cart and strikes his head and falls unconscious. 
+
+*When the horses are calm, Gundren is stable or conscious, and the cart is free, the encounter is over.*
+
+Based on the travel order, decide which way the cart lurches such that it threatens to strike at least one hero. It is most likely to strike heroes walking alongside it, but if there is no one beside the cart, it hits a hero ahead of it. 
+
+=== Call for action
+1. Avoid being struck
+2. Aid Gundren
+3. Calm Dapple and Mist
+4. Handle snake
+5. Free the cart 
+
+=== Avoid being struck
+*DC of 11*
+
+* Gundren and any hero riding on the cart are thrown off
+* Any hero riding on the cart is thrown from the cart as well.
+
+Heroes struck can dodge the cart Dexterity Saving Throw DC 11. +
+Failure: The hero is clipped by the cart and takes 1d4 bludgeoning damage.
+
+=== Aid Gundren
+
+=== Calm Dapple and Mist
+
+=== Handle snake
+_A common adder was basking in the road. The heroes overlooked it due to its camouflage and the horses nearly stepped on it. The snake is afraid of the party and easily driven off, so it will not attack unless a hero gets too close without seeing it and startles it. Then the snake will strike before slithering away. The snake is not a dangerous combatant, they can kill the snake without issue._
+
+* *Wisdom (Perception)* «Passive» DC of 18 The hero spots the motionless, gray-and-brown snake in the road.
+* *Intelligence (Nature)* «No Action» DC of 12 The snake is a common adder. The snake is two feet long, two inches thick. It’s pebbly skin is mottled gray and brown. It was probably just trying to warm itself when the horses nearly stepped on. The snake is venomous, but not deadly to humanoids.
+
+TIP: Grant rangers or druids advantage on the check to identify it.
+
+If a hero examines the wound from the snake's bite, they can determine the following: Wisdom (Medicine) «Requires Proficiency» DC 11 the bite is swollen and painful, but not life threatening. The swelling should go down soon, and the bitten hero will not suffer any long-term effects.
+
+include::{rootdir}/statblocks/snake_poisonous.adoc[]
+
+=== Free the cart 
+
+
+==== Avoid being struck
+
+
+==== The Snake
