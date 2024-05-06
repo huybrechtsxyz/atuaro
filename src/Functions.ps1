@@ -56,9 +56,6 @@ function Copy-SectionItems {
   if ( Test-Path -LiteralPath $ToPath -PathType Container ) { 
     Remove-Item -LiteralPath $ToPath -Force -Recurse
   }
-  else {
-    New-Item $ToPath -ItemType "directory"
-  }
   Copy-Item -Path $FromPath -Destination $ToPath -Recurse
 }
 
