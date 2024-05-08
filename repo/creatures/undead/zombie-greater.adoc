@@ -1,0 +1,78 @@
+ifndef::rootdir[]
+:rootdir: ..
+endif::[]
+[cols="2a,4a",grid=rows]
+|===
+| [big]#*Zombie*#
+| [small]#Medium undead, neutral evil (CR 1/4 for 50 XP)#
+
+| image::{rootdir}/assets/tokens/npc_zombie.jpeg[]
+
+|
+*Armor Class* 8 +
+*Hit Points* 22 (3d8+9) +
+*Speed* 20 ft. +
+*Proficiency* +0 +
+*Initiative* +0 +
+
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR*     ^! *DEX*     ^! *CON*     ^! *INT*     ^! *WIS*     ^! *CHA*
+^! 13 (*+1*) ^!  6 (*-2*) ^! 16 (*+3*) ^!  3 (*-4*) ^!  6 (*-2*) ^!  5 (*-3*)
+!===
+
+| *Actions* | 
+*Slam* +
+Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage. 
+
+| *Abilities* | 
+Saving Throws: Wis 0 +
+Damage Immunities: poison +
+Condition Immunities: poisoned +
+Senses: darkvision 60 ft., passive Perception 8 +
+Languages: understands all languages it spoke in life but can't speak +
+Challenge Rating: 
+
+| *Traits* |
+*Undead Fortitude*. +
+If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+2+|
+*Environment* +
+*Tags* Misc Creature
+|===
+
+
+Greater Zombie
+
+Medium undead, neutral evil
+
+Armor Class 9
+Hit Points 59 (7d8 + 28)
+Speed 20 ft.
+STR 	DEX 	CON 	INT 	WIS 	CHA
+15 (+2) 	8 (-1) 	18 (+4) 	5 (-3) 	8 (-1) 	7 (-2)
+
+Saving Throws Wis +1
+Skills Athletics +4, Intimidation +0, Perception +1
+Proficiency Bonus +2
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 11
+Languages the languages it knew in life plus Common and any one other
+Challenge 1 (200 XP)
+
+Brute. A melee weapon deals one extra die of its damage when the zombie hits with it (included in the attack).
+
+Undead Fortitude. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant damage or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+ACTIONS
+
+Slam. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage.
+
+Leadership (Recharges after a Short or Long Rest). For 1 minute, the zombie can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the zombie. A creature can benefit from only one Leadership die at a time. The effect ends if the zombie is incapacitated.
+REACTIONS
+
+Parry. The zombie adds 2 to its AC against one melee attack that would hit it. To do so, the zombie must see the attacker and be wielding a melee weapon.
+	
+
+A zombie with the Great Undead template applied to it. Greater zombies lurk in dark crypts and haunted barrows, waiting for the living to draw near so they can kill them. Lesser zombies will instinctively obey a greater zombie, but their intellect isn't improved in any way, so they have a tendency to misinterpret orders. Some say that when a zombie kills many living creatures, it will become a greater zombie. 
