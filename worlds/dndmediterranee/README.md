@@ -1,3 +1,0 @@
-# Atuaro: <NewWorldName>
-
-X

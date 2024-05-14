@@ -1,0 +1,21 @@
+[cols="1a",grid=rows]
+|===
+| [big]#*Poisonous Snake*#
+| [small]#Tiny Beast, Unaligned (CR  1/8 for 25 XP)# +
+  *AC* 18 *HP* 2 (1d4) +
+  *Speed* 30 ft. swim 30 ft. +
+  *Senses* Blindsight 10 ft., Passive Perception 10
+|
+[cols="1,1,1,1,1,1",grid=rows,frame=none,caption="",title=""]
+!===
+^! *STR* +2 ^! *DEX* +3 ^! *CON* +0 ^! *INT* -4 ^! *WIS* 0 ^! *CHA* -4
+!===
+|
+*Bite.* + 
+Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 12 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one. 
+*Grapple.* +
+The snake grapples its target. DC 14 to not be grappled. Attackes against grappled creatures have advantage.
+*Squueze.* + 
+For each round you are squeezed you get 1d8+2 extra damage. 
+*Slippery.* The eel has advantage on ability checks and saving throws made to avoid or end the grappled condition on themself.
+|===

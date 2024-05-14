@@ -1,0 +1,36 @@
+
+
+The adventure begins as the player characters are escorting a wagon full of provisions and supplies back to Kainga.
+
+In the city of Neverwinter, a dwarf named Gundren
+Rockseeker asked you to bring a wagon load of provisions to
+the rough-and-tumble settlement of Phandalin, a couple of
+days' travel southeast of the city. Gundren was clearly excited
+and more than a little secretive about his reasons for the trip,
+saying only that he and his brothers had found "something
+big," and that he'd pay you ten gold pieces each for escorting
+his supplies safely to Barthen's Provisions, a trading post in
+Phandalin. He then set out ahead of you on horse, along with
+a warrior escort named Sildar Haliwinter, claiming he needed
+to arrive early to "take care of business."
+You've spent the last few days following the High Road
+south from Neverwinter, and you've just recently veered east
+along the Triboar Trail. You've encountered no trouble so far,
+but this territory can be dangerous. Bandits and outlaws have
+been known to lurk along the trail.
+
+== AMBUSH
+> You've been on the Triboar Trail for about half a day. As you come around a bend, you spot two dead horses sprawled about fifty feet ahead of you, blocking the path. Each has several red-feathered arrows sticking out of it. The woods press close to the trail here, with a steep embankment and dense thickets on either side.
+
+Gundren Rockseeker and Sildar Hallwinter are dead on the road. They've been dead about a day, and it's clear that arrows killed the horses. When the characters inspect the scene closer, read
+the following:
+
+> The saddlebags have been looted. Nearby lies an empty 1 leather map case.
+
+the goblins attack the party when they investigate the dead horses
+
+Make a Dexterity (Stealth) check for the goblins, rolling once for all of them. Roll a d20, add the goblins' Stealth vs passive perception
+
+
+
+

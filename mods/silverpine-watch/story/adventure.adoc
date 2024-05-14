@@ -12,7 +12,7 @@ image::{homedir}/images/cover.jpg[]
 == Introduction
 The merchant they saved in the deathpits of whirotepua proposes they protect the cargo to Loukotokia and to the Gundren's estate there. They will pass the Silverpine Watch gate where everthing is not as it should be. If they solve the problems of the watch, they will arrive in Loukotokia.
 
-If they did not save a merchant, the local trader will refer them to Gundren in Loukotokia.
+If they did not save a merchant, the local trader will take them to Gundren in Loukotokia.
 If they are on Gundren's good side, they arrive at his home, and provides them food an board.
 
 == On the road again
@@ -56,25 +56,24 @@ More than five hundred years ago, clans of dwarves and gnomes made an agreement 
 
 > It is mid-afternoon. The weather is gray and chilly and the road muddy. Gundren is driving Mist and Dapple at a comfortable walking pace and keeps talking about Echo Cave. When you round a bend in the road Dapple and Mist suddenly give a frightened whinnies and rear up. The cart lurches as the veer sharply for the side of the road. The cart suddenly stops when its wheel becomes stuck in a muddy rut at the side of the road. Dapple and Mist scream and struggle against the cart. Gundren were thrown of the cart and strikes his head and falls unconscious. 
 
-*When the horses are calm, Gundren is stable or conscious, and the cart is free, the encounter is over.*
-
-Based on the travel order, decide which way the cart lurches such that it threatens to strike at least one hero. It is most likely to strike heroes walking alongside it, but if there is no one beside the cart, it hits a hero ahead of it. 
-
-=== Call for action
-1. Avoid being struck
-2. Aid Gundren
-3. Calm Dapple and Mist
-4. Handle snake
-5. Free the cart 
-
 === Avoid being struck
 *DC of 11*
+
+Based on the travel order, decide which way the cart lurches such that it threatens to strike at least one hero. It is most likely to strike heroes walking alongside it, but if there is no one beside the cart, it hits a hero ahead of it. 
 
 * Gundren and any hero riding on the cart are thrown off
 * Any hero riding on the cart is thrown from the cart as well.
 
 Heroes struck can dodge the cart Dexterity Saving Throw DC 11. +
 Failure: The hero is clipped by the cart and takes 1d4 bludgeoning damage.
+
+*When the horses are calm, Gundren is stable or conscious, and the cart is free, the encounter is over.*
+
+=== Call for action
+1. Aid Gundren
+2. Calm Dapple and Mist
+3. Handle snake
+4. Free the cart 
 
 === Aid Gundren
 
@@ -90,7 +89,7 @@ TIP: Grant rangers or druids advantage on the check to identify it.
 
 If a hero examines the wound from the snake's bite, they can determine the following: Wisdom (Medicine) «Requires Proficiency» DC 11 the bite is swollen and painful, but not life threatening. The swelling should go down soon, and the bitten hero will not suffer any long-term effects.
 
-include::{rootdir}/statblocks/snake_poisonous.adoc[]
+include::../monsters/snake-poisonous.stats.adoc[]
 
 === Free the cart 
 

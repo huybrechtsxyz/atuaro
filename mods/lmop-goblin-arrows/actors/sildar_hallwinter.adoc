@@ -1,0 +1,45 @@
+= Sildar Hallwinter
+
+[cols="2*",options="header"]
+|===
+| **Race** | Human
+| **Class** | Warrior
+| **Alignment** | Lawful Good
+| **Background** | Member of the Lords' Alliance
+
+| **Description** | Sildar is a middle-aged human with a stern demeanor, wearing a suit of chainmail and carrying a longsword at his side. He has a distinctive scar on his cheek, a testament to his experience in battle and service to the Lords' Alliance.
+
+| **Stats** |
+| Strength | 14 (+2)
+| Dexterity | 12 (+1)
+| Constitution | 13 (+1)
+| Intelligence | 12 (+1)
+| Wisdom | 10 (+0)
+| Charisma | 12 (+1)
+
+| **Skills** |
+| Athletics | +4
+| Insight | +2
+| Perception | +2
+| Persuasion | +3
+
+| **Languages** | Common, Dwarvish
+| **Armor Class** | 16 (chainmail)
+| **Hit Points** | 27 (5d8 + 5)
+| **Speed** | 30 feet
+
+| **Actions** |
+| Multiattack | Sildar makes two melee attacks with his longsword.
+| Longsword | Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1d8 + 2 slashing damage.
+| Longbow | Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 1d8 + 1 piercing damage.
+
+| **Equipment** |
+| Chainmail
+| Longsword
+| Longbow
+| Quiver with 20 arrows
+| Shield |
+
+| **Background** | Sildar Hallwinter is a seasoned warrior and member of the Lords' Alliance, a faction dedicated to maintaining order and security across Faerûn. He was tasked with accompanying Gundren Rockseeker to Phandalin and investigating the whereabouts of a missing colleague, Iarno Albrek. Sildar is honorable and values justice, making him a reliable ally for the player characters in their quest.
+|===
+

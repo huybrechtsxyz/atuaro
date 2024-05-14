@@ -5,7 +5,7 @@ ifndef::homedir[]
 :homedir: .
 endif::[]
 
-= D&Dave 2023 Session 22 [xx-xx-2024]
+= D&Dave 2023 Session 22 [30-40-2024]
 
 image::{homedir}/assets/images/heading.jpg[]
 
