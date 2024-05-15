@@ -1,0 +1,122 @@
+ifndef::homedir[]
+:homedir: ..
+endif::[]
+
+= D&Dave 2023 Session 4
+
+image::{homedir}/images/heading.jpg[]
+
+== To Do List
+
+* The pixie fight was to easy.
+
+== Important
+
+* Angela (Toon)      : INT > Command as cantrip +
+  (https://www.dndbeyond.com/spells/command)
+* Antonio (Giuseppe) : WIS > Mounted combat when on Mario +
+  (https://explorednd.com/gameplay/mounted-combat-5e-guide/)
+* Cornus (Koen)      : CHA > Cast animal frienship +
+  (https://www.dndbeyond.com/spells/animal-friendship)
+* Mario (Michael)    : STR > Protection fighting style +
+  (https://www.dndbeyond.com/sources/basic-rules/classes#FighterFightingStyle)
+* Tyrion (Dave)      : STR > 1 rage per long rest +
+  (https://www.dndbeyond.com/sources/basic-rules/classes#Rage) as a child.
+
+* *Do not forget to copy-paste the read-out texts to the chat for Giuseppe.*
+
+== Plot Evolution
+
+*Message to the players*
+
+Gentlemen. What will happen after the carnival? Well I'm glad you asked!
+After the carnival you go back to the orphanage and life continues and 10 years will have passed.
+What you do in those 10 years is up to you! You get kicked out at 16 as an adult or leave sooner.
+After 10 years you are back at the orphanage for <reasons>.
+
+Call-to-action
+Have your level 1 character ready. Any boons given may be kept.
+Let me know [private !]
+* the type of gear you would like 
+* if there are any loose threads you wish to resolve before moving on after the orphanage
+
+Angela (Diviner)
+Divine spells are kept in a prayer book. This book may have any form or scripture you wish.
+Cleric spells can be changed during a long rest by praying for 1 hour.
+You could have learned your craft from : Hibiscus Tauwi (Priest) or of course Pakal Zaramus (bisshop) Feel free to make up your own mind!
+
+Antonio (Thief)
+You learned your craft from who? Are you part of an thief guild?
+OPTIONAL. You could have learned your craft from : Magnifico the Magnificent (traveling magician) Feel free to make up your own mind!
+
+Kornus (Nature)
+Druid spells can be changed during a long rest by communing with nature for 1 hour.
+Magic spells from nature are kept how? What or how do you keep your spells. (Voynich manuscript?)
+Nature magic is divine not arcane. The god-father and mother gave you the power.
+OPTIONAL. You could have learned your craft from : Willow Greenleaf (traveling 'herbalist') Feel free to make up your own mind!
+
+Mario (Fighter)
+You learned your craft from who?
+OPTIONAL. You could have learned your craft from : Constable Emeric (who served in the army) Feel free to make up your own mind!
+
+Tyrion (Barbarian)
+You learned your craft from who?
+OPTIONAL. You could have learned your craft from : Constable Emeric (who served in the army) Feel free to make up your own mind!
+
+Reminder.
+After the carnival we will level up. What is the backstory (profession) of your character? Remember you will be level 1. This means your story is starting!
+* Choose a method of stat creation and execute it. Real man roll their dice :-D
+* Give your character the required stats and proficiencies.
+* For gear you can keep what you already have, idem any boons given.
+* Only select the professionally required gear for you background. (Daggers or shortswords.)
+* If you can cast spells, choose your spells. Let me know who your mentor is.
+
+Let me know the type of gear you want!
+
+== Plot Summary
+
+After lunch the kids take a short nap in their room. Waking up each player gets a boon depending on how they played. Antonio checked the well: no treasure there. The deal with the pixies and go to the carnival. Then try to get to the treasure map at location 7.  At the moment they only saw the animals, the guards tent, and the entrance. Tyrion (Dave) failed to distract the guard for others to go inside of the tent. Tyrion tries to distract the guard while Antonio tries to look in. Both failed at their attempt.
+
+== Start of session
+
+They will finish the carnival starting with the Magician show.
+Schatkaart.
+Tournament.
+
+== Session Notes
+
+#4: Give boon to antonio for performance nat20 and good sleigh of hand.
+#6: Give boon to Tyrion for 7 seconds with the displacer beast ride
+#5: Give boon to mario for the pie eating contest.
+#7: /
+#8: maze
+    Tyrion: 11
+    Kornus: 111
+    Mario: 1
+    Antonio: 11
+
+== Post Session
+
+We forget about the mounted combat of antonio and mario for now.
+Look for some basic stuff to make it work.
+
+=== Plot Ideas
+
+* Fathers of Angela and Cornus do not like each other? Or Hibiscus sucks up to Pakal.
+* Glasstaff is the sad boy
+* Nezrra is the bully
+* Return of the carnival? After failing the Adventure Tournament, they want revenge.
+* Treasury map is a QR code ?
+
+== Rules Discussions
+
+
+
+*Half Cover*
+A target with half cover has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
+
+*Three-Quarters Cover*
+A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+
+*Total Cover*
+A target with total cover can't be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle. 
