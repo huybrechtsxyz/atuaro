@@ -1,36 +1,3 @@
-function Update-Source-File {
-  param(
-    [Parameter(Mandatory=$true)] [string] $RepoPath,
-    [Parameter(Mandatory=$true)] [string] $SearchPath,
-    [Parameter(Mandatory=$true)] [string] $ResourcePath,
-    [Parameter(Mandatory=$true)] [string] $SearchFile
-  )
-  
-  $SourceFile =  Get-ChildItem -Path ($SearchPath) -Recurse -File | Where-Object { $_.Name -eq $SearchFile } | Select-Object -First 1
-  $RepoFile = Get-ChildItem -Path $RepoPath -Recurse -File | Where-Object { $_.Name -eq $SearchFile } | Select-Object -First 1
-
-  if ((-NOT ($SourceFile)) -AND (-NOT ($RepoFile))) {
-    return
-  }
-
-  if (-NOT ($SourceFile)) {
-    $SourceFile = $SourcePath + "/" + $ResourcePath + "/" + $SearchFile
-  } else {
-    $SourceFile = $SourceFile.FullName
-  }
-
-  if (-NOT (Test-Path $SourceFile)) {
-    Copy-Item -Path $RepoFile.FullName -Destination $SourceFile -Force
-  }
-  else {
-    $SourceFileLastWriteTime = (Get-Item $SourceFile).LastWriteTime
-    $RepoFileLastWriteTime = (Get-Item $RepoFile).LastWriteTime
-    if ($RepoFileLastWriteTime -gt $SourceFileLastWriteTime) {
-      Copy-Item -Path $RepoFile -Destination $SourceFile -Force
-    }
-  }
-}
-
 function Compress-Module {
   param (
     [Parameter(Mandatory=$true)] [string] $SourceId,
@@ -180,4 +147,37 @@ function Test-VttSourcePath {
   if ( Test-Path -LiteralPath (Get-VttSourcePath -RootPath $RootPath -SourceId $SourceId -SourceType $SourceType) -PathType Container )
   { return $true }
   return $false
+}
+
+function Update-Source-File {
+  param(
+    [Parameter(Mandatory=$true)] [string] $RepoPath,
+    [Parameter(Mandatory=$true)] [string] $SearchPath,
+    [Parameter(Mandatory=$true)] [string] $ResourcePath,
+    [Parameter(Mandatory=$true)] [string] $SearchFile
+  )
+  
+  $SourceFile =  Get-ChildItem -Path ($SearchPath) -Recurse -File | Where-Object { $_.Name -eq $SearchFile } | Select-Object -First 1
+  $RepoFile = Get-ChildItem -Path $RepoPath -Recurse -File | Where-Object { $_.Name -eq $SearchFile } | Select-Object -First 1
+
+  if ((-NOT ($SourceFile)) -AND (-NOT ($RepoFile))) {
+    return
+  }
+
+  if (-NOT ($SourceFile)) {
+    $SourceFile = $SourcePath + "/" + $ResourcePath + "/" + $SearchFile
+  } else {
+    $SourceFile = $SourceFile.FullName
+  }
+
+  if (-NOT (Test-Path $SourceFile)) {
+    Copy-Item -Path $RepoFile.FullName -Destination $SourceFile -Force
+  }
+  else {
+    $SourceFileLastWriteTime = (Get-Item $SourceFile).LastWriteTime
+    $RepoFileLastWriteTime = (Get-Item $RepoFile).LastWriteTime
+    if ($RepoFileLastWriteTime -gt $SourceFileLastWriteTime) {
+      Copy-Item -Path $RepoFile -Destination $SourceFile -Force
+    }
+  }
 }

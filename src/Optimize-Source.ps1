@@ -76,6 +76,8 @@ function Optimize-Source{
     foreach ($file in $SourceFiles) {
       Write-Host "$Prefix compiling stories $file"
       $Content = Get-Content $file.FullName -Raw
+
+      # Get all the images
       foreach ($match in ([Regex]::Matches($Content, $AppSettings.Links.Images.Pattern))) {
         $SearchFile = $match.Groups[1].Value
         $SearchFile = [System.IO.Path]::GetFileName($SearchFile)
