@@ -3,8 +3,8 @@ param(
   [Parameter(Mandatory=$true)][string] $Id
 )
 
-. ./src/Functions.ps1
-. ./src/Optimize-Source.ps1
+. ./Functions.ps1
+. ./Optimize-Source.ps1
 
 Write-Host "Create a new source..."
 $ExecPath = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition
