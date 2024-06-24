@@ -1,6 +1,6 @@
-= D&Dave 2023 Session 1
+= <worldname> - Session 0
 
-image::./images/heading.jpg[label,width,height,properties]
+image::./assets/images/heading.jpg[label,width,height,properties]
 
 == To Do List
 

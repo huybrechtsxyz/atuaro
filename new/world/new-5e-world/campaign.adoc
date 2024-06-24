@@ -1,6 +1,6 @@
 = CampaignName
 
-image::./images/cover.jpg
+image::./assets/images/cover.jpg
 
 == About the campaign
 
@@ -10,9 +10,10 @@ image::./images/cover.jpg
 |===
 | Name     | Phone   | E-Mail
 | Vincent  |         | x
-|=== 
+|===
 
 === Links
+
 Links to the various resources for this campaign.
 
 * https://discord.gg/x[Discord]
@@ -25,6 +26,7 @@ Tutorials you can use:
 * https://youtu.be/ja88yRVQmck[Basics of Foundry VTT]
 
 === Discussions Topics
+
 Here we refer to the Player Handbook, section about the table rules or social contract. Specific decisions, remarks, deviations can be marked here.
 
 * Social Expectations

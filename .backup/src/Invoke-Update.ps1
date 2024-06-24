@@ -2,8 +2,8 @@ param(
   [Parameter(Mandatory=$true)][string] $Id
 )
 
-. ./src/Functions.ps1
-. ./src/Compile.ps1
+. ./Functions.ps1
+. ./Optimize-Source.ps1
 
 Write-Host "Updating source..."
 $ExecPath = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition

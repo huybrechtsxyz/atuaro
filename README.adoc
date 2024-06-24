@@ -14,6 +14,7 @@ Proficiency Builder
 
 
 == The Basics
+
 Atuaro is the default world for role play adventures by FatherPrime. If you find this usefull, you are free to use the materials included here in. Keep in mind that all information belongs to their respective owners as most content is rehashed from other sources.
 
 To start using the content, simply clone or download the content to your local machine. Most of the content is written in AsciiDoc. 
@@ -21,6 +22,7 @@ To start using the content, simply clone or download the content to your local m
 Feel free to contribute, that is the reason pull requests exist.
 
 == The Age of Reckoning
+
 “We tell ourselves that the scourge is a mere bogey of the mind, a bad dream that will pass away. But it doesn't always pass away and, from one bad dream to another, it is men who pass away.” - Albert Camus
 
 Players make practical, but morally questionable decisions, only to later contrast their choices against the selfless heroism of decent “common folk”. What price will they have to pay to save the city, and will their victory be complete or will it be a hollow one? What kinds of disputes will they encounter between factions, and what solutions will they find for them? What does it means to be a hero?
@@ -34,6 +36,7 @@ Followers: Whaihai
 Follower: Kaiwhai
 
 == About Atuaro
+
 Atuaro is a low magic but powerful renaissance sword & sorcery world where magic and gods exist and influence the world.
 
 > *The World Is Ancient.* Empires rise and fall, leaving few places that have not been touched by imperial grandeur or decay. War, time, and natural forces eventually claim the mortal world, leaving it rich with places of adventure and mystery. Ancient civilisations and their knowledge survive in legends, magic items, and their ruins. Chaos and evil often follow an empire's collapse.
@@ -55,4 +58,5 @@ Atuaro is a low magic but powerful renaissance sword & sorcery world where magic
 > Who knew humans could be so self-centered?
 
 == World Credits
+
 All information in this world is borrowed from reputable sources that own the copyright to their works. This includes but is not limited to the D&D core books by Wizards of the Coast, Shadowdark by the Arcane Library, the Level Up Adventure Guide by EN Publishing, 5e Hardcore Mode by Runehammer Games, The Lazy Dungeon Master by Michael E. Shea, and al X-treme Dungeon Mastery by Tracy Hickman and Curtis Hickman.

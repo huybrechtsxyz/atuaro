@@ -1,0 +1,26 @@
+= Read Me
+:author: Vincent Huybrechts
+:revdate: 2024-06-24
+:toc:
+
+== Overview
+
+This folder is managed by Foundry Virtual Tabletop (VTT) and is subject to automatic updates. Any manual changes made to the contents of this folder may be overwritten or cause issues with the application.
+
+== Important Notice
+
+*Do not make manual changes to the contents of this folder.*
+
+== Purpose
+
+This folder contains files that are essential for the operation of Foundry VTT. The files are updated automatically by the application to ensure the latest features and fixes are applied.
+
+== Recommendations
+
+- Avoid adding, modifying, or deleting any files within this folder.
+- If you need to make custom changes, create a separate directory outside of this managed folder.
+- Regularly backup your data to prevent accidental loss of custom content.
+
+== Support
+
+For assistance or more information, visit the Foundry VTT official support page or community forums.

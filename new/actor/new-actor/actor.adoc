@@ -1,9 +1,22 @@
-include::actor.stats.adoc[]
+= Actors
+
+== Plot
+
+=== ActorName
+
+include::./actor.min.adoc[]
+
+image::actor.image.jpg[]
 
 [cols="2a,4a",grid=rows]
 |===
-|
-image::actor.jpg[]
+| image::./creature.actor.jpg[]
 | 
-About
+He is fast on his feet
+|
+_Environment:_ + 
+_Tags:_
+|
+Forest,Grassland,Hill,Underdark  +
+Goblinoid
 |===

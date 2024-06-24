@@ -2,11 +2,11 @@ param(
   [Parameter(Mandatory=$true)][string] $Id
 )
 
-. ./Functions.ps1
-. ./Optimize-Source.ps1
+. ./src/Functions.ps1
+. ./src/Compile.ps1
 
 Write-Host "Building a source..."
-$ExecPath = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition
+$ExecPath = Split-Path -Path $MyInvocation.MyCommand.Definition -Parent
 $SourceType = Get-SourceType -RootPath $ExecPath -SourceId $Id
 $SourcePath = Get-SourcePath -RootPath $ExecPath -SourceId $Id -SourceType $SourceType
 Write-Host "Building a source... $SourceType from $SourcePath"
