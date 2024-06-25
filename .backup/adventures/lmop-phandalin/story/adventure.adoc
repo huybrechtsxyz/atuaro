@@ -107,7 +107,7 @@ See part 4, the "Wave Echo Cave" section, for more information.
 
 _If the characters ask Barthen how business is going, the shopkeeper tells them that the Redbrands are making it hard on everyone, shaking down local businesses and flouting the townmaster's authority. If the characters seem of a mind to do something about it, he tells them that the Redbrands frequent the Sleeping Giant tap house_
 
-== Edermath Orchard
+== Edermath Orchard - Apple Orchard
 _Daran Edermath is a retired adventurer who lives in a tidy little cottage beside an apple orchard. A fit, silver-haired half-elf well over a hundred years old, Daran is a fighter who served as a marshal and herald for many years in the lands of the Dragon Coast, far to the southeast._
 
 _Upon retiring, he returned to the this region, his original home. Daran is a member of the Order of the Gauntlet, a devout and vigilant group that seeks to protect others from the depredations of evildoers. The order is always vigilant, ready to smite evil, enforce justice, and enact retribution against any who try to subjugate or harm others. Though he is no longer active in the order, he keeps an eye on
@@ -261,3 +261,12 @@ If the characters kill the ruffians, most members of the town are grateful. One 
 
 After the "Redbrand Ruffians" encounter, the players should feel it's time to deal with the rest of the gang. If they aren't clear that investigating the Redbrand hideout should be their next move, have one ofthe NPCs they've already met in town make the suggestion directly and point them toward Tresendar Manor. If the players want to follow other leads in the area, it's okay to move on to part 3 of the adventure and let the ruffians wait. The next time the characters return to Kainga, make it clear that the Redbrands are causing even more trouble, and that they need to be dealt with.
 
+*WHAT THE REDBRANDS KNOW*
+If the characters charm or successfully question any of the Redbrands, they can learn the location of their hideout under Tresendar Manor as well as the following useful information:
+
+* The leader of the Redbrands is a human wizard known as Glasstaff, so named because his magic staff is made of glass. (Only Gilad Sham and the Black Spider know Glasstaff's real name.) Glasstaff's chambers are in the western end of the stronghold (see areas 11 and 12).
+
+* A mysterious figure called the Black Spider has hired the Redbrands to frighten off adventurers and intimidate the locals, for reasons unknown. The Black Spider has sent bugbears to reinforce the Redbrands and provide extra muscle (see area 9).
+
+• The lower part of the complex is guarded by a hideous "eye monster" (see area 8). The Redbrands have a handful of captives in a holding area "near the old crypts," which are guarded by skeletons (see
+areas 4 and 5).

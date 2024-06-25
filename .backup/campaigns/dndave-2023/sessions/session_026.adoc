@@ -1,0 +1,214 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= D&Dave 2023 Session 26 [25-06-2024]
+
+image::{homedir}/assets/images/heading.jpg[]
+
+== To Do List
+* The pixie fight was to easy in House Visit.
+* Elaborate on the down time adventures of level 2.
+
+== Important
+
+* *Do not forget to copy-paste the read-out texts to the chat for Giuseppe.*
+* *Antonio will steal anything that is not fixed to a wall.*
+
+== Plot Evolution
+
+
+== Plot Summary
+After lunch the kids take a short nap in their room. Waking up each player gets a boon depending on how they played. Antonio checked the well: no treasure there. The deal with the pixies and go to the carnival. Then try to get to the treasure map at location 7.  At the moment they only saw the animals, the guards tent, and the entrance. Tyrion (Dave) failed to distract the guard for others to go inside of the tent. Tyrion tries to distract the guard while Antonio tries to look in. Both failed at their attempt. They continue their visit to the carnival. Owlbears and displacer beats. They are put in cages. They found a treasure map and met with a magician with quick hands. Mario was eating a lot of cake and told silly jokes on stage with Antonio. What is the difference between a snowman and snowwoman? Snowballs. 
+
+By Angela. I was called back from my mission to return to Kainga. I do not know why, but the moment I stept inside the Stonehill In I knew. There was Room 4. She had the shown them the light of Ohm. There was no other way. They were searching for a treasure. I had to help them. Antonio got into trouble for something and we had to leave the town. We got lost in the woods. During our night we found a spying goblin. A good moment to reflect.
+
+They notice a lot of blood in the goblins hair, that could not only be his.
+The goblin had made drawings of the heroes:
+- Tyrion: Power
+- Mario: Power
+- Antonio: Short
+- Angela: Question
+- Cornus: Death skull
+
+After their escape from the Death Pith of Whirotepua, Gundren helps them on their way to the Delian Tomb. They killed the partol and are nearing the entrance of the Delian tomb. They rush the entrance guards and can kill them before they can get help. The adventurers go inside the tomb and attack the six goblins in the offering room, hearing the screams of Bess continue to the hall of the Oathkeeper. They kill the shaman before he can really do anything useful and save the girl. They take a long rest in the offering room. Before leaving the tomb, cornus buried the Goblins, and noticed the color of their skull.
+
+They bring back Bess to the village and reunite her with her parents. They use Bess to get a good price with her father (Pasha).Failing to appease them with religion or charm. However they are willing to to give them a discount. Angela uses her religious knowledge in a conversation to Hibiscus. He was caught asking about Cornus, but was able to block any further questioning.
+
+Agreeing to the proposal of Gundren to be his guardsmen on his route to Loukotokia, the depart the next day. After the snake caught them off guard, the horses rear up and Gundren and Antonio fall of the cart. The heroes dispatch of their problems with ease. Tyrion finding and throwing the snake in the bushes, cornus tending to the horses and Angela after Gundren.
+
+They make short work of the dogs. At the nights rest Antonio threathens Gundren and pushes horse manure in his face. Gundren wants to storm of but somehow manages to calm him down enough for him not to do so. They find the the body and examine it. They know some kind of animal sucked the blood out of the lifeless body, but choose not to investigate further. They reach the Silverpine Watch with Gundren still angry and in a bad mood; although others try to make up for it.
+
+The team of 'heroes' reach the Silverpine Watch. They try to get on top of the castle. Only Cornus did not fail to scale the lower tower - according to them the best and only way to get into the east tower and thus the entire Silverpine Watch. After failing, the team, with the help of Gundren, they figure out there is a door. They enter the door, try to parley with the ghost of Sir Arpaad, only scaring Tyrion. They go through the door to the gathering hall, selecting to take the coats and boots, but missing the fact that there was one set missing. Descending the stairs to meet and defeat the zombies.
+
+After killing the zombies, they search all the trunks and find what is within, looting the Marshal Brask’s room in the process. Almost finding their better in the stirges, but finding the necklace in their nest. Antonio likes the amulet and wears it. The continue searching the rooms (7, 8, 9, 7, 20, 23, 24). When they find the ghost of sir Arpaad they try avoid fighting it. Although Antonio was able to resist the golden weapon next to sir Arpaad's body, Angela has problems resisting her will to cast down the foul aparition. As Ohm clearly not approves.
+
+They fight sir Arpaad and manage to go through the towers and zombies. After they manage to open the portcullis, Gundren drives of leaven them the money. They sleep and start roaming what is left of the watch. Antonio is still hanging in there but is starting to feel its effects. (See below: Antonio and the cursed ring). They kill the revenant blacksmith and destroy the dagger.
+
+They do kind of piece together what happened and go on to Loukotokia.
+
+  * Flashback of Angela +
+  finding an imposter and saving the Messia's Foot and the religious festival. Success.
+
+  * Flashback of Mario +
+  saving a youngling from a bullying gang. Success.
+
+  * Flashback of Cornus +
+  Stopping a dog fighting ring The culprit is in jail! Success.
+
+  * Flashback of Tyrion. +
+  Killing the fighters is ok, but non-fighters not. Stopped an illegal fight ring. Success.
+
+  * Flashback of Antonio. +
+  Antonio is the laughing stock in the thieves guild for steeling the teddybear of the young Mr. Neurdragon junior. At least that is what he is accused of by someone who is spreading rumors. These actions have reached Magnifico's ears, and his once-proud mentor is deeply disappointed. He believes in the innocence of Antonio and proposes to steal something really valuable from Mr Neurdragon. He is supposed to have a codex of some sort (~book). It is being whispered that all his riches, power, and knowledge are bound to it. Angela has no real appetite in helping out as it is believed the Neurdragons are good people. But agrees to take the party as choirboys (?) during a coming-of-age ceremony. The party uses the communion of the young son of Mr. Neurdragon as a guise to infiltrate the Neurdragon estate for reconnaissance purposes. While Angela and her father Pacal perform the rites, multiple members of the team try to talk to the young boy about the teddybear. It seems that the boy 'lost' his teddybear and the locket that was attached to it. Although silver, for Perseus it is the emotional attachment that matters. Its disappearance has left a void in the heart of its owner, who longs to be reunited with the precious keepsake. Then trying to scout the premises, until one member is caught in the proverbial cooky jar. Tyrion while sneaking upstairs finds the Crystal Room. A guard caught Tyrion, and locked him in the premises and waiting with  further investigations until the ceremony was concluded. He first tried to escape through the window, breaking it down, and making noise in the process. This caught the attention of one of the guards. Tyrion was able to knock the guard unconscious and escape by running through the house. The commotion is not unnoticed during the ceremony, but Pacal and Neurdragon keep their cool and continue the ceremony. Both will have something on their mind about these events. Antonio and the rest of the party regroup. Have a conversation with Magnifico. There they learn that he is mostly in it for himself. They recon the place for a week. The Pinkertons, wearing all black, with black carriages, were present, but have left by now. The Patrician visited the Neurdragon estate.
+
+They visit xxx
+
+== Start of session
+*Cornus water magic*
+requires a DC before succeeding:
+  -  3 on the dice: easy.
+  -  7 on the dice: simple.
+  - 11 on the dice: standard.
+  - 15 on the dice: hard.
+  - 19 on the dice: impossible.
+
+*Pacal Zaramus' Disposition* towards the party (Excellent, Good, Okay, Dislike, Bad)? +
+    Excellent. (Start of the trip) +
+    *Good.* (Downtime of Angela)
+
+*Gundren's Disposition* towards the party (Excellent, Good, Okay, Dislike, Bad)? +
+    Excellent. (Start of the trip) +
+    Good. (They haggle about the price with bess in mind) +
+    *Okay.* (Behaviour of Antonio) +
+    Bad.  (Behaviour of Antonio) +
+
+  -> Gundren disposition had an effect where no one really thrusted the party.
+     By succeeding on the results, it is now back Okay.
+     Important is the resolution of the last story.
+
+*Loukotokia - Patrician Disposition* owards the party (Excellent, Good, Okay, Dislike, Bad)? +
+    Neutral
+
+== Session Notes
+
+Antonio, Cornus, and Tyrion heist the Neurdragon estate during the middle of night, and steal the Codex with success. Mario is bij de wacht dienst aan het doen. 
+
+Antonio failed wisdom save, *Whispers of the Dread Realm*. Angela vind het erover en same met cursus, letterlijke duiveluitdrijving van Angela over ring.
+"Het is magnifico niet misterio." 
+Antonio and Magnifico the point.
+The battle and the Patrician.
+Patrician got the book anyway, even if they did not give it.
+
+has the golden ring of Cracus with the symbol of Whirotepua
+disturbs long rest on failure of WIS DC10, valued at 20GP +
+he now has no benefit from a long rest except half the hit dice.
+the ring has been removed by one of the clerics.
+
+* Flashbacks in progress, either 
+  * Gundren Rockseeker and the lost mines if they make up by appologizing
+  * Glowkindle backstabbing Gundren by asking to liberate the lost mines
+  * If their reputation is tanked, the Redbrands will ask their help
+    Reputation is preserved
+
+They meet gundren again adn go back to kainga.
+goblin ambush is finished.
+all goblins are dead
+
+Session 24
+Na gevecht met de goblins merken we op dat ze doordrenkt zijn in bloed dat niet van hen is .
+We begraven de paarden
+goblin loot = rommel
+(Geur)sporen Gundren leiden ons langs een padje door het bos
+Antonnio gaat op verkenning terwijl de rest de paarden begraaft.
+Uiteindelijk beslist Antonnio niet te ver te gaan en de rest mee te nemen, Cornus ontdekt een grote snare -> Antonnio ontmanteld de snare, niemand stelt vragen bij de grote snare (ze zullen grote beesten willen vangen vanwege grote honger? ).
+Als we bij een grot aankomen lopen we weer in een hinderlaag, maar Cornus rekent snel af met de goblins in z'n beervorm.
+net in de grot vinden we 3 geketende wolven, ze proberen vrij te breken en ons aan te vallen. We doden de eerste 2, Mario intimideert de 3e en wil hem mss temmen. Tyrion dacht hier anders over …
+Na dieper in de grot te dringen komen we meer goblins tegen, een daarvan activeert een hendel en sluizen gaan open? Angela spoelt naar buiten.
+We vechten ons een weg dieper in de grot en komen de goblin chief tegen, een hobgoblin. Hier maken we ook snel korte metten mee.
+Na de laatste push komen we Sildar tegen, deze wordt met de dood bedreigt door een overlevende goblin. Als we één stap dichter komen is het gedaan.
+Tyrion is niet zo goed in politiek en valt aan, Sildar z'n keel word doorgesneden.
+Goblin wordt neergehaald, Sildar kunnen we gelukkig nog stabiliseren.
+
+=== Previous Session
+
+Ze komen aan bij phandalin.
+
+Gundren meegenomen naar grote baas -> black spider
+Kaart van de echo caves -> echo cave
+Blue Lionshield -> handelsgilde. ook hun vreemde. (finders fee: eerlijk verdeeld)
+Sildar.
+  * Ging rondhoren waar gundren was (?)
+  * wacht op ne kennis van hem !
+Burgemeester 
+  * -> orcs , maar laf
+  * angela daddy cart.
+Spioneren red cloacks.
+
+=== Current Session
+
+
+
+=== Active Plot Points
+
+Next time...
+* ?
+
+=== Pending Plot Points
+
+* Red Skull Goblins (see Delian tomb) are linked to the redbrands/glass-staff and the black spider
+* Glasstaff is Gilad Shams
+* Nezrra is the sad one
+
+=== Future Plot Points
+
+* Fathers of Angela and Cornus do not like each other? Or Hibiscus sucks up to pakal.
+* Return of the carnival? After failing the Adventure Tournament, they want revenge.
+* Treasury map is a QR code ?
+
+* Let each player find something to do that is part of their backstory
+  - Angela (Toon)      : Cleric    > Once in the city mission of her father (TODO)
+  - Antonio (Giuseppe) : Rogue     > A heist where they have to steal something / setup of sort of shady business?
+  - Cornus (Koen)      : Druid     > Restore nature in some way
+  - Mario (Michael)    : Fighter   > Stop some advanced bullying
+  - Tyrion (Dave)      : Barbarian > His father is super arrogant / or stop an arrogant person / half-elf not being an elf his mother as trigger
+
+* Tyrion's father will be the ultimate BBEG, 'havikmot', in the campaign.
+* Tyrion killed someone during a fight - when he did not have to. This was not appreciated (session 16 - Cleric)
+* Barbarians Sunderlanders (see Silverpine Watch, Letter of Bartoz).
+
+== Rules Discussions
+
+*Half Cover*
+A target with half cover has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
+
+*Three-Quarters Cover*
+A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+
+*Total Cover*
+A target with total cover can't be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle. 
+
+*Who knows an item is magic?*
+Whatever a magic item’s appearance, handling the item is enough to give a character a sense that something is extraordinary about it. Discovering a magic item’s properties isn’t automatic, however. It will feel like a small buzz of static electricity.
+
+*Do you have to identify a magic item to be able to use it?*
+The identify spell is the fastest way to reveal an item’s properties. Alternatively, a character can focus on one magic item during a short rest, while being in physical contact with the item. At the end of the rest, the character learns the item’s properties, as well as how to use them. Potions are an exception; a little taste is enough to tell the taster what the potion does.
+
+* Yes, for items you need to activate the effects of. You can't activate its effects unless you know how to use the item.
+  - E.g. Most wands, ring of evasion, bag of tricks, stone of controlling earth elementals.
+  - Spend a short rest focusing on the item.
+  - Cast identify on the item. This takes 1 minute.
+  - Get instruction from someone who already knows how to use it.
+* No, for items that passively grant benefits
+  - You gain the effects from simply using the item as normal (depending on attunement, see below).
+  - E.g. Weapons, shields, armor, cloak of elvenkind, gauntlets of ogre power, ring of free action.
+* For items with both passive and active effects
+  - If an item has passive abilities and has abilities that require actions then you only gain the passive ones (depending on attunement, see below).
+  - E.g. If you are using a staff of striking without identifying it, then you will have the +3 attack and damage bonuses, but you won't be able to expend charges.
+* Using a non-attuned item
+  - For an item that requires attunement, you only gain the non-magical benefits while not attuned. You can use a magical sword, but it will not give any attack or damage bonus, and will not count as magical for the purposes of bypassing resistance. You can use a magical shield, but it will only give +2 AC. You can wear a robe of stars but you won't get a saving throw bonus or be able to cast magic missile.
+* Using an attuned item without identifying it
+  - This is not explicitly mentioned in the books. The SRD says that the short rest used for attunement cannot be the same rest that identified the item, but says nothing about the order of the two rests.
