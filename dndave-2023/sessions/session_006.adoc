@@ -1,0 +1,87 @@
+ifndef::rootdir[]
+:rootdir: ../..
+endif::[]
+ifndef::homedir[]
+:homedir: .
+endif::[]
+
+= D&Dave 2023 Session 6
+
+image::{homedir}/assets/images/heading.jpg[]
+
+== To Do List
+* The pixie fight was to easy in House Visit.
+
+== Important
+* Angela (Toon)      : INT > Command as cantrip (https://www.dndbeyond.com/spells/command)
+* Antonio (Giuseppe) : WIS > Mounted combat when on Mario (https://explorednd.com/gameplay/mounted-combat-5e-guide/)
+* Cornus (Koen)      : CHA > Cast animal frienship (https://www.dndbeyond.com/spells/animal-friendship)
+* Mario (Michael)    : STR > Protection fighting style (https://www.dndbeyond.com/sources/basic-rules/classes#FighterFightingStyle)
+* Tyrion (Dave)      : STR > 1 rage per long rest (https://www.dndbeyond.com/sources/basic-rules/classes#Rage) as a child.
+
+* *Do not forget to copy-paste the read-out texts to the chat for Giuseppe.*
+* *Antonio will steal anything that is not fixed to a wall.*
+
+== Plot Evolution
+
+
+== Plot Summary
+After lunch the kids take a short nap in their room. Waking up each player gets a boon depending on how they played. Antonio checked the well: no treasure there. The deal with the pixies and go to the carnival. Then try to get to the treasure map at location 7.  At the moment they only saw the animals, the guards tent, and the entrance. Tyrion (Dave) failed to distract the guard for others to go inside of the tent. Tyrion tries to distract the guard while Antonio tries to look in. Both failed at their attempt. They continue their visit to the carnival. Owlbears and displacer beats. They are put in cages. They found a treasure map and met with a magician with quick hands. Mario was eating a lot of cake and told silly jokes on stage with Antonio. What is the difference between a snowman and snowwoman? Snowballs.
+
+By Angela. I was called back from my mission to return to Kainga. I do not know why, but the moment I stept inside the Stonehill In I knew. There was Room 4. She had the shown them the light of Ohm. There was no other way. They were searching for a treasure. I had to help them. Antonio got into trouble for something and we had to leave the town. We got lost in the woods. During our night we found a spying goblin. A good moment to reflect.
+
+== Start of session
+
+
+== Session Notes
+They notice a lot of blood in the goblins hair, that could not only be his.
+He had made drawings of the heroes:
+- Tyrion: Power
+- Mario: Power
+- Antonio: Short
+- Angela: Question
+- Cornus: Death
+
+Cornus starts dissecting the goblin for an hour.
+
+Antonio takes a swig from a stolen bottle of cider (from this mornings breakfast).
+They have a guard at night, but from a hog eating from the dead goblin nothing happens.
+- 1 - tyrion
+- 2 - mario 
+- 3 - angela
+- 4 - cornus
+
+The next day they depart again and fall into the crevice of the Death Pit.
+They meet Gudrun Rockseeker and heal him, feed him.
+And kill a bunch of goblins while making their way through the caves.
+They kill the chieftain in one strike, disabling the zombies.
+(They do not know about the talisman yet.)
+
+Cornus cuts himself on the treasure chest, but finds 9 gold.
+
+== Post Session
+* They still have to loot the dungeon.
+
+=== Pending Plot Points
+
+
+=== Future Plot Points
+
+
+=== Plot Ideas
+* Fathers of Angela and Cornus do not like each other? Or Hibiscus sucks up to Pakal.
+* Glasstaff is the sad boy
+* Nezrra is the bully
+* Return of the carnival? After failing the Adventure Tournament, they want revenge.
+* Treasury map is a QR code ?
+
+== Rules Discussions
+
+*Half Cover*
+A target with half cover has a +2 bonus to AC and Dexterity saving throws. A target has half cover if an obstacle blocks at least half of its body. The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.
+
+*Three-Quarters Cover*
+A target with three-quarters cover has a +5 bonus to AC and Dexterity saving throws. A target has three-quarters cover if about three-quarters of it is covered by an obstacle. The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.
+
+*Total Cover*
+A target with total cover can't be targeted directly by an attack or a spell, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle. 
