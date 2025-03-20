@@ -55,8 +55,7 @@ When the party enters this section of the mine, the jelly begins to stalk the gr
 - Clinging to the ceiling are **ten ravenous stirges.**
   - Any character who isn't watching the ceiling is surprised
 
-The tunnel that runs south was the original entrance. A pitched battle was fought here when the ores stormed the mines. The dead
-still lie where they fell.
+The tunnel that runs south was the original entrance. A pitched battle was fought here when the ores stormed the mines. The dead still lie where they fell.
 
 ## 4. Old Guardroom
 
